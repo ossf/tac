@@ -9,7 +9,16 @@ TODO: explain meeting schedule, cadence and notes.
 
 ## Members
 
-TODO: add members
+| Name | Email | Organization |
+| --- | --- | --- |
+| Maya Kaczorowski | mayakacz@github.com | GitHub |
+| Dan Lorenc | dlorenc@google.com | Google |
+| Rao Lakkakula | rao.lakkakula@jpmchase.com | JPMorgan Chase |
+| Chris Ferris | chrisfer@us.ibm.com | IBM |
+| Luke Hinds | lhinds@redhat.com | RedHat |
+| Ryan Haning | ryhaning@microsoft.com | Microsoft | 
+| Jennifer Fernick | jennifer.fernick@nccgroup.com | NCC Group |
+
 
 ## Charter
 
