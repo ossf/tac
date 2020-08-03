@@ -18,6 +18,7 @@ TODO: explain meeting schedule, cadence and notes.
 | Luke Hinds | lhinds@redhat.com | RedHat |
 | Ryan Haning | ryhaning@microsoft.com | Microsoft | 
 | Jennifer Fernick | jennifer.fernick@nccgroup.com | NCC Group |
+| Shawn Varughese | shawn.varughese@hcl.com | HCL |
 
 
 ## Charter
