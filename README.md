@@ -1,6 +1,6 @@
-# OSSF Technical Advisory Committee
+# OSSF Technical Advisory Council
 
-The OSSF Technical Advisory Committee is responsible for oversight of the
+The OSSF Technical Advisory Council is responsible for oversight of the
 various Technical Initiatives of the OSSF.
 
 ## Meetings
