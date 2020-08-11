@@ -1,11 +1,10 @@
 # OSSF Technical Advisory Council
 
-The OSSF Technical Advisory Council is responsible for oversight of the
-various Technical Initiatives of the OSSF.
+The OSSF Technical Advisory Council is responsible for oversight of the various Technical Initiatives of the OSSF.
 
 ## Meetings
 
-TODO: explain meeting schedule, cadence and notes.
+The TAC meetings appear on the [OpenSSF Community Calendar](https://calendar.google.com/calendar?cid=czYzdm9lZmhwNWk5cGZsdGI1cTY3bmdwZXNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
 
 ## Members
 
@@ -28,14 +27,14 @@ TODO: Link to formal charter
 
 The following Technical Initatives have been approved by the TAC:
 
-| Name                                                 | Repository | Status     |
-| ---------------------------------------------------- | ---------- | ---------- |
-| Vulnerability Disclosures                            | TODO       | Incubating |
-| Security Tooling                                     | https://github.com/ossf/wg-security-tooling                   | Incubating |
-| Security Best Practices                              | https://github.com/ossf/wg-best-practices-os-developers       | Incubating |
-| Identifying Security Threats                         | https://github.com/ossf/wg-identifying-security-threats       | Incubating |
-| Securing Critical Projects                           | https://github.com/ossf/wg-securing-critical-projects         | Incubating |
-| Developer Identity Verification                      | https://github.com/ossf/wg-developer-identity                 | Incubating |
+| Name                                                 | Repository |  Notes       | Status     |
+| ---------------------------------------------------- | ---------- | -------------- | ---------- |
+| Vulnerability Disclosures                            | https://github.com/ossf/wg-vulnerability-disclosures          | Meeting Notes | Incubating |
+| Security Tooling                                     | https://github.com/ossf/wg-security-tooling                   | Meeting Notes | Incubating |
+| Security Best Practices                              | https://github.com/ossf/wg-best-practices-os-developers       | Meeting Notes | Incubating |
+| Identifying Security Threats                         | https://github.com/ossf/wg-identifying-security-threats       | Meeting Notes | Incubating |
+| Securing Critical Projects                           | https://github.com/ossf/wg-securing-critical-projects         | Meeting Notes | Incubating |
+| Developer Identity Verification                      | https://github.com/ossf/wg-developer-identity                 | Meeting Notes | Incubating |
 
 Charters for these Technical Intiatives are located in the [Charters](charters)
 directory of this repository.
