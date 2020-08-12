@@ -1,6 +1,6 @@
-# OSSF Technical Advisory Council
+# OpenSSF Technical Advisory Council (TAC)
 
-The OSSF Technical Advisory Council is responsible for oversight of the various Technical Initiatives of the OSSF.
+The OpenSSF Technical Advisory Council is responsible for oversight of the various Technical Initiatives of the OpenSSF.
 
 ## Meetings
 
