@@ -6,7 +6,9 @@ The OpenSSF Technical Advisory Council is responsible for oversight of the vario
 
 The TAC [meetings minutes](https://docs.google.com/document/d/18BJlokTeG5e5ARD1VFDl5bIP75OFPCtzf77lfadQ4f0/edit#) are online and appear on the [OpenSSF Community Calendar](https://calendar.google.com/calendar?cid=czYzdm9lZmhwNWk5cGZsdGI1cTY3bmdwZXNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ).
 
-Meetings are also recorded and posted to YouTube: https://www.youtube.com/channel/UCUdhiXNEBEayowJXY_v7AXQ/
+Meetings are also recorded and posted to the [OpenSSF YouTube channel](https://www.youtube.com/channel/UCUdhiXNEBEayowJXY_v7AXQ/).
+
+Official communications occur on the [TAC mailing list](https://lists.openssf.org/g/openssf-tac/topics). [Manage your subscriptions to Open SSF mailing lists](https://lists.openssf.org/g/main/subgroups).
 
 ## Members
 
