@@ -2,13 +2,22 @@
 
 The OpenSSF Technical Advisory Council is responsible for oversight of the various Technical Initiatives of the OpenSSF.
 
+
+## Get Involved
+
+Official communications occur on the [TAC mailing list](https://lists.openssf.org/g/openssf-tac/topics). [Manage your subscriptions to Open SSF mailing lists](https://lists.openssf.org/g/main/subgroups).
+
+Informal discussions occur in the TAC channel of the [OpenSSF Slack](https://join.slack.com/t/openssf/shared_invite/zt-hxttbilt-R4bR7Gcp0eY2E8zZZZD65w).
+
+Use [Github Issues](https://github.com/ossf/tac/issues) to request and discuss agenda items.
+
+
 ## Meetings
 
 The TAC [meetings minutes](https://docs.google.com/document/d/18BJlokTeG5e5ARD1VFDl5bIP75OFPCtzf77lfadQ4f0/edit#) are online and appear on the [OpenSSF Community Calendar](https://calendar.google.com/calendar?cid=czYzdm9lZmhwNWk5cGZsdGI1cTY3bmdwZXNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ).
 
 Meetings are also recorded and posted to the [OpenSSF YouTube channel](https://www.youtube.com/channel/UCUdhiXNEBEayowJXY_v7AXQ/).
 
-Official communications occur on the [TAC mailing list](https://lists.openssf.org/g/openssf-tac/topics). [Manage your subscriptions to Open SSF mailing lists](https://lists.openssf.org/g/main/subgroups).
 
 ## Members
 
