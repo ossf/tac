@@ -45,8 +45,10 @@ progress a project will move to `End-of-Life`. The details for each phase follow
 
 ## To become `Active`:
 
-* Have met at least 20 times
-* Have at least 10 regular members
+* Have received TAC approval of the readme.md per `Incubating` requirements above
+* Have met at least 4 times over a period of at least 2 months since becoming `Incubating`
+* Have at least 5 regular members from at least 3 different organizations attending regularly as
+recorded in meeting minutes.
 * Request TAC approval. TAC will vote to approve or provide constructive guidance
 
 ## Once `Active`:
