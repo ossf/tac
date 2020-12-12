@@ -18,7 +18,7 @@ OpenSSF community policies and norms. Once those are met the group becomes `Acti
 fully recognized in OpenSSF. Either upon completing its objectives or no longer making forward
 progress a project will move to `End-of-Life`. The details for each phase follow.
 
-## To become `Incubating`
+## To become `Incubating`:
 
 * Proposal of scope for review by TAC
     * This is to help ensure limited overlap with existing WG
@@ -39,7 +39,9 @@ progress a project will move to `End-of-Life`. The details for each phase follow
 * Meet on a regular cadence. Meetings are public, recorded, and on the calendar
 * Have access to community resources (Zooms, YouTube channels, GitHub, Slack channels, etc.)
 * Can request funding/other resources (subject to TAC/GB approval)
-    * NOTE: _At the time of this draft, funding and resources beyond collaboration tools have not been established in the OpenSSF. Working groups should expect that their main resource is the community contributions they are able to recruit._
+    * NOTE: _At the time of this draft, funding and resources beyond collaboration tools have not
+    been established in the OpenSSF. Working groups should expect that their main resource is the
+    community contributions they are able to recruit._
 
 ## To become `Active`:
 
@@ -47,12 +49,12 @@ progress a project will move to `End-of-Life`. The details for each phase follow
 * Have at least 10 regular members
 * Request TAC approval. TAC will vote to approve or provide constructive guidance
 
-## Once `Active`
+## Once `Active`:
 
 * (same as incubating, plus)
 * Have at least annual goals and metrics for success
 
-## To become `End-of-Life`
+## To become `End-of-Life`:
 
 * Work has stopped
     * The Working Group has completed its chartered deliverables
@@ -60,7 +62,7 @@ progress a project will move to `End-of-Life`. The details for each phase follow
     * The Working Group is no longer progressing on its deliverables as determined by the TAC
 * In either case the TAC will vote to formally end the Working Group
 
-## Once `End-of-Life`
+## Once `End-of-Life`:
 
 * All significant artifacts should be archived as appropriate
 * Meeting series removed from calendar, mail list closed, and any other administrative items
