@@ -6,4 +6,4 @@ We envision a future where participants in the open source ecosystem use and sha
 - Developers and researchers can identify security issues (including unintentional vulnerabilities and malicious software) and have this information swiftly flow backwards through the supply chain to someone who can rapidly address the issue.
 - Community members can provide information and notifications about product defects, mitigations, quality, and supportability and have this information rapidly flow forward across the ecosystem system to all users, and users can rapidly update their software or implement mitigations as appropriate.
 
-The Open Source Security Foundation (OpenSSF) provides tools, services, training, infrastructure, and resources to achieve this vision.
+The Open Source Security Foundation (OpenSSF) provides tools, services, training, infrastructure, and resources to achieve this vision according to our values.
