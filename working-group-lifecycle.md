@@ -2,11 +2,11 @@
 
 Contributors interested in starting a new working group are encouraged to first review the existing
 working groups and projects. It is very likely that an existing working group could be extended to
-cover the new topic. In that case please bring your time and energy into that existing working
+cover the new topic. If this is the case, please bring your time and energy into that existing working
 group. Your contributions are very welcome!
 
 However, if no existing effort covers the topic feel free to make use of the existing working group
-meetings, mail lists, and/or slack channels to solicit support for a new working group.
+meetings, mailing lists, and/or Slack channels to solicit support for a new working group.
 
 Please note that running a working group successfully requires an extended effort.
 Be prepared to commit at least several hours per week for a year or more.
