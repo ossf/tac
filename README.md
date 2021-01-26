@@ -26,7 +26,7 @@ Meetings are also recorded and posted to the [OpenSSF YouTube channel](https://w
 | Maya Kaczorowski | mayakacz@github.com | GitHub |
 | Dan Lorenc | dlorenc@google.com | Google |
 | Rao Lakkakula | rao.lakkakula@jpmchase.com | JPMorgan Chase |
-| Phil Estes | estesp@us.ibm.com | IBM |
+| Phil Estes | estesp@amazon.com | Amazon |
 | Luke Hinds | lhinds@redhat.com | RedHat |
 | Ryan Haning | ryhaning@microsoft.com | Microsoft | 
 | Jennifer Fernick | jennifer.fernick@nccgroup.com | NCC Group |
