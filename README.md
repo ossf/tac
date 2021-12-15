@@ -43,7 +43,7 @@ The following Technical Initatives have been approved by the TAC:
 | Name                                                 | Repository |  Notes       | Status     |
 | ---------------------------------------------------- | ---------- | -------------- | ---------- |
 | Vulnerability Disclosures                            | https://github.com/ossf/wg-vulnerability-disclosures          | [Meeting Notes](https://github.com/ossf/wg-vulnerability-disclosures/tree/main/docs/meeting-notes) | Incubating |
-| Security Tooling                                     | https://github.com/ossf/wg-security-tooling                   | [Meeting Notes](https://docs.google.com/document/d/1JaHE-MV53aXFncYb0w4Zow6d4LjzVH-diOYseyYDaw0/edit#heading=h.d27qu7flhpvz) | Incubating |
+| Security Tooling                                     | https://github.com/ossf/wg-security-tooling                   | [Meeting Notes](https://docs.google.com/document/d/1DoB7zgtLsP-JGF77ASkHV7UMofTE2wseniexaa6Q4M8/edit#) | Incubating |
 | Security Best Practices                              | https://github.com/ossf/wg-best-practices-os-developers       | [Meeting Notes](https://github.com/ossf/wg-best-practices-os-developers/blob/main/meeting-minutes.md) | Incubating |
 | Identifying Security Threats                         | https://github.com/ossf/wg-identifying-security-threats       | [Meeting Notes](https://docs.google.com/document/d/1AfI0S6VjBCO0ZkULCYZGHuzzW8TPqO3zYxRjzmKvUB4/edit) | Incubating |
 | Securing Critical Projects                           | https://github.com/ossf/wg-securing-critical-projects         | [Meeting Notes](https://docs.google.com/document/d/1MIXxadtWsaROpFcJnBtYnQPoyzTCIDhd0IGV8PIV0mQ/edit) | Incubating |
