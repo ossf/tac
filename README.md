@@ -47,7 +47,7 @@ The following Technical Initatives have been approved by the TAC:
 | Security Best Practices                              | https://github.com/ossf/wg-best-practices-os-developers       | [Meeting Notes](https://github.com/ossf/wg-best-practices-os-developers/blob/main/meeting-minutes.md) | Incubating |
 | Identifying Security Threats                         | https://github.com/ossf/wg-identifying-security-threats       | [Meeting Notes](https://docs.google.com/document/d/1AfI0S6VjBCO0ZkULCYZGHuzzW8TPqO3zYxRjzmKvUB4/edit) | Incubating |
 | Securing Critical Projects                           | https://github.com/ossf/wg-securing-critical-projects         | [Meeting Notes](https://docs.google.com/document/d/1MIXxadtWsaROpFcJnBtYnQPoyzTCIDhd0IGV8PIV0mQ/edit) | Incubating |
-| Developer Identity Verification                      | https://github.com/ossf/wg-developer-identity                 | [Meeting Notes](https://docs.google.com/document/d/1xPs2sSbH3I9Ich7OyLOzl85oJshnK8Q6WoAgREE5-zA/edit) | Incubating |
+| Supply Chain Integrity                               | https://github.com/ossf/wg-supply-chain-integrity             | [Meeting Notes](https://docs.google.com/document/d/1xPs2sSbH3I9Ich7OyLOzl85oJshnK8Q6WoAgREE5-zA/edit) | Incubating |
 
 Charters for these Technical Intiatives are located in the [Charters](charters)
 directory of this repository.
