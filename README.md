@@ -23,13 +23,13 @@ Meetings are also recorded and posted to the [OpenSSF YouTube channel](https://w
 
 | Name | Email | Organization |
 | --- | --- | --- |
-| Maya Kaczorowski | mayakacz@github.com | GitHub |
-| Dan Lorenc | dlorenc@google.com | Google |
-| Rao Lakkakula | rao.lakkakula@jpmchase.com | JPMorgan Chase |
-| Phil Estes | estesp@amazon.com | Amazon |
+| Abhishek Arya | aarya@google.com | Google |
+| Aeva Black | aeva.black@microsoft.com | Microsoft |
+| Bob Callaway | bcallaway@google.com | Google |
+| CRob Robinson | christopher.robinson@intel.com | Intel |
+| Dan Lorenc | dlorenc@chainguard.dev | Chainguard |
+| Josh Bressers | josh.bressers@anchore.com | Anchore | 
 | Luke Hinds | lhinds@redhat.com | RedHat |
-| Ryan Haning | ryhaning@microsoft.com | Microsoft | 
-| Jennifer Fernick | jennifer.fernick@nccgroup.com | NCC Group |
 
 
 ## Charter
