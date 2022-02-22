@@ -29,7 +29,7 @@ Meetings are also recorded and posted to the [OpenSSF YouTube channel](https://w
 | CRob Robinson | christopher.robinson@intel.com | Intel |
 | Dan Lorenc | dlorenc@chainguard.dev | Chainguard |
 | Josh Bressers | josh.bressers@anchore.com | Anchore | 
-| Luke Hinds | lhinds@redhat.com | RedHat |
+| Luke Hinds | lhinds@redhat.com | Red Hat |
 
 
 ## Charter
