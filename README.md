@@ -21,15 +21,15 @@ Meetings are also recorded and posted to the [OpenSSF YouTube channel](https://w
 
 ## Members
 
-| Name | Email | Organization |
-| --- | --- | --- |
-| Abhishek Arya | aarya@google.com | Google |
-| Aeva Black | aeva.black@microsoft.com | Microsoft |
-| Bob Callaway | bcallaway@google.com | Google |
-| CRob Robinson | christopher.robinson@intel.com | Intel |
-| Dan Lorenc | dlorenc@chainguard.dev | Chainguard |
-| Josh Bressers | josh.bressers@anchore.com | Anchore | 
-| Luke Hinds | lhinds@redhat.com | Red Hat |
+| Name          | Email                          | Organization |
+| ------------- | ------------------------------ | ------------ |
+| Abhishek Arya | aarya@google.com               | Google       |
+| Aeva Black    | aeva.black@microsoft.com       | Microsoft    |
+| Bob Callaway  | bcallaway@google.com           | Google       |
+| CRob Robinson | christopher.robinson@intel.com | Intel        |
+| Dan Lorenc    | dlorenc@chainguard.dev         | Chainguard   |
+| Josh Bressers | josh.bressers@anchore.com      | Anchore      |
+| Luke Hinds    | lhinds@redhat.com              | Red Hat      |
 
 
 ## Charter
@@ -40,14 +40,25 @@ The TAC is chartered as part of the [Open Source Security Foundation Charter](ht
 
 The following Technical Initatives have been approved by the TAC:
 
-| Name                                                 | Repository |  Notes       | Status     |
-| ---------------------------------------------------- | ---------- | -------------- | ---------- |
-| Vulnerability Disclosures                            | https://github.com/ossf/wg-vulnerability-disclosures          | [Meeting Notes](https://github.com/ossf/wg-vulnerability-disclosures/tree/main/docs/meeting-notes) | Incubating |
-| Security Tooling                                     | https://github.com/ossf/wg-security-tooling                   | [Meeting Notes](https://docs.google.com/document/d/1DoB7zgtLsP-JGF77ASkHV7UMofTE2wseniexaa6Q4M8/edit#) | Incubating |
-| Security Best Practices                              | https://github.com/ossf/wg-best-practices-os-developers       | [Meeting Notes](https://github.com/ossf/wg-best-practices-os-developers/blob/main/meeting-minutes.md) | Incubating |
-| Identifying Security Threats                         | https://github.com/ossf/wg-identifying-security-threats       | [Meeting Notes](https://docs.google.com/document/d/1AfI0S6VjBCO0ZkULCYZGHuzzW8TPqO3zYxRjzmKvUB4/edit) | Incubating |
-| Securing Critical Projects                           | https://github.com/ossf/wg-securing-critical-projects         | [Meeting Notes](https://docs.google.com/document/d/1MIXxadtWsaROpFcJnBtYnQPoyzTCIDhd0IGV8PIV0mQ/edit) | Incubating |
-| Supply Chain Integrity                               | https://github.com/ossf/wg-supply-chain-integrity             | [Meeting Notes](https://docs.google.com/document/d/1xPs2sSbH3I9Ich7OyLOzl85oJshnK8Q6WoAgREE5-zA/edit) | Incubating |
+### Working Groups
+
+| Name                         | Repository                                              | Notes                                                                                                  | Status     |
+| ---------------------------- | ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | ---------- |
+| Vulnerability Disclosures    | https://github.com/ossf/wg-vulnerability-disclosures    | [Meeting Notes](https://github.com/ossf/wg-vulnerability-disclosures/tree/main/docs/meeting-notes)     | Incubating |
+| Security Tooling             | https://github.com/ossf/wg-security-tooling             | [Meeting Notes](https://docs.google.com/document/d/1DoB7zgtLsP-JGF77ASkHV7UMofTE2wseniexaa6Q4M8/edit#) | Incubating |
+| Security Best Practices      | https://github.com/ossf/wg-best-practices-os-developers | [Meeting Notes](https://github.com/ossf/wg-best-practices-os-developers/blob/main/meeting-minutes.md)  | Incubating |
+| Identifying Security Threats | https://github.com/ossf/wg-identifying-security-threats | [Meeting Notes](https://docs.google.com/document/d/1AfI0S6VjBCO0ZkULCYZGHuzzW8TPqO3zYxRjzmKvUB4/edit)  | Incubating |
+| Securing Critical Projects   | https://github.com/ossf/wg-securing-critical-projects   | [Meeting Notes](https://docs.google.com/document/d/1MIXxadtWsaROpFcJnBtYnQPoyzTCIDhd0IGV8PIV0mQ/edit)  | Incubating |
+| Supply Chain Integrity       | https://github.com/ossf/wg-supply-chain-integrity       | [Meeting Notes](https://docs.google.com/document/d/1xPs2sSbH3I9Ich7OyLOzl85oJshnK8Q6WoAgREE5-zA/edit)  | Incubating |
+
+
+### Projects
+
+| Name                       | Repository          | Notes                                                                                                 | Status     |
+| -------------------------- | ------------------- | ----------------------------------------------------------------------------------------------------- | ---------- |
+| Sigstore                   | github.com/sigstore | [Meeting Notes](https://docs.google.com/document/d/1bsl-Y0KulSD7O_nTekad1sAKOVRb80wyGb-Q5x-zdg0/edit) | Incubating |
+| GNU Toolchain Improvements | Coming Soon         | ?                                                                                                     | Incubating |
+| Alpha Omega                | Coming Soon         | ?                                                                                                     | Incubating |
 
 Charters for these Technical Intiatives are located in the [Charters](charters)
 directory of this repository.
