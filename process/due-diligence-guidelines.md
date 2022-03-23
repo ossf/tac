@@ -2,13 +2,13 @@
 
 This page provides guidelines to those leading or contributing to due
 diligence exercises performed by or on behalf of the Technical
-Oversight Committee of the CNCF.
+Oversight Committee of the OpenSSF.
 
 ## Introduction
 
 Part of the evaluation process in deciding upon initial or continued
-inclusion of projects into the CNCF is a Technical Due Diligence
-('Tech DD') exercise.  Ultimately the voting members of the TOC will,
+inclusion of projects into the OpenSSF is a Technical Due Diligence
+('Tech DD') exercise.  Ultimately the voting members of the TAC will,
 on the basis of this and other information, vote for or against the
 inclusion of each project at the relevant time.
 
@@ -16,15 +16,15 @@ inclusion of each project at the relevant time.
 
 ### Primary Goals
 
-To enable the voting TOC members to cast an informed vote about a
+To enable the voting TAC members to cast an informed vote about a
 project, it is crucial that each member is able to form their own
 opinion as to whether and to what extent the project meets the agreed
-upon [criteria](https://github.com/cncf/toc/blob/main/process/graduation_criteria.adoc) for
+upon [criteria](https://github.com/ossf/tac/blob/main/process/graduation_criteria.adoc) for
 sandbox, incubation, or graduation. As the leader of a DD, your job
 is to make sure that they have whatever information they need,
 succinctly and readily available, to form that opinion.
 
-As a secondary goal, it is in the interests of the broader CNCF
+As a secondary goal, it is in the interests of the broader OpenSSF
 ecosystem that there exists some reasonable degree of consensus across
 the community regarding the inclusion or otherwise of projects at the
 various maturity levels.  Making sure that the relevant information is
@@ -33,23 +33,23 @@ validity are ideally resolved, helps to foster this consensus.
 
 ### Where to start
 
-* Make sure you are clear on the [TOC Principles](https://github.com/cncf/toc/blob/main/PRINCIPLES.md),
-  the [project proposal process](https://github.com/cncf/toc/blob/main/process/project_proposals.adoc),
-  the [graduation criteria](https://github.com/cncf/toc/blob/main/process/graduation_criteria.adoc),
+* Make sure you are clear on the [TAC Principles](https://github.com/ossf/tac/blob/main/PRINCIPLES.md),
+  the [project proposal process](https://github.com/ossf/tac/blob/main/process/project_proposals.adoc),
+  the [graduation criteria](https://github.com/ossf/tac/blob/main/process/graduation_criteria.adoc),
   and the [desired cloud native properties](https://www.cncf.io/about/charter/).  The project sponsor (a member
-  of the TOC) should have assisted in crafting the proposal to explain why it is a good fit for the CNCF. If anything is
-  unclear to you, reach out to the project sponsor or, failing that, the TOC mailing list for advice.
-* Make sure you read, in detail, the relevant [project proposal](https://github.com/cncf/toc/tree/main/proposals).
-  This will usually be in the form of an [open pull request](https://github.com/cncf/toc/pulls).
+  of the TAC) should have assisted in crafting the proposal to explain why it is a good fit for the OpenSSF. If anything is
+  unclear to you, reach out to the project sponsor or, failing that, the TAC mailing list for advice.
+* Make sure you read, in detail, the relevant [project proposal](https://github.com/ossf/tac/tree/main/proposals).
+  This will usually be in the form of an [open pull request](https://github.com/ossf/tac/pulls).
   Consider holding off on commenting on the PR until you have completed the next three steps.
-* Take a look at some [previous submissions](https://github.com/cncf/toc/pulls?utf8=%E2%9C%93&q=is%3Apr)
+* Take a look at some [previous submissions](https://github.com/ossf/tac/pulls?utf8=%E2%9C%93&q=is%3Apr)
   (both successful and unsuccessful) to help calibrate your expectations.
-* Verify that all of the basic [project proposal requirements](https://github.com/cncf/toc/blob/main/process/project_proposals.adoc) have been provided.
+* Verify that all of the basic [project proposal requirements](https://github.com/ossf/tac/blob/main/process/project_proposals.adoc) have been provided.
 * Do as much reading up as you need to (and consult with experts in the specific field) in order to familiarize yourself with the technology
   landscape in the immediate vicinity of the project (and do not only use the proposal and that project's documentation as a guide in this regard).
 * At this point, you should have a very clear technical idea of what exactly the project actually does and does not do, roughly how it compares with and differs from
   similar projects in its technology area, and/or a set of unanswered questions in those regards.
-* Go through the [graduation criteria](https://github.com/cncf/toc/blob/main/process/graduation_criteria.adoc) and for each item,
+* Go through the [graduation criteria](https://github.com/ossf/tac/blob/main/process/graduation_criteria.adoc) and for each item,
   decide for yourself whether or not you have enough information to make a strong, informed call on that item.
   * If so, write it down, with motivation.
   * If not, jot down what information you feel you are missing.
@@ -86,15 +86,15 @@ the detail where necessary.
 * What is the release model?  Versioning scheme?  Evidence of stability or otherwise of past stable released versions?
 * What is the CI/CD status?  Do explicit code coverage metrics exist? If not, what is the subjective adequacy of automated testing?
   Do different levels of tests exist (e.g. unit, integration, interface, end-to-end), or is there only partial coverage in this regard?  Why?
-* What licensing restrictions apply?  Again, CNCF staff will handle the full legal due diligence.
+* What licensing restrictions apply?  Again, OpenSSF staff will handle the full legal due diligence.
 * What are the recommended operational models?  Specifically, how is it operated in a cloud native environment, such as on Kubernetes?
 
 #### Project
 
-The key high-level questions that the voting TOC members will be looking to have answered are (from the [graduation criteria](https://github.com/cncf/toc/blob/main/process/graduation_criteria.adoc)):
+The key high-level questions that the voting TAC members will be looking to have answered are (from the [graduation criteria](https://github.com/ossf/tac/blob/main/process/graduation_criteria.adoc)):
 
 * Do we believe this is a growing, thriving project with committed contributors?
-* Is it aligned with CNCF's values and mission?
+* Is it aligned with OpenSSF's values and mission?
 * Do we believe it could eventually meet the graduation criteria?
 * Should it start at the sandbox level or incubation level?
 
@@ -105,8 +105,8 @@ Some details that might inform the above include:
 * Does it have a documented governance model of any kind?
 * Does it have committers from multiple organizations?
 * Does it have a code of conduct?
-* Does it have a license? Which one? Does it have a CLA or DCO? Are the licenses of its dependencies compatible with their usage and CNCF policies?
-  CNCF staff will handle the full legal due diligence.
+* Does it have a license? Which one? Does it have a CLA or DCO? Are the licenses of its dependencies compatible with their usage and OpenSSF policies?
+  OpenSSF staff will handle the full legal due diligence.
 * What is the general quality of informal communication around the project (Slack, GitHub issues, PR reviews, technical blog posts, etc)?
 * How much time does the core team commit to the project?
 * How big is the team? Who funds them? Why? How much? For how long?
