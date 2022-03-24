@@ -36,7 +36,7 @@ validity are ideally resolved, helps to foster this consensus.
 * Make sure you are clear on the [TAC Principles](https://github.com/ossf/tac/blob/main/PRINCIPLES.md),
   the [project proposal process](https://github.com/ossf/tac/blob/main/process/project_proposals.adoc),
   the [graduation criteria](https://github.com/ossf/tac/blob/main/process/graduation_criteria.adoc),
-  and the [desired cloud native properties](https://www.cncf.io/about/charter/).  The project sponsor (a member
+  and the [desired OpenSSF properties](https://www.cncf.io/about/charter/) ***Need correct link for OpenSSF*** .  The project sponsor (a member
   of the TAC) should have assisted in crafting the proposal to explain why it is a good fit for the OpenSSF. If anything is
   unclear to you, reach out to the project sponsor or, failing that, the TAC mailing list for advice.
 * Make sure you read, in detail, the relevant [project proposal](https://github.com/ossf/tac/tree/main/proposals).
@@ -68,7 +68,7 @@ the detail where necessary.
 * An architectural, design, and feature overview should be available.
   ([example](https://github.com/docker/notary/blob/master/docs/service_architecture.md),
   [example](https://github.com/docker/notary/blob/master/docs/command_reference.md))
-* What are the primary target cloud native use cases?  Which of those:
+* What are the primary target OpenSSF use cases?  Which of those:
   * Can be accomplished now.
   * Can be accomplished with reasonable additional effort (and are ideally already on the project road map).
   * Are in-scope but beyond the current road map.
@@ -87,7 +87,7 @@ the detail where necessary.
 * What is the CI/CD status?  Do explicit code coverage metrics exist? If not, what is the subjective adequacy of automated testing?
   Do different levels of tests exist (e.g. unit, integration, interface, end-to-end), or is there only partial coverage in this regard?  Why?
 * What licensing restrictions apply?  Again, OpenSSF staff will handle the full legal due diligence.
-* What are the recommended operational models?  Specifically, how is it operated in a cloud native environment, such as on Kubernetes?
+* What are the recommended operational models?
 
 #### Project
 
@@ -125,7 +125,7 @@ Some details that might inform the above include:
 * Is it easy to contribute to the project as an external contributor? If not, what are the main obstacles?
 * Are there any especially difficult personalities to deal with? How is this done? Is it a problem?
 * Getting interviews with 2-3 external contributors is advisable for DD process, both from the community and technical perspective. It can help to identify technical depth in areas like extensibility, API design, and general code architecture.
-* For more in-depth review of the contributor experience, consulting with [tag-contributor-strategy](https://github.com/cncf/tag-contributor-strategy) is always a good idea.
+* For more in-depth review of the contributor experience, consulting with [tag-contributor-strategy](https://github.com/cncf/tag-contributor-strategy) ***Need new link*** is always a good idea.
 
 #### Context
 

@@ -12,7 +12,7 @@ This document describes the Sandbox and provide clarity on what Sandbox projects
 
 ## What is the OpenSSF Sandbox
 
-Sandbox projects should be early-stage projects that the OpenSSF TAC believes warrant experimentation. The Sandbox should provide a beneficial, neutral home for such projects, in order to foster collaborative development. We aspire to make the Sandbox the preferred path for early-stage projects to enter the OpenSSF. More mature projects can continue to jump directly to Incubation, but as the cloud-native ecosystem grows, we expect to see proportionally more early-stage projects.
+Sandbox projects should be early-stage projects that the OpenSSF TAC believes warrant experimentation. The Sandbox should provide a beneficial, neutral home for such projects, in order to foster collaborative development. We aspire to make the Sandbox the preferred path for early-stage projects to enter the OpenSSF. More mature projects can continue to jump directly to Incubation, but as the OpenSSF ecosystem grows, we expect to see proportionally more early-stage projects.
 
 ## Early Stage
 

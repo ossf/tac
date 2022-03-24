@@ -17,10 +17,9 @@ As a secondary goal, it is in the interests of the broader OpenSSF ecosystem tha
 (Sandbox level projects are targeted at earlier-stage projects to cultivate a community/technology)
 4. Is the project committed to achieving the OpenSSF principles and do they have a committed roadmap to address any areas of concern raised by the community?
 5. Document that the project has a fundamentally sound design without obvious critical compromises that will inhibit potential widespread adoption
-6. Document that the project is useful for cloud native deployments & degree that it's architected in a cloud native style
-7. Document that the project has an affinity for how OpenSSF operates and understand the expectation of being a OpenSSF project.
+6. Document that the project has an affinity for how OpenSSF operates and understand the expectation of being a OpenSSF project.
 
-## Review of graduation criteria and desired cloud native properties
+## Review of graduation criteria and desired OpenSSF properties
 /* Use appropriate Section */
 
 ### Sandbox Graduation (Exit Requirements)
@@ -51,7 +50,7 @@ As a secondary goal, it is in the interests of the broader OpenSSF ecosystem tha
 
 ## Technical
 * An architectural, design and feature overview should be available. (add link)
-* What are the primary target cloud-native use cases? Which of those:
+* What are the primary target security use cases? Which of those:
   * Can be accomplished now.
   * Can be accomplished with reasonable additional effort (and are ideally already on the project roadmap).
   * Are in-scope but beyond the current roadmap.
@@ -65,7 +64,7 @@ As a secondary goal, it is in the interests of the broader OpenSSF ecosystem tha
 * What is the release model? Versioning scheme? Evidence of stability or otherwise of past stable released versions?
 * What is the CI/CD status? Do explicit code coverage metrics exist? If not, what is the subjective adequacy of automated testing? Do different levels of tests exist (e.g. unit, integration, interface, end-to-end), or is there only partial coverage in this regard? Why?
 * What licensing restrictions apply? Again, OpenSSF staff will handle the full legal due diligence.
-* What are the recommended operational models? Specifically, how is it operated in a cloud-native environment, such as on Kubernetes?
+* What are the recommended operational models?
 
 ## Project
 * Do we believe this is a growing, thriving project with committed contributors?

@@ -27,4 +27,4 @@ What does archiving for a OpenSSF project mean?
 
 ## Reactivating an Archived Project
 
-Any project can be reactivated into OpenSSF by following the normal project [proposal](https://github.com/cncf/toc/blob/main/process/project_proposals.adoc) and/or [sandbox](https://github.com/cncf/toc/blob/main/process/sandbox.md) process.
+Any project can be reactivated into OpenSSF by following the normal project [proposal](https://github.com/ossf/tac/blob/main/process/project_proposals.adoc) and/or [sandbox](https://github.com/ossf/tac/blob/main/process/sandbox.md) process.

@@ -2,7 +2,7 @@
 
 === Introduction
 
-This governance policy sets forth the proposal process for projects to be accepted into the Cloud Native Computing Foundation (“OpenSSF”). The process is the same for both existing projects which seek to move into the OpenSSF, and new projects to be formed within the OpenSSF.
+This governance policy sets forth the proposal process for projects to be accepted into the Open Source Security Foundation (“OpenSSF”). The process is the same for both existing projects which seek to move into the OpenSSF, and new projects to be formed within the OpenSSF.
 
 === Project stages
 
