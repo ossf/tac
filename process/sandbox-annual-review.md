@@ -25,7 +25,7 @@ The outcome of the annual review is either:
 
 Additionally, the TAC might recommend that you apply for Incubation stage. This requires extra work and due diligence so it’s not a possible outcome directly from this lightweight annual review.
 
-It is fine for projects to stay in the Sandbox indefinitely while it is still active, but if a project has genuinely stalled we can save everyone’s effort by [archiving](https://github.com/ossf/tac/blob/main/process/archiving.md) it.
+It is fine for projects to stay in the Sandbox indefinitely while it is still active, but if a project has genuinely stalled we can save everyone’s effort by [archiving](archiving.md) it.
 
 ## Annual review contents
 
@@ -37,7 +37,7 @@ Your annual review should answer the following questions:
 * How has the project performed against its goals since the last review? (We won't penalize you if your goals changed for good reasons.)
 * What are the current goals of the project? For example, are you working on major new features? Or are you concentrating on adoption or documentation?
 * How can the OpenSSF help you achieve your upcoming goals?
-* Do you think that your project meets the [criteria for incubation](https://github.com/ossf/tac/blob/main/process/graduation_criteria.adoc#incubating-stage)?
+* Do you think that your project meets the [criteria for incubation](graduation_criteria.adoc#incubating-stage)?
 
 
 

@@ -83,7 +83,7 @@ Projects that wish to move from Incubating to Graduation should open a PR confir
 * Have a public list of project adopters for at least the primary repo (e.g., ADOPTERS.md or logos on the project website). For a specification, have a list of adopters for the implementation(s) of the spec.
 * Please include a short one-page narrative based off the Graduation template, no more than 500 words.
 
-Projects moving from incubation to graduation are tracked here: https://github.com/ossf/tac/projects/6
+Projects moving from incubation to graduation are tracked here: *** Needs new link ***
 
 ## (4) Archiving Projects
 
