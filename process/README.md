@@ -9,7 +9,7 @@ Project progression, movement from one stage to another, allows projects to part
 
 OpenSSF projects have a maturity level of sandbox, incubating, or graduated. Archived is for projects no longer in active development. The maturity level is a signal by OpenSSF as to what sorts of enterprises should be adopting different projects. Projects increase their maturity by demonstrating their sustainability to OpenSSF’s Technical Advisory Committee(TAC): that they have adoption, a healthy rate of changes, committers from multiple organizations, have adopted the OpenSSF Code of Conduct, and have achieved and maintained the Core Infrastructure Initiative Best Practices Badge.
 
-![Project Stages](https://github.com/ossf/tac/blob/main/process/project-stages.png)
+![Project Stages](/process/project-stages.png)
 
 ## Sandbox:
 
