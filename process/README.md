@@ -69,7 +69,7 @@ To be accepted to incubating stage, a project must meet the sandbox stage requir
 * A clear versioning scheme.
 * Specifications must have at least one public reference implementation.
 
-![Incubating](https://github.com/ossf/tac/blob/main/process/incubation-process.png)
+![Incubating](/process/incubation-process.png)
 
 ~~Projects currently in progress for consideration at the Incubating stage are tracked: https://github.com/ossf/tac/projects/7~~
 *** Need new text ***
