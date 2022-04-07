@@ -1,3 +1,32 @@
+
+<!-- TOC -->
+
+- [I. Overview](#i-overview)
+- [II. Lifecycle](#ii-lifecycle)
+    - [Stages - Definitions & Expectations](#stages---definitions--expectations)
+        - [Sandbox](#sandbox)
+            - [Gives - Review and Reporting](#gives---review-and-reporting)
+            - [Gets - Benefits](#gets---benefits)
+            - [Sandbox Entry Requirements](#sandbox-entry-requirements)
+            - [Project Graduation Process: Sandbox to Incubating](#project-graduation-process-sandbox-to-incubating)
+            - [Submission Forms for Sandbox](#submission-forms-for-sandbox)
+            - [Submission Forms for Sandbox to Incubating](#submission-forms-for-sandbox-to-incubating)
+        - [Incubating](#incubating)
+            - [Gives - Review and Reporting](#gives---review-and-reporting)
+            - [Gets - Benefits](#gets---benefits)
+            - [Incubating Entry Requirements](#incubating-entry-requirements)
+            - [Project Graduation Process: Incubating to Graduation](#project-graduation-process-incubating-to-graduation)
+            - [Submission Forms for Incubating](#submission-forms-for-incubating)
+            - [Submission Forms for Incubating to Graduation](#submission-forms-for-incubating-to-graduation)
+        - [Graduated](#graduated)
+            - [Gives - Review and Reporting](#gives---review-and-reporting)
+            - [Gets - Benefits](#gets---benefits)
+            - [Project Graduation Process: Graduated to Archiving](#project-graduation-process-graduated-to-archiving)
+            - [Submission Forms for Graduated to Archived](#submission-forms-for-graduated-to-archived)
+        - [Archived](#archived)
+
+<!-- /TOC -->
+
 # I. Overview
 
 This policy describes the Open Source Security Foundation (OpenSSF) project life cycle process for Working Group to Project, adding an existing external Project as an OpenSSF Project, and transferring an existing Project from a different Linux Foundation organization, CNCF or CDF.
@@ -19,19 +48,19 @@ flowchart TD
 
 The process is designed to be flexible to enable a Project to move in and out of a Working Group as deemed appropriate by the TAC.
 
-## II. Lifecycle
+# II. Lifecycle
 
 Each Working Group and Project will follow the sandbox, incubating, graduated and archival lifecycle stages.
 
 The lifecycle progression, movement from one stage to another, allows them to participate at the level that is most appropriate for them given where they are at.
 
-### Stages - Definitions & Expectations
+## Stages - Definitions & Expectations
 
 Working Groups and Projects have a maturity level of sandbox, incubating, or graduated. Archived is for Working Groups and Projects no longer in active development. The maturity level is a signal by OpenSSF as to what sorts of enterprises should be adopting different projects. Working Groups and Projects increase their maturity by demonstrating their sustainability to OpenSSF’s Technical Advisory Committee(TAC): that they have adoption, a healthy rate of changes, committers from multiple organizations, have adopted the OpenSSF Code of Conduct, and have achieved and maintained the Core Infrastructure Initiative Best Practices Badge.
 
 ![Project Stages](/process/project-stages.png)
 
-#### Sandbox
+### Sandbox
 
 The OpenSSF Sandbox is the entry point for early stage Working Groups and Projects and has four goals:
 
@@ -40,10 +69,10 @@ The OpenSSF Sandbox is the entry point for early stage Working Groups and Projec
 * Nurture Working Groups and Projects (e.g. via OpenSSF Service Desk requests)
 * Remove possible legal and governance obstacles to adoption and contribution by ensuring all projects adhere to OpenSSF legal, code of conduct and IP Policy requirements.
 
-#### Sandbox Gives - Review and Reporting
+#### Gives - Review and Reporting
 *** Need Text ***
 
-#### Sandbox Gets - Benefits
+#### Gets - Benefits
 *** Need Text ***
 
 #### Sandbox Entry Requirements
@@ -61,27 +90,27 @@ Sandbox Working Groups and Projects should be early-stage projects that the Open
 
 Incubating Working Groups and Projects are required to undergo due diligence as a part of the process to move from Sandbox to Incubation. Due Diligence is driven by a TAC sponsor, with two weeks for public comment before a vote is called.
 
-##### Submission Forms for Sandbox
+#### Submission Forms for Sandbox
 
 1. [Proposal](TBD)
 2. [Legal](TBD)
 
-##### Submission Forms for Sandbox to Incubating
+#### Submission Forms for Sandbox to Incubating
 
 1. [Proposal](TBD)
 2. [Legal](TBD)
 
-#### Incubating
+### Incubating
 
 ![Incubating](/process/incubation-process.png)
 
-#### Incubating Gives - Review and Reporting
+#### Gives - Review and Reporting
 *** Need Text ***
 
-#### Incubating Gets - Benefits
+#### Gets - Benefits
 *** Need Text ***
 
-#### Incubating Requirements
+#### Incubating Entry Requirements
 
 To be accepted to incubating stage, a project must meet the sandbox stage requirements plus:
 
@@ -102,38 +131,38 @@ Projects that wish to move from Incubating to Graduation should open a PR confir
 * Have a public list of project adopters for at least the primary repo (e.g., ADOPTERS.md or logos on the project website). For a specification, have a list of adopters for the implementation(s) of the spec.
 * Please include a short one-page narrative based off the Graduation template, no more than 500 words.
 
-##### Submission Forms for Incubating
+#### Submission Forms for Incubating
 
 1. [Proposal](TBD)
 2. [Legal](TBD)
 
-##### Submission Forms for Incubating to Graduation
+#### Submission Forms for Incubating to Graduation
 
 1. [Proposal](TBD)
 2. [Legal](TBD)
 
-#### Graduated
+### Graduated
 
 Graduated projects signal the highest level of maturity for a OpenSSF project.
 
-#### Graduated Gives - Review and Reporting
+#### Gives - Review and Reporting
 *** Need Text ***
 
-#### Graduated Gets - Benefits
+#### Gets - Benefits
 *** Need Text ***
 
-##### Project Graduation Process: Graduated to Archiving
+#### Project Graduation Process: Graduated to Archiving
 
 Open source projects have a lifecycle and there are times that projects become inactive due to a variety of reasons. There are also cases where a project may no longer want to be supported by the TAC, or the TAC may no longer wish to recommend the use of a project.
 Archiving Criteria
 When voting on a proposal to archive a project, TAC members may wish to consider whether the project continues to meet the criteria for OpenSSF acceptance. The TAC may also look at activity levels in the project (https://all.devstats.cncf.io/d/53/projects-health-table?orgId=1), although it is important to note that there is a difference between a mature project that doesn't get much attention any more but is stable, versus a project that is inactive.
 
-##### Submission Forms for Graduated to Archived
+#### Submission Forms for Graduated to Archived
 
 1. [Proposal](TBD)
 2. [Legal](TBD)
 
-#### Archived
+### Archived
 
 Archived projects are no longer in active development and are only archived after a TAC vote.
 
