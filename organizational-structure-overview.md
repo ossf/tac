@@ -13,18 +13,21 @@ The OpenSSF is comprised of instances of the following categories of official gr
 - **Committees** are formed by, and report to, the Board. Broadly speaking, Committees handle non-technical matters as needed by the GB, wherein a named set of people are tasked with handling a specific objective. Like the Board meetings, Committee meetings may or may not be open to the public.
 - The **Technical Advisory Council** (TAC) is responsible for the general success of all Technical Initiatives (defined below). TAC meetings are generally open to the public, with the exception of special sessions. 
   - TAC membership is limited to seven (7) seats, with alternating elections every year. Contributors to Technical Initiatves may run, and each contributor may vote once in TAC elections. 
-- Each **Technical Initiatives** (both Projects and Working Groups) is governed by its own Charter, which is approved by the TAC. Changes to a Charter must be approved first according to that Charter's terms and then by the TAC.
-  - All Technical Initiatives are persistent open groups focused on a technical objective, with transparent proceedings that are open to the public, and vary in their objectives.
-- A **Project** is a persistent and open group focused on the creation and ongoing support of open source licensed software (source code) and its supporting artifacts (documentation, etc). Projects usually manage one or more GitHub repos of their own, may have separate meetings, etc.
-- A **Working Group** (WG) is also a persistent and open group focused on a particular aspect of the overall mission of the OpenSSF. Working Groups generally do not produce open source software as a primary artifact, though they often include some open source code, or even use licensed software, in fulfilment of their Charter.
-  - WG's may be bounded in scope -- for example, their charter may specify that the WG will wrap up after a specific event, such as a publication.
-  - WG's may also be unbounded in scope -- for instance, where an effort is expected to be ongoing in support of open source security indefinitely.
+- **Technical Initiatives** are projects, working groups (WG), or services governed by their own Charters. Charters are approved by the TAC. Once approved, Changes to a Charter must be reviewed, evaluated, and accepted or rejected according to terms documented in the Charter. If accepted, changes to a Charter are then sent for approval or disapproval by the TAC.
+   - All Technical Initiatives are persistent open groups focused on a technical objective, with transparent proceedings that are open to the public, and vary in their objectives.
+- A **Project** is a Technical Initiative focused on the creation and ongoing support of resulting Technical Deliverables. Projects usually manage one or more GitHub repos of their own, may have separate meetings, etc.  **(what is the etc?)**
+   - A **Technical Deliverable** is an open source licensed software (source code) and its supporting artifacts (technical documentation, etc.) produced from a project. 
+- A **Working Group** (WG) is a group (or team) based Technical Initiative formed to support the overall mission of the OpenSSF. Working Groups generally do not produce open source software as a primary artifact. WGs often include some open source code, or use licensed software, in fulfilment of their Charter. WGs can be formed to perfrom tasks Temporary or Ongoing in scope.
+  - **Temporary** scope -- The WGs charter may specify that the WG will wrap up after a specific event, such as a publication.
+  - **Ongoing** scope -- The WGs charter may specify that an effort is expected to be ongoing in support of open source security indefinitely.
+- A **Service** is a Technical Initiative in which software is either built or acquired to support or automate OSSF transactions
   
 
 ### TODO
 
-* define **SIF**
-* define **Services** 
+* define **SIF** 
+* define **Contributors**
+* criteria for approving or disapproving a Charter (if not already here)
 
 ## Ogranizational Chart
 
