@@ -44,6 +44,7 @@ flowchart TD
     B <--> F[Project]
     B <--> G[Project]
     E <--> H[Project]
+    E <--> I[Project]
 ```
 
 The process is designed to be flexible to enable a Project to move in and out of a Working Group as deemed appropriate by the TAC.
