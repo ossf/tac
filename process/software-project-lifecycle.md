@@ -1,10 +1,10 @@
 # Software focused Project Life Cycle
 
-Software focused projects are either directly under the governance of the Technical Advisory Committee (TAC) or a specific Working Group (WG). The progression of such a project lies accordingly within the TAC or the specific WG the project reports to (i.e., "the parent WG").
+Software focused projects are either directly under the governance of the Technical Advisory Committee (TAC) or a specific Working Group (WG). The TAC is responsible for reviewing and approving all significant changes to a Project's life cycle. Where a Project reports into a specific WG, that WG can support the Project's progression and provide recommendations to the TAC.
 
 Software focused projects follow the sandbox, incubating, graduated and archival lifecycle stagesdefined below.
 
-The lifecycle progression, movement from one stage to another, allows them to participate at the level that is most appropriate for them given where they are at.
+The lifecycle progression, movement from one stage to another, allows them to participate at the level that is most appropriate for them given where they are at, and signals to our community and those outside what level of maturity and continuity can be expected from a Project.
 
 <!-- TOC -->
 
@@ -46,7 +46,7 @@ The OpenSSF Sandbox is the entry point for early stage software projects and has
 * Encourage public visibility of experiments or other early work that can add value to the OpenSSF mission and build the ingredients of a successful Incubation level project
 * Facilitate alignment with existing Working Groups or Projects if (and only if) this is desired
 * Nurture projects (e.g. via OpenSSF Service Desk requests)
-* Remove possible legal and governance obstacles to adoption and contribution by ensuring all projects adhere to OpenSSF legal, code of conduct and IP Policy requirements.
+* Remove possible legal and governance obstacles to adoption and contribution by ensuring all projects adhere to OpenSSF legal, code of conduct, and IP Policy requirements.
 
 #### Gives - Review and Reporting
 *** Need Text ***
@@ -67,7 +67,7 @@ Sandbox projects should be early-stage projects that the OpenSSF TAC or parent W
 
 #### Project Graduation Process: Sandbox to Incubating
 
-Incubating software focused projects are required to undergo due diligence as a part of the process to move from Sandbox to Incubation. Due Diligence is driven by a TAC or parent WG sponsor, with two weeks for public comment before a vote is called.
+Incubating software focused projects are required to undergo due diligence as a part of the process to move from Sandbox to Incubation. Due Diligence is driven by a TAC or parent WG sponsor, with two weeks for public comment before a vote is called. Once the diligence is complete and the proposal made, two weeks are allocated for public comment before a TAC vote is called.
 
 #### Submission Forms for Sandbox
 
@@ -94,7 +94,7 @@ Incubating software focused projects are required to undergo due diligence as a 
 To be accepted to incubating stage, a project must meet the sandbox stage requirements plus:
 
 * Document that it is being used successfully in production by at least three independent end users which, in the TAC’s judgement, are of adequate quality and scope.
-* Have a healthy number of committers. A committer is defined as someone with the commit bit; i.e., someone who can accept contributions to some or all of the project.
+* Have a healthy number of maintainers. A maintainer is defined as someone with the commit bit; i.e., someone who can accept contributions to some or all of the project.
 * Demonstrate a substantial ongoing flow of commits and merged contributions.
 * Since these metrics can vary significantly depending on the type, scope and size of a project, the TAC has final judgement over the level of activity that is adequate to meet these criteria
 * A clear versioning scheme.
@@ -103,10 +103,10 @@ To be accepted to incubating stage, a project must meet the sandbox stage requir
 #### Project Graduation Process: Incubating to Graduation
 
 Software focused projects that wish to move from Incubating to Graduation should open a PR confirming the following criteria:
-* Have committers from at least two organizations.
+* Have maintainers from at least two organizations.
 * Have achieved and maintained a [Core Infrastructure Initiative Best Practices Badge](https://bestpractices.coreinfrastructure.org/).
-* Have completed an independent and third party security audit with results published of similar scope and quality as [this example](https://github.com/envoyproxy/envoy#security-audit) which includes all critical vulnerabilities and all critical vulnerabilities need to be addressed before graduation.
-* Explicitly define a project governance and committer process. This preferably is laid out in a GOVERNANCE.md file and references an OWNERS.md file showing the current and emeritus committers.
+* Have completed an independent and third party security audit with results published of similar scope and quality as [this example](https://github.com/envoyproxy/envoy#security-audit) which includes all critical vulnerabilities and all critical vulnerabilities need to be addressed before graduation. The TAC, or another WG, may provide assistance in acquiring such an audit.
+* Explicitly define a project governance and process to be granted maintainership within the project team. This is preferably laid out in a GOVERNANCE.md file and references an OWNERS.md file showing the current and emeritus maintainers.
 * Have a public list of project adopters for at least the primary repo (e.g., ADOPTERS.md or logos on the project website). For a specification, have a list of adopters for the implementation(s) of the spec.
 * Please include a short one-page narrative based off the Graduation template, no more than 500 words.
 
