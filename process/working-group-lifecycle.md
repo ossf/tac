@@ -37,7 +37,7 @@ progress a project will move to `End-of-Life`. The details for each phase follow
 
 * Operate as part of the OpenSSF adhering to community policies
 * Deliver quarterly reviews to TAC
-* Complete and request TAC approval of [README.md](https://github.com/ossf/project-template/blob/main/README.md)
+* Complete and request TAC approval of [README.md](https://github.com/ossf/project-template/blob/main/README.md) which defines the WG's Charter and lists primary point(s) of contact from the TAC to the WG (this is often the WG Chair).
 * Meet on a regular cadence. Meetings are public, recorded, and on the calendar
 * Have access to community resources (Zooms, YouTube channels, GitHub, Slack channels, etc.)
 * Can request funding/other resources (subject to TAC/GB approval)
@@ -52,6 +52,10 @@ progress a project will move to `End-of-Life`. The details for each phase follow
 * Have at least 5 regular members from at least 3 different organizations attending regularly as
 recorded in meeting minutes.
 * Request TAC approval. TAC will vote to approve or provide constructive guidance
+
+## To remain `Active`:
+
+A WG is expected to continue operating per the above guidelines, and to provide the TAC with quarterly status updates, and to approach the TAC when seeking approval of substantial changes (such as when accepting or promoting new Projects).
 
 ## Once `Active`:
 
