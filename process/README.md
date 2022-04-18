@@ -71,10 +71,31 @@ The OpenSSF Sandbox is the entry point for early stage Working Groups and Projec
 * Remove possible legal and governance obstacles to adoption and contribution by ensuring all projects adhere to OpenSSF legal, code of conduct and IP Policy requirements.
 
 #### Gives - Review and Reporting
-*** Need Text ***
+
+- Copyright transfer to Linux Foundation
+- Trademark transfer to Linux Foundation
+- Add Linux Foundation as GitHub Organization Owner
+- Legal Due Diligence Documentation
+- Domain Name transfer to Linux Foundation
+- Meetup Member List
+- CLA transfer to Linux Foundation
+- Reporting required by TAC and Governing Board
 
 #### Gets - Benefits
-*** Need Text ***
+
+- Additional governance by OpenSSF Governing Board
+- Oversight by OpenSSF TAC
+- Access to OpenSSF Ambassador program
+- Access to OpenSSF Marketing
+- Access to Linux Foundation Legal
+- Press Releases
+- Linux Foundation Tools
+  - Insights
+  - EasyCLA
+  - Tech Support for DNS
+  - Crowdfunding
+  - Bevey
+- 1 Speaking slot at each OpenSSF events
 
 #### Sandbox Entry Requirements
 
@@ -106,10 +127,32 @@ Incubating Working Groups and Projects are required to undergo due diligence as 
 ![Incubating](/process/incubation-process.png)
 
 #### Gives - Review and Reporting
-*** Need Text ***
+
+- Copyright transfer to Linux Foundation
+- Trademark transfer to Linux Foundation
+- Add Linux Foundation as GitHub Organization Owner
+- Legal Due Diligence Documentation
+- Domain Name transfer to Linux Foundation
+- Meetup Member List
+- CLA transfer to Linux Foundation
+- Reporting required by TAC and Governing Board
 
 #### Gets - Benefits
-*** Need Text ***
+
+- Additional governance by OpenSSF Governing Board
+- Oversight by OpenSSF TAC
+- Access to OpenSSF Ambassador program
+- Access to OpenSSF Marketing
+- Access to Linux Foundation Legal
+- Press Releases
+- Linux Foundation Tools
+  - Insights
+  - EasyCLA
+  - Tech Support for DNS
+  - Crowdfunding
+  - Bevey
+- **2 Speaking slots at each OpenSSF events**
+- **Funding for Infrastructure**  
 
 #### Incubating Entry Requirements
 
@@ -147,10 +190,33 @@ Projects that wish to move from Incubating to Graduation should open a PR confir
 Graduated projects signal the highest level of maturity for a OpenSSF project.
 
 #### Gives - Review and Reporting
-*** Need Text ***
+
+- Copyright transfer to Linux Foundation
+- Trademark transfer to Linux Foundation
+- Add Linux Foundation as GitHub Organization Owner
+- Legal Due Diligence Documentation
+- Domain Name transfer to Linux Foundation
+- Meetup Member List
+- CLA transfer to Linux Foundation
+- Reporting required by TAC and Governing Board
 
 #### Gets - Benefits
-*** Need Text ***
+
+- Additional governance by OpenSSF Governing Board
+- Oversight by OpenSSF TAC
+- Access to OpenSSF Ambassador program
+- Access to OpenSSF Marketing
+- Access to Linux Foundation Legal
+- Press Releases
+- Linux Foundation Tools
+  - Insights
+  - EasyCLA
+  - Tech Support for DNS
+  - Crowdfunding
+  - Bevey
+- **Day 0 track at each OpenSSF event**
+- **Funding for Infrastructure**  
+- **Funding for Development** 
 
 #### Project Graduation Process: Graduated to Archiving
 
