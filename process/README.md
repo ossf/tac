@@ -136,6 +136,7 @@ Incubating Working Groups and Projects are required to undergo due diligence as 
 - Meetup Member List
 - CLA transfer to Linux Foundation
 - Reporting required by TAC and Governing Board
+- Security Audit by 3rd Party to Graduate
 
 #### Gets - Benefits
 
