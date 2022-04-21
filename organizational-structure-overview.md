@@ -1,8 +1,8 @@
 # OpenSSF Governance & Org Structure
 
-## Charter
+## OpenSSF Charter
 
-Overall governance of the OpenSSF is defined in [the Foundation Charter](https://cdn.platform.linuxfoundation.org/agreements/openssf.pdf). 
+The overall governance of the OpenSSF is defined in [the Foundation Charter](https://cdn.platform.linuxfoundation.org/agreements/openssf.pdf) (PDF file). 
 
 
 ## Definitions
@@ -13,15 +13,26 @@ The OpenSSF is comprised of instances of the following categories of official gr
 - **Committees** are formed by, and report to, the Board. Broadly speaking, Committees handle non-technical matters as needed by the GB, wherein a named set of people are tasked with handling a specific objective. Like the Board meetings, Committee meetings may or may not be open to the public.
 - The **Technical Advisory Council** (TAC) is responsible for the general success of all Technical Initiatives (defined below). TAC meetings are generally open to the public, with the exception of special sessions. 
   - TAC membership is limited to seven (7) seats, with alternating elections every year. Contributors to Technical Initiatves may run, and each contributor may vote once in TAC elections. 
-- **Technical Initiatives** are projects, working groups (WG), or services governed by their own Charters. Charters are approved by the TAC. Once approved, changes to a Charter must be reviewed, evaluated, and accepted or rejected according to terms documented in the Charter. If accepted, changes to a Charter are then sent for approval or disapproval by the TAC.
-   - All Technical Initiatives are persistent open groups focused on a technical objective, with transparent proceedings that are open to the public, and vary in their objectives.
-- A **Project** is a Technical Initiative focused on the creation and ongoing support of resulting Technical Deliverables. Projects usually manage one or more GitHub repos of their own, may have separate meetings, etc.  **(what is the etc?)**
-   - A **Technical Deliverable** is an open source licensed software (source code) and its supporting artifacts (technical documentation, etc.) produced from a project. 
-- A **Working Group** (WG) is a group (or team) based Technical Initiative formed to support the overall mission of the OpenSSF. WGs generally do not produce open source software as a primary artifact. WGs often include some open source code, or use licensed software, in fulfillment of their Charter. WGs can be formed to perform tasks Temporary or Ongoing in scope.
-  - **Temporary** scope -- The WGs charter may specify that the WG will wrap up after a specific event, such as a publication.
-  - **Ongoing** scope -- The WGs charter may specify that an effort is expected to be ongoing in support of open source security indefinitely.
-- A **Service** is a Technical Initiative in which software is either built or acquired to support or automate OSSF transactions
-  
+- **Technical Initiatives** are groups formed in support of the overall mission of the OpenSSF. Technical Initiatives include Special Interest Groups (SIG), Projects, Working Groups (WG), and services governed by their own Charters with various objectives, reporting relationships, and funding models described below.
+   - All Technical Initiatives are open groups focused on a technical objective, with transparent proceedings that are open to the public, and vary in their objectives.
+   - Technical Initiatives usually manage one or more GitHub repos of their own, may have separate meetings.
+- A **Project** is a Technical Initiative focused on the development and ongoing support of open source licensed software (source code) and its supporting artifacts (technical documentation, etc.).
+- A **Special Interest Group** (SIG) focuses on developing other types of deliverables than software such as guides, specifications, and educational material, or conducting initiatives such as an education outreach. While a SIG does not produce open source software as a primary artifact it may launch Projects that do so. A SIG may also launch Working Groups (WG) to perform specific tasks. SIGs often include some open source code, or use licensed software, in fulfilment of their Charter.
+- **Working Groups** (WG) are under the direct governance of their reporting SIGs and are bound to achieving a very specific goal. 
+- A **Technical Deliverable** can be an open source licensed software and its supporting artifacts, a specification, a technical guide. This is a technical artefact produced by a Technical Initiative.
+- A **Service** is a Technical Initiative in which software is either built or acquired to support or automate OSSF transactions.
+
+The following table describes the main types of groups and their characteristics.
+
+| Initiative | Expected lifespan | Primary output| Reporting relationship |	Economic model
+|------------|-------------------|---------------|------------------------|---------------
+| Special Interest Group (SIG) | unbounded | not software | to the TAC | normative
+| SIG w/ SIF | unbounded | not software | to the TAC | special fund
+| Project |	unbounded | software | either TAC or SIG | normative
+| Project w/ SIF | unbounded | software | to the TAC | special fund
+| Working Group (WG) | bounded | not software | to a SIG | normative
+
+SIF = Specific Initiative Fund
 
 ### TODO
 
@@ -51,7 +62,7 @@ flowchart TB
     A <==> subC
     A ====> B([Technical Adivsory Council])
 
-    subgraph subWG[Working Groups]
+    subgraph subSIG[Special Interest Groups]
         BP[Best Practices]
         VD[Vulnerability Disclosures]
         IST[Identifying Security Threats]
@@ -61,7 +72,7 @@ flowchart TB
 
         BP ---> P2[Example project]
     end
-    B ====> subWG
+    B ====> subSIG
 
     B ----> P1[Example Project]
 

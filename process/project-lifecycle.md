@@ -1,6 +1,6 @@
 # Project Life Cycle
 
-Projects are either directly under the governance of the Technical Advisory Committee (TAC) or a specific Working Group (WG). The TAC is responsible for reviewing and approving all significant changes to a Project's life cycle. Where a Project reports into a specific WG, that WG can support the Project's progression and provide recommendations to the TAC.
+Projects are either directly under the governance of the Technical Advisory Committee (TAC) or a specific Special Interest Group (SIG). The TAC is responsible for reviewing and approving all significant changes to a Project's life cycle. Where a Project reports into a specific SIG, that SIG can support the Project's progression and provide recommendations to the TAC.
 
 Projects follow the sandbox, incubating, graduated and archival lifecycle stagesdefined below.
 
@@ -44,7 +44,7 @@ Projects have a maturity level of sandbox, incubating, or graduated. Archived is
 The OpenSSF Sandbox is the entry point for early stage Projects and has four goals:
 
 * Encourage public visibility of experiments or other early work that can add value to the OpenSSF mission and build the ingredients of a successful Incubation level Project
-* Facilitate alignment with existing Working Groups or Projects if (and only if) this is desired
+* Facilitate alignment with existing SIGs or Projects if (and only if) this is desired
 * Nurture Projects (e.g. via OpenSSF Service Desk requests)
 * Remove possible legal and governance obstacles to adoption and contribution by ensuring all projects adhere to OpenSSF legal, code of conduct, and IP Policy requirements.
 
@@ -58,16 +58,16 @@ The OpenSSF Sandbox is the entry point for early stage Projects and has four goa
 
 Projects being submitted to the OpenSSF at the sandbox level are intended to be the entry point for early stage projects and are not required to undergo due diligence.
 
-Sandbox Projects should be early-stage projects that the OpenSSF TAC or parent Working Group believes warrant experimentation.
+Sandbox Projects should be early-stage projects that the OpenSSF TAC or parent SIG believes warrant experimentation.
 
 * New Projects that are designed to extend one or more OpenSSF Projects with functionality or interoperability libraries.
 * Independent projects that fit the OpenSSF mission and provide potential for a novel approach to existing functional areas (or are an attempt to meet an unfulfilled need)
-* Projects commissioned or sanctioned by the OpenSSF, including initial code for OpenSSF WG collaborations, and "experimental" projects
+* Projects commissioned or sanctioned by the OpenSSF, including initial code for OpenSSF SIG collaborations, and "experimental" projects
 * Any project that realistically intends to join OpenSSF Incubation in future and wishes to lay the foundations for that
 
 #### Project Graduation Process: Sandbox to Incubating
 
-Incubating Projects are required to undergo due diligence as a part of the process to move from Sandbox to Incubation. Due Diligence is driven by a TAC or parent WG sponsor. Once the diligence is complete and the proposal made, two weeks are allocated for public comment before a TAC vote is called.
+Incubating Projects are required to undergo due diligence as a part of the process to move from Sandbox to Incubation. Due Diligence is driven by a TAC or parent SIG sponsor. Once the diligence is complete and the proposal made, two weeks are allocated for public comment before a TAC vote is called.
 
 #### Submission Forms for Sandbox
 
@@ -105,7 +105,7 @@ To be accepted to incubating stage, a project must meet the sandbox stage requir
 Projects that wish to move from Incubating to Graduation should open a PR confirming the following criteria:
 * Have maintainers from at least two organizations.
 * Have achieved and maintained a [Core Infrastructure Initiative Best Practices Badge](https://bestpractices.coreinfrastructure.org/).
-* Have completed an independent and third party security audit with results published of similar scope and quality as [this example](https://github.com/envoyproxy/envoy#security-audit) which includes all critical vulnerabilities and all critical vulnerabilities need to be addressed before graduation. The TAC, or another WG, may provide assistance in acquiring such an audit.
+* Have completed an independent and third party security audit with results published of similar scope and quality as [this example](https://github.com/envoyproxy/envoy#security-audit) which includes all critical vulnerabilities and all critical vulnerabilities need to be addressed before graduation. The TAC, or another SIG, may provide assistance in acquiring such an audit.
 * Explicitly define project governance and process to be granted maintainership within the project team. This is preferably laid out in a GOVERNANCE.md file and references an OWNERS.md file showing the current and emeritus maintainers.
 * Have a public list of project adopters for at least the primary repo (e.g., ADOPTERS.md or logos on the project website). For a specification, have a list of adopters for the implementation(s) of the spec.
 * Please include a short one-page narrative based off the Graduation template, no more than 500 words.
@@ -145,7 +145,7 @@ When voting on a proposal to archive a project, TAC members may wish to consider
 
 ### Archived
 
-Archived projects are no longer in active development and are only archived after a TAC or parent WG vote.
+Archived projects are no longer in active development and are only archived after a TAC or parent SIG vote.
 
 What does archiving for an OpenSSF project mean?
 * OpenSSF will no longer provide support for the project via service desk
@@ -155,7 +155,7 @@ What does archiving for an OpenSSF project mean?
 * Other OpenSSF marketing activities will no longer be provided for the project
 
 To archive a project:
-* A proposal must be put forth to the TAC or WG repo
-* The TAC or parent WG will inform the project maintainers, OpenSSF end user community and wider community of all archiving proposals
+* A proposal must be put forth to the TAC or SIG repo
+* The TAC or parent SIG will inform the project maintainers, OpenSSF end user community and wider community of all archiving proposals
 * The proposal must remain open for at least 2 weeks of discussion after the maintainers are informed.
-* A vote must be finalized with 2/3 approval from the TAC or parent WG.
+* A vote must be finalized with 2/3 approval from the TAC or parent SIG.

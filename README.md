@@ -40,7 +40,7 @@ The TAC is chartered as part of the [Open Source Security Foundation Charter](ht
 
 The following Technical Initatives have been approved by the TAC:
 
-### Working Groups
+### Special Interest Groups
 
 | Name                         | Repository                                              | Notes                                                                                                  | Status     |
 | ---------------------------- | ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | ---------- |
