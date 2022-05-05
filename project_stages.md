@@ -32,7 +32,7 @@ The OpenSSF Sandbox is the entry point for early stage projects and has four goa
 
 * Bi-annual updates to the TAC on technical vision and progress on vision
 * Maintain a diversified contributor base (i.e. not a single-vendor project)
-* Provides project updates to OpenSSF Marketing WG as requested
+* Provides project updates to OpenSSF Marketing Committee as requested
 
 #### Project Support
 * Receives guidance on technical direction from TAC
