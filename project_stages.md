@@ -89,7 +89,7 @@ Incubating projects represent maturing but not fully realized projects. Incubati
 
 #### Project Process: Sandbox to Incubating
 
-Incubating Projects are required to undergo due diligence as a part of the process to move from Sandbox to Incubation. Due Diligence is driven by a TAC or parent WG sponsor. Once the diligence is complete and the proposal made, two weeks are allocated for public comment before a TAC vote is called.
+Incubating Projects are required to undergo technical due diligence as a part of the process to move from Sandbox to Incubation. Technical Due Diligence is driven by a TAC or parent WG sponsor. Once the diligence is complete and the proposal made, two weeks are allocated for public comment before a TAC vote is called.
 
 
 #### Submission Forms for Sandbox to Incubating
