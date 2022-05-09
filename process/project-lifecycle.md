@@ -1,6 +1,6 @@
 # Project Life Cycle
 
-Projects are either directly under the governance of the Technical Advisory Committee (TAC) or a specific Working Group (WG). The TAC is responsible for reviewing and approving all significant changes to a Project's life cycle. Where a Project reports into a specific WG, that WG can support the Project's progression and provide recommendations to the TAC.
+Projects are either directly under the governance of the Technical Advisory Committee (TAC) or a specific Working Group (WG). In all cases, the TAC is responsible for reviewing and approving all significant changes to a Project's life cycle. Where a Project reports into a specific WG, that WG can support the Project's progression and provide recommendations to the TAC.
 
 Projects follow the sandbox, incubating, graduated and archival lifecycle stagesdefined below.
 
@@ -93,7 +93,7 @@ Incubating Projects are required to undergo due diligence as a part of the proce
 
 To be accepted to incubating stage, a project must meet the sandbox stage requirements plus:
 
-* Document that it is being used successfully in production by at least three independent end users which, in the TAC’s judgement, are of adequate quality and scope.
+* Document that it is being used successfully in production by at least three independent adopters which, in the TAC’s judgement, are of adequate quality and scope.
 * Have a healthy number of maintainers. A maintainer is defined as someone with the commit bit; i.e., someone who can accept and merge contributions to some or all of the project.
 * Demonstrate a substantial ongoing flow of commits and merged contributions.
 * Since these metrics can vary significantly depending on the type, scope and size of a project, the TAC has final judgement over the level of activity that is adequate to meet these criteria
@@ -104,7 +104,7 @@ To be accepted to incubating stage, a project must meet the sandbox stage requir
 
 Projects that wish to move from Incubating to Graduation should open a PR confirming the following criteria:
 * Have maintainers from at least two organizations.
-* Have achieved and maintained a [Core Infrastructure Initiative Best Practices Badge](https://bestpractices.coreinfrastructure.org/).
+* Have achieved and maintained an [OpenSSF Best Practices Badge](https://bestpractices.coreinfrastructure.org/).
 * Have completed an independent and third party security audit with results published of similar scope and quality as [this example](https://github.com/envoyproxy/envoy#security-audit) which includes all critical vulnerabilities and all critical vulnerabilities need to be addressed before graduation. The TAC, or another WG, may provide assistance in acquiring such an audit.
 * Explicitly define project governance and process to be granted maintainership within the project team. This is preferably laid out in a GOVERNANCE.md file and references an OWNERS.md file showing the current and emeritus maintainers.
 * Have a public list of project adopters for at least the primary repo (e.g., ADOPTERS.md or logos on the project website). For a specification, have a list of adopters for the implementation(s) of the spec.

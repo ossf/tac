@@ -56,11 +56,11 @@ flowchart TB
         direction TB
         Market[Marketing]
         Budget[Bugdet and Finance]
-        Plan[Planning and Adivosry]
+        Plan[Planning and Adviosry]
         Policy[Public Policy]
     end
     A <==> subC
-    A ====> B([Technical Adivsory Council])
+    A ====> B([Technical Advisory Council])
 
     subgraph subWG[Working Groups]
         BP[Best Practices]
