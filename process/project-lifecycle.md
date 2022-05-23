@@ -1,6 +1,6 @@
 # Becoming an OpenSSF Project
 
-The OpenSSF's mission is to inspire and enable the community to secure the open source software we all depend on. OpenSSF top priority is the security of existing open source project however, there are missing pieces in the tooling needed to improve project security. These pieces are the projects OpenSSF aims to steward and support.
+The OpenSSF's mission is to inspire and enable the community to secure the open source software we all depend on. OpenSSF's top priority is the security of existing open source projects however, there are missing pieces in the tooling needed to improve open source project security. These pieces are the projects OpenSSF aims to steward and support.
 
 ## Project Life Cycle
 
