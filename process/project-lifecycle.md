@@ -49,7 +49,7 @@ The OpenSSF Sandbox is the entry point for early stage Projects and has four goa
 
 #### Sandbox Entry Requirements and Considerations
 
-* Projects must have a minimum of two maintiners with different company affiliations.
+* Projects must have a minimum of two maintainers with different company affiliations.
 * Projects must be aligned with the OpenSSF mission _and_ either be a novel approach for existing areas, address an unfulfilled need, or be initial code needed for OpenSSF WG work. It is preferred that extensions of existing OpenSSF projects collaborate with the existing project rather than seek a new project.
 * If contributing an existing Project to the OpenSSF, the contribution must undergo license and IP due diligence by the Linux Foundation (LF).
 
