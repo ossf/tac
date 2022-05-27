@@ -14,7 +14,7 @@ Projects follow the Sandbox, Incubating, Graduated and Archived lifecycle stages
       - [Sandbox](#sandbox)
       - [Incubating](#incubating)
       - [Graduated](#graduated)
-      - [Archiving](#archiving)
+      - [Archived](#archived)
 
 <!-- /TOC -->
 
@@ -144,7 +144,7 @@ Graduation requires undergoing due diligence as a part of the process to move fr
 2. [Legal](TBD)
 
 
-### Archiving
+### Archived
 
 Open source projects have a lifecycle and there are times that projects become inactive due to a variety of reasons. There are also cases where a project may no longer want to be supported by the OpenSSF, or the OpenSSF TAC may no longer wish to recommend the use of a project. Archiving happens through a vote of the TAC, and can be requested by the corresponding project's lead(s) or a TAC member.
 
