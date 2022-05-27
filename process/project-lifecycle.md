@@ -30,7 +30,7 @@ A project's lifecycle stage is a signal of maturity level. Projects progress thr
 The OpenSSF Sandbox is the entry point for early stage Projects and has four goals:
 
 * Encourage experimentation and open collaboration that can add value to the OpenSSF mission and build the ingredients of a successful Incubation level Project
-* Facilitate alignment with existing Working Groups or Projects if this is desired
+* Facilitate alignment with existing Working Groups or Projects if this is desired (there may be cases where pursuit of different approaches is desirable)
 * Nurture Projects
 * Remove possible legal and governance obstacles to adoption and contribution by ensuring all projects adhere to OpenSSF legal, code of conduct, and IP Policy requirements.
 
