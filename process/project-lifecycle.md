@@ -136,7 +136,7 @@ Graduated projects signal the highest level of maturity for an OpenSSF project. 
 
 #### Project Graduation Process: Incubating to Graduation
 
-Graduation requires undergoing due diligence as a part of the process to move from Incubation to Graduation. Due Diligence is driven by a TAC or parent WG sponsor. Once the diligence is complete and the proposal made, two weeks are allocated for public comment before a TAC vote is called.
+Graduation requires undergoing due diligence as a part of the process to move from Incubation to Graduation. Due Diligence is driven by a TAC or parent WG sponsor. For projects seeking Graduation, this may be a light refresh of the existing Due Diligence to cover the additional criteria, or a more in depth Due Diligence depending on the level of change the project has incurred since the original Due Diligence of Incubation was performed. Once the diligence is confirmed by the Sponsor to be complete and the proposal made, the Due Diligence document is made available to the community for two weeks the solicit public comment before a TAC vote is called.
 
 #### Submission Forms for Graduation
 
