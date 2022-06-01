@@ -163,8 +163,9 @@ Archived projects are no longer in active development and are only archived afte
 
 What does archiving for an OpenSSF project mean?
 * OpenSSF will no longer provide budgetary, event, or marketing support for the project
+* Trademarks and domain names of archived projects are still hosted by the OpenSSF and the Linux Foundation
 * Project maintainers may request trademark transfers from the OpenSSF and the Linux Foundation
-* OpenSSF can provide services such as documentation updates to help transition users.
+* OpenSSF can provide services such as documentation updates to help transition users
 * Other OpenSSF marketing activities will no longer be provided for the project
 
 To archive a project:
