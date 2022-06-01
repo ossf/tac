@@ -110,7 +110,7 @@ Graduated projects signal the highest level of maturity for an OpenSSF project. 
 
 * Bi-annual updates to the TAC on technical vision and progress on vision
 * Maintain a diversified contributor base (i.e. not a single-vendor project) with an active flow of contributions
-* Follow security best practices (as recommended by the OpenSSF and others)
+* Follow security best practices, including achiving a [Silver OpenSSF Best Practices badge](https://bestpractices.coreinfrastructure.org/en/criteria)
 * Maintain a point of contact for vulnerability reports and follow coordinated vulnerability disclosure practices
 * Implement, practice, and refine mature software development and release practices, such as adherence to semantic versioning, and having a declared policy for stable releases and backported fixes.
 
