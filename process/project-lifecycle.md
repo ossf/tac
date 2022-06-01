@@ -70,6 +70,7 @@ Incubating projects represent maturing but not fully realized projects. Incubati
 * Follow security best practices (as recommended by the OpenSSF and others)
 * Maintain a point of contact for vulnerability reports
 * Implement, practice, and refine mature software development and release practices such a following a version schema
+* Begin to establish the appropriate governance that enable its sustainment for potential graduation
 
 #### Project Support
 * Receives guidance on technical direction from TAC
