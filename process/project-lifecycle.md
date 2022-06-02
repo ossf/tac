@@ -21,7 +21,7 @@ Projects follow the Sandbox, Incubating, Graduated and Archived lifecycle stages
 
 ## Stages - Definitions & Expectations
 
-A project's lifecycle stage is a signal of maturity level. Projects progress through the lifecycle by demonstrating their maturity in technical vision, impact to the open source community (such as adoption), and sustainability in governance and contributors. All projects, at all stages, are expected to abide by the OpenSSF Code of Conduct.
+A project's lifecycle stage is a signal of maturity level. Projects progress through the lifecycle by demonstrating their maturity in technical vision, impact to the open source community (such as adoption), and sustainability in governance and contributors. All projects, at all stages, are expected to abide by the [OpenSSF Code of Conduct](https://openssf.org/community/code-of-conduct/).
 
 ![Project Stages](/process/project-stages.png)
 
@@ -69,8 +69,8 @@ Incubating projects represent maturing but not fully realized projects. Incubati
 * Maintain a diversified contributor base (i.e. not a single-vendor project) with an active flow of contributions
 * Follow security best practices (as recommended by the OpenSSF and others)
 * Maintain a point of contact for vulnerability reports
-* Implement, practice, and refine mature software development and release practices such a following a version schema
-* Begin to establish the appropriate governance that enable its sustainment for potential graduation
+* Implement, practice, and refine mature software development and release practices such as following a version schema
+* Begin to establish the appropriate governance that enables its sustainment for potential graduation
 
 #### Project Support
 * Receives guidance on technical direction from TAC
@@ -87,13 +87,13 @@ Incubating projects represent maturing but not fully realized projects. Incubati
 #### Incubating Entry Requirements and Considerations
 
 * Projects must have a minimum of three maintainers with a minimum of two different company affiliations.
-* Projects should be able to show adoption by multiple parties and that adoption's value to the open source community and or end users (may include adoption of beta/early versions).
+* Projects should be able to show adoption by multiple parties and adoption's value to the open source community and/or end users (may include adoption of beta/early versions).
 * Projects must be aligned with the OpenSSF mission and either be a novel approach for existing areas, address an unfulfilled need, or be initial code needed for OpenSSF WG work. It is preferred that extensions of existing OpenSSF projects collaborate with the existing project rather than seek a new project.
 * Projects must have documented, initial project governance
 
 #### Project Process: Sandbox to Incubating
 
-Incubating Projects are required to undergo technical due diligence as a part of the process to move from Sandbox to Incubation. Technical Due Diligence is driven by a TAC or parent WG sponsor with close collaboration of the project. Once the diligence is complete and the proposal made, the Due Diligence document is made available to the community for two weeks the solicit public comment before a TAC vote is called.
+Incubating Projects are required to undergo technical due diligence as a part of the process to move from Sandbox to Incubation. Technical Due Diligence is driven by a TAC or parent WG sponsor with close collaboration of the project. Once the diligence is complete and the proposal made, the Due Diligence document is made available to the community for two weeks to solicit public comment before a TAC vote is called.
 
 
 #### Submission Forms for Incubating
@@ -110,7 +110,7 @@ Graduated projects signal the highest level of maturity for an OpenSSF project. 
 
 * Bi-annual updates to the TAC on technical vision and progress on vision
 * Maintain a diversified contributor base (i.e. not a single-vendor project) with an active flow of contributions
-* Follow security best practices, including achiving a [Silver OpenSSF Best Practices badge](https://bestpractices.coreinfrastructure.org/en/criteria)
+* Follow security best practices, including achieving a [Silver OpenSSF Best Practices badge](https://bestpractices.coreinfrastructure.org/en/criteria)
 * Maintain a point of contact for vulnerability reports and follow coordinated vulnerability disclosure practices
 * Implement, practice, and refine mature software development and release practices, such as adherence to semantic versioning, and having a declared policy for stable releases and backported fixes.
 
@@ -155,7 +155,7 @@ When voting on a proposal to archive a project, TAC members may consider:
 * If the project has consistently met the Project Requirements
 * If the project still supports the OpenSSF mission
 * If the project's inactivity or inconsistent maintenance presents a user security risk
-* If the project design or approach is no longer a recommended best practice
+* If the project's design or approach is no longer a recommended best practice
 
 #### Archive Process
 
