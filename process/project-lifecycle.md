@@ -164,7 +164,7 @@ To archive a project:
 
 ### Project creation or change of lifecycle stage
 
-For initiating the creation of a new project or for requesting a change of a project's lifecycle stage, an application must be submitted to the TAC. To this end, a maintainer of the project (or another interested party if no maintainer is available) creates a PR in this repository with the following changes:
+For initiating the creation of a new project or for requesting a change of a project's lifecycle stage, an application must be submitted to the TAC. To this end, a maintainer of the project (or any OpenSSF member in the case of Archived projects) creates a PR in this repository with the following changes:
 
 * A new file in the `project-lifecyle-documents` directory containing all information requested for a project creation or a lifecycle change review. This file must be based on the template for the respective lifecycle stage in the `templates` directory. The `PROJECT_NAME_` prefix of the template must be replaced by the project name.
 
@@ -175,4 +175,4 @@ The TAC members review the PR and upon approval according to voting criteria def
 
 ### IP policy and license review
 
-Contributing an existing project to the OpenSSF requires a one-time IP policy and license review. To enable tracking of the IP policy and license review process, an issue in the TAC repo should be created. The results of the review as well as all relevant data (e.g., results of license scans) must be attached to this issue. Finally, the issue must be mentioned in the project creation PR and the latter can only be merged once the issue tracking the IP policy and license review has been closed.
+Contributing an existing project to the OpenSSF requires a one-time IP policy and license review with The Linux Foundation. To enable tracking of the IP policy and license review process, an issue in the TAC repo should be created. The results of the review as well as all relevant data (e.g., results of license scans) must be attached to this issue. Finally, the issue must be mentioned in the project creation PR and the latter can only be merged once the issue tracking the IP policy and license review has been closed.

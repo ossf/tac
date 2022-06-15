@@ -5,7 +5,7 @@ The project must have a minimum of three maintainers with a minimum of two diffe
   * "name, affiliation, GitHub ID"
 
 ### Mission of the project
-The project must be aligned with the OpenSSF mission and either be a novel approach for existing areas, address an unfulfilled need, or be initial code needed for OpenSSF WG work. It is preferred that extensions of existing OpenSSF projects collaborate with the existing project rather than seek a new project.
+The project must be aligned with the OpenSSF mission and either be a novel approach for existing areas, address an unfulfilled need, or be code needed to deliver OpenSSF WG work. It is preferred that extensions of existing OpenSSF projects collaborate with the existing project rather than seek a new project.
   * "description of the project mission"
 
 ### Project adoption
