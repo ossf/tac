@@ -15,3 +15,19 @@ The project should be able to show adoption by multiple parties and the adoption
 ### Governance
 Projects must have documented, initial project governance
   * "link to governance documents"
+
+### IP policy and licensing due dilligence
+When contributing an existing Project to the OpenSSF, the contribution must undergo license and IP due diligence by the Linux Foundation (LF). This step is only needed for the initial donation and only applicable here, if the project intends to join the OpenSSF the incubation stage.
+  * "yes / no / not applicable. If yes, provide a link to the corresponding GitHub issue."
+
+### Project References
+The project should provide a list of existing resources with links to the repository, website, a roadmap, contributing guide, demos and walkthroughs, and any other material to showcase the existing breadth, maturity, and direction of the project.
+
+| Reference          | URL |
+|--------------------|-----|
+| Repo               |     |
+| Website            |     |
+| Contributing guide |     |
+| Roadmap            |     |
+| Demos              |     |
+| Other              |     |

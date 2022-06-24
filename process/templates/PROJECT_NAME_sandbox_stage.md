@@ -9,16 +9,17 @@ The project must be aligned with the OpenSSF mission and either be a novel appro
   * "description of the project mission"
 
 ### IP policy and licensing due dilligence
-If contributing an existing Project to the OpenSSF, the contribution must undergo license and IP due diligence by the Linux Foundation (LF).
+When contributing an existing Project to the OpenSSF, the contribution must undergo license and IP due diligence by the Linux Foundation (LF).
   * "yes / no / not applicable. If yes, provide a link to the corresponding GitHub issue."
   
-  ### Project References
-  The project should provide a list of existing resources with links to the repo, website, a roadmap, contributing guide, demos and walkthroughs, and other material to showcase the existing breadth, maturity, and direction of the project.
- | Reference | URL |
-|---|---|
-| Repo |   |
-| Website |   | 
-| Contributing |   |
-| Roadmap |   | 
-| Demos |    |
-| Other |    |
+### Project References
+The project should provide a list of existing resources with links to the repository, and if available, website, a roadmap, contributing guide, demos and walkthroughs, and any other material to showcase the existing breadth, maturity, and direction of the project.
+
+| Reference          | URL |
+|--------------------|-----|
+| Repo               |     |
+| Website            |     |
+| Contributing guide |     |
+| Roadmap            |     |
+| Demos              |     |
+| Other              |     |

@@ -22,3 +22,15 @@ Projects must have documented project governance and be able to demonstrate that
 ### Security audit
 When applicable, projects must have completed a security audit through a third party and addressed audit findings and recommendations.
   * "link to results of security audit"
+
+### Project References
+The project must provide a list of existing resources with links to the repository, website, a roadmap, contributing guide, demos and walkthroughs, and any other material to showcase the existing breadth, maturity, and direction of the project.
+
+| Reference          | URL |
+|--------------------|-----|
+| Repo               |     |
+| Website            |     |
+| Contributing guide |     |
+| Roadmap            |     |
+| Demos              |     |
+| Other              |     |
