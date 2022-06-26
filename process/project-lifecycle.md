@@ -54,12 +54,6 @@ The OpenSSF Sandbox is the entry point for early stage Projects and has four goa
 * If contributing an existing Project to the OpenSSF, the contribution must undergo license and IP due diligence by the Linux Foundation (LF).
 
 
-#### Submission Forms for Sandbox
-
-1. [Proposal](TBD)
-2. [Legal](TBD)
-
-
 ### Incubating
 
 Incubating projects represent maturing but not fully realized projects. Incubating projects have an established technical vision and working project, but are still refining implementation, discovering (and adapting to) new use cases, and operating as an open source team.
@@ -95,11 +89,6 @@ Incubating projects represent maturing but not fully realized projects. Incubati
 
 Incubating Projects are required to undergo technical due diligence as a part of the process to move from Sandbox to Incubation. Technical Due Diligence is driven by a TAC or parent WG sponsor with close collaboration of the project. Once the diligence is complete and the proposal made, the Due Diligence document is made available to the community for two weeks to solicit public comment before a TAC vote is called.
 
-
-#### Submission Forms for Incubating
-
-1. [Proposal](TBD)
-2. [Legal](TBD)
 
 
 ### Graduated
@@ -139,10 +128,6 @@ Graduated projects signal the highest level of maturity for an OpenSSF project. 
 
 Graduation requires undergoing due diligence as a part of the process to move from Incubation to Graduation. Due Diligence is driven by a TAC or parent WG sponsor. For projects seeking Graduation, this may be a light refresh of the existing Due Diligence to cover the additional criteria, or a more in depth Due Diligence depending on the level of change the project has incurred since the original Due Diligence of Incubation was performed. Once the diligence is confirmed by the Sponsor to be complete and the proposal made, the Due Diligence document is made available to the community for two weeks the solicit public comment before a TAC vote is called.
 
-#### Submission Forms for Graduation
-
-1. [Proposal](TBD)
-2. [Legal](TBD)
 
 
 ### Archived
@@ -174,7 +159,20 @@ To archive a project:
 * The proposal must remain open for at least 2 weeks of discussion after the maintainers are informed.
 * A vote must be finalized with 2/3 approval from the TAC or parent WG.
 
-#### Submission Forms to Archive
 
-1. [Proposal](TBD)
-2. [Legal](TBD)
+## Submission Process
+
+### Project creation or change of lifecycle stage
+
+For initiating the creation of a new project or for requesting a change of a project's lifecycle stage, an application must be submitted to the TAC. To this end, a maintainer of the project (or any OpenSSF member in the case of Archived projects) creates a PR in this repository with the following changes:
+
+* A new file in the `project-lifecyle-documents` directory containing all information requested for a project creation or a lifecycle change review. This file must be based on the template for the respective lifecycle stage in the `templates` directory. The `PROJECT_NAME_` prefix of the template must be replaced by the project name.
+
+* Modification of the table listing all projects in the [README](../README.md) of this repository by either updating the status field of the project in the table to the intended new lifecycle stage or by adding the project to the table in case of a project creation request.
+
+The TAC members review the PR and upon approval according to voting criteria defined in the [OpenSSF charter](https://cdn.platform.linuxfoundation.org/agreements/openssf.pdf), the PR can be merged. Only after merging of the PR, the new project has been created and the new lifecycle stage is in effect.
+
+
+### IP policy and license review
+
+Contributing an existing project to the OpenSSF requires a one-time IP policy and license review with The Linux Foundation. To enable tracking of the IP policy and license review process, an issue in the TAC repo should be created. The results of the review as well as all relevant data (e.g., results of license scans) must be attached to this issue. Finally, the issue must be mentioned in the project creation PR and the latter can only be merged once the issue tracking the IP policy and license review has been closed.
