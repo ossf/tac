@@ -1,4 +1,4 @@
-## Application for creating a new project at sandbox stage
+## Application for creating a new project at Sandbox stage
 
 ### List of project maintainers
 The project must have a minimum of two maintainers with different company affiliations.
