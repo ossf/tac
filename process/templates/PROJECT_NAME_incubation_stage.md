@@ -17,7 +17,7 @@ Projects must have documented, initial project governance
   * "link to governance documents"
 
 ### IP policy and licensing due dilligence
-When contributing an existing Project to the OpenSSF, the contribution must undergo license and IP due diligence by the Linux Foundation (LF). This step is only needed for the initial donation and only applicable here, if the project intends to join the OpenSSF the incubation stage.
+When contributing an existing Project to the OpenSSF, the contribution must undergo license and IP due diligence by the Linux Foundation (LF). This step is only needed for the initial donation and only applicable here, if the project intends to join the OpenSSF Incubation stage.
   * "yes / no / not applicable. If yes, provide a link to the corresponding GitHub issue."
 
 ### Project References
