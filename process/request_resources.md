@@ -9,7 +9,7 @@ All OpenSSF projects receive support and resources from the Foundation. The type
     - [Security audits](#security-audits-and-improvements)
     - [Code of Conduct support](#code-of-conduct-support)
 
-## Requests through the OpenSSF Marketing WG
+## Requests through the OpenSSF Marketing Committee
 
 ### Communications and content
 
