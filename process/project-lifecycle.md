@@ -6,7 +6,7 @@ The OpenSSF's mission is to inspire and enable the community to secure the open 
 
 New projects to the OpenSSF, and progression through the project lifecycle, are approved by the Technical Advisory Committee (TAC). A project's oversight is provided by either the Technical Advisory Committee (TAC) or a specific Working Group (WG). When a Project reports into a specific WG, that WG can support the Project's progression and provide recommendations to the TAC.
 
-Projects follow the Sandbox, Incubating, Graduated and Archived lifecycle stages defined below. Projects that seek widespread adoption and end user use are expected to progress through the stages.
+Projects follow the Sandbox, Incubating, Graduated, and Archived lifecycle stages defined below. Projects that seek widespread adoption and end user use are expected to progress through the stages. Projects coming to OpenSSF that already meet the entry requirements may enter the Incubating stage directly.
 
 <!-- TOC -->
 
@@ -78,16 +78,16 @@ Incubating projects represent maturing but not fully realized projects. Incubati
 * With additional TAC or WG approval, may fundraise for dedicated project funds, coordinated by the OpenSSF
 * Projects may use the OpenSSF logo to promote their project (in accordance with the trademark guidelines). Projects may not be referred to as an "OpenSSF Project" or "OpenSSF $ProjectName." Projects may say they are an "OpenSSF Incubating Project."
 
-#### Incubating Entry Requirements and Considerations
+#### Incubation Entry Requirements and Considerations
 
 * Projects must have a minimum of three maintainers with a minimum of two different company affiliations.
 * Projects should be able to show adoption by multiple parties and adoption's value to the open source community and/or end users (may include adoption of beta/early versions).
 * Projects must be aligned with the OpenSSF mission and either be a novel approach for existing areas, address an unfulfilled need, or be initial code needed for OpenSSF WG work. It is preferred that extensions of existing OpenSSF projects collaborate with the existing project rather than seek a new project.
 * Projects must have documented, initial project governance
 
-#### Project Process: Sandbox to Incubating
+#### Project Process: Sandbox to Incubation and direct entry to Incubation
 
-Incubating Projects are required to undergo technical due diligence as a part of the process to move from Sandbox to Incubation. Technical Due Diligence is driven by a TAC or parent WG sponsor with close collaboration of the project. Once the diligence is complete and the proposal made, the Due Diligence document is made available to the community for two weeks to solicit public comment before a TAC vote is called.
+Projects are required to undergo technical due diligence as a part of the process of entering Incubation, whether as a move from Sandbox to Incubation or enterting Incubation directly. Technical Due Diligence is driven by a TAC or parent WG sponsor with close collaboration of the project. Once the diligence is complete and the proposal made, the Due Diligence document is made available to the community for two weeks to solicit public comment before a TAC vote is called.
 
 
 
