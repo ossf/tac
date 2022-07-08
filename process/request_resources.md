@@ -19,7 +19,7 @@ To receive space in an OpenSSF newsletter, projects should contact the Marketing
 
 ### Contributor meet ups at OpenSSF events
 
-Projects that would like contributor meet up space at OpenSSF events should contact the OpenSSF Marketing WG with a request six months before the event date. Late requests may be accomodated but are not guaranteed. The events team handles room reservations, attendee registration if necessary, and connect the project to relevant event space groups like A/V. Projects are responsible for organizing and running their contributor meet up.
+Projects that would like contributor meet up space at OpenSSF events should contact the OpenSSF Marketing Committee with a request six months before the event date, or as soon as the event is announced if it is less than six months. Late requests may be accommodated but are not guaranteed. The events team handles room reservations, attendee registration if necessary, and connecting the project leads to event and facility support staff. Projects are responsible for organizing and running their own contributor meet up.
 
 ### Swag
 
