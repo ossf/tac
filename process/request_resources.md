@@ -40,7 +40,7 @@ Limited, time-bound maintainer stipends for specified project improvements may b
 
 ### Security audits and improvements
 
-Qualifying projects may request funding for security audits and other services offered by third party security professionals. Before creating a request for proposals, projects should confirm funding availablity with the OpenSSF Budget Committee. After receiving proposals, projects should request their selected proposal be funded through the Budget Committee. Projects who need assistance creating an RFP should contact the OpenSSF GB Planning Committee. RFPs must be posted in a public channel(s) (GitHub issue, mailing list). OpenSSF member companies may bid on RFPs. 
+Qualifying projects may request funding for security audits and other services offered by third party security professionals. Before creating a request for proposals, projects should confirm funding availability with the OpenSSF Budget Committee. After receiving proposals, projects should request their selected proposal be funded through the Budget Committee. Projects who need assistance creating an RFP should contact the OpenSSF Planning Committee. RFPs must be posted in a public channel(s) (GitHub issue, mailing list). OpenSSF member companies may bid on RFPs. 
 
 ## Other
 
