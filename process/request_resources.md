@@ -13,7 +13,7 @@ All OpenSSF projects receive support and resources from the Foundation. The type
 
 ### Communications and content
 
-To post on the OpenSSF blog, projects should contact the OpenSSF Marketing WG with a blog draft two weeks before the requested publication date. The WG does their best to accomodate requested publication dates, but projects should plan to be flexible during high-traffic times (e.g. events). Posts and timing is at the editorial discretion of the Marketing WG; posts must follow the Code of Conduct, be relevant to the OpenSSF mission, and not promote vendor or commercial products. 
+To post on the OpenSSF blog, projects should contact the OpenSSF Marketing Committee with a blog draft two weeks before the requested publication date. The Committee does their best to accommodate requested publication dates, but projects should plan to be flexible during high-traffic times (e.g. events). Posts and timing is at the editorial discretion of the Marketing Committee; posts must follow the Code of Conduct, be relevant to the OpenSSF mission, and not promote vendor or commercial products. 
 
 To receive space in an OpenSSF newsletter, projects should contact the Marketing WG a minimum of two weeks before the newsletter publication date. Projects are responsible for tracking due dates and submitting materials. 
 
