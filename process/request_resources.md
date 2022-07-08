@@ -47,7 +47,9 @@ Qualifying projects may request funding for security audits and other services o
 
 ### Code of Conduct support
 
-All projects must follow the [OpenSSF Code of Conduct](https://openssf.org/community/code-of-conduct/). If projects receive reports of conduct violations, they should report them to conduct@openssf.org.
+All projects must follow the [OpenSSF Code of Conduct](https://openssf.org/community/code-of-conduct/), or, if a project has its own Code of Conduct, it must be reviewed and approved by the TAC. 
+
+If projects receive reports of conduct violations, they should report them to conduct@openssf.org.
 
 ### Vulnerability disclosure assistance
 
