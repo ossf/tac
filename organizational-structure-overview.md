@@ -29,7 +29,7 @@ The following table describes the main types of groups and their characteristics
 | Working Group (WG) | unbounded | not software | to the TAC | normative
 | WG w/ SIF | unbounded | not software | to the TAC | special fund
 | Project |	unbounded | software | either TAC or WG | normative
-| Project w/ SIF | unbounded | software | to the TAC | special fund
+| Project w/ SIF | unbounded | software (or service) | to the TAC | special fund
 | Special Interest Group (WG) | bounded | not software | to a WG | normative
 
 SIF = Specific Initiative Fund
@@ -40,7 +40,7 @@ SIF = Specific Initiative Fund
 * define **Contributors**
 * criteria for approving or disapproving a Charter (if not already here)
 
-## Ogranizational Chart
+## Organizational Chart
 
 Legend:
 - rounded box: entity is created by the OpenSSF governing charter
@@ -70,7 +70,8 @@ flowchart TB
         SCI[Supply Chain Integrity]
         SCP[Securing Critical Projects]
 
-        BP ---> P2[Example project]
+        ST ---> P2[Scorecards]
+        SCI ---> P3[SLSA]
     end
     B ====> subWG
 

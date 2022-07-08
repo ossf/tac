@@ -4,7 +4,7 @@ The OpenSSF's mission is to inspire and enable the community to secure the open 
 
 ## Project Life Cycle
 
-New projects to the OpenSSF, and progression through the project lifecycle, are approved by the Technical Advisory Committee (TAC). A project's oversight is provided by either the Technical Advisory Committee (TAC) or a specific Working Group (WG). When a Project reports into a specific WG, that WG can support the Project's progression and provide recommendations to the TAC.
+New projects to the OpenSSF, and progression through the project lifecycle, are approved by the Technical Advisory Council (TAC). A project's oversight is provided by either the Technical Advisory Council (TAC) or a specific Working Group (WG). When a Project reports into a specific WG, that WG can support the Project's progression and provide recommendations to the TAC.
 
 Projects follow the Sandbox, Incubating, Graduated, and Archived lifecycle stages defined below. Projects that seek widespread adoption and end user use are expected to progress through the stages. Projects coming to OpenSSF that already meet the entry requirements may enter the Incubating stage directly.
 
@@ -49,7 +49,7 @@ The OpenSSF Sandbox is the entry point for early stage Projects and has four goa
 
 #### Sandbox Entry Requirements and Considerations
 
-* Projects must have a minimum of two maintainers with different company affiliations.
+* Projects must have a minimum of two maintainers with different organization affiliations.
 * Projects must be aligned with the OpenSSF mission _and_ either be a novel approach for existing areas, address an unfulfilled need, or be initial code needed for OpenSSF WG work. It is preferred that extensions of existing OpenSSF projects collaborate with the existing project rather than seek a new project.
 * If contributing an existing Project to the OpenSSF, the contribution must undergo license and IP due diligence by the Linux Foundation (LF).
 
@@ -68,7 +68,7 @@ Incubating projects represent maturing but not fully realized projects. Incubati
 
 #### Project Support
 * Receives guidance on technical direction from TAC
-* Receive a TAC or WG sponsor for guidance as an Incubation project
+* Receives a TAC or WG sponsor for guidance as an Incubation project
 * Receives space for Contributor Summits at OpenSSF bi-annual events
 * Receives OpenSSF Code of Conduct Committee support
 * Receives infrastructure support (details determined by project leads and OpenSSF Budget Committee)
@@ -80,10 +80,10 @@ Incubating projects represent maturing but not fully realized projects. Incubati
 
 #### Incubation Entry Requirements and Considerations
 
-* Projects must have a minimum of three maintainers with a minimum of two different company affiliations.
+* Projects must have a minimum of three maintainers with a minimum of two different organization affiliations.
 * Projects should be able to show adoption by multiple parties and adoption's value to the open source community and/or end users (may include adoption of beta/early versions).
 * Projects must be aligned with the OpenSSF mission and either be a novel approach for existing areas, address an unfulfilled need, or be initial code needed for OpenSSF WG work. It is preferred that extensions of existing OpenSSF projects collaborate with the existing project rather than seek a new project.
-* Projects must have documented, initial project governance
+* Projects must have documented, initial project governance.
 
 #### Project Process: Sandbox to Incubation and direct entry to Incubation
 
@@ -111,7 +111,7 @@ Graduated projects signal the highest level of maturity for an OpenSSF project. 
 * Receives support with vulnerability disclosure from the OpenSSF (Vulnerability Disclosure WG)
 * May post project updates and tutorials to the OpenSSF blog
 * May request OpenSSF budget for project improvements such as security audits or time-bound contracting needs
-* May request OpenSSF for sustained maintainer stipends (details determined by OpenSSF and project leads)
+* May request OpenSSF budget for sustained maintainer stipends (details determined by OpenSSF and project leads)
 * With additional TAC or WG approval, may fundraise for dedicated project funds, coordinated by the OpenSSF
 * Projects may use the OpenSSF logo to promote their project (in accordance with the trademark guidelines). Projects may be referred to as an "OpenSSF Project" or "OpenSSF $ProjectName."
 
@@ -122,11 +122,11 @@ Graduated projects signal the highest level of maturity for an OpenSSF project. 
 * Projects must be able to show adoption by multiple parties, which could be production deployments or substantial use by established open source communities, and demonstrate the value of that adoption to either the end users or the open source community.
 * Projects must be able to show a consistent release cadence.
 * Projects must have documented project governance and be able to demonstrate that governance in action.
-* When applicable, projects must have completed a security audit through a third party and addressed audit findings and recommendations
+* When applicable, projects must have completed a security audit through a third party and addressed audit findings and recommendations.
 
 #### Project Graduation Process: Incubating to Graduation
 
-Graduation requires undergoing due diligence as a part of the process to move from Incubation to Graduation. Due Diligence is driven by a TAC or parent WG sponsor. For projects seeking Graduation, this may be a light refresh of the existing Due Diligence to cover the additional criteria, or a more in depth Due Diligence depending on the level of change the project has incurred since the original Due Diligence of Incubation was performed. Once the diligence is confirmed by the Sponsor to be complete and the proposal made, the Due Diligence document is made available to the community for two weeks the solicit public comment before a TAC vote is called.
+Graduation requires undergoing due diligence as a part of the process to move from Incubation to Graduation. Due diligence is driven by a TAC or parent WG sponsor. For projects seeking Graduation, this may be a light refresh of the existing due diligence to cover the additional criteria, or a more in depth due diligence depending on the level of change the project has incurred since the original due diligence of Incubation was performed. Once the diligence is confirmed by the Sponsor to be complete and the proposal made, the Due Diligence document is made available to the community for two weeks to solicit public comment before a TAC vote is called.
 
 
 
