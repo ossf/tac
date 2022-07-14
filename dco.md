@@ -6,7 +6,7 @@ from the developer, or that the developer has permission to submit the code.
 It provides some additional legal protections while being
 relatively easy to do.
 
-The [OpenSSF Charter](https://cdn.platform.linuxfoundation.org/agreements/openssf.pdf>)
+The [OpenSSF Charter](https://cdn.platform.linuxfoundation.org/agreements/openssf.pdf)
 section 5b requires DCOs. More specifically it says that
 "Technical Initiatives will require that all new inbound source
 code contributions must also be accompanied by a Developer Certificate
