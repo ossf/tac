@@ -1,9 +1,9 @@
 # Developer Certificate of Origin (DCO)
 
 A [*Developer Certificate of Origin (DCO)*](https://developercertificate.org/)
-is an affirmation that the source code being submitted originated
-from the developer, or that the developer has permission to submit the code. 
-It provides some additional legal protections while being
+is an affirmation that the developer contributing the proposed changes
+has the necessary rights to submit those changes.
+A DCO provides some additional legal protections while being
 relatively easy to do.
 
 The [OpenSSF Charter](https://cdn.platform.linuxfoundation.org/agreements/openssf.pdf)
