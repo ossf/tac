@@ -38,6 +38,11 @@ open source software), see:
 You can also enable
 [GitHub's feature to require signoff of commits made through the web UI](https://github.blog/changelog/2022-06-08-admins-can-require-sign-off-on-web-based-commits/).
 
+
+The email address must be, at the time the commit was created,
+a valid email address that can be used to effectively contact
+the committer if it is needed.
+
 Please note that NAME does *not* need to be a legal name.
 As explained by [Mike Dolan](https://github.com/cncf/foundation/issues/383#issuecomment-1178254458):
 
