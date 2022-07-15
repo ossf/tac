@@ -1,7 +1,7 @@
 ## Project incubation application
 
 ### List of project maintainers
-The project must have a minimum of three maintainers with a minimum of two different company affiliations.
+The project must have a minimum of three maintainers with a minimum of two different organizational affiliations.
   * "name, affiliation, GitHub ID"
 
 ### Mission of the project

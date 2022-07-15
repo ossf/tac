@@ -4,7 +4,7 @@ All OpenSSF projects receive support and resources from the Foundation. The type
 
 - Common requests
     - [Blogs](#communications-and-content)
-    - [Event space](#contribuor-meet-ups-at-OpenSSF-events)
+    - [Event space](#contributor-meet-ups-at-OpenSSF-events)
     - [Infrastructure](#infrastructure)
     - [Security audits](#security-audits-and-improvements)
     - [Code of Conduct support](#code-of-conduct-support)
@@ -16,11 +16,12 @@ All OpenSSF projects receive support and resources from the Foundation. The type
 To post on the OpenSSF blog, projects should contact the OpenSSF Marketing Committee with a blog draft two weeks before the requested publication date. The Committee does their best to accommodate requested publication dates, but projects should plan to be flexible during high-traffic times (e.g. events). Posts and timing is at the editorial discretion of the Marketing Committee; posts must follow the Code of Conduct, be relevant to the OpenSSF mission, and not promote vendor or commercial products. 
 
 To receive space in an OpenSSF newsletter, projects should contact the Marketing Committee a minimum of two weeks before the newsletter publication date. Projects are responsible for tracking due dates and submitting materials.
+
 Technical content should be reviewed by the TAC, and potentially other WG's or Committees as appropriate. This includes, but is not limited to: white papers, technical briefings, policy recommendations, etc. This does not include project-specific announcements, such as those relating to project milestone releases. 
 
-### Contributor meet ups at OpenSSF events
+### Contributor meetups at OpenSSF events
 
-Projects that would like contributor meet up space at OpenSSF events should contact the OpenSSF Marketing Committee with a request six months before the event date, or as soon as the event is announced if it is less than six months. Late requests may be accommodated but are not guaranteed. The events team handles room reservations, attendee registration if necessary, and connecting the project leads to event and facility support staff. Projects are responsible for organizing and running their own contributor meet up.
+Projects that would like contributor meetup space at OpenSSF events should contact the [OpenSSF Operations team](mailto:operations@openssf.org) with a request six months before the event date, or as soon as the event is announced if it is less than six months. Late requests may be accommodated but are not guaranteed. The events team handles room reservations, attendee registration if necessary, and connecting the project leads to event and facility support staff. Projects are responsible for organizing and running their own contributor meetup.
 
 ### Swag
 
@@ -32,7 +33,7 @@ Requests that go through the OpenSSF Budget Committee are reviewed at regularly 
 ### Infrastructure
 
 _Program TBD as of June 2022. Intended program details below._
-Central infrastructure is available to qualifying projects for test and build support. Projects should submit requests on an annual basis to the OpenSSF Budget Committee, a minimum of three months before the requested start date. Projects are responsible for submitting a resource forecast with their request. The Budget Committee and project will work together to agree on minimum infrastructure support based on annual budget. Projects are responsible for communicating to the Budget Committee if there are anticipated increases (including spike events) arise. 
+Central infrastructure is available to qualifying projects for test and build support. Projects should submit requests on an annual basis to the OpenSSF Budget Committee, a minimum of three months before the requested start date. Projects are responsible for submitting a resource forecast with their request. The Budget Committee and project will work together to agree on minimum infrastructure support based on annual budget. Projects are responsible for communicating to the Budget Committee if unanticipated increases (including spike events) arise. 
 
 ### Maintainer stipends
 
@@ -41,15 +42,13 @@ Limited, time-bound maintainer stipends for specified project improvements may b
 
 ### Security audits and improvements
 
-Qualifying projects may request funding for security audits and other services offered by third party security professionals. Before creating a request for proposals, projects should confirm funding availability with the OpenSSF Budget Committee. After receiving proposals, projects should request their selected proposal be funded through the Budget Committee. Projects who need assistance creating an RFP should contact the OpenSSF Planning Committee. RFPs must be posted in a public channel(s) (GitHub issue, mailing list). OpenSSF member companies may bid on RFPs. 
+Qualifying projects may request funding for security audits and other services offered by third party security professionals. Before creating a request for proposals, projects should confirm funding availability with the OpenSSF Budget Committee. After receiving proposals, projects should request their selected proposal be funded through the Budget Committee. Projects that need assistance creating an RFP should contact the OpenSSF Planning Committee. RFPs must be posted in a public channel(s) (GitHub issue, mailing list). OpenSSF member companies may bid on RFPs.
 
 ## Other
 
 ### Code of Conduct support
 
 All projects must follow the [OpenSSF Code of Conduct](https://openssf.org/community/code-of-conduct/), or, if a project has its own Code of Conduct, it must be reviewed and approved by the TAC. 
-
-If projects receive reports of conduct violations, they should report them to conduct@openssf.org.
 
 ### Vulnerability disclosure assistance
 
