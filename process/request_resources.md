@@ -33,7 +33,7 @@ Requests that go through the OpenSSF Budget Committee are reviewed at regularly 
 ### Infrastructure
 
 _Program TBD as of June 2022. Intended program details below._
-Central infrastructure is available to qualifying projects for test and build support. Projects should submit requests on an annual basis to the OpenSSF Budget Committee, a minimum of three months before the requested start date. Projects are responsible for submitting a resource forecast with their request. The Budget Committee and project will work together to agree on minimum infrastructure support based on annual budget. Projects are responsible for communicating to the Budget Committee if unanticipated increases (including spike events) arise. 
+Central infrastructure is available to qualifying projects for test and build support. Projects should submit requests on an annual basis to the OpenSSF Budget Committee, a minimum of three months before the requested start date. Projects are responsible for submitting a resource forecast with their request. The Budget Committee and project will work together to agree on minimum infrastructure support based on annual budget. Projects are responsible for communicating to the Budget Committee if unexpected increases (including spike events) arise. 
 
 ### Maintainer stipends
 
