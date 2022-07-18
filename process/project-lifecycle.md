@@ -42,7 +42,7 @@ The OpenSSF Sandbox is the entry point for early stage Projects and has four goa
 
 #### Project Support
 * Receives guidance on technical direction from TAC.
-* Receives space for Contributor Summits at OpenSSF bi-annual events.
+* Receives consideration as in-scope for any submission to an OpenSSF-managed conference or event.
 * Receives OpenSSF Code of Conduct Committee support.
 * Reserved space for project updates in OpenSSF newsletters.
 * May request infrastructure support from the OpenSSF.
@@ -72,7 +72,7 @@ Incubating projects represent maturing but not fully realized projects. Incubati
 #### Project Support
 * Receives guidance on technical direction from TAC.
 * Receives a TAC or WG sponsor for guidance as an Incubation project.
-* Receives space for Contributor Summits at OpenSSF bi-annual events.
+* Receives consideration as in-scope for any submission to an OpenSSF-managed conference or event.
 * Receives OpenSSF Code of Conduct Committee support.
 * Receives infrastructure support (details determined by project leads and OpenSSF Budget Committee).
 * Receives support with vulnerability disclosure from the OpenSSF (Vulnerability Disclosure WG).
@@ -109,7 +109,7 @@ Graduated projects signal the highest level of maturity for an OpenSSF project. 
 
 #### Project Support
 * Receives guidance on technical direction from TAC.
-* Receives space for Contributor Summits at OpenSSF bi-annual events.
+* Receives consideration as in-scope for any submission to an OpenSSF-managed conference or event.
 * Receives OpenSSF Code of Conduct Committee support.
 * Receives infrastructure support (details determined by project leads and OpenSSF Budget Committee).
 * Receives support with vulnerability disclosure from the OpenSSF (Vulnerability Disclosure WG).
@@ -181,4 +181,4 @@ The TAC members review the PR and upon approval according to voting criteria def
 
 ### IP policy and license review
 
-Contributing an existing project to the OpenSSF requires a one-time IP policy and license review with The Linux Foundation. To enable tracking of the IP policy and license review process, an issue in the TAC repo should be created. The results of the review as well as all relevant data (e.g., results of license scans) must be attached to this issue. Finally, the issue must be mentioned in the project creation PR and the latter can only be merged once the issue tracking the IP policy and license review has been closed.
+Contributing an existing project to the OpenSSF requires a one-time IP policy and license review with The Linux Foundation. To enable tracking of the IP policy and license review process, an issue in the TAC repo must be created. The results of the review as well as all relevant data (e.g., results of license scans) must be attached to this issue. Finally, the issue must be mentioned in the project creation PR and the latter can only be merged once the issue tracking the IP policy and license review has been closed.
