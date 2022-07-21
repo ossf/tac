@@ -1,7 +1,7 @@
 
 # I. Overview
 
-This document describes the Open Source Security Foundation (OpenSSF) life cycle process for Technical Initiatives, both Working Groups, Projects, and Special Interest Groups (SIG).
+This document describes the Open Source Security Foundation (OpenSSF) life cycle process for Technical Initiatives, inclusive of Working Groups, Projects, and Special Interest Groups (SIG).
 
 The authority that governs this process is as follows:
 

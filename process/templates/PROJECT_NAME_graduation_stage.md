@@ -1,7 +1,7 @@
 ## Project graduation application
 
 ### List of project maintainers
-The project must have maintainers with a minimum of three different company affiliations.
+The project must have maintainers with a minimum of three different organizational affiliations.
   * "name, affiliation, GitHub ID"
 
 ### Mission of the project
