@@ -54,7 +54,7 @@ flowchart TB
     subgraph subC[Committees]
         direction TB
         Market[Marketing]
-        Budget[Bugdet and Finance]
+        Budget[Budget and Finance]
         Plan[Planning and Adviosry]
         Policy[Public Policy]
     end
@@ -63,11 +63,11 @@ flowchart TB
 
     subgraph subWG[Working Groups]
         BP[Best Practices]
-        VD[Vulnerability Disclosures]
         IST[Identifying Security Threats]
-        ST[Security Tooling]
         SCI[Supply Chain Integrity]
         SCP[Securing Critical Projects]
+        ST[Security Tooling]
+        VD[Vulnerability Disclosures]
 
         ST ---> P2[Scorecards]
         SCI ---> P3[SLSA]
@@ -77,7 +77,7 @@ flowchart TB
     B ----> P1[Example Project]
 
     subgraph subSIF[Special Initiative Funds]
-        ss[SigStore]
+        ss[sigstore]
         ao[Alpha-Omega]
         gti[GNU Toolchain Infra]
     end
