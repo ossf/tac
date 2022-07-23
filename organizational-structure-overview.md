@@ -64,6 +64,7 @@ flowchart TB
     subgraph subWG[Working Groups]
         BP[Best Practices]
         IST[Identifying Security Threats]
+        REP[Securing Software Repos]
         SCI[Supply Chain Integrity]
         SCP[Securing Critical Projects]
         ST[Security Tooling]
