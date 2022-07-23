@@ -55,7 +55,7 @@ flowchart TB
         direction TB
         Market[Marketing]
         Budget[Budget and Finance]
-        Plan[Planning and Adviosry]
+        Plan[Planning and Advisory]
         Policy[Public Policy]
     end
     A <==> subC
