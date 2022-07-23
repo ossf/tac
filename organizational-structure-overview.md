@@ -26,16 +26,11 @@ The following table describes the main types of groups and their characteristics
 | Initiative | Expected lifespan | Primary output| Reporting relationship |	Economic model
 |------------|-------------------|---------------|------------------------|---------------
 | Working Group (WG) | unbounded | not software | to the TAC | normative
-| WG w/ SIF | unbounded | not software | to the TAC | special fund
 | Project |	unbounded | software | either TAC or WG | normative
-| Project w/ SIF | unbounded | software (or service) | to the TAC | special fund
 | Special Interest Group (WG) | bounded | not software | to a WG | normative
-
-SIF = Specific Initiative Fund
 
 ### TODO
 
-* define **SIF** 
 * define **Contributors**
 * criteria for approving or disapproving a Charter (if not already here)
 
@@ -76,12 +71,4 @@ flowchart TB
     B ====> subWG
 
     B ----> P1[Example Project]
-
-    subgraph subSIF[Special Initiative Funds]
-        ss[sigstore]
-        ao[Alpha-Omega]
-        gti[GNU Toolchain Infra]
-    end
-    B ==technical oversight==> subSIF
-    A --budgetary oversight--> subSIF
 ```
