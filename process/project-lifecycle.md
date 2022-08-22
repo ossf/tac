@@ -66,7 +66,7 @@ Incubating projects represent maturing but not fully realized projects. Incubati
 #### Project Responsibilities
 * Provides bi-annual updates to the TAC on technical vision and progress on vision.
 * Maintains a diversified contributor base (i.e. not a single-vendor project) with an active flow of contributions.
-* Follows security best practices (as recommended by the OpenSSF and others).
+* Follows security best practices (as recommended by the OpenSSF and others), including passing the [OpenSSF Best Practices criteria](https://bestpractices.coreinfrastructure.org/en/criteria/0).
 * Maintains a point of contact for vulnerability reports.
 * Implements, practices, and refines mature software development and release practices such as following a version schema.
 * Begins to establish the appropriate governance that enables its sustainment for potential graduation.
