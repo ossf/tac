@@ -17,9 +17,9 @@ The OpenSSF is comprised of instances of the following categories of official gr
    - Technical Initiatives usually manage one or more GitHub repos of their own and may have separate meetings.
 - A **Project** is a Technical Initiative focused on the development and ongoing support of open source licensed software (source code) and its supporting artifacts (technical documentation, etc.).
 - A **Working Group** (WG) focuses on developing other types of deliverables than software such as guides, specifications, and educational material, or conducting initiatives such as an education outreach. While a WG does not produce open source software as a primary artifact it may launch Projects that do so. A WG may also launch Special Interest Groups (SIG) to perform specific tasks. WGs often include some open source code, or use licensed software, in fulfilment of their Charter.
-- **Special Interest Groups** (SIG) are under the direct governance of their reporting WGs and are bound to achieving a very specific goal. 
-- A **Technical Deliverable** can be an open source licensed software and its supporting artifacts, a specification, or a technical guide. This is a technical artifact produced by a Technical Initiative.
-- A **Service** is a Technical Initiative in which software is either built or acquired to support or automate OSSF transactions.
+- **Special Interest Groups** (SIG) are under the direct governance of their reporting WGs and are bound to achieving a very specific goal. These groups may be terminated upon completion of their designating tasking, continued for larger and ongoing efforts, or otherwise subject to the governance, structure, and termination policies of the WG they are under. The creation of a SIG must dictate the focus, intent, goals, and deliverable(s) as appropriate.
+- A **Technical Deliverable** can be an open source licensed software and its supporting artifacts, a specification, a technical guide, or a service. Produced by a Technical Initiative, Technical Deliverables are a technical artifact or an ongoing service offering in the public domain. Refer to **Service** for additional clarity service offerings.
+  - A **Service** is a Technical Deliverable in which software is either built or acquired to support or automate OSSF transactions.
 
 The following table describes the main types of groups and their characteristics.
 

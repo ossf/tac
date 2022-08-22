@@ -51,7 +51,7 @@ The OpenSSF Sandbox is the entry point for early stage Projects and has four goa
 #### Sandbox Entry Requirements and Considerations
 
 * Projects must have a minimum of two maintainers with different organization affiliations.
-* Projects must be aligned with the OpenSSF mission _and_ either be a novel approach for existing areas, address an unfulfilled need, or be initial code needed for OpenSSF WG work. It is preferred that extensions of existing OpenSSF projects collaborate with the existing project rather than seek a new project.
+* Projects must be aligned with the OpenSSF mission _and_ either be a novel approach for existing areas or address an unfulfilled need. It is expected that the initial code needed for an OpenSSF WG to work be kept within their repository and will not function as a project in its own right. Should initial WG code grow and mature that it warrants its own Project status, then it is subject to Sandbox entry requirements. It is preferred that extensions of existing OpenSSF projects collaborate with the existing project rather than seek a new project.
 * If contributing an existing Project to the OpenSSF, the contribution must undergo license and IP due diligence by the Linux Foundation (LF).
 
 See [Submission Process](#submission-process) below and [Sandbox application](templates/PROJECT_NAME_sandbox_stage.md).
@@ -84,8 +84,8 @@ Incubating projects represent maturing but not fully realized projects. Incubati
 #### Incubation Entry Requirements and Considerations
 
 * Projects must have a minimum of three maintainers with a minimum of two different organization affiliations.
-* Projects should be able to show adoption by multiple parties and adoption's value to the open source community and/or end users (may include adoption of beta/early versions).
-* Projects must be aligned with the OpenSSF mission and either be a novel approach for existing areas, address an unfulfilled need, or be initial code needed for OpenSSF WG work. It is preferred that extensions of existing OpenSSF projects collaborate with the existing project rather than seek a new project.
+* Projects should be able to show adoption by multiple parties and adoption's value to the open source community and/or end users (may include adoption of beta/early versions) with the intent to showcase wide adoption by the project's consumers.
+* Projects must be aligned with the OpenSSF mission _and_ either be a novel approach for existing areas or address an unfulfilled need. It is expected that the initial code needed for an OpenSSF WG to work be kept within their repository and will not function as a project in its own right. Should initial WG code grow and mature that it warrants its own Project status, then it is subject to Sandbox entry requirements. It is preferred that extensions of existing OpenSSF projects collaborate with the existing project rather than seek a new project.
 * Projects must have documented, initial project governance.
 
 #### Project Process: Sandbox to Incubation and direct entry to Incubation
@@ -123,7 +123,7 @@ Graduated projects signal the highest level of maturity for an OpenSSF project. 
 
 * Projects must have maintainers with a minimum of three different organizational affiliations.
 * Projects must be aligned with the OpenSSF mission and be a novel approach for existing areas or address an unfulfilled need. Projects with duplicate, similar or competing fuctionality to an existing OpenSSF project may be denied Graduation status if the TAC does not see technical justification for overlapping projects.
-* Projects must be able to show adoption by multiple parties, which could be production deployments or substantial use by established open source communities, and demonstrate the value of that adoption to either the end users or the open source community.
+* Projects must be able to show adoption by multiple parties, which could be production deployments or substantial use by established open source communities, and demonstrate the value of that adoption to either the end users or the open source community —  effectively wide adoption by the project's consumers.
 * Projects must be able to show a consistent release cadence.
 * Projects must have documented project governance and be able to demonstrate that governance in action.
 * When applicable, projects must have completed a security audit through a third party and addressed audit findings and recommendations.
