@@ -4,9 +4,11 @@ The OpenSSF's mission is to inspire and enable the community to secure the open 
 
 ## Project Life Cycle
 
-New [Projects](../organizational-structure-overview.md#definitions) to the OpenSSF, and progression through the project lifecycle, are approved by the Technical Advisory Council (TAC). A project's oversight is provided by either the Technical Advisory Council (TAC) or a specific Working Group (WG). When a Project reports into a specific WG, that WG can support the Project's progression and provide recommendations to the TAC.
+New [Projects](../organizational-structure-overview.md#definitions) to the OpenSSF, and progression through the project lifecycle, are approved by the Technical Advisory Council (TAC). Projects follow the Sandbox, Incubating, Graduated, and Archived lifecycle stages defined below. Projects that seek widespread adoption and end user use are expected to progress through the stages. Projects coming to OpenSSF that already meet the entry requirements may enter the Incubating stage directly.
 
-Projects follow the Sandbox, Incubating, Graduated, and Archived lifecycle stages defined below. Projects that seek widespread adoption and end user use are expected to progress through the stages. Projects coming to OpenSSF that already meet the entry requirements may enter the Incubating stage directly.
+## Project Oversight
+
+Projects report either directly to the Technical Advisory Council (TAC) or to a specific Working Group (WG). When a Project reports into a specific WG, that WG can support the Project's progression and provide recommendations to the TAC. The overseeing group provides Projects advice on technical direction, and is a point of escalation or dispute resolution in technical disagreements. The overseeing group does not set the charter or operations for Projects, but ensures Projects operate in line with the [OpenSSF values.](https://openssf.org/about/values/) 
 
 <!-- TOC -->
 
