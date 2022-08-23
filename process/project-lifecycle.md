@@ -40,6 +40,7 @@ The OpenSSF Sandbox is the entry point for early stage Projects and has four goa
 #### Project Responsibilities
 * Provides bi-annual updates to the TAC on technical vision and progress on vision.
 * Maintains a diversified contributor base (i.e. not a single-vendor project).
+* Follows security best practices (as recommended by the OpenSSF and others), including passing the [OpenSSF Best Practices criteria](https://bestpractices.coreinfrastructure.org/en/criteria/0).
 * Provides project updates to OpenSSF Marketing Committee as requested.
 
 #### Project Support
@@ -66,7 +67,7 @@ Incubating projects represent maturing but not fully realized projects. Incubati
 #### Project Responsibilities
 * Provides bi-annual updates to the TAC on technical vision and progress on vision.
 * Maintains a diversified contributor base (i.e. not a single-vendor project) with an active flow of contributions.
-* Follows security best practices (as recommended by the OpenSSF and others), including passing the [OpenSSF Best Practices criteria](https://bestpractices.coreinfrastructure.org/en/criteria/0).
+* Follows security best practices (as recommended by the OpenSSF and others), including achieving a [Silver OpenSSF Best Practices badge](https://bestpractices.coreinfrastructure.org/en/criteria).
 * Maintains a point of contact for vulnerability reports.
 * Implements, practices, and refines mature software development and release practices such as following a version schema.
 * Begins to establish the appropriate governance that enables its sustainment for potential graduation.
@@ -105,7 +106,7 @@ Graduated projects signal the highest level of maturity for an OpenSSF project. 
 
 * Provides bi-annual updates to the TAC on technical vision and progress on vision.
 * Maintains a diversified contributor base (i.e. not a single-vendor project) with an active flow of contributions.
-* Follows security best practices, including achieving a [Silver OpenSSF Best Practices badge](https://bestpractices.coreinfrastructure.org/en/criteria).
+* Follows security best practices, including achieving a [Gold OpenSSF Best Practices badge](https://bestpractices.coreinfrastructure.org/en/criteria).
 * Maintains a point of contact for vulnerability reports and follow coordinated vulnerability disclosure practices.
 * Implements, practices, and refines mature software development and release practices, such as adherence to semantic versioning, and having a declared policy for stable releases and backported fixes.
 
