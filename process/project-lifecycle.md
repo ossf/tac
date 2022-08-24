@@ -4,9 +4,11 @@ The OpenSSF's mission is to inspire and enable the community to secure the open 
 
 ## Project Life Cycle
 
-New [Projects](../organizational-structure-overview.md#definitions) to the OpenSSF, and progression through the project lifecycle, are approved by the Technical Advisory Council (TAC). A project's oversight is provided by either the Technical Advisory Council (TAC) or a specific Working Group (WG). When a Project reports into a specific WG, that WG can support the Project's progression and provide recommendations to the TAC.
+New [Projects](../organizational-structure-overview.md#definitions) to the OpenSSF, and progression through the project lifecycle, are approved by the Technical Advisory Council (TAC). Projects follow the Sandbox, Incubating, Graduated, and Archived lifecycle stages defined below. Projects that seek widespread adoption and end user use are expected to progress through the stages. Projects coming to OpenSSF that already meet the entry requirements may enter the Incubating stage directly.
 
-Projects follow the Sandbox, Incubating, Graduated, and Archived lifecycle stages defined below. Projects that seek widespread adoption and end user use are expected to progress through the stages. Projects coming to OpenSSF that already meet the entry requirements may enter the Incubating stage directly.
+## Project Oversight
+
+Projects report either directly to the Technical Advisory Council (TAC) or to a specific Working Group (WG). When a Project reports into a specific WG, that WG can support the Project's progression and provide recommendations to the TAC. The overseeing group provides Projects advice on technical direction, and is a point of escalation or dispute resolution in technical disagreements. The overseeing group does not set the charter or operations for Projects, but ensures Projects operate in line with the [OpenSSF values.](https://openssf.org/about/values/) 
 
 <!-- TOC -->
 
@@ -38,6 +40,7 @@ The OpenSSF Sandbox is the entry point for early stage Projects and has four goa
 #### Project Responsibilities
 * Provides bi-annual updates to the TAC on technical vision and progress on vision.
 * Maintains a diversified contributor base (i.e. not a single-vendor project).
+* Follows security best practices (as recommended by the OpenSSF and others), including passing the [OpenSSF Best Practices criteria](https://bestpractices.coreinfrastructure.org/en/criteria/0).
 * Provides project updates to OpenSSF Marketing Committee as requested.
 
 #### Project Support
@@ -51,7 +54,7 @@ The OpenSSF Sandbox is the entry point for early stage Projects and has four goa
 #### Sandbox Entry Requirements and Considerations
 
 * Projects must have a minimum of two maintainers with different organization affiliations.
-* Projects must be aligned with the OpenSSF mission _and_ either be a novel approach for existing areas, address an unfulfilled need, or be initial code needed for OpenSSF WG work. It is preferred that extensions of existing OpenSSF projects collaborate with the existing project rather than seek a new project.
+* Projects must be aligned with the OpenSSF mission _and_ either be a novel approach for existing areas or address an unfulfilled need. It is expected that the initial code needed for an OpenSSF WG to work be kept within their repository and will not function as a project in its own right. Should initial WG code grow and mature that it warrants its own Project status, then it is subject to Sandbox entry requirements. It is preferred that extensions of existing OpenSSF projects collaborate with the existing project rather than seek a new project.
 * If contributing an existing Project to the OpenSSF, the contribution must undergo license and IP due diligence by the Linux Foundation (LF).
 
 See [Submission Process](#submission-process) below and [Sandbox application](templates/PROJECT_NAME_sandbox_stage.md).
@@ -64,7 +67,7 @@ Incubating projects represent maturing but not fully realized projects. Incubati
 #### Project Responsibilities
 * Provides bi-annual updates to the TAC on technical vision and progress on vision.
 * Maintains a diversified contributor base (i.e. not a single-vendor project) with an active flow of contributions.
-* Follows security best practices (as recommended by the OpenSSF and others).
+* Follows security best practices (as recommended by the OpenSSF and others), including achieving a [Silver OpenSSF Best Practices badge](https://bestpractices.coreinfrastructure.org/en/criteria).
 * Maintains a point of contact for vulnerability reports.
 * Implements, practices, and refines mature software development and release practices such as following a version schema.
 * Begins to establish the appropriate governance that enables its sustainment for potential graduation.
@@ -84,8 +87,8 @@ Incubating projects represent maturing but not fully realized projects. Incubati
 #### Incubation Entry Requirements and Considerations
 
 * Projects must have a minimum of three maintainers with a minimum of two different organization affiliations.
-* Projects should be able to show adoption by multiple parties and adoption's value to the open source community and/or end users (may include adoption of beta/early versions).
-* Projects must be aligned with the OpenSSF mission and either be a novel approach for existing areas, address an unfulfilled need, or be initial code needed for OpenSSF WG work. It is preferred that extensions of existing OpenSSF projects collaborate with the existing project rather than seek a new project.
+* Projects should be able to show adoption by multiple parties and adoption's value to the open source community and/or end users (may include adoption of beta/early versions) with the intent to showcase wide adoption by the project's consumers.
+* Projects must be aligned with the OpenSSF mission _and_ either be a novel approach for existing areas or address an unfulfilled need. It is expected that the initial code needed for an OpenSSF WG to work be kept within their repository and will not function as a project in its own right. Should initial WG code grow and mature that it warrants its own Project status, then it is subject to Sandbox entry requirements. It is preferred that extensions of existing OpenSSF projects collaborate with the existing project rather than seek a new project.
 * Projects must have documented, initial project governance.
 
 #### Project Process: Sandbox to Incubation and direct entry to Incubation
@@ -103,7 +106,7 @@ Graduated projects signal the highest level of maturity for an OpenSSF project. 
 
 * Provides bi-annual updates to the TAC on technical vision and progress on vision.
 * Maintains a diversified contributor base (i.e. not a single-vendor project) with an active flow of contributions.
-* Follows security best practices, including achieving a [Silver OpenSSF Best Practices badge](https://bestpractices.coreinfrastructure.org/en/criteria).
+* Follows security best practices, including achieving a [Gold OpenSSF Best Practices badge](https://bestpractices.coreinfrastructure.org/en/criteria).
 * Maintains a point of contact for vulnerability reports and follow coordinated vulnerability disclosure practices.
 * Implements, practices, and refines mature software development and release practices, such as adherence to semantic versioning, and having a declared policy for stable releases and backported fixes.
 
@@ -123,7 +126,7 @@ Graduated projects signal the highest level of maturity for an OpenSSF project. 
 
 * Projects must have maintainers with a minimum of three different organizational affiliations.
 * Projects must be aligned with the OpenSSF mission and be a novel approach for existing areas or address an unfulfilled need. Projects with duplicate, similar or competing fuctionality to an existing OpenSSF project may be denied Graduation status if the TAC does not see technical justification for overlapping projects.
-* Projects must be able to show adoption by multiple parties, which could be production deployments or substantial use by established open source communities, and demonstrate the value of that adoption to either the end users or the open source community.
+* Projects must be able to show adoption by multiple parties, which could be production deployments or substantial use by established open source communities, and demonstrate the value of that adoption to either the end users or the open source community —  effectively wide adoption by the project's consumers.
 * Projects must be able to show a consistent release cadence.
 * Projects must have documented project governance and be able to demonstrate that governance in action.
 * When applicable, projects must have completed a security audit through a third party and addressed audit findings and recommendations.
