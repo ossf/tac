@@ -64,6 +64,7 @@ flowchart TB
 
     subgraph subWG[Working Groups]
         BP[Best Practices]
+        EU[End Users]
         IST[Identifying Security Threats]
         REP[Securing Software Repos]
         SCI[Supply Chain Integrity]
