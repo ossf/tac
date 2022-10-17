@@ -8,30 +8,65 @@ We envision a future where participants in the open source ecosystem use and sha
 
 The Open Source Security Foundation (OpenSSF) provides tools, services, training, infrastructure, and resources to achieve this vision.
 
+---
+
 # OpenSSF Technical Vision (v2 proposed)
+
+> _Note: the bullet points that are included below in block quotes would not be included in the final version of the vision, but are listed for reference/discussion._
 
 An aspirational view of the future we seek to create in 2-5 years:
 
-- OpenSSF is a well-respected strategic partner to both large OSS foundations and individual OSS projects
-    - Clearly positioned within ecosystem with a clear charter
-    - Catalyst for change and improving “secure by default”
-    - Trusted voice to consumers, producers, and market
-- Regardless of (programming language, VCS, CI platform, etc), consumers of OSS can rely on clear & consistent trusted signals of:
-    - Provenance of source code & artifacts
-    - Security posture of projects and artifacts
-    - Community health
-    - Maintainer intent (e.g. project archived, not responsive to PRs, etc)
-    - Consumer demand
-    - ...
-- Producers of OSS (at all levels of skill) have access to:
-    - Best practices guides, education, etc
-    - Extremely low-friction tooling to make security processes less onerous, more accurate, and trusted (burden of maintenance offloaded through opt-in automation)
-    - Ability to start new projects from a more secure default position
-    - ...
-- OpenSSF is an influential advocate of efforts that are aligned with OpenSSF's mission
-    - Meaningful, actionable standards (e.g. SBOM formats?)
-    - Interests and motivations of all parties are respected
-    - Catalyze improvements / action
-    - Ensure sufficient staffing, auditing, pen testing, rigor
-    - Multi-factor authentication
-    - ...
+### OpenSSF is a well-respected strategic partner to both large OSS foundations and individual OSS projects
+- Clearly positioned within broader ecosystem with a clear charter
+- Catalyst for change and improving “secure by default”
+- Trusted voice to consumers, producers, and market
+
+> Approaches to achieve the above statement:
+> - (proposed) Update OpenSSF website to reflect updated positioning
+> - (proposed) Ensure we have specific segmentation strategies for targeted audiences
+> - (proposed) Regular TAC / GB interlock with other OSS foundations with regular feedback into (annual?) planning cycles
+> - (proposed) Content / marketing plan with measurements on reach and impact
+> - Alpha/Omega: how to position?
+> - Securing Software Repositories WG
+> - Operator or financial sponsor of common centralized services (e.g. OSS-SIRT, MFA help desk, OpenSSF office hours)
+
+### OpenSSF is an influential advocate for efforts that are aligned with its mission
+- Support development and use of meaningful, actionable standards (e.g. SBOM formats, MFA?)
+- Catalyze improvements / action through targeted investment
+- ...
+
+> Approaches to achieve the above statement:
+> - Oversees time-bound projects to advocate for specific outcomes, e.g.
+>     - Great MFA distribution project
+>     - Sponsor of audits (via OSTIF & others) for critical projects
+> - TAC endorsement of specific standards-track efforts, to be incorporated across other OpenSSF foundation workstreams
+>     - Direct funding / staffing on tooling and adoption efforts (e.g. SPDX-Python)?
+>     - _question_: would it make sense to mandate use of the standard within foundation-hosted projects?
+> - (proposed) Engagement across platforms where developers already are (meetups, conferences, StackOverflow, etc)
+>     - _idea_: should OpenSSF hire dev-rel resources to staff this?
+
+### Regardless of (programming language, VCS, CI platform, etc), consumers of OSS can rely on clear & consistent trusted signals of:
+- Provenance of source code & artifacts
+- Security posture of projects and artifacts
+- Community health
+- Maintainer intent (e.g. project archived, not responsive to PRs, etc)
+- Consumer demand / criticality score(?)
+- ...
+
+> Approaches to achieve the above statement:
+> - OpenSSF hosts projects that produce these signals and/or make them trustworthy and actionable
+>     - OpenSSF funds the adoption of its projects (via SOS)
+> - OpenSSF hosts working groups that provide guidance on how to make use these signals
+> - Badging programs for projects
+> - End Users WG
+
+### Producers of OSS (at all skill levels; also explicitly are consumers of OSS through dependencies) have access to:
+- Best practices guides, education, etc
+- Extremely low-friction tooling to make security processes less onerous, more accurate, and trusted (burden of maintenance offloaded through opt-in automation)
+- Ability to start new projects from a more secure default position
+- Ensure sufficient staffing, auditing, pen testing, rigor for critical projects
+- ...
+
+> Approaches to achieve the above statement:
+> - OpenSSF hosts projects that produce tools that minimizes burden on project maintainers
+> - OpenSSF hosts working groups that publish & maintain recommendations on how to produce secure OSS, interface with consumers, etc
