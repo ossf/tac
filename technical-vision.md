@@ -10,6 +10,23 @@ The Open Source Security Foundation (OpenSSF) provides tools, services, training
 
 ---
 
+# OpenSSF Values (pulled from [https://openssf.org/about/values/](https://openssf.org/about/values/))
+- **Public good**: We believe the security of open source is a public good and as an industry we have an obligation to address it for the commonwealth of the community.
+
+- **Openness and Transparency**: We commit to encouraging all interested stakeholders to participate in the foundation and its working groups. The foundation’s work will be made publicly available.
+
+- **Maintainers** First: We approach the work of contributing to improving the security of open source software with a strong respect for open source maintainers and developers, with an intent to create resources and tooling to help scale security improvements to benefit the open source ecosystem as a whole.
+
+- **Diversity, Inclusion, and Representation**: We work to actively invite and include people from a range of backgrounds, locations, identities, and perspectives, and promote a culture of mutual respect and inclusiveness as a requirement for participation
+
+- **Agility and Delivery**: We work to deliver concrete and useful outputs and tools to help make open source more secure. We do so in a manner that enables us to learn from experience and experiment, and improve our outputs accordingly.
+
+- **Credit where credit is due**: We commit to a culture where people’s contributions are recognized and acknowledged fairly.
+
+- **Neutrality**: We don’t bias toward any ecosystem, vendor or platforms.
+
+- **Empathy**: We recognize and understand each other’s challenges, perspective and circumstances. We commit to a culture of listening and caring for multiple opinions.
+
 # OpenSSF Technical Vision (v2 proposed)
 
 > _Note: the bullet points that are included below in block quotes would not be included in the final version of the vision, but are listed for reference/discussion._
@@ -45,7 +62,7 @@ An aspirational view of the future we seek to create in 2-5 years:
 > - (proposed) Engagement across platforms where developers already are (meetups, conferences, StackOverflow, etc)
 >     - _idea_: should OpenSSF hire dev-rel resources to staff this?
 
-### Regardless of (programming language, VCS, CI platform, etc), consumers of OSS can rely on clear & consistent trusted signals of:
+### Consumers of OSS can leverage clear & consistent trusted signals to better understand the security profile of open source content:
 - Provenance of source code & artifacts
 - Security posture of projects and artifacts
 - Community health
