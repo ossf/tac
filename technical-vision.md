@@ -15,7 +15,7 @@ The Open Source Security Foundation (OpenSSF) provides tools, services, training
 
 - **Openness and Transparency**: We commit to encouraging all interested stakeholders to participate in the foundation and its working groups. The foundation’s work will be made publicly available.
 
-- **Maintainers** First: We approach the work of contributing to improving the security of open source software with a strong respect for open source maintainers and developers, with an intent to create resources and tooling to help scale security improvements to benefit the open source ecosystem as a whole.
+- **Maintainers First**: We approach the work of contributing to improving the security of open source software with a strong respect for open source maintainers and developers, with an intent to create resources and tooling to help scale security improvements to benefit the open source ecosystem as a whole.
 
 - **Diversity, Inclusion, and Representation**: We work to actively invite and include people from a range of backgrounds, locations, identities, and perspectives, and promote a culture of mutual respect and inclusiveness as a requirement for participation
 
