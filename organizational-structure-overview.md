@@ -72,11 +72,11 @@ flowchart TB
         ST[Security Tooling]
         VD[Vulnerability Disclosures]
 
-        BP ---> Allstar[Allstar]
         BP ---> Scorecard[Scorecard]
         IST ---> SecurityInsights[Security Insights]
         IST ---> SecurityMetrics[Security Metrics]
         SCI ---> SLSA[SLSA]
+        SCP ---> Allstar[Allstar]
         SCP ---> CriticalityScore[Criticality Score]
         SCP ---> PackageAnalysis[Package Analysis]
         SCP ---> PackageFeeds[Package Feeds]
