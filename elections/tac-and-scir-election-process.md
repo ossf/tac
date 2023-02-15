@@ -7,7 +7,7 @@ This document outlines the election process for the OpenSSF Technical Advisory C
 
 Any contributor to OpenSSF working groups, SIGs, or projects is eligible to participate in the election.
 Valid contributions include: commits or submitted pull requests via Github; public edits or comments on Google docs or other work products associated with OpenSSF; posting messages to any mailing list or on Slack; and beyond that any other form of positive engagement with OpenSSF activities.
-The form asks you for an example of your contributions; this is merely to make it easier for the Election Officials and OpenSSF staff to validate eligability.
+The voter eligibility form asks you for an example of your contributions; this is merely to make it easier for the Election Officials and OpenSSF staff to validate eligibility.
 If you have in any way been involved in or care about OpenSSF, but are in doubt as to whether your contribution “counts”, please fill it out anyways, and we will follow up.
 
 [Voter Eligibility Self-Nomination Form](https://docs.google.com/forms/d/e/1FAIpQLSegUTOrxrGPVwDrPH9RARmYxX5YEkW3j67RU4uWABkKD5x8og/viewform)
