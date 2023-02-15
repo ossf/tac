@@ -26,7 +26,7 @@ Eligible community members, according to the same criteria defined above for vot
 Since early in its existence, the OpenSSF Governing Board has sought to ensure it gets adequate input from voices in the software security community who would otherwise not be at the table.
 We seek candidates for the Security Community Individual Representative (SCIR) who can represent those voices, while also being a subject matter expert in the field with their own set of perspectives.
 Familiarity with the different OpenSSF working groups and projects, and being able to dedicate the time to be sufficiently informed on the issues that arise in our monthly calls and ongoing discussions, is highly desired.
-It is also highly desired, but not required, that the SCIR be a contributor and thus eligible to vote in the election.
+It is also highly desired, but not required, that the SCIR be an eligible OpenSSF community member by the criteria defined above.
 
 [SCIR Candidate Self-Nomination Form](https://docs.google.com/forms/d/e/1FAIpQLScoabVVjW1kvTNcKXhTEdvxQd13Caql-I36MOixHVO1dLwIiQ/viewform)
 
