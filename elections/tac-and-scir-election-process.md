@@ -44,7 +44,7 @@ Candidates for each election will be reviewed by the Election Officials to ensur
 
 Similarly, the pool of eligible voters will be reviewed by Election Officials to ensure that all voters meet the eligibility criteria established above If a ballot requester is considered ineligible, an Election Official will follow up directly with the individual.
 
-If there are more nominees than positions for either the TAC or the SCIR, the election will be conducted using the electronic voting tool Opavote.
+If there are more nominees than positions for either the TAC or the SCIR, the election will be conducted using an electronic voting tool.
 The [Single Transferable Vote](https://en.wikipedia.org/wiki/Single_transferable_vote) method will be used to vote for TAC members as there are multiple candidates for multiple positions.
 Eligible voters will receive an invitation to access their ballot from Opavote.
 The ballot will include the option to vote for both the TAC and SCIR.
