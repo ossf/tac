@@ -38,7 +38,7 @@ The Election Process will be monitored by Election Officials, who
 * approve the election timeline, and
 * review the ballot request form and validate voter eligibility.
 
-Election Officials are eligable community members who are not running for a TAC or SCIR position, but may cast a vote.
+Election Officials are eligible community members who have volunteered to oversee and help ensure the integrity of the election process. By volunteering in this role, they recuse themselves from running for a TAC or SCIR position but they still are allowed to vote in the election.
 
 During the validation period, the Election Officials will review the pool of eligible voters to confirm eligibility to participate in the election, per the guidelines defined above.
 At the conclusion of the validation period, Election Officials will publish the complete list of candidates.
