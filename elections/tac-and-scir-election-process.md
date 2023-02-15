@@ -16,7 +16,7 @@ If you have in any way been involved in or care about OpenSSF, but are in doubt 
 ## TAC Self-Nomination Process
 
 The OpenSSF Technical Advisory Council (TAC) is composed of seven total individuals, four of whom are elected annually.
-Eligable community members, according to the criteria defined above, can self-nominate using the form below.
+Eligible community members, according to the same criteria defined above for voter eligibility, can self-nominate using the form below.
 
 [TAC Candidate Self-Nomination Form](https://docs.google.com/forms/d/e/1FAIpQLSdxUbbfJGgjU_cZ_uGvUm-5ePoXu7q2pGiNyH2G8euwpn23Sw/viewform)
 
