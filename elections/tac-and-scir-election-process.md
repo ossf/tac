@@ -44,7 +44,7 @@ During the validation period, the Election Officials will review the pool of eli
 At the conclusion of the validation period, Election Officials will publish the complete list of candidates.
 
 If there are more nominees than positions for either the TAC or the SCIR, the election will be conducted using the electronic voting tool Opavote.
-A Single Transferable Voting method will be used for the TAC as there are multiple candidates. 
+The [Single Transferable Vote](https://en.wikipedia.org/wiki/Single_transferable_vote) method will be used to vote for TAC members as there are multiple candidates for multiple positions.
 Eligible voters will receive an invitation to access their ballot from Opavote.
 The ballot will include the option to vote for both the TAC and SCIR.
 
