@@ -11,6 +11,7 @@ The voter eligibility form asks you for an example of your contributions; this i
 If you have in any way been involved in or care about OpenSSF, but are in doubt as to whether your contribution “counts”, please fill it out anyways, and we will follow up.
 
 [Voter Eligibility Self-Nomination Form](https://docs.google.com/forms/d/e/1FAIpQLSegUTOrxrGPVwDrPH9RARmYxX5YEkW3j67RU4uWABkKD5x8og/viewform)
+(Note: The form is only open during the nomination period)
 
  
 ## TAC Self-Nomination Process
@@ -19,6 +20,7 @@ The OpenSSF Technical Advisory Council (TAC) is composed of seven total individu
 Eligible community members, according to the same criteria defined above for voter eligibility, can self-nominate using the form below.
 
 [TAC Candidate Self-Nomination Form](https://docs.google.com/forms/d/e/1FAIpQLSdxUbbfJGgjU_cZ_uGvUm-5ePoXu7q2pGiNyH2G8euwpn23Sw/viewform)
+(Note: The form is only open during the nomination period)
 
 
 ## SCIR Self-Nomination Information and Process
@@ -29,6 +31,7 @@ Familiarity with the different OpenSSF working groups and projects, and being ab
 It is also highly desired, but not required, that the SCIR be an eligible OpenSSF community member by the criteria defined above.
 
 [SCIR Candidate Self-Nomination Form](https://docs.google.com/forms/d/e/1FAIpQLScoabVVjW1kvTNcKXhTEdvxQd13Caql-I36MOixHVO1dLwIiQ/viewform)
+(Note: The form is only open during the nomination period)
 
 
 ## Election Process
