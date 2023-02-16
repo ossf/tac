@@ -42,7 +42,7 @@ Election Officials are eligible community members who have volunteered to overse
 
 Candidates for each election will be reviewed by the Election Officials to ensure their eligibility per the guidelines above. At the end of the validation period, the complete list of candidates will be published in this repo.
 
-Similarly, the pool of eligible voters will be reviewed by Election Officials to ensure that all voters meet the eligibility criteria established above If a ballot requester is considered ineligible, an Election Official will follow up directly with the individual.
+Similarly, the pool of eligible voters will be reviewed by Election Officials to ensure that all voters meet the eligibility criteria established above. If a ballot requester is considered ineligible, the requester will be notified directly by one of the Election Officials.
 
 If there are more nominees than positions for either the TAC or the SCIR, the election will be conducted using an electronic voting tool.
 The [Single Transferable Vote](https://en.wikipedia.org/wiki/Single_transferable_vote) method will be used to vote for TAC members as there are multiple candidates for multiple positions.
