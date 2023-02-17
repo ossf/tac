@@ -55,9 +55,18 @@ The ballot will include the option to vote for both the TAC and SCIR.
 Questions related to the nomination and/or election process should be directed to [operations@openssf.org](mailto:operations@openssf.org).
 
 
-## 2023 Election Timeline
+## Standard Election Timeline
 
-The overall timeline for the 2023 election is as follows:
+The timeline in a standard election will follow the below format:
+
+10 months after the previous election, an election committee will be established by ...(a member of staff? a call for volunteers to $mailinglist?). The volunteers have two weeks to begin the election process.
+
+- Voter Ballot Request Period, and TAC and SCIR Self-Nomination Period - 2 weeks (concurrently)
+- Validation Period - 1 Week
+- Voting Period - 2 Weeks
+- Announcement of results - Day after the conclusion of the Voting Period
+
+For example, the overall timeline for the 2023 election is as follows:
 
 * Begin of overall election process: February 21
 * TAC Self-Nomination Period: February 21 - March 6 (2 weeks)
