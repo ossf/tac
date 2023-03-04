@@ -3,7 +3,7 @@
 ### List of project maintainers
 
   * Kairo Araujo, VMware, kairoaraujo
-  * Radoslav Dimitrova, VMware, rdimitrov
+  * Radoslav Dimitrov, VMware, rdimitrov
   * Martin Vrachev, VMware, mvrachev
   * Lukas Pühringer, NYU, lukpueh
   * Konstantinos Papadopoulos, Channable, KAUTH
