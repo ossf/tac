@@ -172,13 +172,23 @@ See [Submission Process](#submission-process) below and the [Archive application
 
 ### Project creation or change of lifecycle stage
 
-For initiating the creation of a new project or for requesting a change of a project's lifecycle stage, an application must be submitted to the TAC. To this end, a maintainer of the project (or anyone in the case of Archived projects) creates a PR in this repository with the following changes:
+For initiating the creation of a new initiative (project or SIG), an application must be submitted to an OpenSSF WG (or directly to the TAC if it wants to be a "top-level project" under the TAC). For submission to a WG, the project must be within scope of the WG. Of course, the WG must approve adding the initiative.
+
+If it's a pre-existing project there are a few extra steps. We do *not* require copyright assignment, but it must be willing to license the work per the [OpenSSF Charter](https://openssf.org/about/charter/), that is, it must use a pre-approved license for its type or receive OpenSSF Governing Board approval. Pre-existing projects must notify the Linux Foundation of any intellectual property of the project such as trademarks, patents, and domain registrations; trademarks and domains of the project itself need to be reassigned to the OpenSSF, and patent issues must be dealt with before the project can join. These issues must be addressed before the project fully joins. We generally expect that the majority of current project leads are in favor of joining the OpenSSF; even when it's legal to do so, we typically avoid "forking" projects.
+
+If a WG approves adding the project, the WG (usually a WG lead) must notify the TAC and give the TAC adequate time to object (e.g., at least 2 weeks). If TAC doesn't object, it's an OpenSSF project. A TAC member may ask for further review, at which point it becomes a decision item for the TAC.
+
+Once it's an OpenSSF project, there must be a location of its material (typically on GitHub, though some early drafts start on other systems such as GitHub). The WG's README file must be modified to identify and link to that project's entry page, and the project's entry page must be modified to identify its WG (or the TAC if it's a top-level project) and point to it.
+
+To requesting a change of a project's lifecycle stage, including when it's joining the OpenSSF, an application must be submitted to an OpenSSF WG (or directly to the TAC if it wants to be a "top-level project").
+
+As part of the notification process, a maintainer of the project (or anyone in the case of Archived projects) creates a PR in this TAC repository with the following changes:
 
 * A new file in the `project-lifecyle-documents` directory containing all information requested for a project creation or a lifecycle change review. This file must be based on the template for the respective lifecycle stage in the `templates` directory. The `PROJECT_NAME_` prefix of the template must be replaced by the project name.
 
 * Modification of the table listing all projects in the [README](../README.md) of this repository by either updating the status field of the project in the table to the intended new lifecycle stage or by adding the project to the table in case of a project creation request.
 
-The TAC members review the PR and upon approval according to voting criteria defined in the [OpenSSF charter](https://cdn.platform.linuxfoundation.org/agreements/openssf.pdf), the PR can be merged. The new project has been created and the new lifecycle stage is in effect after the PR is merged.
+The TAC members review the PR and upon approval according to voting criteria defined in the [OpenSSF charter](https://cdn.platform.linuxfoundation.org/agreements/openssf.pdf), the PR can be merged. The new project has clearly identified and the new lifecycle stage is in effect after the PR is merged.
 
 
 ### IP policy and license review
