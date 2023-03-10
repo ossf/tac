@@ -10,7 +10,7 @@ Valid contributions include: commits or submitted pull requests via Github; publ
 The voter eligibility form asks you for an example of your contributions; this is merely to make it easier for the Election Officials and OpenSSF staff to validate eligibility.
 If you have in any way been involved in or care about OpenSSF, but are in doubt as to whether your contribution “counts”, please fill it out anyways, and we will follow up.
 
-[Voter Eligibility Self-Nomination Form](https://docs.google.com/forms/d/e/1FAIpQLSegUTOrxrGPVwDrPH9RARmYxX5YEkW3j67RU4uWABkKD5x8og/viewform)
+The Voter Eligibility Self-Nomination Form will be sent out via email along with the election announcement. 
 (Note: The form is only open during the nomination period)
 
  
@@ -19,7 +19,7 @@ If you have in any way been involved in or care about OpenSSF, but are in doubt 
 The OpenSSF Technical Advisory Council (TAC) is composed of seven total individuals, four of whom are elected annually.
 Eligible community members, according to the same criteria defined above for voter eligibility, can self-nominate using the form below.
 
-[TAC Candidate Self-Nomination Form](https://docs.google.com/forms/d/e/1FAIpQLSdxUbbfJGgjU_cZ_uGvUm-5ePoXu7q2pGiNyH2G8euwpn23Sw/viewform)
+The TAC Candidate Self-Nomination Form will be sent out via email along with the election announcement.
 (Note: The form is only open during the nomination period)
 
 
@@ -30,7 +30,7 @@ We seek candidates for the Security Community Individual Representative (SCIR) w
 Familiarity with the different OpenSSF working groups and projects, and being able to dedicate the time to be sufficiently informed on the issues that arise in our monthly calls and ongoing discussions, is highly desired.
 It is also highly desired, but not required, that the SCIR be an eligible OpenSSF community member by the criteria defined above.
 
-[SCIR Candidate Self-Nomination Form](https://docs.google.com/forms/d/e/1FAIpQLScoabVVjW1kvTNcKXhTEdvxQd13Caql-I36MOixHVO1dLwIiQ/viewform)
+The SCIR Candidate Self-Nomination Form will be sent out via email along with the election announcement.
 (Note: The form is only open during the nomination period)
 
 
@@ -62,7 +62,7 @@ Questions related to the nomination and/or election process should be directed t
 
 The timeline in a standard election will follow the below format:
 
-10 months after the previous election, an election committee will be established by ...(a member of staff? a call for volunteers to $mailinglist?). The volunteers have two weeks to begin the election process.
+10 months after the previous election, an election committee will be established by a call for volunteers. The volunteers have two weeks to begin the election process.
 
 - Voter Ballot Request Period, and TAC and SCIR Self-Nomination Period - 2 weeks (concurrently)
 - Validation Period - 1 Week
@@ -71,11 +71,12 @@ The timeline in a standard election will follow the below format:
 
 For example, the overall timeline for the 2023 election is as follows:
 
-* Begin of overall election process: February 21
-* TAC Self-Nomination Period: February 21 - March 6 (2 weeks)
-* SCIR Self-Nomination Period: February 21 - March 6 (2 weeks)
-* Voter Ballot Request Period: February 21 - March 6 (2 weeks)
-* Validation Period: March 7 - March 13 (1 week)
-* Nominees Announced: March 14
-* Voting Period: March 14 - March 27 (2 weeks)
-* Announcement of election results: March 28 
+* Begin of overall election process: February 27
+* TAC Self-Nomination Period: February 27 - March 12 (2 weeks)
+* SCIR Self-Nomination Period: February 27 - March 12 (2 weeks)
+* Voter Ballot Request Period: February 27 - March 12 (2 weeks)
+* Validation Period: March 13 - March 19 (1 week)
+* Nominees Announced: March 20
+* Voting Period: March 20 - April 2 (2 weeks)
+* Announcement of election results: April 3
+
