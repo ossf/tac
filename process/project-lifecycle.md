@@ -178,7 +178,7 @@ If it's a pre-existing work (code, documentation, etc.), there are a few extra s
 
 If a WG approves adding the project, the WG (usually a WG lead) must notify the TAC and give the TAC adequate time to object (e.g., at least 2 weeks). If TAC doesn't object, and the legal review approves, it's an OpenSSF project. A TAC member may ask for further review, at which point it becomes a decision item for the TAC.
 
-Once it's an OpenSSF project, there must be a location of its material (typically on GitHub, though some early drafts may start on other systems such as Google docs). The WG's README file must be modified to identify and link to that project's entry page, and the project's entry page must be modified to identify and link t its parent its WG (or the TAC if it's a top-level project).
+Once it's an OpenSSF project, there must be a location of its material (typically on GitHub, though some early drafts may start on other systems such as Google docs). The WG's README file must be modified to identify and link to that project's entry page, and the project's entry page must be modified to identify and link to its parent WG (or the TAC if it's a top-level project).
 
 To request a change of a project's lifecycle stage, including when it's joining the OpenSSF, an application must be submitted to an OpenSSF WG (or directly to the TAC if it wants to be a "top-level project").
 
