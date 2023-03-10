@@ -35,7 +35,7 @@ Meetings are also recorded and posted to the [OpenSSF YouTube channel](https://w
 
 ## Charter
 
-The TAC is chartered as part of the [Open Source Security Foundation Charter](https://github.com/ossf/foundation/blob/main/CHARTER.md).
+The TAC is chartered as part of the [Open Source Security Foundation Charter](https://openssf.org/about/charter/).
 
 ## Technical Initiatives
 
