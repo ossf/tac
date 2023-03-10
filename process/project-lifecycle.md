@@ -184,11 +184,11 @@ To request a change of a project's lifecycle stage, including when it's joining 
 
 As part of the notification process, a maintainer of the project (or anyone in the case of Archived projects) creates a PR in this TAC repository with the following changes:
 
-* A new file in the `project-lifecyle-documents` directory containing all information requested for a project creation or a lifecycle change review. This file must be based on the template for the respective lifecycle stage in the `templates` directory. The `PROJECT_NAME_` prefix of the template must be replaced by the project name.
+* A new file in the `project-lifecyle-documents` directory containing all information requested for a project creation, or a modification of an existing file for a lifecycle change review. This file must be based on the template for the respective lifecycle stage in the `templates` directory. The `PROJECT_NAME_` prefix of the template must be replaced by the project name.
 
 * Modification of the table listing all projects in the [README](../README.md) of this repository by either updating the status field of the project in the table to the intended new lifecycle stage or by adding the project to the table in case of a project creation request.
 
-The TAC members review the PR and upon approval according to voting criteria defined in the [OpenSSF charter](https://cdn.platform.linuxfoundation.org/agreements/openssf.pdf), the PR can be merged. The new project has clearly identified and the new lifecycle stage is in effect after the PR is merged.
+The TAC members review the PR and upon approval according to voting criteria defined in the [OpenSSF charter](https://cdn.platform.linuxfoundation.org/agreements/openssf.pdf), the PR can be merged. The new project has been clearly identified and the new lifecycle stage is in effect after the PR is merged.
 
 
 ### IP policy and license review
