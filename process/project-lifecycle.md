@@ -188,7 +188,7 @@ As part of the notification process, a maintainer of the project (or anyone in t
 
 * Modification of the table listing all projects in the [README](../README.md) of this repository by either updating the status field of the project in the table to the intended new lifecycle stage or by adding the project to the table in case of a project creation request.
 
-The TAC members review the PR and upon approval according to voting criteria defined in the [OpenSSF charter](https://cdn.platform.linuxfoundation.org/agreements/openssf.pdf), the PR can be merged. The new project has clearly identified and the new lifecycle stage is in effect after the PR is merged.
+The TAC members review the PR and upon approval according to voting criteria defined in the [OpenSSF charter](https://cdn.platform.linuxfoundation.org/agreements/openssf.pdf), the PR can be merged. The new project has been clearly identified and the new lifecycle stage is in effect after the PR is merged.
 
 
 ### IP policy and license review
