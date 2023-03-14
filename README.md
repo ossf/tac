@@ -22,16 +22,17 @@ Meetings are also recorded and posted to the [OpenSSF YouTube channel](https://w
 
 ## Members
 
-| Name          | Email                          | Organization |
-| ------------- | ------------------------------ | ------------ |
-| Abhishek Arya | aarya@google.com               | Google       |
-| Aeva Black    | aeva.black@microsoft.com       | Microsoft    |
-| Bob Callaway  | bcallaway@google.com           | Google       |
-| CRob Robinson | christopher.robinson@intel.com | Intel        |
-| Dan Lorenc    | dlorenc@chainguard.dev         | Chainguard   |
-| Josh Bressers | josh.bressers@anchore.com      | Anchore      |
-| Luke Hinds    | lhinds@redhat.com              | Red Hat      |
+| Name          | Email                          | Organization | Term                     |
+| ------------- | ------------------------------ | ------------ | -------------------------|
+| Abhishek Arya | aarya@google.com               | Google       | April 2022 - March 2023  |
+| Aeva Black    | aeva.black@microsoft.com       | Microsoft    | April 2022 - March 2023\* |
+| Bob Callaway  | bcallaway@google.com           | Google       | April 2022 - March 2023  |
+| CRob Robinson | christopher.robinson@intel.com | Intel        | April 2022 - March 2023\* |
+| Dan Lorenc    | dlorenc@chainguard.dev         | Chainguard   | April 2022 - March 2023  |
+| Josh Bressers | josh.bressers@anchore.com      | Anchore      | April 2022 - March 2023\* |
+| Luke Hinds    | lhinds@redhat.com              | Red Hat      | April 2022 - March 2023  |
 
+NOTE: \* marked entries denote OpenSSF Governing Board appointed members, others are community elected.
 
 ## Charter
 
