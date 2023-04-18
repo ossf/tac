@@ -10,7 +10,9 @@ Official communications occur on the [TAC mailing list](https://lists.openssf.or
 Informal discussions occur in the TAC channel of the [OpenSSF Slack](https://slack.openssf.org/).
 To join, use the following [invite link](https://join.slack.com/t/openssf/shared_invite/zt-xoktwsef-VzM~b22G2gfT_~4woTTsQA).
 
-Use [Github Issues](https://github.com/ossf/tac/issues) to request and discuss agenda items.
+Use [GitHub Issues](https://github.com/ossf/tac/issues) to request and discuss agenda items.
+
+If you need support any any part of the process please email [operations@openssf.org](mailto:operations@openssf.org?subject=[GitHub Membership]%20Source%20Github%20TAC).
 
 
 ## Meetings
