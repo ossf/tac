@@ -73,7 +73,7 @@ The following Technical Initatives have been approved by the TAC:
 | Security Metrics       | https://github.com/ossf/Project-Security-Metrics | [Meeting Notes](https://docs.google.com/document/d/1AfI0S6VjBCO0ZkULCYZGHuzzW8TPqO3zYxRjzmKvUB4/edit?usp=sharing) | Identifying Security Threats WG | TBD        |
 | Sigstore               | https://github.com/sigstore                      | [Meeting Notes](https://docs.google.com/document/d/1bsl-Y0KulSD7O_nTekad1sAKOVRb80wyGb-Q5x-zdg0/edit) | OpenSSF TAC    | TBD        |
 
-### OpenSSF affliated projects
+### OpenSSF affiliated projects
 
 | Name                         | Repository                          | Notes | Status |
 | --------------------------   | ----------------------------------- | ----- | ------ |
