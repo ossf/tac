@@ -34,11 +34,6 @@ Meetings are also recorded and posted to the [OpenSSF YouTube channel](https://w
 
 NOTE: \* marked entries denote OpenSSF Governing Board appointed members, others are community elected.
 
-### Security Community Individual Representative (SCIR) 
-| Name             | Email                          | Organization | Term                      |
-| ---------------- | ------------------------------ | ------------ | --------------------------|
-| Luke Hinds       | lhinds@protonmail.com          | Independent  | April 2023 - March 2024   |
-
 ## Charter
 
 The TAC is chartered as part of the [Open Source Security Foundation Charter](https://openssf.org/about/charter/).
