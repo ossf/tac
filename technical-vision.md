@@ -7,11 +7,13 @@ An aspirational view of the future we seek to create in 2-5 years:
 - Periodically review the value proposition of OpenSSF with key stakeholders
   - Joint OKRs on shared execution, utilization of OpenSSF-managed tools & content
   - Roadmap alignment: if overlap exists between OpenSSF and another stakeholder, either publicly document rationale OR create/document/execute a convergence plan
-- OpenSSF speaks with a trusted voice to consumers, producers, and the broader market
+- OpenSSF speaks with a trusted voice to users, contributors, and the broader market
 
 ### OpenSSF is an influential advocate for mutually-beneficial external efforts and an educator of policy decision makers
 - Support creation & use of meaningful, actionable standards (e.g. SBOM formats, MFA)
-- OpenSSF acts as a catalyst for change and improving “secure by default”
+- OpenSSF advocates for various actors (including maintainers, contributors, and adopters) in the open source ecosystem to improve their default security posture, and catalyzes efforts to reduce or eliminate friction in achieving that state; for example (but not exclusively):
+  - SLSA ensures tampering and other security threats to the software supply chain of open source projects, groups, and communities are reduced and/or eliminated
+  - Memory Safety efforts that aim to eliminate entire classes of security threats through using memory safe programming languages
 - Advocacy may be statements of support, education material, and/or direct funding
 
 ### Consumers of OSS can leverage clear & consistent trusted signals to better understand the security profile of open source content
