@@ -20,17 +20,17 @@ The TAC [meetings minutes](https://docs.google.com/document/d/18BJlokTeG5e5ARD1V
 Meetings are also recorded and posted to the [OpenSSF YouTube channel](https://www.youtube.com/channel/UCUdhiXNEBEayowJXY_v7AXQ/).
 
 
-## Members
+## TAC Members
 
-| Name             | Email                          | Organization | Term                      |
-| ---------------- | ------------------------------ | ------------ | --------------------------|
-| Aeva Black       | aeva.black@microsoft.com       | Microsoft    | April 2023 - March 2024   |
-| Arnaud J Le Hors | lehors@us.ibm.com              | IBM          | April 2023 - March 2024\* |
-| Bob Callaway     | bcallaway@google.com           | Google       | April 2023 - March 2024   |
-| CRob Robinson    | christopher.robinson@intel.com | Intel        | April 2023 - March 2024\* |
-| Dan Lorenc       | dlorenc@chainguard.dev         | Chainguard   | April 2023 - March 2024   |
-| Dustin Ingram    | dii@google.com                 | Google       | April 2023 - March 2024   |
-| Zach Steindler   | steiza@github.com              | GitHub       | April 2023 - March 2024\* |
+| Name             | Position | Email                          | Organization | Term                      |
+| ---------------- | :--------: | ------------------------------ | ------------ | --------------------------|
+| Aeva Black       | | aeva.black@microsoft.com       | Microsoft    | April 2023 - March 2024   |
+| Arnaud J Le Hors | Vice Chair | lehors@us.ibm.com              | IBM          | April 2023 - March 2024\* |
+| Bob Callaway     |  | bcallaway@google.com           | Google       | April 2023 - March 2024   |
+| CRob Robinson    | Chair | christopher.robinson@intel.com | Intel        |  April 2023 - March 2024\* |
+| Dan Lorenc       |  | dlorenc@chainguard.dev         | Chainguard   | April 2023 - March 2024   |
+| Dustin Ingram    |  | dii@google.com                 | Google       | April 2023 - March 2024   |
+| Zach Steindler   |  | steiza@github.com              | GitHub       | April 2023 - March 2024\* |
 
 NOTE: \* marked entries denote OpenSSF Governing Board appointed members, others are community elected.
 
