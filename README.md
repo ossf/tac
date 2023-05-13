@@ -55,6 +55,9 @@ The following Technical Initatives have been approved by the TAC:
 | Securing Software Repositories | https://github.com/ossf/wg-securing-software-repos      | [Meeting Notes](https://docs.google.com/document/d/1-f6m442MHg9hktrbcp-4sM9GbZC3HLTpZPpxMXjMCp4/edit)  | Incubating |
 | End Users                      | https://github.com/ossf/wg-endusers                     | [Meeting Notes](https://docs.google.com/document/d/1KQalBRzfRBvsqh73JUYfp1KG-AJdXcv2Z8LTIFoQP8c/edit)  | Incubating |
 
+### Overview Diagrams
+
+Diagrams with an overview of the OpenSSF, including its projects and SIGs, are available in the presentation [OpenSSF Introduction (including Diagrammers’ Society diagrams)](https://docs.google.com/presentation/d/1ZQ7WjNH5fQL7qvpFN3jTFt-iQHqPpUc5of_azQc8iic/edit) as created and maintained by the [OpenSSF Diagrammer's Society](https://github.com/ossf/Diagrammers-Society).
 
 ### Projects
 
