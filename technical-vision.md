@@ -29,6 +29,6 @@ An aspirational view of the future we seek to create in 2-5 years:
 
 ### Producers of OSS (of all skill levels) have the ability to proactively and reactively address both existing and emergent security threats
 - Best practices guides & education materials that ensure both current and future OSS developers obtain & maintain sufficient secure development skills
-- Extremely low-friction, automated tooling to make security processes less onerous, more accurate, and trusted (burden of maintenance offloaded through opt-in automation)
+- Extremely low-friction, automated tooling to make security processes less onerous, more accurate, and trusted (burden of maintenance offloaded through opt-in automation); these tools and improvements will be made available at zero cost
 - Ability to start new projects from a more secure default position
 - Ensure sufficient staffing, auditing, continuous testing, rigor for critical projects
