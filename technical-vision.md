@@ -13,7 +13,7 @@ An aspirational view of the future we seek to create in 2-5 years:
 - Support creation & use of meaningful, actionable standards (e.g. SBOM formats, MFA)
 - OpenSSF advocates for various actors (including maintainers, contributors, and adopters) in the open source ecosystem to improve their default security posture, and catalyzes efforts to reduce or eliminate friction in achieving that state; for example (but not exclusively):
   - SLSA ensures tampering and other security threats to the software supply chain of open source projects, groups, and communities are reduced and/or eliminated
-  - Memory Safety efforts that aim to eliminate entire classes of security threats through using memory safe programming languages
+  - Memory Safety efforts that aim to eliminate entire classes of security threats through using memory safe programming languages where possible
 - Advocacy may be statements of support, education material, and/or direct funding
 
 ### Consumers of OSS can leverage clear & consistent trusted signals to better understand the security profile of open source content
