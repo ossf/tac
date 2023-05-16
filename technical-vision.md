@@ -2,6 +2,12 @@
 
 An aspirational view of the future we seek to create in 2-5 years:
 
+## The OpenSSF is a trusted partner to affiliated open source foundations and projects, and provides valuable services to those projects and foundations.
+- The OpenSSF is well positioned within the broader ecosystem and has a clearly articulated charter which supports the activities of the broader community of open source practitioners
+- To maintain that trusted relationship, the OpenSSF's mission and value proposition is periodically reviewed with community representatives and constituents, as well as its funding Members
+- OpenSSF resources are responsibly managed and utilized towards this Vision in clear, consistent, transparent, and democratic ways.
+- Where overlap exists between the OpenSSF's mission and that of another organization, the OpenSSF strives to support other organizations through partnership first, and does not engage in "picking winners and losers".
+
 ### OpenSSF is a well-respected strategic partner to large OSS foundations and individual OSS projects
 - OpenSSF is clearly positioned within broader ecosystem with a clear, altruistic charter
 - Periodically review the value proposition of OpenSSF with key stakeholders
