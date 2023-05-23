@@ -27,6 +27,12 @@ Note: this list is intentionally not exhaustive.
     This is the parent team for projects. Every project (e.g. scorecard, AO) should have a subteam contained within this one.
     Teams for individual repositories go under here, which start with `repo-`, but team names may otherwise be unconstrained.
 
+## GitHub Org Membership
+
+ Membership in the GitHub org should be freely given - it inherently confers no permissions or privileges, only a badge on the user's profile if they enable it - and it _does_ allow for easier team management. Someone should only be removed from the org in extreme circumstances where their association with OpenSSF would be problematic, and people should be encouraged to remain in the org in perpetuity.
+
+ Individuals are free to choose to be a member of the org or not, but membership is required to be on GitHub teams, which grants privileged access to repositories.
+
 ## Principle of Least Privilege
 
  Permission levels should be as high as they need to be, and no higher.
