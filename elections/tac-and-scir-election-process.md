@@ -52,7 +52,7 @@ The [Single Transferable Vote](https://en.wikipedia.org/wiki/Single_transferable
 Eligible voters will receive an invitation to access their ballot from Opavote.
 The ballot will include the option to vote for both the TAC and SCIR.
 
-If the number of eligible nominees is less then the number of open positions, then all eligible nominees will be appointed and a second nomination phase for filling the remaining positions will be opened.
+If the number of eligible nominees is less than the number of open positions, then all eligible nominees will be appointed and a second nomination phase for filling the remaining positions will be opened.
 If the number of eligible nominees equals the number of open positions, then those nominees will be elected unopposed.
 
 Questions related to the nomination and/or election process should be directed to [operations@openssf.org](mailto:operations@openssf.org).
