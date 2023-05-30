@@ -20,17 +20,17 @@ The TAC [meetings minutes](https://docs.google.com/document/d/18BJlokTeG5e5ARD1V
 Meetings are also recorded and posted to the [OpenSSF YouTube channel](https://www.youtube.com/channel/UCUdhiXNEBEayowJXY_v7AXQ/).
 
 
-## Members
+## TAC Members
 
-| Name          | Email                          | Organization | Term                     |
-| ------------- | ------------------------------ | ------------ | -------------------------|
-| Abhishek Arya | aarya@google.com               | Google       | April 2022 - March 2023  |
-| Aeva Black    | aeva.black@microsoft.com       | Microsoft    | April 2022 - March 2023\* |
-| Bob Callaway  | bcallaway@google.com           | Google       | April 2022 - March 2023  |
-| CRob Robinson | christopher.robinson@intel.com | Intel        | April 2022 - March 2023\* |
-| Dan Lorenc    | dlorenc@chainguard.dev         | Chainguard   | April 2022 - March 2023  |
-| Josh Bressers | josh.bressers@anchore.com      | Anchore      | April 2022 - March 2023\* |
-| Luke Hinds    | lhinds@redhat.com              | Red Hat      | April 2022 - March 2023  |
+| Name             | Position | Email                          | Organization | Term                      |
+| ---------------- | :--------: | ------------------------------ | ------------ | --------------------------|
+| Aeva Black       | | aeva.black@microsoft.com       | Microsoft    | April 2023 - March 2024   |
+| Arnaud J Le Hors | Vice Chair | lehors@us.ibm.com              | IBM          | April 2023 - March 2024\* |
+| Bob Callaway     |  | bcallaway@google.com           | Google       | April 2023 - March 2024   |
+| CRob Robinson    | Chair | christopher.robinson@intel.com | Intel        |  April 2023 - March 2024\* |
+| Dan Lorenc       |  | dlorenc@chainguard.dev         | Chainguard   | April 2023 - March 2024   |
+| Dustin Ingram    |  | dii@google.com                 | Google       | April 2023 - March 2024   |
+| Zach Steindler   |  | steiza@github.com              | GitHub       | April 2023 - March 2024\* |
 
 NOTE: \* marked entries denote OpenSSF Governing Board appointed members, others are community elected.
 
@@ -55,6 +55,9 @@ The following Technical Initatives have been approved by the TAC:
 | Securing Software Repositories | https://github.com/ossf/wg-securing-software-repos      | [Meeting Notes](https://docs.google.com/document/d/1-f6m442MHg9hktrbcp-4sM9GbZC3HLTpZPpxMXjMCp4/edit)  | Incubating |
 | End Users                      | https://github.com/ossf/wg-endusers                     | [Meeting Notes](https://docs.google.com/document/d/1KQalBRzfRBvsqh73JUYfp1KG-AJdXcv2Z8LTIFoQP8c/edit)  | Incubating |
 
+### Overview Diagrams
+
+Diagrams with an overview of the OpenSSF, including its projects and SIGs, are available in the presentation [OpenSSF Introduction (including Diagrammers’ Society diagrams)](https://docs.google.com/presentation/d/1ZQ7WjNH5fQL7qvpFN3jTFt-iQHqPpUc5of_azQc8iic/edit) as created and maintained by the [OpenSSF Diagrammer's Society](https://github.com/ossf/Diagrammers-Society).
 
 ### Projects
 
@@ -73,7 +76,7 @@ The following Technical Initatives have been approved by the TAC:
 | Security Metrics       | https://github.com/ossf/Project-Security-Metrics | [Meeting Notes](https://docs.google.com/document/d/1AfI0S6VjBCO0ZkULCYZGHuzzW8TPqO3zYxRjzmKvUB4/edit?usp=sharing) | Identifying Security Threats WG | TBD        |
 | Sigstore               | https://github.com/sigstore                      | [Meeting Notes](https://docs.google.com/document/d/1bsl-Y0KulSD7O_nTekad1sAKOVRb80wyGb-Q5x-zdg0/edit) | OpenSSF TAC    | TBD        |
 
-### OpenSSF affliated projects
+### OpenSSF affiliated projects
 
 | Name                         | Repository                          | Notes | Status |
 | --------------------------   | ----------------------------------- | ----- | ------ |

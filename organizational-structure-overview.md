@@ -2,7 +2,7 @@
 
 ## OpenSSF Charter
 
-The overall governance of the OpenSSF is defined in [the Foundation Charter](https://cdn.platform.linuxfoundation.org/agreements/openssf.pdf) (PDF file). 
+The overall governance of the OpenSSF is defined in [the OpenSSF Charter](https://openssf.org/about/charter/). 
 
 
 ## Definitions
