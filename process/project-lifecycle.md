@@ -125,7 +125,7 @@ Graduated projects signal the highest level of maturity for an OpenSSF project. 
 #### Graduated Project Entry Requirements and Considerations
 
 * Projects must have maintainers with a minimum of three different organizational affiliations.
-* Projects must be aligned with the OpenSSF mission and be a novel approach for existing areas or address an unfulfilled need. Projects with duplicate, similar or competing fuctionality to an existing OpenSSF project may be denied Graduation status if the TAC does not see technical justification for overlapping projects.
+* Projects must be aligned with the OpenSSF mission and be a novel approach for existing areas or address an unfulfilled need. Projects with duplicate, similar or competing functionality to an existing OpenSSF project may be denied Graduation status if the TAC does not see technical justification for overlapping projects.
 * Projects must be able to show adoption by multiple parties, which could be production deployments or substantial use by established open source communities, and demonstrate the value of that adoption to either the end users or the open source community —  effectively wide adoption by the project's consumers.
 * Projects must be able to show a consistent release cadence.
 * Projects must have documented project governance and be able to demonstrate that governance in action.
