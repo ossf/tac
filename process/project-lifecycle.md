@@ -102,7 +102,7 @@ See [Submission Process](#submission-process) below and [Incubation application]
 
 Graduated projects signal the highest level of maturity for an OpenSSF project. Graduated projects have consistent, mature open source development practices with sustained contribution and activity. 
 
-#### Project Reponsibilities
+#### Project Responsibilities
 
 * Provides bi-annual updates to the TAC on technical vision and progress on vision.
 * Maintains a diversified contributor base (i.e. not a single-vendor project) with an active flow of contributions.
