@@ -40,7 +40,7 @@ The TAC is chartered as part of the [Open Source Security Foundation Charter](ht
 
 ## Technical Initiatives
 
-The following Technical Initatives have been approved by the TAC:
+The following Technical Initiatives have been approved by the TAC:
 
 ### Working Groups
 
@@ -83,7 +83,7 @@ Diagrams with an overview of the OpenSSF, including its projects and SIGs, are a
 | GNU Toolchain Infrastructure | Coming Soon                         | TBD   | TBD    |
 | Alpha Omega                  | https://github.com/ossf/alpha-omega | TBD   | TBD    |
 
-Charters for these Technical Intiatives are located in the [Charters](charters)
+Charters for these Technical Initiatives are located in the [Charters](charters)
 directory of this repository.
 
 ## Antitrust Policy
