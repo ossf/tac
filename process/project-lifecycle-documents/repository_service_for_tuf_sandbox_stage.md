@@ -21,7 +21,7 @@ The project was born out of experience developing changes for Warehouse (PyPI) t
 [PEP 480]: https://peps.python.org/pep-0480/
 
 
-### IP policy and licensing due dilligence
+### IP policy and licensing due diligence
 
 When contributing an existing Project to the OpenSSF, the contribution must undergo license and IP due diligence by the Linux Foundation (LF).
 

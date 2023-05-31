@@ -70,7 +70,7 @@ OpenVEX is also directly aligned with the mission of the [Vulnerability Disclosu
 * OpenVEX aids in automation of vulnerability disclosure practices within OSS projects by documenting standards and formats.
 * OpenVEX directly facilitates the development and adoption of a standards-based OSS Vulnerability Exchange that is SBOM agnostic and builds upon existing SBOM formats.
 
-### IP policy and licensing due dilligence
+### IP policy and licensing due diligence
 When contributing an existing Project to the OpenSSF, the contribution must undergo license and IP due diligence by the Linux Foundation (LF).
   * "yes / no / not applicable. If yes, provide a link to the corresponding GitHub issue."
 
