@@ -12,7 +12,7 @@ To join, use the following [invite link](https://join.slack.com/t/openssf/shared
 
 Use [GitHub Issues](https://github.com/ossf/tac/issues) to request and discuss agenda items.
 
-If you need support any any part of the process please email [operations@openssf.org](mailto:operations@openssf.org?subject=[GitHub Membership]%20Source%20Github%20TAC).
+If you need support any any part of the process please email [operations@openssf.org](mailto:operations@openssf.org?subject=GitHub%20Issue).
 
 
 ## Meetings
