@@ -93,7 +93,7 @@ Incubating projects represent maturing but not fully realized projects. Incubati
 
 #### Project Process: Sandbox to Incubation and direct entry to Incubation
 
-Projects are required to undergo technical due diligence as a part of the process of entering Incubation, whether as a move from Sandbox to Incubation or enterting Incubation directly. Technical Due Diligence is driven by a TAC or parent WG sponsor with close collaboration of the project. Once the diligence is complete and the proposal made, the Due Diligence document is made available to the community for two weeks to solicit public comment before a TAC vote is called.
+Projects are required to undergo technical due diligence as a part of the process of entering Incubation, whether as a move from Sandbox to Incubation or entering Incubation directly. Technical Due Diligence is driven by a TAC or parent WG sponsor with close collaboration of the project. Once the diligence is complete and the proposal made, the Due Diligence document is made available to the community for two weeks to solicit public comment before a TAC vote is called.
 
 See [Submission Process](#submission-process) below and [Incubation application](templates/PROJECT_NAME_incubation_stage.md).
 
@@ -102,7 +102,7 @@ See [Submission Process](#submission-process) below and [Incubation application]
 
 Graduated projects signal the highest level of maturity for an OpenSSF project. Graduated projects have consistent, mature open source development practices with sustained contribution and activity. 
 
-#### Project Reponsibilities
+#### Project Responsibilities
 
 * Provides bi-annual updates to the TAC on technical vision and progress on vision.
 * Maintains a diversified contributor base (i.e. not a single-vendor project) with an active flow of contributions.
@@ -125,7 +125,7 @@ Graduated projects signal the highest level of maturity for an OpenSSF project. 
 #### Graduated Project Entry Requirements and Considerations
 
 * Projects must have maintainers with a minimum of three different organizational affiliations.
-* Projects must be aligned with the OpenSSF mission and be a novel approach for existing areas or address an unfulfilled need. Projects with duplicate, similar or competing fuctionality to an existing OpenSSF project may be denied Graduation status if the TAC does not see technical justification for overlapping projects.
+* Projects must be aligned with the OpenSSF mission and be a novel approach for existing areas or address an unfulfilled need. Projects with duplicate, similar or competing functionality to an existing OpenSSF project may be denied Graduation status if the TAC does not see technical justification for overlapping projects.
 * Projects must be able to show adoption by multiple parties, which could be production deployments or substantial use by established open source communities, and demonstrate the value of that adoption to either the end users or the open source community —  effectively wide adoption by the project's consumers.
 * Projects must be able to show a consistent release cadence.
 * Projects must have documented project governance and be able to demonstrate that governance in action.
@@ -174,7 +174,7 @@ See [Submission Process](#submission-process) below and the [Archive application
 
 For initiating the creation of a new project or for requesting a change of a project's lifecycle stage, an application must be submitted to the TAC. To this end, a maintainer of the project (or anyone in the case of Archived projects) creates a PR in this repository with the following changes:
 
-* A new file in the `project-lifecyle-documents` directory containing all information requested for a project creation or a lifecycle change review. This file must be based on the template for the respective lifecycle stage in the `templates` directory. The `PROJECT_NAME_` prefix of the template must be replaced by the project name.
+* A new file in the `project-lifecycle-documents` directory containing all information requested for a project creation or a lifecycle change review. This file must be based on the template for the respective lifecycle stage in the `templates` directory. The `PROJECT_NAME_` prefix of the template must be replaced by the project name.
 
 * Modification of the table listing all projects in the [README](../README.md) of this repository by either updating the status field of the project in the table to the intended new lifecycle stage or by adding the project to the table in case of a project creation request.
 

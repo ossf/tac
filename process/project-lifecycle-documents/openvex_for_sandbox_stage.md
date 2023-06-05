@@ -51,7 +51,7 @@ In short:
 > The mission of OpenVEX is aligned with the mission of VEX itself, which is to improve transparency in the vulnerability disclosure and management process for the entire industry.
 > OpenVEX complements SBOMs by making the data contained in them more actionable.
 
-This is directly aligned with the OpenSSF's mission and [Techincal Vision](https://openssf.org/about/), in particular these first three elements:
+This is directly aligned with the OpenSSF's mission and [Technical Vision](https://openssf.org/about/), in particular these first three elements:
 
 > * Developers can easily learn secure development practices and are proactively guided by their tools to apply those practices and automatically informed when action is needed to prevent, remediate, or mitigate security issues.
 > * Developers, auditors, and regulators can create and easily distribute security policies that are enforced through tooling and automation, providing continuous assurance of the results.
@@ -70,7 +70,7 @@ OpenVEX is also directly aligned with the mission of the [Vulnerability Disclosu
 * OpenVEX aids in automation of vulnerability disclosure practices within OSS projects by documenting standards and formats.
 * OpenVEX directly facilitates the development and adoption of a standards-based OSS Vulnerability Exchange that is SBOM agnostic and builds upon existing SBOM formats.
 
-### IP policy and licensing due dilligence
+### IP policy and licensing due diligence
 When contributing an existing Project to the OpenSSF, the contribution must undergo license and IP due diligence by the Linux Foundation (LF).
   * "yes / no / not applicable. If yes, provide a link to the corresponding GitHub issue."
 
