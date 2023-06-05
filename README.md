@@ -12,6 +12,7 @@ To join, use the following [invite link](https://join.slack.com/t/openssf/shared
 
 Use [GitHub Issues](https://github.com/ossf/tac/issues) to request and discuss agenda items.
 
+If you need support in any part of the process, please email [operations@openssf.org](mailto:operations@openssf.org?subject=GitHub%20Issue).
 
 ## Meetings
 
@@ -71,7 +72,7 @@ Diagrams with an overview of the OpenSSF, including its projects and SIGs, are a
 | Package Analysis       | https://github.com/ossf/package-analysis         | [Meeting Notes](https://docs.google.com/document/d/1MIXxadtWsaROpFcJnBtYnQPoyzTCIDhd0IGV8PIV0mQ/edit) | Securing Critical Projects WG   | TBD        |
 | Package Feeds          | https://github.com/ossf/package-feeds            | [Meeting Notes](https://docs.google.com/document/d/1MIXxadtWsaROpFcJnBtYnQPoyzTCIDhd0IGV8PIV0mQ/edit) | Securing Critical Projects WG   | TBD        |
 | Repository Service for TUF | https://github.com/vmware/repository-service-tuf | TBD | Securing Software Repositories WG | Sandbox |
-| Scorecard              | https://github.com/ossf/scorecard                | [Meeting Notes](https://docs.google.com/document/d/1dB2U7_qZpNW96vtuoG7ShmgKXzIg6R5XT5Tc-0yz6kE/edit#heading=h.4k8ml0qkh7tl) | Best Practices WG               | TBD        |
+| Scorecard              | https://github.com/ossf/scorecard                | [Meeting Notes](https://docs.google.com/document/d/1b6d3CVJLsl7YnTE7ZaZQHdkdYIvuOQ8rzAmvVdypOWM/edit?usp=sharing) | Best Practices WG               | TBD        |
 | Security Insights Spec | https://github.com/ossf/security-insights-spec   | [Meeting Notes](https://docs.google.com/document/d/1AfI0S6VjBCO0ZkULCYZGHuzzW8TPqO3zYxRjzmKvUB4/edit?usp=sharing) | Identifying Security Threats WG | TBD        |
 | Security Metrics       | https://github.com/ossf/Project-Security-Metrics | [Meeting Notes](https://docs.google.com/document/d/1AfI0S6VjBCO0ZkULCYZGHuzzW8TPqO3zYxRjzmKvUB4/edit?usp=sharing) | Identifying Security Threats WG | TBD        |
 | Sigstore               | https://github.com/sigstore                      | [Meeting Notes](https://docs.google.com/document/d/1bsl-Y0KulSD7O_nTekad1sAKOVRb80wyGb-Q5x-zdg0/edit) | OpenSSF TAC    | TBD        |

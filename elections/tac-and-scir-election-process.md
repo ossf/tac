@@ -10,10 +10,10 @@ Valid contributions include: commits or submitted pull requests via GitHub; publ
 The voter eligibility form asks you for an example of your contributions; this is merely to make it easier for the Election Officials and OpenSSF staff to validate eligibility.
 If you have in any way been involved in or care about OpenSSF, but are in doubt as to whether your contribution “counts”, please fill it out anyways, and we will follow up.
 
-The Voter Eligibility Self-Nomination Form will be sent out via email along with the election announcement. 
+The Voter Eligibility Self-Nomination Form will be sent out via email along with the election announcement.
 (Note: The form is only open during the nomination period)
 
- 
+
 ## TAC Self-Nomination Process
 
 The OpenSSF Technical Advisory Council (TAC) is composed of seven total individuals, four of whom are elected annually.
