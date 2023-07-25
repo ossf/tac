@@ -30,6 +30,7 @@ Meetings are also recorded and posted to the [OpenSSF YouTube channel](https://w
 | CRob Robinson    | Chair | christopher.robinson@intel.com | Intel        |  April 2023 - March 2024\* |
 | Dan Lorenc       |  | dlorenc@chainguard.dev         | Chainguard   | April 2023 - March 2024   |
 | Dustin Ingram    |  | dii@google.com                 | Google       | April 2023 - March 2024   |
+| Michael Lieberman|  | mike@kusari.dev                | Kusari       | April 2023 - March 2024   |
 | Zach Steindler   |  | steiza@github.com              | GitHub       | April 2023 - March 2024\* |
 
 NOTE: \* marked entries denote OpenSSF Governing Board appointed members, others are community elected.
