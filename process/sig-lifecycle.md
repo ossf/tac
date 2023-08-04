@@ -1,10 +1,10 @@
 # Special Interest Group (SIG) Life Cycle
 
-Special Interest Groups are under the direct governance of their reporting Working Group (WG) and are bound to achieving a very specific goal. These groups may be terminated upon completion of their designating tasking, continued for larger and ongoing efforts, or otherwise subject to the governance, structure, and termination policies of the WG they are under. The creation of a SIG must dictate the focus, intent, goals, and deliverables as appropriate.
+Special Interest Groups are bound to achieving a very specific goal. These groups may be terminated upon completion of their designating tasking or continued for larger and ongoing efforts. The creation of a SIG must dictate the focus, intent, goals, and deliverable(s) as appropriate. SIGs may report to a WG or directly to the TAC as their governing body.
 
 It is expected that the primary output of a SIG is not software. If the primary output is software, the work should be organized as a [project](./project-lifecycle.md).
 
-SIG process should be minimal with as much as possible delegated to the WG. However we do need minimal process to at least ensure we have an accurate list of all the active SIGs in the OpenSSF. This document uses "must" to describe what items are required and "should" to suggest items that should be strongly considered (but not required).
+SIG process should be minimal, however we do need some process to at least ensure we have an accurate list of all the active SIGs in the OpenSSF. This document uses "must" to describe what items are required, "should" to suggest items that should be strongly considered (but not required), and "may" for suggested guidance.
 
 ## To become `Tentative`:
 
@@ -12,19 +12,28 @@ SIG process should be minimal with as much as possible delegated to the WG. Howe
 
 ## To become `Active`:
 
-* A SIG must have a repository (prefixed with `sig-`) that includes the current state of the SIG, lists the chairs of the SIG, and a statement of the focus, intent, goals, and/or deliverables of the group
-* The chairs of a WG must agree to govern the SIG
-  * The chairs of the WG should have its membership vote, with notice given at the meeting prior to the vote
-* The governing WG must list the active SIGs it governs, along with chairs and links to the repository of those SIGs
-  * The governing WG should list previous SIGs that are now inactive
-* SIGs may have regular meetings
-  * If these meetings are separate from their governing WG:
-    * They should appear on the OpenSSF calendar
-    * They should have a document with upcoming agendas and notes from past meetings
+* A governing body must agree to govern the SIG
+  * The governing body may have its membership vote, with notice given at the meeting prior to the vote
 
-## To become `Inactive`:
+## Once `Active`:
 
-* The chairs of a SIG can decide to become inactive, in which case they must update their state in their repository and notify their governing WG
-* The chairs of the governing WG must periodically review their active SIGs and determine if any should become inactive
+* The governing body must list information about the SIG on its README, including current state, chairs, and a statement of focus, intent, goals, and/or deliverables
+  * SIGs may have a repository (prefixed with `sig-`) that include the information listed above
+* SIGs may have regular meetings separate from their governing body, if so:
+  * They should appear on the OpenSSF calendar
+  * They should have a document with upcoming agendas and notes from past meetings
+
+## To become `End-of-Life`:
+
+* The chairs of a SIG can decide to conclude their work, in which case they must notify their governing body
+* The chairs of the governing body must periodically review their active SIGs and determine if any should end
   * This review should happen at least annually
-  * The chairs of the WG should have its membership vote, with notice given at the meeting prior to the vote
+  * The chairs of the governing body may have its membership vote, with notice given at the meeting prior to the vote
+
+## Once `End-of-Life`
+
+* The governing body must update their README to reflect that the SIG has ended
+  * They should list the SIG as end-of-life instead of removing it completely
+* If a repository exists, it should be marked read-only
+* If meetings are on the OpenSSF calendar, they should be removed
+* Any other administrative items (mailing lists, docs) should similarly be put to closure as needed
