@@ -15,9 +15,9 @@ SIG process should be minimal with as much as possible delegated to the WG. Howe
 * A SIG must have a repository (prefixed with `sig-`) that includes the current state of the SIG, lists the chairs of the SIG, and a statement of the focus, intent, goals, and/or deliverables of the group
 * The chairs of a WG must agree to govern the SIG
   * The chairs of the WG should have its membership vote, with notice given at the meeting prior to the vote
-* The governing WG must list the active SIGs it governs, along with chairs and links to the repository of those SGs
+* The governing WG must list the active SIGs it governs, along with chairs and links to the repository of those SIGs
   * The governing WG should list previous SIGs that are now inactive
-* SIGs should have regular meetings
+* SIGs may have regular meetings
   * If these meetings are separate from their governing WG:
     * They should appear on the OpenSSF calendar
     * They should have a document with upcoming agendas and notes from past meetings
