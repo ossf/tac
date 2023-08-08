@@ -6,6 +6,8 @@ It is expected that the primary output of a SIG is not software. If the primary 
 
 SIG process should be minimal, however we do need some process to at least ensure we have an accurate list of all the active SIGs in the OpenSSF. This document uses "must" to describe what items are required, "should" to suggest items that should be strongly considered (but not required), and "may" for suggested guidance.
 
+The SIG life cycle begins with interested contributors deciding to undertake this process, at which time the SIG is `Tentative`. A SIG becomes `Active` when a governing body agrees to take it on, at which point the SIG goes about achieving its goals and deliverables. Once that work is completed, or if the effort stalls out, the SIG becomes `End-of-Life` and some administrative cleanup will be done. The details for each phase follow.
+
 ## To become `Tentative`:
 
 * This is the default state of a new SIG that is not yet active
