@@ -1,4 +1,5 @@
 Abhishek
+adityasaky
 Administrativia
 adware
 aeva
@@ -18,6 +19,7 @@ Benzies
 blogging
 Brasseur
 Bressers
+Cappos
 CEOs
 chainguard
 Channable
@@ -29,11 +31,13 @@ Civs
 CLA
 CNCF
 Coinbase
+COPYLEFT
 Corail
 CPython
 crob
 CSAF
 curating
+curtmola
 CVD
 CVEs
 CVRF
@@ -53,6 +57,7 @@ Ferraioli
 Foxboron
 frenemy
 fyi
+gittuf
 Gendreau
 Gesmer
 google
@@ -133,6 +138,7 @@ repurposable
 rescope
 rescoping
 resourcing
+reza
 Rezilion
 RFPs
 rhaning
@@ -154,8 +160,10 @@ Shopify
 Shortlist
 sif
 sigstore
+Sirish
 SKF
 SLSA
+SNYK
 Sonatype
 sourcing
 stakeholders
@@ -190,7 +198,9 @@ wagoodman
 WGs
 Wipro
 wishlist
+wlynch
 Yehuda
+Yelgundhalli
 Yoav
 Yotam
 youtube

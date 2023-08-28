@@ -68,6 +68,7 @@ Diagrams with an overview of the OpenSSF, including its projects and SIGs, are a
 | Best Practices Badge   | https://github.com/coreinfrastructure/best-practices-badge | [Mailing list](https://lists.coreinfrastructure.org/mailman/listinfo/cii-badges) | Best Practices WG   | TBD        |
 | Criticality Score      | https://github.com/ossf/criticality_score        | [Meeting Notes](https://docs.google.com/document/d/1GFslP6elYCx27TUitdigDr1gsOItYkL0Vq7hTB9y4Lo/edit?usp=sharing) | Securing Critical Projects WG   | TBD        |
 | Fuzz Introspector      | https://github.com/ossf/fuzz-introspector        | [Meeting Notes](https://docs.google.com/document/d/1jzxhzIfkOMTagpeFWYoZpMKwHYeO4Gc7Eq5FcMFEw2c/edit?usp=sharing) | Security Tooling WG            | TBD        |
+| gittuf | https://github.com/gittuf/gittuf | TBD | Supply Chain Integrity WG | Sandbox |
 | OSV Schema             | https://github.com/ossf/osv-schema               | [Meeting Notes](https://docs.google.com/document/d/1jzqhW9SK9QRA39fQz0RiAkvpRWB0xztt1TAFJEseTlA/edit?usp=sharing) | Vulnerability Disclosures WG   | TBD        |
 | Package Analysis       | https://github.com/ossf/package-analysis         | [Meeting Notes](https://docs.google.com/document/d/1GFslP6elYCx27TUitdigDr1gsOItYkL0Vq7hTB9y4Lo/edit) | Securing Critical Projects WG   | TBD        |
 | Package Feeds          | https://github.com/ossf/package-feeds            | [Meeting Notes](https://docs.google.com/document/d/1GFslP6elYCx27TUitdigDr1gsOItYkL0Vq7hTB9y4Lo/edit) | Securing Critical Projects WG   | TBD        |
