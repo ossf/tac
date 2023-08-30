@@ -80,6 +80,7 @@ Kimmich
 Knative
 Konstantinos
 Kratzer
+kusari
 Lakkakula
 lehors
 Lewandowski
@@ -92,6 +93,7 @@ Lorenc
 luhring
 lukpueh
 lumjjb
+maintainership
 malware
 mds
 Montazery
