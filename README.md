@@ -25,7 +25,7 @@ Meetings are also recorded and posted to the [OpenSSF YouTube channel](https://w
 
 | Name             | Position | Email                          | Organization | Term                      |
 | ---------------- | :--------: | ------------------------------ | ------------ | --------------------------|
-| Arnaud J Le Hors | Vice Chair | lehors@us.ibm.com              | IBM          | April 2023 - March 2024\* |
+| Arnaud J Le&nbsp;Hors | Vice Chair | lehors@us.ibm.com              | IBM          | April 2023 - March 2024\* |
 | Bob Callaway     |  | bcallaway@google.com           | Google       | April 2023 - March 2024   |
 | CRob Robinson    | Chair | christopher.robinson@intel.com | Intel        |  April 2023 - March 2024\* |
 | Dan Lorenc       |  | dlorenc@chainguard.dev         | Chainguard   | April 2023 - March 2024   |
@@ -62,7 +62,7 @@ Diagrams with an overview of the OpenSSF, including its projects and SIGs, are a
 
 ### Projects
 
-| Name                       | Repository          | Notes                                                                                                 | Sponsoring Org | Status     |
+| Name                       | Repository/Home Page | Notes                                                                                                 | Sponsoring Org | Status     |
 | ---------------------- | ---------------------------------------- | ----------------------------------------------------------------------------------------------------- | -------------- |---------- |
 | Allstar                | https://github.com/ossf/allstar                  | [Meeting Notes](https://docs.google.com/document/d/1b6d3CVJLsl7YnTE7ZaZQHdkdYIvuOQ8rzAmvVdypOWM/edit?usp=sharing) | Securing Critical Projects WG               | TBD        |
 | Best Practices Badge   | https://github.com/coreinfrastructure/best-practices-badge | [Mailing list](https://lists.coreinfrastructure.org/mailman/listinfo/cii-badges) | Best Practices WG   | TBD        |
@@ -76,6 +76,7 @@ Diagrams with an overview of the OpenSSF, including its projects and SIGs, are a
 | Security Insights Spec | https://github.com/ossf/security-insights-spec   | [Meeting Notes](https://docs.google.com/document/d/14_ILDhSK3ymKqUTQeQBRgJKgfiy_ePoGZIe8s7p3K5E/edit?usp=sharing) | Identifying Security Threats WG | TBD        |
 | Security Metrics       | https://github.com/ossf/Project-Security-Metrics | [Meeting Notes](https://docs.google.com/document/d/14_ILDhSK3ymKqUTQeQBRgJKgfiy_ePoGZIe8s7p3K5E/edit#heading=h.apj7ueyomk4r) | Identifying Security Threats WG | TBD        |
 | Sigstore               | https://github.com/sigstore                      | [Meeting Notes](https://docs.google.com/document/d/1bsl-Y0KulSD7O_nTekad1sAKOVRb80wyGb-Q5x-zdg0/edit) | OpenSSF TAC    | TBD        |
+| SLSA Tooling           | https://github.com/ossf/wg-supply-chain-integrity/blob/main/slsa-tooling.md | [Meeting Notes](https://docs.google.com/document/d/18oj3CLJQhZj1dMHKDTq_1kKg0syysKCS7pLyXlw1SRc/edit#heading=h.yfiy9b23vayj) | Supply Chain Integrity WG   | TBD        |
 
 ### OpenSSF affiliated projects
 
