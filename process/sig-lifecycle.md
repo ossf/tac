@@ -20,7 +20,6 @@ The SIG life cycle begins with interested contributors deciding to undertake thi
 ## Once `Active`:
 
 * The governing body must list information about the SIG on its README, including current state, chairs, and a statement of focus, intent, goals, and/or deliverables
-  * SIGs may have a repository (prefixed with `sig-`) that include the information listed above
 * SIGs may have regular meetings separate from their governing body, if so:
   * They should appear on the OpenSSF calendar
   * They should have a document with upcoming agendas and notes from past meetings
