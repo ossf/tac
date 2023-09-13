@@ -84,9 +84,6 @@ Diagrams with an overview of the OpenSSF, including its projects and SIGs, are a
 | GNU Toolchain Infrastructure | Coming Soon                         | TBD   | TBD    |
 | Alpha Omega                  | https://github.com/ossf/alpha-omega | TBD   | TBD    |
 
-Charters for these Technical Initiatives are located in the [Charters](charters)
-directory of this repository.
-
 ## Antitrust Policy
 
 Linux Foundation meetings involve participation by industry competitors, and it is the intention of the Linux Foundation to conduct all of its activities in accordance with applicable antitrust and competition laws. It is therefore extremely important that attendees adhere to meeting agendas, and be aware of, and not participate in, any activities that are prohibited under applicable US state, federal or foreign antitrust and competition laws.
