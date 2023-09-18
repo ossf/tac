@@ -40,7 +40,7 @@ Non-Goals:
 
 
 
-### IP policy and licensing due dilligence
+### IP policy and licensing due diligence
 
 When contributing an existing Project to the OpenSSF, the contribution must undergo license and IP due diligence by the Linux Foundation (LF).
 
