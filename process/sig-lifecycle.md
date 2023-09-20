@@ -14,6 +14,9 @@ The SIG life cycle begins with interested contributors deciding to undertake thi
 
 ## To become `Active`:
 
+* There must be a proposal of the focus, intent, goals, and/or deliverables of the SIG
+  * This could be in an Issue of the governing body's repository, a shared document, or in a README of the SIGs repository (if they have one)
+* The initial membership should be at least 3 individuals from 2 different organizations
 * A governing body must agree to govern the SIG
   * The governing body may have its membership vote, with notice given at the meeting prior to the vote
 
@@ -23,6 +26,7 @@ The SIG life cycle begins with interested contributors deciding to undertake thi
 * SIGs may have regular meetings separate from their governing body, if so:
   * They should appear on the OpenSSF calendar
   * They should have a document with upcoming agendas and notes from past meetings
+* If the SIG starts to produce code, they should consider becoming a [project](./project-lifecycle.md) instead
 
 ## To become `End-of-Life`:
 
