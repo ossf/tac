@@ -1,4 +1,4 @@
-## Application for adopting GUAC at the sandbox stage
+## Application for adopting GUAC at the incubating stage
 
 ### List of project maintainers
 The project must have a minimum of three maintainers with a minimum of two different organizational affiliations.
@@ -23,7 +23,7 @@ Here are quotes from adopters:
   * https://github.com/guacsec/guac/blob/main/GOVERNANCE.md
 
 ### IP policy and licensing due dilligence
-  * TAC docs make this process unclear. We will work with LF on any due diligence, just point us in the right direction.
+  * This has been completed as per https://github.com/ossf/tac/issues/179.
 
 ### Project References
 
