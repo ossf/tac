@@ -16,7 +16,7 @@ If you need support in any part of the process, please email [operations@openssf
 
 ## Meetings
 
-The TAC [meetings minutes](https://docs.google.com/document/d/18BJlokTeG5e5ARD1VFDl5bIP75OFPCtzf77lfadQ4f0/edit#) are online and appear on the [OpenSSF Community Calendar](https://calendar.google.com/calendar?cid=czYzdm9lZmhwNWk5cGZsdGI1cTY3bmdwZXNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ).
+The TAC [meetings minutes](https://docs.google.com/document/d/1706vJpuyq4NpHpVYsOTeU90j5RpoJREX7MRlhAo-CW4/edit?usp=sharing) are online and appear on the [OpenSSF Community Calendar](https://calendar.google.com/calendar?cid=czYzdm9lZmhwNWk5cGZsdGI1cTY3bmdwZXNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ).
 
 Meetings are also recorded and posted to the [OpenSSF YouTube channel](https://www.youtube.com/channel/UCUdhiXNEBEayowJXY_v7AXQ/).
 
@@ -25,12 +25,12 @@ Meetings are also recorded and posted to the [OpenSSF YouTube channel](https://w
 
 | Name             | Position | Email                          | Organization | Term                      |
 | ---------------- | :--------: | ------------------------------ | ------------ | --------------------------|
-| Aeva Black       | | aeva.black@microsoft.com       | Microsoft    | April 2023 - March 2024   |
-| Arnaud J Le Hors | Vice Chair | lehors@us.ibm.com              | IBM          | April 2023 - March 2024\* |
+| Arnaud J Le&nbsp;Hors | Vice Chair | lehors@us.ibm.com              | IBM          | April 2023 - March 2024\* |
 | Bob Callaway     |  | bcallaway@google.com           | Google       | April 2023 - March 2024   |
 | CRob Robinson    | Chair | christopher.robinson@intel.com | Intel        |  April 2023 - March 2024\* |
 | Dan Lorenc       |  | dlorenc@chainguard.dev         | Chainguard   | April 2023 - March 2024   |
 | Dustin Ingram    |  | dii@google.com                 | Google       | April 2023 - March 2024   |
+| Michael Lieberman|  | mike@kusari.dev                | Kusari       | July 2023 - March 2024    |
 | Zach Steindler   |  | steiza@github.com              | GitHub       | April 2023 - March 2024\* |
 
 NOTE: \* marked entries denote OpenSSF Governing Board appointed members, others are community elected.
@@ -48,23 +48,23 @@ The following Technical Initiatives have been approved by the TAC:
 | Name                         | Repository                                              | Notes                                                                                                  | Status     |
 | ---------------------------- | ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | ---------- |
 | Vulnerability Disclosures      | https://github.com/ossf/wg-vulnerability-disclosures    | [Meeting Notes](https://github.com/ossf/wg-vulnerability-disclosures/tree/main/docs/meeting-notes)     | Incubating |
-| Security Tooling               | https://github.com/ossf/wg-security-tooling             | [Meeting Notes](https://docs.google.com/document/d/1DoB7zgtLsP-JGF77ASkHV7UMofTE2wseniexaa6Q4M8/edit#) | Incubating |
+| Security Tooling               | https://github.com/ossf/wg-security-tooling             | [Meeting Notes](https://docs.google.com/document/d/1jzxhzIfkOMTagpeFWYoZpMKwHYeO4Gc7Eq5FcMFEw2c/edit#heading=h.wdz394z3k3h2) | Incubating |
 | Security Best Practices        | https://github.com/ossf/wg-best-practices-os-developers | [Meeting Notes](https://github.com/ossf/wg-best-practices-os-developers/blob/main/meeting-minutes.md)  | Incubating |
-| Identifying Security Threats   | https://github.com/ossf/wg-identifying-security-threats | [Meeting Notes](https://docs.google.com/document/d/1AfI0S6VjBCO0ZkULCYZGHuzzW8TPqO3zYxRjzmKvUB4/edit)  | Incubating |
-| Securing Critical Projects     | https://github.com/ossf/wg-securing-critical-projects   | [Meeting Notes](https://docs.google.com/document/d/1MIXxadtWsaROpFcJnBtYnQPoyzTCIDhd0IGV8PIV0mQ/edit)  | Incubating |
+| Identifying Security Threats   | https://github.com/ossf/wg-identifying-security-threats | [Meeting Notes](https://docs.google.com/document/d/14_ILDhSK3ymKqUTQeQBRgJKgfiy_ePoGZIe8s7p3K5E/edit)  | Incubating |
+| Securing Critical Projects     | https://github.com/ossf/wg-securing-critical-projects   | [Meeting Notes](https://docs.google.com/document/d/1GFslP6elYCx27TUitdigDr1gsOItYkL0Vq7hTB9y4Lo/edit)  | Incubating |
 | Supply Chain Integrity         | https://github.com/ossf/wg-supply-chain-integrity       | [Meeting Notes](https://docs.google.com/document/d/1xPs2sSbH3I9Ich7OyLOzl85oJshnK8Q6WoAgREE5-zA/edit)  | Incubating |
 | Securing Software Repositories | https://github.com/ossf/wg-securing-software-repos      | [Meeting Notes](https://docs.google.com/document/d/1-f6m442MHg9hktrbcp-4sM9GbZC3HLTpZPpxMXjMCp4/edit)  | Incubating |
-| End Users                      | https://github.com/ossf/wg-endusers                     | [Meeting Notes](https://docs.google.com/document/d/1KQalBRzfRBvsqh73JUYfp1KG-AJdXcv2Z8LTIFoQP8c/edit)  | Incubating |
+| End Users                      | https://github.com/ossf/wg-endusers                     | [Meeting Notes](https://docs.google.com/document/d/1abI65H4pF5y8YtA2_TuDBAaI47v9mTfpr5mwVvccX_I/edit)  | Incubating |
 
 ### Overview Diagrams
 
-Diagrams with an overview of the OpenSSF, including its projects and SIGs, are available in the presentation [OpenSSF Introduction (including Diagrammers’ Society diagrams)](https://docs.google.com/presentation/d/1ZQ7WjNH5fQL7qvpFN3jTFt-iQHqPpUc5of_azQc8iic/edit) as created and maintained by the [OpenSSF Diagrammer's Society](https://github.com/ossf/Diagrammers-Society).
+Diagrams with an overview of the OpenSSF, including its projects and SIGs, are available in the presentation [OpenSSF Introduction (including Diagrammers’ Society diagrams)](https://docs.google.com/presentation/d/1DpB-WPz4yimdF7DDH4waR_zdi7X5WumgoptcqwkMg-s/edit?usp=sharing) as created and maintained by the [OpenSSF Diagrammer's Society](https://github.com/ossf/Diagrammers-Society).
 
 ### Projects
 
-| Name                       | Repository          | Notes                                                                                                 | Sponsoring Org | Status     |
+| Name                       | Repository/Home Page | Notes                                                                                                 | Sponsoring Org | Status     |
 | ---------------------- | ---------------------------------------- | ----------------------------------------------------------------------------------------------------- | -------------- |---------- |
-| Allstar                | https://github.com/ossf/allstar                  | [Meeting Notes](https://docs.google.com/document/d/1dB2U7_qZpNW96vtuoG7ShmgKXzIg6R5XT5Tc-0yz6kE/edit#heading=h.4k8ml0qkh7tl) | Securing Critical Projects WG               | TBD        |
+| Allstar                | https://github.com/ossf/allstar                  | [Meeting Notes](https://docs.google.com/document/d/1b6d3CVJLsl7YnTE7ZaZQHdkdYIvuOQ8rzAmvVdypOWM/edit?usp=sharing) | Securing Critical Projects WG               | TBD        |
 | Best Practices Badge   | https://github.com/coreinfrastructure/best-practices-badge | [Mailing list](https://lists.coreinfrastructure.org/mailman/listinfo/cii-badges) | Best Practices WG   | TBD        |
 | Criticality Score      | https://github.com/ossf/criticality_score        | [Meeting Notes](https://docs.google.com/document/d/1MIXxadtWsaROpFcJnBtYnQPoyzTCIDhd0IGV8PIV0mQ/edit) | Securing Critical Projects WG   | TBD        |
 | Fuzz Introspector      | https://github.com/ossf/fuzz-introspector        | [Meeting Notes](https://docs.google.com/document/d/1DoB7zgtLsP-JGF77ASkHV7UMofTE2wseniexaa6Q4M8/edit#) | Security Tooling WG            | TBD        |
@@ -74,9 +74,10 @@ Diagrams with an overview of the OpenSSF, including its projects and SIGs, are a
 | Package Feeds          | https://github.com/ossf/package-feeds            | [Meeting Notes](https://docs.google.com/document/d/1MIXxadtWsaROpFcJnBtYnQPoyzTCIDhd0IGV8PIV0mQ/edit) | Securing Critical Projects WG   | TBD        |
 | Repository Service for TUF | https://github.com/vmware/repository-service-tuf | TBD | Securing Software Repositories WG | Sandbox |
 | Scorecard              | https://github.com/ossf/scorecard                | [Meeting Notes](https://docs.google.com/document/d/1b6d3CVJLsl7YnTE7ZaZQHdkdYIvuOQ8rzAmvVdypOWM/edit?usp=sharing) | Best Practices WG               | TBD        |
-| Security Insights Spec | https://github.com/ossf/security-insights-spec   | [Meeting Notes](https://docs.google.com/document/d/1AfI0S6VjBCO0ZkULCYZGHuzzW8TPqO3zYxRjzmKvUB4/edit?usp=sharing) | Identifying Security Threats WG | TBD        |
-| Security Metrics       | https://github.com/ossf/Project-Security-Metrics | [Meeting Notes](https://docs.google.com/document/d/1AfI0S6VjBCO0ZkULCYZGHuzzW8TPqO3zYxRjzmKvUB4/edit?usp=sharing) | Identifying Security Threats WG | TBD        |
+| Security Insights Spec | https://github.com/ossf/security-insights-spec   | [Meeting Notes](https://docs.google.com/document/d/14_ILDhSK3ymKqUTQeQBRgJKgfiy_ePoGZIe8s7p3K5E/edit?usp=sharing) | Identifying Security Threats WG | TBD        |
+| Security Metrics       | https://github.com/ossf/Project-Security-Metrics | [Meeting Notes](https://docs.google.com/document/d/14_ILDhSK3ymKqUTQeQBRgJKgfiy_ePoGZIe8s7p3K5E/edit#heading=h.apj7ueyomk4r) | Identifying Security Threats WG | TBD        |
 | Sigstore               | https://github.com/sigstore                      | [Meeting Notes](https://docs.google.com/document/d/1bsl-Y0KulSD7O_nTekad1sAKOVRb80wyGb-Q5x-zdg0/edit) | OpenSSF TAC    | TBD        |
+| SLSA Tooling           | https://github.com/ossf/wg-supply-chain-integrity/blob/main/slsa-tooling.md | [Meeting Notes](https://docs.google.com/document/d/18oj3CLJQhZj1dMHKDTq_1kKg0syysKCS7pLyXlw1SRc/edit#heading=h.yfiy9b23vayj) | Supply Chain Integrity WG   | TBD        |
 
 ### OpenSSF affiliated projects
 
@@ -84,9 +85,6 @@ Diagrams with an overview of the OpenSSF, including its projects and SIGs, are a
 | --------------------------   | ----------------------------------- | ----- | ------ |
 | GNU Toolchain Infrastructure | Coming Soon                         | TBD   | TBD    |
 | Alpha Omega                  | https://github.com/ossf/alpha-omega | TBD   | TBD    |
-
-Charters for these Technical Initiatives are located in the [Charters](charters)
-directory of this repository.
 
 ## Antitrust Policy
 

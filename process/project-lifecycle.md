@@ -86,7 +86,8 @@ Incubating projects represent maturing but not fully realized projects. Incubati
 
 #### Incubation Entry Requirements and Considerations
 
-* Projects must have a minimum of three maintainers with a minimum of two different organization affiliations.
+* Projects must have a minimum of three maintainers with a minimum of two different organization affiliations, and document the current list of maintainers.
+* Projects must have defined a contributor guide, which makes it clear how and when contributors should be given increasing responsibilities towards maintainership of the project. (Example guides: [Sigstore](https://github.com/sigstore/community/blob/main/MEMBERSHIP.md), [AllStar](https://github.com/ossf/allstar/blob/main/contributor-ladder.md))
 * Projects should be able to show adoption by multiple parties and adoption's value to the open source community and/or end users (may include adoption of beta/early versions) with the intent to showcase wide adoption by the project's consumers.
 * Projects must be aligned with the OpenSSF mission _and_ either be a novel approach for existing areas or address an unfulfilled need. It is expected that the initial code needed for an OpenSSF WG to work be kept within their repository and will not function as a project in its own right. Should initial WG code grow and mature that it warrants its own Project status, then it is subject to Sandbox entry requirements. It is preferred that extensions of existing OpenSSF projects collaborate with the existing project rather than seek a new project.
 * Projects must have documented, initial project governance.
