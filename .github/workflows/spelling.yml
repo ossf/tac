@@ -80,7 +80,6 @@ jobs:
       contents: read
       pull-requests: read
       actions: read
-      security-events: write
     outputs:
       followup: ${{ steps.spelling.outputs.followup }}
     runs-on: ubuntu-latest
@@ -100,8 +99,8 @@ jobs:
         spell_check_this: ossf/tac@main
         post_comment: 0
         use_magic_file: 1
-        experimental_apply_changes_via_bot: ${{ github.repository_owner != 'ossf' && 1 }}
-        use_sarif: ${{ (!github.event.pull_request || (github.event.pull_request.head.repo.full_name == github.repository)) && 1 }}
+        quit_without_error: 1
+        only_check_changed_files: 1
         extra_dictionary_limit: 10
         dictionary_source_prefixes: |
           {"cspell": "https://raw.githubusercontent.com/check-spelling/cspell-dicts/v20220816/dictionaries/", "cspell1": "https://raw.githubusercontent.com/check-spelling/cspell-dicts/v20230509/dictionaries/"}
@@ -110,27 +109,44 @@ jobs:
           cspell1:aws/aws.txt
           cspell1:k8s/dict/k8s.txt
           cspell1:filetypes/filetypes.txt
+        check_extra_dictionaries: ''
 
-  update:
-    name: Update PR
+  comment-push:
+    name: Report (Push)
+    # If your workflow isn't running on push, you can remove this job
+    runs-on: ubuntu-latest
+    needs: spelling
     permissions:
       contents: write
-      pull-requests: write
-      actions: read
-    runs-on: ubuntu-latest
     if: ${{
+        (success() || failure()) &&
         github.repository_owner != 'ossf' &&
-        github.event_name == 'issue_comment' &&
-        github.event.issue.pull_request &&
-        contains(github.event.comment.body, '@check-spelling-bot apply')
+        needs.spelling.outputs.followup &&
+        github.event_name == 'push'
       }}
-    concurrency:
-      group: spelling-update-${{ github.event.issue.number }}
-      cancel-in-progress: false
+
     steps:
-    - name: apply spelling updates
-      uses: check-spelling/check-spelling@v0.0.21
+    - name: comment
+      uses: check-spelling/check-spelling@main
       with:
-        experimental_apply_changes_via_bot: 1
         checkout: true
-        ssh_key: "${{ secrets.CHECK_SPELLING }}"
+        spell_check_this: check-spelling/spell-check-this@prerelease
+        only_check_changed_files: 1
+        task: ${{ needs.spelling.outputs.followup }}
+
+  comment-pr:
+    name: Report (PR)
+    # If you workflow isn't running on pull_request*, you can remove this job
+    runs-on: ubuntu-latest
+    needs: spelling
+    permissions:
+      pull-requests: write
+    if: (success() || failure()) && needs.spelling.outputs.followup && contains(github.event_name, 'pull_request')
+    steps:
+    - name: comment
+      uses: check-spelling/check-spelling@main
+      with:
+        checkout: true
+        spell_check_this: check-spelling/spell-check-this@prerelease
+        only_check_changed_files: 1
+        task: ${{ needs.spelling.outputs.followup }}
