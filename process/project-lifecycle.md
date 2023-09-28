@@ -40,7 +40,7 @@ The OpenSSF Sandbox is the entry point for early stage Projects and has four goa
 #### Project Responsibilities
 * Provides bi-annual updates to the TAC on technical vision and progress on vision.
 * Maintains a diversified contributor base (i.e. not a single-vendor project).
-* Follows security best practices (as recommended by the OpenSSF and others), including passing the [OpenSSF Best Practices criteria](https://bestpractices.coreinfrastructure.org/en/criteria/0).
+* For code development, follows security best practices (as recommended by the OpenSSF and others), including passing the [OpenSSF Best Practices criteria](https://bestpractices.coreinfrastructure.org/en/criteria/0).
 * Provides project updates to OpenSSF Marketing Committee as requested.
 
 #### Project Support
@@ -54,8 +54,8 @@ The OpenSSF Sandbox is the entry point for early stage Projects and has four goa
 #### Sandbox Entry Requirements and Considerations
 
 * Projects must have a minimum of two maintainers with different organization affiliations.
-* Projects must be aligned with the OpenSSF mission _and_ either be a novel approach for existing areas or address an unfulfilled need. It is expected that the initial code needed for an OpenSSF WG to work be kept within their repository and will not function as a project in its own right. Should initial WG code grow and mature that it warrants its own Project status, then it is subject to Sandbox entry requirements. It is preferred that extensions of existing OpenSSF projects collaborate with the existing project rather than seek a new project.
-* If contributing an existing Project to the OpenSSF, the contribution must undergo license and IP due diligence by the Linux Foundation (LF).
+* Projects must be aligned with the OpenSSF mission _and_ either be a novel approach for existing areas or address an unfulfilled need. It is expected that the initial code or specification developed by an OpenSSF WG be kept within their repository and will not function as a Project in its own right. Should the initial WG code or specification grow and mature that it warrants its own Project status, then it is subject to Sandbox entry requirements. It is preferred that extensions of an existing OpenSSF project collaborate with the existing project rather than seek a new project.
+* If contributing an existing project to the OpenSSF, the contribution must undergo license and IP due diligence by the Linux Foundation (LF).
 
 See [Submission Process](#submission-process) below and [Sandbox application](templates/PROJECT_NAME_sandbox_stage.md).
 
@@ -67,9 +67,9 @@ Incubating projects represent maturing but not fully realized projects. Incubati
 #### Project Responsibilities
 * Provides bi-annual updates to the TAC on technical vision and progress on vision.
 * Maintains a diversified contributor base (i.e. not a single-vendor project) with an active flow of contributions.
-* Follows security best practices (as recommended by the OpenSSF and others), including achieving a [Silver OpenSSF Best Practices badge](https://bestpractices.coreinfrastructure.org/en/criteria).
-* Maintains a point of contact for vulnerability reports.
-* Implements, practices, and refines mature software development and release practices such as following a version schema.
+* For code development, follows security best practices (as recommended by the OpenSSF and others), including achieving a [Silver OpenSSF Best Practices badge](https://bestpractices.coreinfrastructure.org/en/criteria).
+* For code development, maintains a point of contact for vulnerability reports.
+* Implements, practices, and refines mature development and release practices such as following a version schema.
 * Begins to establish the appropriate governance that enables its sustainment for potential graduation.
 
 #### Project Support
@@ -78,7 +78,7 @@ Incubating projects represent maturing but not fully realized projects. Incubati
 * Receives consideration as in-scope for any submission to an OpenSSF-managed conference or event.
 * Receives OpenSSF Code of Conduct Committee support.
 * Receives infrastructure support (details determined by project leads and OpenSSF Budget Committee).
-* Receives support with vulnerability disclosure from the OpenSSF (Vulnerability Disclosure WG).
+* For code development, receives support with vulnerability disclosure from the OpenSSF (Vulnerability Disclosure WG).
 * May post project updates and tutorials to the OpenSSF blog.
 * May request OpenSSF budget for project improvements such as security audits or time-bound contracting needs.
 * With additional TAC or WG approval, may fundraise for dedicated project funds, coordinated by the OpenSSF.
@@ -89,7 +89,7 @@ Incubating projects represent maturing but not fully realized projects. Incubati
 * Projects must have a minimum of three maintainers with a minimum of two different organization affiliations, and document the current list of maintainers.
 * Projects must have defined a contributor guide, which makes it clear how and when contributors should be given increasing responsibilities towards maintainership of the project. (Example guides: [Sigstore](https://github.com/sigstore/community/blob/main/MEMBERSHIP.md), [AllStar](https://github.com/ossf/allstar/blob/main/contributor-ladder.md))
 * Projects should be able to show adoption by multiple parties and adoption's value to the open source community and/or end users (may include adoption of beta/early versions) with the intent to showcase wide adoption by the project's consumers.
-* Projects must be aligned with the OpenSSF mission _and_ either be a novel approach for existing areas or address an unfulfilled need. It is expected that the initial code needed for an OpenSSF WG to work be kept within their repository and will not function as a project in its own right. Should initial WG code grow and mature that it warrants its own Project status, then it is subject to Sandbox entry requirements. It is preferred that extensions of existing OpenSSF projects collaborate with the existing project rather than seek a new project.
+* Projects must be aligned with the OpenSSF mission _and_ either be a novel approach for existing areas or address an unfulfilled need. It is expected that the initial code or specification developed by an OpenSSF WG be kept within their repository and will not function as a Project in its own right. Should the initial WG code or specification grow and mature that it warrants its own Project status, then it is subject to Sandbox entry requirements. It is preferred that extensions of an existing OpenSSF project collaborate with the existing project rather than seek a new project.
 * Projects must have documented, initial project governance.
 
 #### Project Process: Sandbox to Incubation and direct entry to Incubation
@@ -107,16 +107,16 @@ Graduated projects signal the highest level of maturity for an OpenSSF project. 
 
 * Provides bi-annual updates to the TAC on technical vision and progress on vision.
 * Maintains a diversified contributor base (i.e. not a single-vendor project) with an active flow of contributions.
-* Follows security best practices, including achieving a [Gold OpenSSF Best Practices badge](https://bestpractices.coreinfrastructure.org/en/criteria).
-* Maintains a point of contact for vulnerability reports and follow coordinated vulnerability disclosure practices.
-* Implements, practices, and refines mature software development and release practices, such as adherence to semantic versioning, and having a declared policy for stable releases and backported fixes.
+* For code development, follows security best practices, including achieving a [Gold OpenSSF Best Practices badge](https://bestpractices.coreinfrastructure.org/en/criteria).
+* For code development, maintains a point of contact for vulnerability reports and follow coordinated vulnerability disclosure practices.
+* Implements, practices, and refines mature development and release practices, such as adherence to semantic versioning, and having a declared policy for stable releases and backported fixes.
 
 #### Project Support
 * Receives guidance on technical direction from TAC.
 * Receives consideration as in-scope for any submission to an OpenSSF-managed conference or event.
 * Receives OpenSSF Code of Conduct Committee support.
 * Receives infrastructure support (details determined by project leads and OpenSSF Budget Committee).
-* Receives support with vulnerability disclosure from the OpenSSF (Vulnerability Disclosure WG).
+* For code development, receives support with vulnerability disclosure from the OpenSSF (Vulnerability Disclosure WG).
 * May post project updates and tutorials to the OpenSSF blog.
 * May request OpenSSF budget for project improvements such as security audits or time-bound contracting needs.
 * May request OpenSSF budget for sustained maintainer stipends (details determined by OpenSSF and project leads).
