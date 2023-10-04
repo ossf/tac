@@ -32,6 +32,7 @@ CLA
 CNCF
 Coinbase
 COPYLEFT
+colek
 Corail
 CPython
 crob
@@ -42,6 +43,7 @@ CVD
 CVEs
 CVRF
 Cybeats
+Datadog
 Dcmiddle
 dco
 Debian
@@ -56,6 +58,7 @@ Fernick
 Ferraioli
 Foxboron
 frenemy
+FRSCA
 fyi
 gittuf
 Gendreau
@@ -68,6 +71,7 @@ headcount
 HUAWEI
 Hyperledger
 hyperlinks
+idunbarh
 impactfully
 jburson
 JFrog
@@ -75,6 +79,7 @@ jorydotcom
 joshbressers
 JPM
 JPMC
+justincappos
 Kaczorowski
 Kairo
 kairoaraujo
@@ -85,6 +90,7 @@ Kimmich
 Knative
 Konstantinos
 Kratzer
+Kuppusamy
 kusari
 Lakkakula
 lehors
@@ -101,6 +107,7 @@ lumjjb
 maintainership
 malware
 mds
+mnm
 Montazery
 Mozilla
 mvrachev
@@ -148,6 +155,7 @@ RPi
 Rubygems
 Rutkowski
 Sandecki
+SBO
 SBOMs
 Schaik
 scim
@@ -179,6 +187,8 @@ tac
 TCs
 timeframes
 timezones
+Trishank
+trishankatdatadog
 TSC
 tuf
 typosquatting
