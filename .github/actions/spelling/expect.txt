@@ -35,6 +35,7 @@ COPYLEFT
 colek
 Corail
 CPython
+CRob
 crob
 CSAF
 curating
@@ -150,6 +151,7 @@ Rezilion
 RFPs
 rhaning
 rnjudge
+Roadmap
 roadmap
 RPi
 Rubygems
@@ -167,6 +169,7 @@ semesterly
 Shopify
 Shortlist
 sif
+Sigstore
 sigstore
 Sirish
 SKF
@@ -190,6 +193,7 @@ timezones
 Trishank
 trishankatdatadog
 TSC
+TUF
 tuf
 typosquatting
 Unicode
