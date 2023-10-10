@@ -54,7 +54,6 @@ The following Technical Initiatives have been approved by the TAC:
 | Securing Critical Projects     | https://github.com/ossf/wg-securing-critical-projects   | [Meeting Notes](https://docs.google.com/document/d/1GFslP6elYCx27TUitdigDr1gsOItYkL0Vq7hTB9y4Lo/edit)  | Incubating |
 | Supply Chain Integrity         | https://github.com/ossf/wg-supply-chain-integrity       | [Meeting Notes](https://docs.google.com/document/d/1xPs2sSbH3I9Ich7OyLOzl85oJshnK8Q6WoAgREE5-zA/edit)  | Incubating |
 | Securing Software Repositories | https://github.com/ossf/wg-securing-software-repos      | [Meeting Notes](https://docs.google.com/document/d/1-f6m442MHg9hktrbcp-4sM9GbZC3HLTpZPpxMXjMCp4/edit)  | Incubating |
-| SBOMit                 | https://github.com/sbomit                        | [Meeting Notes](https://docs.google.com/document/d/1-nHXMqvWNzgOxAq08O8Wu2BTHz0U60yBoAklrJAMaRc/edit?usp=sharing) | Security Tooling WG             | Sandbox    |
 | End Users                      | https://github.com/ossf/wg-endusers                     | [Meeting Notes](https://docs.google.com/document/d/1abI65H4pF5y8YtA2_TuDBAaI47v9mTfpr5mwVvccX_I/edit)  | Incubating |
 
 ### Overview Diagrams
