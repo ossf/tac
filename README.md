@@ -54,6 +54,7 @@ The following Technical Initiatives have been approved by the TAC:
 | Securing Critical Projects     | https://github.com/ossf/wg-securing-critical-projects   | [Meeting Notes](https://docs.google.com/document/d/1GFslP6elYCx27TUitdigDr1gsOItYkL0Vq7hTB9y4Lo/edit)  | Incubating |
 | Supply Chain Integrity         | https://github.com/ossf/wg-supply-chain-integrity       | [Meeting Notes](https://docs.google.com/document/d/1xPs2sSbH3I9Ich7OyLOzl85oJshnK8Q6WoAgREE5-zA/edit)  | Incubating |
 | Securing Software Repositories | https://github.com/ossf/wg-securing-software-repos      | [Meeting Notes](https://docs.google.com/document/d/1-f6m442MHg9hktrbcp-4sM9GbZC3HLTpZPpxMXjMCp4/edit)  | Incubating |
+| SBOMit                 | https://github.com/sbomit                        | [Meeting Notes](https://docs.google.com/document/d/1-nHXMqvWNzgOxAq08O8Wu2BTHz0U60yBoAklrJAMaRc/edit?usp=sharing) | Security Tooling WG             | Sandbox    |
 | End Users                      | https://github.com/ossf/wg-endusers                     | [Meeting Notes](https://docs.google.com/document/d/1abI65H4pF5y8YtA2_TuDBAaI47v9mTfpr5mwVvccX_I/edit)  | Incubating |
 
 ### Overview Diagrams
@@ -69,6 +70,7 @@ Diagrams with an overview of the OpenSSF, including its projects and SIGs, are a
 | Criticality Score      | https://github.com/ossf/criticality_score        | [Meeting Notes](https://docs.google.com/document/d/1MIXxadtWsaROpFcJnBtYnQPoyzTCIDhd0IGV8PIV0mQ/edit) | Securing Critical Projects WG   | TBD        |
 | Fuzz Introspector      | https://github.com/ossf/fuzz-introspector        | [Meeting Notes](https://docs.google.com/document/d/1DoB7zgtLsP-JGF77ASkHV7UMofTE2wseniexaa6Q4M8/edit#) | Security Tooling WG            | TBD        |
 | GUAC                   | https://github.com/guacsec/guac                  | TBD    | TBD        | Supply Chain Integrity WG | Incubating |
+| gittuf | https://github.com/gittuf/gittuf | TBD | Supply Chain Integrity WG | Sandbox |
 | OSV Schema             | https://github.com/ossf/osv-schema               | [Meeting Notes](https://docs.google.com/document/d/1mZEi6EvbH2mvn-gHOUIaysAjHlwJXjJdJ7gMlelSkVU/edit#) | Vulnerability Disclosures WG   | TBD        |
 | Package Analysis       | https://github.com/ossf/package-analysis         | [Meeting Notes](https://docs.google.com/document/d/1MIXxadtWsaROpFcJnBtYnQPoyzTCIDhd0IGV8PIV0mQ/edit) | Securing Critical Projects WG   | TBD        |
 | Package Feeds          | https://github.com/ossf/package-feeds            | [Meeting Notes](https://docs.google.com/document/d/1MIXxadtWsaROpFcJnBtYnQPoyzTCIDhd0IGV8PIV0mQ/edit) | Securing Critical Projects WG   | TBD        |
