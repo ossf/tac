@@ -72,7 +72,7 @@ Diagrams with an overview of the OpenSSF, including its projects and SIGs, are a
 | OSV Schema             | https://github.com/ossf/osv-schema               | [Meeting Notes](https://docs.google.com/document/d/1mZEi6EvbH2mvn-gHOUIaysAjHlwJXjJdJ7gMlelSkVU/edit#) | Vulnerability Disclosures WG   | TBD        |
 | Package Analysis       | https://github.com/ossf/package-analysis         | [Meeting Notes](https://docs.google.com/document/d/1MIXxadtWsaROpFcJnBtYnQPoyzTCIDhd0IGV8PIV0mQ/edit) | Securing Critical Projects WG   | TBD        |
 | Package Feeds          | https://github.com/ossf/package-feeds            | [Meeting Notes](https://docs.google.com/document/d/1MIXxadtWsaROpFcJnBtYnQPoyzTCIDhd0IGV8PIV0mQ/edit) | Securing Critical Projects WG   | TBD        |
-| Repository Service for TUF | https://github.com/vmware/repository-service-tuf | TBD | Securing Software Repositories WG | Sandbox |
+| Repository Service for TUF | https://github.com/repository-service-tuf/repository-service-tuf |  [Meeting Notes](https://docs.google.com/document/d/13a_AtFpPK9WO4PlAN6ciD-G1jiBU3gEDtRD1OUinUFY/edit)  | Securing Software Repositories WG | Sandbox |
 | Scorecard              | https://github.com/ossf/scorecard                | [Meeting Notes](https://docs.google.com/document/d/1b6d3CVJLsl7YnTE7ZaZQHdkdYIvuOQ8rzAmvVdypOWM/edit?usp=sharing) | Best Practices WG               | TBD        |
 | Security Insights Spec | https://github.com/ossf/security-insights-spec   | [Meeting Notes](https://docs.google.com/document/d/14_ILDhSK3ymKqUTQeQBRgJKgfiy_ePoGZIe8s7p3K5E/edit?usp=sharing) | Identifying Security Threats WG | TBD        |
 | Security Metrics       | https://github.com/ossf/Project-Security-Metrics | [Meeting Notes](https://docs.google.com/document/d/14_ILDhSK3ymKqUTQeQBRgJKgfiy_ePoGZIe8s7p3K5E/edit#heading=h.apj7ueyomk4r) | Identifying Security Threats WG | TBD        |
@@ -83,7 +83,7 @@ Diagrams with an overview of the OpenSSF, including its projects and SIGs, are a
 
 | Name                         | Repository                          | Notes | Status |
 | --------------------------   | ----------------------------------- | ----- | ------ |
-| GNU Toolchain Infrastructure | Coming Soon                         | TBD   | TBD    |
+| Core Toolchain Infrastructure | Coming Soon                         | TBD   | TBD    |
 | Alpha Omega                  | https://github.com/ossf/alpha-omega | TBD   | TBD    |
 
 ## Antitrust Policy

@@ -130,6 +130,7 @@ jobs:
       uses: check-spelling/check-spelling@main
       with:
         checkout: true
+        quit_without_error: 1
         spell_check_this: check-spelling/spell-check-this@prerelease
         only_check_changed_files: 1
         task: ${{ needs.spelling.outputs.followup }}
@@ -147,6 +148,7 @@ jobs:
       uses: check-spelling/check-spelling@main
       with:
         checkout: true
+        quit_without_error: 1
         spell_check_this: check-spelling/spell-check-this@prerelease
         only_check_changed_files: 1
         task: ${{ needs.spelling.outputs.followup }}
