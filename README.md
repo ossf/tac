@@ -67,19 +67,21 @@ Diagrams with an overview of the OpenSSF, including its projects and SIGs, are a
 | ---------------------- | ---------------------------------------- | ----------------------------------------------------------------------------------------------------- | -------------- |---------- |
 | Allstar                | https://github.com/ossf/allstar                  | [Meeting Notes](https://docs.google.com/document/d/1b6d3CVJLsl7YnTE7ZaZQHdkdYIvuOQ8rzAmvVdypOWM/edit?usp=sharing) | Securing Critical Projects WG               | TBD        |
 | Best Practices Badge   | https://github.com/coreinfrastructure/best-practices-badge | [Mailing list](https://lists.coreinfrastructure.org/mailman/listinfo/cii-badges) | Best Practices WG   | TBD        |
-| Criticality Score      | https://github.com/ossf/criticality_score        | [Meeting Notes](https://docs.google.com/document/d/1MIXxadtWsaROpFcJnBtYnQPoyzTCIDhd0IGV8PIV0mQ/edit) | Securing Critical Projects WG   | TBD        |
-| Fuzz Introspector      | https://github.com/ossf/fuzz-introspector        | [Meeting Notes](https://docs.google.com/document/d/1DoB7zgtLsP-JGF77ASkHV7UMofTE2wseniexaa6Q4M8/edit#) | Security Tooling WG            | TBD        |
+| Criticality Score      | https://github.com/ossf/criticality_score        | [Meeting Notes](https://docs.google.com/document/d/1GFslP6elYCx27TUitdigDr1gsOItYkL0Vq7hTB9y4Lo/edit?usp=sharing) | Securing Critical Projects WG   | TBD        |
+| Fuzz Introspector      | https://github.com/ossf/fuzz-introspector        | [Meeting Notes](https://docs.google.com/document/d/1jzxhzIfkOMTagpeFWYoZpMKwHYeO4Gc7Eq5FcMFEw2c/edit?usp=sharing) | Security Tooling WG            | TBD        |
 | GUAC                   | https://github.com/guacsec/guac                  | TBD    | TBD        | Supply Chain Integrity WG | Incubating |
 | gittuf | https://github.com/gittuf/gittuf | TBD | Supply Chain Integrity WG | Sandbox |
-| OSV Schema             | https://github.com/ossf/osv-schema               | [Meeting Notes](https://docs.google.com/document/d/1mZEi6EvbH2mvn-gHOUIaysAjHlwJXjJdJ7gMlelSkVU/edit#) | Vulnerability Disclosures WG   | TBD        |
-| Package Analysis       | https://github.com/ossf/package-analysis         | [Meeting Notes](https://docs.google.com/document/d/1MIXxadtWsaROpFcJnBtYnQPoyzTCIDhd0IGV8PIV0mQ/edit) | Securing Critical Projects WG   | TBD        |
-| Package Feeds          | https://github.com/ossf/package-feeds            | [Meeting Notes](https://docs.google.com/document/d/1MIXxadtWsaROpFcJnBtYnQPoyzTCIDhd0IGV8PIV0mQ/edit) | Securing Critical Projects WG   | TBD        |
+| OSV Schema             | https://github.com/ossf/osv-schema               | [Meeting Notes](https://docs.google.com/document/d/1jzqhW9SK9QRA39fQz0RiAkvpRWB0xztt1TAFJEseTlA/edit?usp=sharing) | Vulnerability Disclosures WG   | TBD        |
+| Package Analysis       | https://github.com/ossf/package-analysis         | [Meeting Notes](https://docs.google.com/document/d/1GFslP6elYCx27TUitdigDr1gsOItYkL0Vq7hTB9y4Lo/edit) | Securing Critical Projects WG   | TBD        |
+| Package Feeds          | https://github.com/ossf/package-feeds            | [Meeting Notes](https://docs.google.com/document/d/1GFslP6elYCx27TUitdigDr1gsOItYkL0Vq7hTB9y4Lo/edit) | Securing Critical Projects WG   | TBD        |
 | Repository Service for TUF | https://github.com/repository-service-tuf/repository-service-tuf |  [Meeting Notes](https://docs.google.com/document/d/13a_AtFpPK9WO4PlAN6ciD-G1jiBU3gEDtRD1OUinUFY/edit)  | Securing Software Repositories WG | Sandbox |
+| SBOMit                 | https://github.com/sbomit                        | [Meeting Notes](https://docs.google.com/document/d/1-nHXMqvWNzgOxAq08O8Wu2BTHz0U60yBoAklrJAMaRc/edit?usp=sharing) | Security Tooling WG             | Sandbox    |
 | Scorecard              | https://github.com/ossf/scorecard                | [Meeting Notes](https://docs.google.com/document/d/1b6d3CVJLsl7YnTE7ZaZQHdkdYIvuOQ8rzAmvVdypOWM/edit?usp=sharing) | Best Practices WG               | TBD        |
 | Security Insights Spec | https://github.com/ossf/security-insights-spec   | [Meeting Notes](https://docs.google.com/document/d/14_ILDhSK3ymKqUTQeQBRgJKgfiy_ePoGZIe8s7p3K5E/edit?usp=sharing) | Identifying Security Threats WG | TBD        |
 | Security Metrics       | https://github.com/ossf/Project-Security-Metrics | [Meeting Notes](https://docs.google.com/document/d/14_ILDhSK3ymKqUTQeQBRgJKgfiy_ePoGZIe8s7p3K5E/edit#heading=h.apj7ueyomk4r) | Identifying Security Threats WG | TBD        |
 | Sigstore               | https://github.com/sigstore                      | [Meeting Notes](https://docs.google.com/document/d/1bsl-Y0KulSD7O_nTekad1sAKOVRb80wyGb-Q5x-zdg0/edit) | OpenSSF TAC    | TBD        |
 | SLSA Tooling           | https://github.com/ossf/wg-supply-chain-integrity/blob/main/slsa-tooling.md | [Meeting Notes](https://docs.google.com/document/d/18oj3CLJQhZj1dMHKDTq_1kKg0syysKCS7pLyXlw1SRc/edit#heading=h.yfiy9b23vayj) | Supply Chain Integrity WG   | TBD        |
+
 
 ### OpenSSF affiliated projects
 
