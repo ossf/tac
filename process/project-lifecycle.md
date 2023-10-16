@@ -185,3 +185,5 @@ The TAC members review the PR and upon approval according to voting criteria def
 ### IP policy and license review
 
 Contributing an existing project to the OpenSSF requires a one-time IP policy and license review with The Linux Foundation. To enable tracking of the IP policy and license review process, an issue in the TAC repo must be created. The results of the review as well as all relevant data (e.g., results of license scans) must be attached to this issue. Finally, the issue must be mentioned in the project creation PR and the latter can only be merged once the issue tracking the IP policy and license review has been closed.
+
+In accordance with the [OpenSSF charter](https://openssf.org/about/charter/), unless otherwise approved by the Governing Board, software code is to be licensed under the Apache License Version 2.0 or the MIT license, data under any of the Community Data License Agreements, specifications under the Community Specification License Version 1.0, and documentation under the Creative Commons Attribution 4.0 International License.
