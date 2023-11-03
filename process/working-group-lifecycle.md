@@ -8,8 +8,8 @@ However, if no existing effort covers the topic feel free to make use of the exi
 
 Please note that running a WG successfully requires an extended effort. Be prepared to commit at least several hours per week for a year or more.
 
-The WG Life Cycle begins with establishing commitments from other interested contributors then making a proposal to the TAC. If accepted, the WG will begin as `Samdbox`. This is a boot strapping phase for the group to define and document what their goals are. 
-adopt OpenSSF community policies and norms. Once those are met the group becomes `Active` and will be fully recognized in OpenSSF. Either upon completing its objectives or no longer making forward progress a project will move to `End-of-Life`. The details for each phase follow.
+The WG Life Cycle begins with establishing commitments from other interested contributors then making a proposal to the TAC. If accepted, the WG will begin as `Sandbox`. This is a boot strapping phase for the group to define and document what their goals are.
+Once the WG has further defined its goals and garnered enough support it can apply to move to 'Incubating' stage. This is the phase for the WG to adopt OpenSSF community policies and norms. Once those are met the group becomes `Graduated` and will be fully recognized in OpenSSF. Either upon completing its objectives or no longer making forward progress a project will move to `Archived`. The details for each phase follow.
 
 ## To become `Sandbox`:
 
@@ -21,14 +21,14 @@ adopt OpenSSF community policies and norms. Once those are met the group becomes
 ## Once `Sandbox`:
 
 * The TAC will add the WG to the list of WGs to its README.
-* If the WG has meetings:
+* If the WG has meetings at this stage:
   * They should appear on the OpenSSF calendar
   * The WG should have a document with upcoming agendas and notes from past meetings
-* The WG should develop a charter or mission statement defining its goals.
+* The WG should develop a charter or mission statement defining its goals and seek a TAC sponsor.
  
 ## To become `Incubating`:
 
-* The WG should have a charter or mission statement for review by TAC
+* Have a charter or mission statement for review by TAC
 * Have met at least 5 times
     * For these, meeting notes (or ideally recordings) must be public
 * Have at least 5 interested individuals from at least 3 different organizations attending regularly
