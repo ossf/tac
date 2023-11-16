@@ -24,14 +24,14 @@ The process is designed to be flexible to enable a Project to move in and out of
 # II. Lifecycle
 <img align="top" src="https://github.com/ossf/tac/blob/main/process/TI-lifecycle-stages.png">
 
-Technical Initiatives (TIs) include Working Groups (WGs), Special Interest Groups (SIGs) and Projects(both code and specificiations). All TIs follow a common lifecyle, with 4 stages: 
+Technical Initiatives (TIs) include Working Groups (WGs), Special Interest Groups (SIGs) and Projects (both code and specificiations). All TIs follow a common lifecyle, with 4 stages: 
 
 - Sandbox - for new efforts within the Foundation seeking to get started out within a community of like-minded contributors
 - Incubating - for more mature and organized groups that have participated in the community for some period of time
 - Graduated - for mature efforts that have a proven track-record of deliverables and adding value to the community
 - Archived - for groups that either are feature-complete and retired, or that no longer has active contributions occuring
 
-Each TI will haved equivellent, but slighly different requirements and benefits, depending on their stage in the lifecyle and are defined below:
+Each TI will haved equivellent, but slightly different requirements and benefits, depending on their stage in the lifecyle and are defined below:
 
 * [Working Group Life Cycle](working-group-lifecycle.md)
 * [Project Life Cycle](project-lifecycle.md)
