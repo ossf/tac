@@ -31,7 +31,7 @@ Once the WG has further defined its goals and garnered enough support it can app
 * Have a charter or mission statement for review by TAC
 * Have met at least 5 times
     * For these, meeting notes (or ideally recordings) must be public
-* Have at least 5 interested individuals from at least 3 different organizations attending regularly
+* Have at least 5 members from at least 3 different organizations attending regularly
 * 1 TAC sponsor
     * TAC sponsor agrees to attend WG meetings regularly
     * TAC sponsor does not need to have a formal role in WG, e.g., chair
@@ -46,13 +46,13 @@ Once the WG has further defined its goals and garnered enough support it can app
 * Meet on a regular cadence. Meetings are public, recorded, and on the calendar
 * Have access to community resources (Zooms, YouTube channels, GitHub, Slack channels, etc.)
 * Can request funding/other resources (subject to TAC/GB approval)
-    * NOTE: _At the time of this draft, funding and resources beyond collaboration tools have not been established in the OpenSSF. WGs should expect that their main resource is the community contributions they are able to recruit._
+    * NOTE: _At the time, funding and resources beyond collaboration tools have not been established in the OpenSSF. WGs should expect that their main resource is the community contributions they are able to recruit._
 
 ## To become `Graduated`:
 
 * Have received TAC approval of the README.md per `Incubating` requirements above
 * Have met at least 4 times over a period of at least 2 months since becoming `Incubating`
-* Have at least 5 regular members from at least 3 different organizations attending regularly as recorded in meeting minutes.
+* Have at least 5 members from at least 3 different organizations attending regularly as recorded in meeting minutes.
 * Request TAC approval. TAC will vote to approve or provide constructive guidance
 
 ## To remain `Graduated`:
@@ -77,3 +77,15 @@ A WG is expected to continue operating per the above guidelines, and to provide 
 * All significant artifacts should be archived as appropriate
 * Meeting series removed from calendar, mail list closed, and any other administrative items
   similarly put to closure as needed
+
+## Submission Process
+
+### Working Group creation or change of lifecycle stage
+
+For initiating the creation of a new WG or for requesting a change of a WG lifecycle stage, an application must be submitted to the TAC. To this end, a lead of the WG (or anyone in the case of an Archived WG) creates a PR in this repository with the following changes:
+
+* A new file in the `wg-lifecycle-documents` directory containing all information requested for a WG creation or a lifecycle change review. This file must be based on the template for the respective lifecycle stage in the `templates` directory. The `WG_NAME_` prefix of the template must be replaced by the WG name.
+
+* Modification of the table listing all projects in the [README](../README.md) of this repository by either updating the status field of the WG in the table to the intended new lifecycle stage or by adding the WG to the table in case of a WG creation request.
+
+The TAC members review the PR and upon approval according to voting criteria defined in the [OpenSSF charter](https://cdn.platform.linuxfoundation.org/agreements/openssf.pdf), the PR can be merged. The new WG has been created and the new lifecycle stage is in effect after the PR is merged.
