@@ -1,7 +1,7 @@
 ## Working Group incubation application
 
-### List of regular members
-The WG must have a minimum of 5 members from at least 3 different organizations attending regulary.
+### List of regular contributors
+The WG must have a minimum of 5 contributors from at least 3 different organizations attending regulary.
 
   * "name, affiliation, GitHub ID"
 

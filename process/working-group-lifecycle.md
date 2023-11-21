@@ -31,7 +31,7 @@ Once the WG has further defined its goals and garnered enough support it can app
 * Have a charter or mission statement for review by TAC
 * Have met at least 5 times
     * For these, meeting notes (or ideally recordings) must be public
-* Have at least 5 members from at least 3 different organizations attending regularly
+* Have at least 5 contributors from at least 3 different organizations attending regularly
 * 1 TAC sponsor
     * TAC sponsor agrees to attend WG meetings regularly
     * TAC sponsor does not need to have a formal role in WG, e.g., chair
@@ -52,7 +52,7 @@ Once the WG has further defined its goals and garnered enough support it can app
 
 * Have received TAC approval of the README.md per `Incubating` requirements above
 * Have met at least 4 times over a period of at least 2 months since becoming `Incubating`
-* Have at least 5 members from at least 3 different organizations attending regularly as recorded in meeting minutes.
+* Have at least 5 contributors from at least 3 different organizations attending regularly as recorded in meeting minutes.
 * Request TAC approval. TAC will vote to approve or provide constructive guidance
 
 ## To remain `Graduated`:

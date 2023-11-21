@@ -1,7 +1,7 @@
 ## Working Group graduation application
 
-### List of regular members
-The WG must have at least 5 members from at least 3 different organizations attending regularly as recorded in meeting minutes.
+### List of regular contributors
+The WG must have at least 5 contributors from at least 3 different organizations attending regularly as recorded in meeting minutes.
 
   * "name, affiliation, GitHub ID"
 
