@@ -31,7 +31,7 @@ Technical Initiatives (TIs) include Working Groups (WGs), Special Interest Group
 - Graduated - for mature efforts that have a proven track-record of deliverables and adding value to the community
 - Archived - for groups that either are feature-complete and retired, or that no longer has active contributions occurring
 
-Each TI will haved equivellent, but slightly different requirements and benefits, depending on their stage in the lifecyle and are defined below:
+Each TI will have equivalent, but slightly different requirements and benefits, depending on their stage in the lifecycle and are defined below:
 
 * [Working Group Life Cycle](working-group-lifecycle.md)
 * [Project Life Cycle](project-lifecycle.md)
