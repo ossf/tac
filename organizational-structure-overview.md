@@ -30,7 +30,7 @@ The following table describes the main types of groups and their characteristics
 | Initiative | Expected lifespan | Primary output| Reporting relationship |	Economic model
 |------------|-------------------|---------------|------------------------|---------------
 | Working Group (WG) | unbounded | not software | to the TAC | normative
-| Project |	unbounded | software | either TAC or WG | normative
+| Project |	unbounded | software or specification | either TAC or WG | normative
 | Special Interest Group (WG) | bounded | not software | either TAC or WG | normative
 
 
