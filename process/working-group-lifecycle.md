@@ -46,7 +46,7 @@ Once the WG has further defined its goals and garnered enough support it can app
 * Meet on a regular cadence. Meetings are public, recorded, and on the calendar
 * Have access to community resources (Zooms, YouTube channels, GitHub, Slack channels, etc.)
 * Can request funding/other resources (subject to TAC/GB approval)
-    * NOTE: _At the time, funding and resources beyond collaboration tools have not been established in the OpenSSF. WGs should expect that their main resource is the community contributions they are able to recruit._
+    * NOTE: _At this time, funding and resources beyond collaboration tools have not been established in the OpenSSF. WGs should expect that their main resource is the community contributions they are able to recruit._
 
 ## To become `Graduated`:
 
