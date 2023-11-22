@@ -1,11 +1,11 @@
 
 # I. Overview
 
-This document describes the Open Source Security Foundation (OpenSSF) life cycle process for Technical Initiatives, inclusive of Working Groups, Projects, and Special Interest Groups (SIG).
+This document describes the Open Source Security Foundation (OpenSSF) lifecycle process for Technical Initiatives (TI) which include Working Groups (WG), Projects (developing code or specifications), and Special Interest Groups (SIG).
 
 The authority that governs this process is as follows:
 
-The parent organizational structure grants governance to the downward in the organizational structure.  In turn the receiving Working Group, Project, or SIG reports health, participation, outcomes, statuses, etc up the chain.
+The parent organizational structure grants governance to the downward entity in the organizational structure.  In turn the receiving Working Group, Project, or SIG reports health, participation, outcomes, statuses, etc up the chain.
 
 ```mermaid
 flowchart TD
@@ -22,16 +22,22 @@ flowchart TD
 The process is designed to be flexible to enable a Project to move in and out of a Working Group as deemed appropriate by the TAC.
 
 # II. Lifecycle
-<img align="top" src="https://github.com/ossf/tac/blob/main/process/TI-lifecycle-stages.png">
 
-Technical Initiatives (TIs) include Working Groups (WGs), Special Interest Groups (SIGs) and Projects (both code and specifications). All TIs follow a common lifecycle, with 4 stages: 
+All Technical Initiatives follow a common lifecycle, with 4 stages: 
 
 - Sandbox - for new efforts within the Foundation seeking to get started out within a community of like-minded contributors
 - Incubating - for more mature and organized groups that have participated in the community for some period of time
 - Graduated - for mature efforts that have a proven track-record of deliverables and adding value to the community
 - Archived - for groups that either are feature-complete and retired, or that no longer has active contributions occurring
 
-Each TI will have equivalent, but slightly different requirements and benefits, depending on their stage in the lifecycle and are defined below:
+```mermaid
+flowchart LR
+    A[Sandbox] --> B[Incubating]
+    B --> C[Graduated]
+    C --> D[Archived]
+```
+
+Each type of TI has equivalent, but slightly different requirements and benefits, depending on their stage in the lifecycle as defined below:
 
 * [Working Group Life Cycle](working-group-lifecycle.md)
 * [Project Life Cycle](project-lifecycle.md)
