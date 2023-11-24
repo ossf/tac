@@ -19,10 +19,10 @@ The OpenSSF is comprised of instances of the following categories of official gr
    - While a WG does not produce open source software as a primary artifact, it may oversee Projects that do.
    - A WG may also launch Special Interest Groups (SIG) to perform specific tasks other than creating software.
    - WGs often include some open source code, or use licensed software, in fulfilment of their Charter.
-- A **Project** is a Technical Initiative focused on the development and ongoing support of open source licensed software (source code) and its supporting artifacts (technical documentation, etc.).
+- A **Project** is a Technical Initiative focused on the development and ongoing support of open source licensed software (source code) or specification and its supporting artifacts (technical documentation, etc).
 - **Special Interest Groups** (SIG) are bound to achieving a very specific goal. These groups may be terminated upon completion of their designating tasking or continued for larger and ongoing efforts. The creation of a SIG must dictate the focus, intent, goals, and deliverable(s) as appropriate. SIGs may report to a WG or directly to the TAC.
 - A **Technical Deliverable** is any technical content produced by a Technical Initiative, such as open source licensed software, a specification, or a technical guide.
-   - Each **Project** shall have at least one Technical Deliverable including open source licensed software; this is what defines a Project as distinct from other Technical Initiatives such as SIGs.
+   - Each **Project** shall have at least one Technical Deliverable including open source licensed software or specification; this is what defines a Project as distinct from other Technical Initiatives such as SIGs.
    - A **Service** is a publicly-run instance of software as a service, and is another form of Technical Deliverable distinct from the release of open source licensed software. This may be an operational output of a Technical Initiative in which software is either built or acquired to support or automate OSSF transactions.
 
 The following table describes the main types of groups and their characteristics.
@@ -30,7 +30,7 @@ The following table describes the main types of groups and their characteristics
 | Initiative | Expected lifespan | Primary output| Reporting relationship |	Economic model
 |------------|-------------------|---------------|------------------------|---------------
 | Working Group (WG) | unbounded | not software | to the TAC | normative
-| Project |	unbounded | software | either TAC or WG | normative
+| Project |	unbounded | software or specification | either TAC or WG | normative
 | Special Interest Group (WG) | bounded | not software | either TAC or WG | normative
 
 
