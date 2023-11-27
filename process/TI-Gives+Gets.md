@@ -1,6 +1,6 @@
 # "Gives and Gets" for OpenSSF Technical Initiatives (TI)
 The OpenSSF has a large community of contributors and efforts that span the broad spectrum of open source security interests.  The Technical Initiatives (TIs) of the foundation are where our members collaborate and help craft unique solutions to addressing improving the security of the open source ecosystem.
-In exchange for meeting certain requirements, the TIs are eligible to receive an assortment of benefits and have access to the capabilities of the Foundation's resources.  The specific requirements and benefits (aka "Gives and Gets") for each level of maturity are documented below.  Based on the specific type of work the TI is focused on (e.g a software project vs. a specificiation or documentation-based effort) the requirements and benefits may slightly differ as applicable.
+In exchange for meeting certain requirements, the TIs are eligible to receive an assortment of benefits and have access to the capabilities of the Foundation's resources.  The specific requirements and benefits (aka "Gives and Gets") for each level of maturity are documented below.  Based on the specific type of work the TI is focused on (e.g a software project vs. a specification or documentation-based effort) the requirements and benefits may slightly differ as applicable.
 
 
 ## Sandbox level Gives & Gets
@@ -13,7 +13,7 @@ In exchange for meeting certain requirements, the TIs are eligible to receive an
 |  TI agrees to follow the [Secure Software Development Guiding Principles](https://github.com/ossf/wg-best-practices-os-developers/blob/main/docs/SecureSoftwareGuidingPrinciples.md) and the [Open Source Consumption Manifesto](https://github.com/ossf/wg-endusers/tree/main/MANIFESTO). | Receives OpenSSF Code of Conduct Committee support.|
 |  If contributing an existing Project to the OpenSSF, the contribution must undergo license and IP due diligence by the Linux Foundation (LF). | Reserved space for project updates in OpenSSF newsletters.|
 |  Provides quarterly updates to the TAC on technical vision and progress on vision.  | May request infrastructure support from the OpenSSF. |
-|  TI will have a [SECURITY.md](http://security.md/) that describes how the Project manages vulns, or more boradly how the OSSF handles vuln reports  |  Projects may say they are, "A sandbox project in the OpenSSF" or "An experimental project in the OpenSSF."  Gets an "sandbox" logo that is shared amongst all OpenSSF sandbox TIs.  |
+|  TI will have a [SECURITY.md](http://security.md/) that describes how the Project manages vulns, or more broadly how the OSSF handles vuln reports  |  Projects may say they are, "A sandbox project in the OpenSSF" or "An experimental project in the OpenSSF."  Gets an "sandbox" logo that is shared amongst all OpenSSF sandbox TIs.  |
 |    | Communication & Collaboration - OpenSSF mailing list, OpenSSF Slack channel, OpenSSF GitHub, OpenSSF Calendaring / Recording,  OpenSSF Social Media & External Engagement Support |
 |    | Governance & Administration - TI Charter Development & Review, TI Technical Steering Committee Setup, TI IP & License Review, TI Operations & Maintenance, Technical Support |
 
