@@ -30,8 +30,8 @@ In exchange for meeting certain requirements, the TIs are eligible to receive an
 |  TI must have documented, initial group governance.  | With additional TAC or WG approval, may fundraise for dedicated project funds, coordinated by the OpenSSF.   |
 | Maintains a point of contact for vulnerability reports in the security.md |   Receives support with vulnerability disclosure from the OpenSSF (Vulnerability Disclosure WG). | 
 |  Implements, practices, and refines mature software development and release practices such as following a version schema. |
-| TI Follows security best practices (as recommended by the OpenSSF and others), including passing the OpenSSF Best Practices criteria |  |
-| Project should be integrating with Scorecards  |  May post project updates and tutorials to the OpenSSF blog.  |   |
+| TI Follows security best practices (as recommended by the OpenSSF and others), including passing the OpenSSF Best Practices criteria | May post project updates and tutorials to the OpenSSF blog.  |
+| Project should be integrating with Scorecards  |  |
 |  Begins to establish the appropriate governance that enables its sustainment for potential graduation.| |
 | Projects should be Securing Code Repository -> Managing Contributions Commit Signing , Secret Scanning, Code Scanning (OSFUZZ at a minimum) + Self-assessment Should OpenSSF require these if the SCM supports it, especially using Sigstore? |  |
 
