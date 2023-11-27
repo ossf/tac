@@ -33,7 +33,7 @@ In exchange for meeting certain requirements, the TIs are eligible to receive an
 | TI Follows security best practices (as recommended by the OpenSSF and others), including passing the OpenSSF Best Practices criteria |  |
 | Project should be integrating with Scorecards  |  May post project updates and tutorials to the OpenSSF blog.  |  With additional TAC or WG approval, may fundraise for dedicated project funds, coordinated by the OpenSSF.  |
 |  Begins to establish the appropriate governance that enables its sustainment for potential graduation.|  Projects may use the OpenSSF logo to promote their project (in accordance with the trademark guidelines). Projects may not be referred to as an "OpenSSF Project" or "OpenSSF $ProjectName." Projects may say they are an "OpenSSF Incubating Project."|
-| Projects should be Securing Code Repository -> Managing Contributions Commit Signing , Secret Scanning, Code Scanning (OSFUZZ at a minimum) + Self-assessment Should OpenSSF require therse if the SCM supports it, especially using Sigstore? | Project may request custom OpenSSF Logo for group  |
+| Projects should be Securing Code Repository -> Managing Contributions Commit Signing , Secret Scanning, Code Scanning (OSFUZZ at a minimum) + Self-assessment Should OpenSSF require these if the SCM supports it, especially using Sigstore? | Project may request custom OpenSSF Logo for group  |
 
 ## Graduated level Gives & Gets
 |     Gives/Requirements             |                Gets/Benefits          |
