@@ -23,17 +23,17 @@ In exchange for meeting certain requirements, the TIs are eligible to receive an
 |     Gives/Requirements             |                Gets/Benefits          |
 | :-----------------------------:    | :-----------------------------------: | 
 |  All requirements of Sandbox must be fulfilled. PR filed to promote group to Incubating stage.  |  TI eligible to receive all Gets from Sandbox  |
-|  Group has met no less than 5 times within the last calendar quarter |    |
+|  Group has met no less than 5 times within the last calendar quarter | Receives infrastructure support   |
 |  Maintains a diversified contributor base (i.e. not a single-vendor project) with an active flow of contributions.  Projects must have a minimum of three maintainers with a minimum of two different organization affiliations, and document the current list of maintainers.  |  Receives consideration as in-scope for any submission to an OpenSSF-managed conference or event.  |
-|  Projects must have defined a contributor guide, which makes it clear how and when contributors should be given increasing responsibilities towards maintainership of the project. (Example guides: Sigstore, AllStar) |  Receives infrastructure support |
-|  Projects should be able to show adoption by multiple parties and adoption's value to the open source community and/or end users (may include adoption of beta/early versions) with the intent to showcase wide adoption by the project's consumers.  |  |
-|  TI must have documented, initial group governance.  |   |
+|  Projects must have defined a contributor guide, which makes it clear how and when contributors should be given increasing responsibilities towards maintainership of the project. (Example guides: Sigstore, AllStar) | Project may request custom OpenSSF Logo for group   |
+|  Projects should be able to show adoption by multiple parties and adoption's value to the open source community and/or end users (may include adoption of beta/early versions) with the intent to showcase wide adoption by the project's consumers.  |  Projects may use the OpenSSF logo to promote their project (in accordance with the trademark guidelines). Projects may not be referred to as an "OpenSSF Project" or "OpenSSF $ProjectName." Projects may say they are an "OpenSSF Incubating Project."  |
+|  TI must have documented, initial group governance.  | With additional TAC or WG approval, may fundraise for dedicated project funds, coordinated by the OpenSSF.   |
 | Maintains a point of contact for vulnerability reports in the security.md |   Receives support with vulnerability disclosure from the OpenSSF (Vulnerability Disclosure WG). | 
 |  Implements, practices, and refines mature software development and release practices such as following a version schema. |
 | TI Follows security best practices (as recommended by the OpenSSF and others), including passing the OpenSSF Best Practices criteria |  |
-| Project should be integrating with Scorecards  |  May post project updates and tutorials to the OpenSSF blog.  |  With additional TAC or WG approval, may fundraise for dedicated project funds, coordinated by the OpenSSF.  |
-|  Begins to establish the appropriate governance that enables its sustainment for potential graduation.|  Projects may use the OpenSSF logo to promote their project (in accordance with the trademark guidelines). Projects may not be referred to as an "OpenSSF Project" or "OpenSSF $ProjectName." Projects may say they are an "OpenSSF Incubating Project."|
-| Projects should be Securing Code Repository -> Managing Contributions Commit Signing , Secret Scanning, Code Scanning (OSFUZZ at a minimum) + Self-assessment Should OpenSSF require these if the SCM supports it, especially using Sigstore? | Project may request custom OpenSSF Logo for group  |
+| Project should be integrating with Scorecards  |  May post project updates and tutorials to the OpenSSF blog.  |   |
+|  Begins to establish the appropriate governance that enables its sustainment for potential graduation.| |
+| Projects should be Securing Code Repository -> Managing Contributions Commit Signing , Secret Scanning, Code Scanning (OSFUZZ at a minimum) + Self-assessment Should OpenSSF require these if the SCM supports it, especially using Sigstore? |  |
 
 ## Graduated level Gives & Gets
 |     Gives/Requirements             |                Gets/Benefits          |
