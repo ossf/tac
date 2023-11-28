@@ -1,7 +1,7 @@
 
 # I. Overview
 
-This document describes the Open Source Security Foundation (OpenSSF) lifecycle process for Technical Initiatives (TI) which include Working Groups (WG), Projects (developing code or specifications), and Special Interest Groups (SIG).
+This document describes the Open Source Security Foundation (OpenSSF) lifecycle process for Technical Initiatives (TI) which include Working Groups (WG) (non-software focused), Projects (developing code or specifications), and Special Interest Groups (SIG). 
 
 The authority that governs this process is as follows:
 
