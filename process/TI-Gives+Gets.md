@@ -1,7 +1,11 @@
 # "Gives and Gets" for OpenSSF Technical Initiatives (TI)
-The OpenSSF has a large community of contributors and efforts that span the broad spectrum of open source security interests.  The Technical Initiatives (TIs) of the foundation are where community members collaborate and help craft unique solutions to address improving the security of the open source ecosystem.
-In exchange for meeting certain requirements, the TIs are eligible to receive an assortment of benefits and have access to the capabilities of the Foundation's resources.  The specific requirements and benefits (aka "Gives and Gets") for each level of maturity are documented below.  Based on the specific type of work the TI is focused on (e.g a software project vs. a specification or documentation-based effort) the requirements and benefits may slightly differ as applicable.
 
+The OpenSSF has a large community of contributors and efforts that span the broad spectrum of open source security interests.  The Technical Initiatives (TIs) of the foundation are where community members collaborate and help craft unique solutions to address improving the security of the open source ecosystem.
+In exchange for meeting certain requirements, the TIs are eligible to receive an assortment of benefits and have access to the capabilities of the Foundation's resources.  The specific requirements and benefits (aka "Gives and Gets") for each level of maturity are documented below.
+
+Based on the specific type of work the TI is focused on (e.g., software, specification, or documentation development) the requirements and benefits may slightly differ as applicable.
+
+Also note that benefits may actually vary based on resources and funds availability, or lack thereof.
 
 ## Sandbox level Gives & Gets
 
