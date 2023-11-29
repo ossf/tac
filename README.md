@@ -1,9 +1,11 @@
 # OpenSSF Technical Advisory Council (TAC)
 
-The OpenSSF Technical Advisory Council is responsible for oversight of the various Technical Initiatives of the OpenSSF.
+The OpenSSF Technical Advisory Council is responsible for oversight of the various Technical Initiatives (TI) of the OpenSSF.
 
 
 ## Get Involved
+
+Although the TAC is composed of a set of official members listed below, any community member is welcome to participate in the TAC discussions.
 
 Official communications occur on the [TAC mailing list](https://lists.openssf.org/g/openssf-tac/topics). [Manage your subscriptions to Open SSF mailing lists](https://lists.openssf.org/g/main/subgroups).
 
@@ -40,6 +42,8 @@ NOTE: \* marked entries denote OpenSSF Governing Board appointed members, others
 The TAC is chartered as part of the [Open Source Security Foundation Charter](https://openssf.org/about/charter/).
 
 ## Technical Initiatives
+
+The governance of TIs is documented in [the process section](process). This section provides you with all the information about the different types of initiatives and how they are managed, as well as how to propose a new initiative. It also covers the different levels of maturity a TI can be in, the requirements that must be met to move up to the next level, as well as the benefits that come with each level. 
 
 The following Technical Initiatives have been approved by the TAC:
 
