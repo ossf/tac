@@ -110,9 +110,9 @@ body:
     id: terms
     attributes:
       label: Code of Conduct
-      description: By submitting this issue, you agree to follow our [Code of Conduct](https://openssf.org/community/code-of-conduct/)
+      description: By submitting this issue, you agree to follow our [OpenSSF Code of Conduct](https://openssf.org/community/code-of-conduct/)
       options:
-        - label: I agree to follow this project's Code of Conduct
+        - label: I agree to follow the [OpenSSF's Code of Conduct](https://openssf.org/community/code-of-conduct/)
           required: true
   - type: textarea
     id: Anything-else
