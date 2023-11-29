@@ -60,24 +60,24 @@ body:
       label: Have you made a PR for a new file(s) in the project-lifecycle-documents directory containing all information requested for a project creation? This file must be based on the template for the respective lifecycle stage in the templates directory. The PROJECT_NAME_ prefix of the template must be replaced by the project(s) name.
       multiple: true
       options:
-        - Yes
-        - No
+        - "Yes"
+        - "No"
   - type: dropdown
     id: PR-table-addition
     attributes:
       label: In the above PR have you made a modification of the table listing all projects in the README of this repository by adding the project(s) to the table.
       multiple: true
       options:
-        - Yes
-        - No
+        - "Yes"
+        - "No"
   - type: dropdown
     id: IP-Review
     attributes:
       label: Contributing an existing project to the OpenSSF requires a one-time IP policy and license review with The Linux Foundation. Do you need such a review?
       multiple: true
       options:
-        - Yes
-        - No
+        - "Yes"
+        - "No"
   - type: checkboxes
     id: terms
     attributes:
