@@ -10,35 +10,65 @@ body:
     attributes:
       value: |
         Thanks for taking the time to fill out this Project Contribution!
-  - type: input
-    id: Maintainers-1
+  - type: markdown
     attributes:
-      label: Maintainers-1
-      description: Projects must have a minimum of two maintainers with different organization affiliations.
-      placeholder: ex. Name GitHub-Id Company
+      value: "Projects must have a minimum of two maintainers with different organization affiliations."
+  - type: input
+    id: Maintainer-1-Name
+    attributes:
+      label: First Maintainer's Name
+      placeholder: Name
     validations:
       required: true
   - type: input
-    id: Maintainers-2
+    id: Maintainer-1-GitHub
     attributes:
-      label: Maintainers-2
-      description: Second maintainer
-      placeholder: ex. Name GitHub-Id Company
+      label: First Maintainer's Name
+      placeholder: GitHub-Id
+    validations:
+      required: true
+  - type: input
+    id: Maintainer-1-Company
+    attributes:
+      label: First Maintainer's Company
+      placeholder: Company
+    validations:
+      required: true
+  - type: input
+    id: Maintainer-2-Name
+    attributes:
+      label: Second Maintainer's Name
+      placeholder: Name
+    validations:
+      required: true
+  - type: input
+    id: Maintainer-2-GitHub
+    attributes:
+      label: Second Maintainer's Name
+      placeholder: GitHub-Id
+    validations:
+      required: true
+  - type: input
+    id: Maintainer-2-Company
+    attributes:
+      label: Second Maintainer's Company
+      placeholder: Company
     validations:
       required: true
   - type: textarea
     id: Maintainers-other
     attributes:
-      label: Maintainers-other
-      description: Other maintainers
-      placeholder: ex. Name GitHub-Id Company
+      label: List any other maintainers in this format
+      placeholder: Name GitHub Company
     validations:
       required: false
+  - type: markdown
+    attributes:
+      value: "Projects must be aligned with the OpenSSF mission and either be a novel approach for existing areas or address an unfulfilled need. It is expected that the initial code or specification developed by an OpenSSF WG be kept within their repository and will not function as a Project in its own right. Should the initial WG code or specification grow and mature that it warrants its own Project status, then it is subject to Sandbox entry requirements. It is preferred that extensions of an existing OpenSSF project collaborate with the existing project rather than seek a new project."
   - type: textarea
     id: mission
     attributes:
       label: Mission
-      description: Projects must be aligned with the OpenSSF mission and either be a novel approach for existing areas or address an unfulfilled need. It is expected that the initial code or specification developed by an OpenSSF WG be kept within their repository and will not function as a Project in its own right. Should the initial WG code or specification grow and mature that it warrants its own Project status, then it is subject to Sandbox entry requirements. It is preferred that extensions of an existing OpenSSF project collaborate with the existing project rather than seek a new project.
       placeholder: Project Mission
       value: "The mission of the Project is to "
     validations:
