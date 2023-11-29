@@ -86,3 +86,6 @@ body:
       options:
         - label: I agree to follow this project's Code of Conduct
           required: true
+  - type: markdown
+    attributes:
+      value: "Thanks for completing this form to contribute your project! If you have any problems, questions or concerns please email us at operations@openssf.org"
