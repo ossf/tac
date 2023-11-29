@@ -84,11 +84,11 @@ body:
       required: true
   - type: markdown
     attributes:
-      value: "In the above PR have you made a modification of the table listing all projects in the README of this repository by adding the project(s) to the table."
+      value: "The above PR you should also have made a modification of the table listing all projects in the README of this repository by adding the project(s) to the table."
   - type: dropdown
     id: PR-table-addition
     attributes:
-      label: 
+      label: Does your PR also have the modifed table?
       options:
         - "Yes"
         - "No"
@@ -114,6 +114,13 @@ body:
       options:
         - label: I agree to follow this project's Code of Conduct
           required: true
+  - type: textarea
+    id: Anything-else
+    attributes:
+      label: Are any other things you need to add?
+      value: 
+    validations:
+      required: false
   - type: markdown
     attributes:
       value: "Thanks for completing this form to contribute your project! If you have any problems, questions or concerns please email us at operations@openssf.org"
