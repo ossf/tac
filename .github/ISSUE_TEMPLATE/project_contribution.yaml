@@ -88,7 +88,7 @@ body:
   - type: dropdown
     id: PR-table-addition
     attributes:
-      label: Does your PR also have the modifed table?
+      label: Does your PR also have the modified table?
       options:
         - "Yes"
         - "No"
