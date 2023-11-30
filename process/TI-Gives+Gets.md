@@ -17,7 +17,7 @@ Also note that benefits may actually vary based on resources and funds availabil
  * TI agrees to follow the [Secure Software Development Guiding Principles](https://github.com/ossf/wg-best-practices-os-developers/blob/main/docs/SecureSoftwareGuidingPrinciples.md) and the [Open Source Consumption Manifesto](https://github.com/ossf/wg-endusers/tree/main/MANIFESTO).
  * If contributing an existing Project to the OpenSSF, the contribution must undergo license and IP due diligence by the Linux Foundation (LF).
  * Provides quarterly updates to the TAC on technical vision and progress on vision.
- * TI will have a [SECURITY.md](http://security.md/) that describes how the Project manages vulnerabilities, or more broadly how the OSSF handles vulnerability reports
+ * TI will have a [SECURITY.md](https://github.com/ossf/project-template/blob/main/SECURITY.md) that describes how the Project manages vulnerabilities, or more broadly how the OSSF handles vulnerability reports
 
 ### Gets/Benefits
 
