@@ -21,6 +21,8 @@ flowchart TD
 
 The process is designed to be flexible to enable a Project to move in and out of a Working Group as deemed appropriate by the TAC.
 
+A SIG can be developed within a WG or Project to address a specific need.
+
 # II. Lifecycle
 
 All Technical Initiatives follow a common lifecycle, with 4 stages: 
