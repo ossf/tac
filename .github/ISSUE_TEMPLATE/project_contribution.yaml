@@ -1,6 +1,6 @@
-name: Project Contribution
+name: Project Contribution - Sandbox
 description: Contribution a Project to the OpenSSF
-title: "[Project Contribution]: "
+title: "[Project Contribution Sandbox]: "
 labels: ["administration","For Review"]
 projects: ["tac"]
 assignees:
@@ -106,21 +106,40 @@ body:
         - "No"
     validations:
       required: true
-  - type: checkboxes
-    id: terms
+    - type: textarea
     attributes:
-      label: Code of Conduct
-      description: By submitting this issue, you agree to follow our [OpenSSF Code of Conduct](https://openssf.org/community/code-of-conduct/)
-      options:
-        - label: I agree to follow the [OpenSSF's Code of Conduct](https://openssf.org/community/code-of-conduct/)
-          required: true
+      label: OpenSSF Overlap
+      description: What OpenSSF projects does this project overlap with, and how?
+    validations:
+      required: false
+    - type: textarea
+    attributes:
+    label: Similarities projects
+    description: Please list similar projects in the OpenSSF or elsewhere.
+    validations:
+      required: false
   - type: textarea
+    attributes:
+    label: Project champions
+    description: Please list any people who are part of OpenSSF leadership (TAC, GB, etc.) who can endorse or answer questions about your project.
+    validations:
+      required: false
+   - type: textarea
     id: Anything-else
     attributes:
-      label: Are any other things you need to add?
+      label: Additional information
+      description: Any additional information you would like the TAC to consider when evaluating this project?
       value: 
     validations:
       required: false
   - type: markdown
     attributes:
       value: "Thanks for completing this form to contribute your project! If you have any problems, questions or concerns please email us at operations@openssf.org"
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this issue, you agree to follow our [OpenSSF Code of Conduct](https://openssf.org/community/code-of-conduct/)
+      options:
+        - label: I agree to follow the OpenSSF's Code of Conduct
+          required: true
