@@ -2,144 +2,139 @@ name: Project Contribution Sandbox
 description: Contribution a Project to the OpenSSF
 title: "[Project Contribution Sandbox]: "
 labels: ["administration","For Review"]
-projects: ["tac"]
-assignees:
-  - hythloda
 body:
-- type: markdown
-  attributes:
-    value: |
-      Thanks for taking the time to fill out this Project Contribution!
-- type: markdown
-  attributes:
-    value: "Projects must have a minimum of two maintainers with different organization affiliations."
-- type: input
-  id: Maintainer-1-Name
-  attributes:
-    label: First Maintainer's Name
-    placeholder: Name
-  validations:
-    required: true
-- type: input
-  id: Maintainer-1-GitHub
-  attributes:
-    label: First Maintainer's Name
-    placeholder: GitHub-Id
-  validations:
-    required: true
-- type: input
-  id: Maintainer-1-Company
-  attributes:
-    label: First Maintainer's Company
-    placeholder: Company
-  validations:
-    required: true
-- type: input
-  id: Maintainer-2-Name
-  attributes:
-    label: Second Maintainer's Name
-    placeholder: Name
-  validations:
-    required: true
-- type: input
-  id: Maintainer-2-GitHub
-  attributes:
-    label: Second Maintainer's Name
-    placeholder: GitHub-Id
-  validations:
-    required: true
-- type: input
-  id: Maintainer-2-Company
-  attributes:
-    label: Second Maintainer's Company
-    placeholder: Company
-  validations:
-    required: true
-- type: textarea
-  id: Maintainers-other
-  attributes:
-    label: List any other maintainers in this format
-    placeholder: Name GitHub Company
-  validations:
-    required: false
-- type: markdown
-  attributes:
-    value: "Projects must be aligned with the OpenSSF mission and either be a novel approach for existing areas or address an unfulfilled need. It is expected that the initial code or specification developed by an OpenSSF WG be kept within their repository and will not function as a Project in its own right. Should the initial WG code or specification grow and mature that it warrants its own Project status, then it is subject to Sandbox entry requirements. It is preferred that extensions of an existing OpenSSF project collaborate with the existing project rather than seek a new project."
-- type: textarea
-  id: mission
-  attributes:
-    label: What is your Project Mission?
-    placeholder: Project Mission
-    value: "The mission of the Project is to "
-  validations:
-    required: true
-- type: markdown
-  attributes:
-    value: "A maintainer of the project(s) should create a [PR in this repository](https://github.com/ossf/tac/pulls) with a new file with [project-lifecycle-documents directory](https://github.com/ossf/tac/tree/project_contribution_template/process/project-lifecycle-documents) containing all information requested for a project creation. This file must be based on the [template for the respective lifecycle stage in the templates directory](https://github.com/ossf/tac/tree/project_contribution_template/process/templates). The `PROJECT_NAME_` prefix of the template must be replaced by the project name."
-- type: input
-  id: PR-project-lifecycle
-  attributes:
-    label: What is the link to the above PR?
-  validations:
-    required: true
-- type: markdown
-  attributes:
-    value: "The above PR you should also have made a modification of the table listing all projects in the README of this repository by adding the project(s) to the table."
-- type: dropdown
-  id: PR-table-addition
-  attributes:
-    label: Does your PR also have the modified table?
-    options:
-      - "Yes"
-      - "No"
-  validations:
-    required: true
-- type: markdown
-  attributes:
-    value: "Contributing an existing project to the OpenSSF requires a one-time IP policy and license review with The Linux Foundation."
-- type: dropdown
-  id: IP-Review
-  attributes:
-    label: Do you need such a review?
-    options:
-      - "Yes"
-      - "No"
-  validations:
-    required: true
-- type: textarea
-  attributes:
-    label: OpenSSF Overlap
-    description: What OpenSSF projects does this project overlap with, and how?
-  validations:
-    required: false
-- type: textarea
-  attributes:
-  label: Similarities projects
-  description: Please list similar projects in the OpenSSF or elsewhere.
-  validations:
-    required: false
-- type: textarea
-  attributes:
-  label: Project champions
-  description: Please list any people who are part of OpenSSF leadership (TAC, GB, etc.) who can endorse or answer questions about your project.
-  validations:
-    required: false
- - type: textarea
-  id: Anything-else
-  attributes:
-    label: Additional information
-    description: Any additional information you would like the TAC to consider when evaluating this project?
-    value: 
-  validations:
-    required: false
-- type: markdown
-  attributes:
-    value: "Thanks for completing this form to contribute your project! If you have any problems, questions or concerns please email us at operations@openssf.org"
-- type: checkboxes
-  id: terms
-  attributes:
-    label: Code of Conduct
-    description: By submitting this issue, you agree to follow our [OpenSSF Code of Conduct](https://openssf.org/community/code-of-conduct/)
-    options:
-      - label: I agree to follow the OpenSSF's Code of Conduct
-        required: true
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this Project Contribution!
+  - type: markdown
+    attributes:
+      value: "Projects must have a minimum of two maintainers with different organization affiliations."
+  - type: input
+    id: Maintainer-1-Name
+    attributes:
+      label: First Maintainer's Name
+      placeholder: Name
+    validations:
+      required: true
+  - type: input
+    id: Maintainer-1-GitHub
+    attributes:
+      label: First Maintainer's Name
+      placeholder: GitHub-Id
+    validations:
+      required: true
+  - type: input
+    id: Maintainer-1-Company
+    attributes:
+      label: First Maintainer's Company
+      placeholder: Company
+    validations:
+      required: true
+  - type: input
+    id: Maintainer-2-Name
+    attributes:
+      label: Second Maintainer's Name
+      placeholder: Name
+    validations:
+      required: true
+  - type: input
+    id: Maintainer-2-GitHub
+    attributes:
+      label: Second Maintainer's Name
+      placeholder: GitHub-Id
+    validations:
+      required: true
+  - type: input
+    id: Maintainer-2-Company
+    attributes:
+      label: Second Maintainer's Company
+      placeholder: Company
+    validations:
+      required: true
+  - type: textarea
+    id: Maintainers-other
+    attributes:
+      label: List any other maintainers in this format
+      placeholder: Name GitHub Company
+    validations:
+      required: false
+  - type: textarea
+    id: mission
+    attributes:
+      label: What is your Project Mission?
+      description: "Projects must be aligned with the OpenSSF mission and either be a novel approach for existing areas or address an unfulfilled need. It is expected that the initial code or specification developed by an OpenSSF WG be kept within their repository and will not function as a Project in its own right. Should the initial WG code or specification grow and mature that it warrants its own Project status, then it is subject to Sandbox entry requirements. It is preferred that extensions of an existing OpenSSF project collaborate with the existing project rather than seek a new project."
+      placeholder: Project Mission
+      value: "The mission of the Project is to "
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: "A maintainer of the project(s) should create a [PR in this repository](https://github.com/ossf/tac/pulls) with a new file with [project-lifecycle-documents directory](https://github.com/ossf/tac/tree/project_contribution_template/process/project-lifecycle-documents) containing all information requested for a project creation. This file must be based on the [template for the respective lifecycle stage in the templates directory](https://github.com/ossf/tac/tree/project_contribution_template/process/templates). The `PROJECT_NAME_` prefix of the template must be replaced by the project name."
+  - type: input
+    id: PR-project-lifecycle
+    attributes:
+      label: What is the link to the above PR?
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: "The above PR you should also have made a modification of the table listing all projects in the README of this repository by adding the project(s) to the table."
+  - type: dropdown
+    id: PR-table-addition
+    attributes:
+      label: Does your PR also have the modified table?
+      options:
+        - "Yes"
+        - "No"
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: "Contributing an existing project to the OpenSSF requires a one-time IP policy and license review with The Linux Foundation."
+  - type: dropdown
+    id: IP-Review
+    attributes:
+      label: Do you need such a review?
+      options:
+        - "Yes"
+        - "No"
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: OpenSSF Overlap
+      description: What OpenSSF projects does this project overlap with, and how?
+    validations:
+      required: false
+  - type: textarea
+    attributes:
+    label: Similarities projects
+    description: Please list similar projects in the OpenSSF or elsewhere.
+    validations:
+      required: false
+  - type: textarea
+    attributes:
+    label: Project champions
+    description: Please list any people who are part of OpenSSF leadership (TAC, GB, etc.) who can endorse or answer questions about your project.
+    validations:
+      required: false
+   - type: textarea
+    id: Anything-else
+    attributes:
+      label: Additional information
+      description: Any additional information you would like the TAC to consider when evaluating this project?
+      value: 
+    validations:
+      required: false
+  - type: markdown
+    attributes:
+      value: "Thanks for completing this form to contribute your project! If you have any problems, questions or concerns please email us at operations@openssf.org"
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this issue, you agree to follow our [OpenSSF Code of Conduct](https://openssf.org/community/code-of-conduct/)
+      options:
+        - label: I agree to follow the OpenSSF's Code of Conduct
+          required: true
