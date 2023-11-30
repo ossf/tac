@@ -118,7 +118,7 @@ body:
   description: Please list any people who are part of OpenSSF leadership (TAC, GB, etc.) who can endorse or answer questions about your project.
   validations:
     required: false
- - type: textarea
+- type: textarea
   id: Anything-else
   attributes:
     label: Additional information
