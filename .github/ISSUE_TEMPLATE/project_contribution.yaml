@@ -108,14 +108,14 @@ body:
     required: false
 - type: textarea
   attributes:
-  label: Similarities projects
-  description: Please list similar projects in the OpenSSF or elsewhere.
+    label: Similarities projects
+    description: Please list similar projects in the OpenSSF or elsewhere.
   validations:
     required: false
 - type: textarea
   attributes:
-  label: Project champions
-  description: Please list any people who are part of OpenSSF leadership (TAC, GB, etc.) who can endorse or answer questions about your project.
+    label: Project champions
+    description: Please list any people who are part of OpenSSF leadership (TAC, GB, etc.) who can endorse or answer questions about your project.
   validations:
     required: false
 - type: textarea
