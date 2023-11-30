@@ -106,13 +106,13 @@ body:
         - "No"
     validations:
       required: true
-    - type: textarea
+  - type: textarea
     attributes:
       label: OpenSSF Overlap
       description: What OpenSSF projects does this project overlap with, and how?
     validations:
       required: false
-    - type: textarea
+  - type: textarea
     attributes:
     label: Similarities projects
     description: Please list similar projects in the OpenSSF or elsewhere.
