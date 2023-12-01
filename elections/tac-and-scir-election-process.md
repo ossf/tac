@@ -72,6 +72,8 @@ The timeline in a standard election will follow the below format:
 
 ### 2024 Timeline:
 
-    Voting Starts: December 16
-    Voting Stops:  December 30
-    New members seated: January 1
+ * Self-Nomination Period Starts: December 1
+ * Self-Nomination Period Ends: December 15
+ * Voting Starts: December 16
+ * Voting Ends:  December 30
+ * New members seated: January 1
