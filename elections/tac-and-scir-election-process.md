@@ -70,14 +70,8 @@ The timeline in a standard election will follow the below format:
 - Voting Period - 2 Weeks
 - Announcement of results - Day after the conclusion of the Voting Period
 
-For example, the overall timeline for the 2023 election is as follows:
+### 2024 Timeline:
 
-* Begin of overall election process: February 27
-* TAC Self-Nomination Period: February 27 - March 12 (2 weeks)
-* SCIR Self-Nomination Period: February 27 - March 12 (2 weeks)
-* Voter Ballot Request Period: February 27 - March 12 (2 weeks)
-* Validation Period: March 13 - March 19 (1 week)
-* Nominees Announced: March 20
-* Voting Period: March 20 - April 2 (2 weeks)
-* Announcement of election results: April 3
-
+    Voting Starts: December 16
+    Voting Stops:  December 30
+    New members seated: January 1
