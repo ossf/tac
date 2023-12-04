@@ -39,3 +39,5 @@ Guidewire
 GraphQL
 Appelquist
 torgo
+electorate
+OpaVote
