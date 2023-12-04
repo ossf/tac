@@ -77,3 +77,6 @@ The timeline in a standard election will follow the below format:
  * Voting Starts: December 16
  * Voting Ends:  December 30
  * New members seated: January 1
+ * The electorate can request a ballot by filling out this [google form](https://forms.gle/7suYexAnPxndvX856).
+
+
