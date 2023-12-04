@@ -40,3 +40,10 @@ GraphQL
 Appelquist
 torgo
 electorate
+OpaVote
+request
+ballot
+filling
+form
+Self-Nomination
+MVSR
