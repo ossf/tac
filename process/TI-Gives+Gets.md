@@ -46,7 +46,6 @@ Also note that benefits may actually vary based on resources and funds availabil
  * TI follows security best practices (as recommended by the OpenSSF and others), including passing the OpenSSF Best Practices criteria, secret scanning, and code scanning.
  * TIs that include code use Scorecards
  * Begins to establish the appropriate governance that enables its sustainment for potential graduation.
- * Projects should be Securing Code Repository -> Managing Contributions Commit Signing , Secret Scanning, Code Scanning (OSFUZZ at a minimum) + Self-assessment Should OpenSSF require these if the SCM supports it, especially using Sigstore?
 
 ### Gets/Benefits
 
