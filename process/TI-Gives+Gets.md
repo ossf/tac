@@ -44,7 +44,7 @@ Also note that benefits may actually vary based on resources and funds availabil
  * Maintains a point of contact for vulnerability reports in the security.md
  * Implements, practices, and refines mature software development and release practices such as following a version schema.
  * TI follows security best practices (as recommended by the OpenSSF and others), including passing the OpenSSF Best Practices criteria, secret scanning, and code scanning.
- * Project should be integrating with Scorecards
+ * TIs that include code use Scorecards
  * Begins to establish the appropriate governance that enables its sustainment for potential graduation.
  * Projects should be Securing Code Repository -> Managing Contributions Commit Signing , Secret Scanning, Code Scanning (OSFUZZ at a minimum) + Self-assessment Should OpenSSF require these if the SCM supports it, especially using Sigstore?
 
