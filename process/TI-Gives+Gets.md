@@ -69,7 +69,7 @@ Also note that benefits may actually vary based on resources and funds availabil
  * Implements, practices, and refines mature software development and release practices, such as adherence to semantic versioning, and having a declared policy for stable releases and backported fixes.
  * Projects must have documented project governance and be able to demonstrate that governance in action.
  * When applicable, projects must have completed a security audit through a third party and addressed audit findings and recommendations.
- *  When applicable, Projects should achieve **BLAH** level of SLSA
+ * Projects should harden their build systems in accordance with the SLSA Framework
 
 ### Gets/Benefits
 
