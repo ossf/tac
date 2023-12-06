@@ -25,7 +25,7 @@ Also note that benefits may actually vary based on resources and funds availabil
  * Receives consideration as in-scope for any submission to an OpenSSF-managed conference or event.
  * TI receives guidance on technical direction from TAC sponsor
  * Reserved space for project updates in OpenSSF newsletters.
- * May request infrastructure support from the OpenSSF.
+ * May request basic infrastructure support from the OpenSSF (e.g., mailing list and github repo).
  * Projects may say they are, "A sandbox project in the OpenSSF" or "An experimental project in the OpenSSF."  Gets a "sandbox" logo that is shared amongst all OpenSSF sandbox TIs.
  * Communication & Collaboration - OpenSSF mailing list, OpenSSF Slack channel, OpenSSF GitHub, OpenSSF Calendaring / Recording,  OpenSSF Social Media & External Engagement Support
  * Governance & Administration - TI Charter Development & Review, TI Technical Steering Committee Setup, TI IP & License Review, TI Operations & Maintenance, Technical Support
