@@ -1,4 +1,5 @@
 # "Gives and Gets" for OpenSSF Technical Initiatives (TI)
+_v1.0 approved and merged by the TAC on December XX, 2023_
 
 The OpenSSF has a large community of contributors and efforts that span the broad spectrum of open source security interests.  The Technical Initiatives (TIs) of the foundation are where community members collaborate and help craft unique solutions to address improving the security of the open source ecosystem.
 In exchange for meeting certain requirements, the TIs are eligible to receive an assortment of benefits and have access to the capabilities of the Foundation's resources.  The specific requirements and benefits (aka "Gives and Gets") for each level of maturity are documented below. Note that this about the maturity of the TI itself - basically about how it operates - rather than of its product. A TI can be at an advanced level of maturity even though its product is still immature and vice versa.
