@@ -75,7 +75,7 @@ Also note that benefits may actually vary based on resources and funds availabil
 
  TI eligible to receive all Gets from Incubating plus:
  * Receives consideration as in-scope for any submission to an OpenSSF-managed conference or event.  This includes consideration for booth space at the conference and/or the OpenSSF booth.
- * Receives infrastructure support (details determined by project leads and OpenSSF Budget Committee).
+ * Receives advanced infrastructure support from the OpenSSF (e.g., cloud hosting, to be determined by project leads and OpenSSF Budget Committee).
  * May post project updates and tutorials to the OpenSSF blog.
  * May request OpenSSF budget for project improvements such as security audits or time-bound contracting needs.
  * May request OpenSSF budget for sustained maintainer stipends (details determined by OpenSSF and project leads).
