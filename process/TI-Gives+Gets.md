@@ -50,7 +50,7 @@ Also note that benefits may actually vary based on resources and funds availabil
 ### Gets/Benefits
 
  TI eligible to receive all Gets from Sandbox plus:
- * Receives infrastructure support
+ * Receives more infrastructure support from the OpenSSF (e.g., website support)
  * Receives consideration as in-scope for any submission to an OpenSSF-managed conference or event.
  * Project may request custom OpenSSF Logo for group
  * Projects may use the OpenSSF logo to promote their project (in accordance with the trademark guidelines). Projects may not be referred to as an "OpenSSF Project" or "OpenSSF $ProjectName." Projects may say they are an "OpenSSF Incubating Project."
