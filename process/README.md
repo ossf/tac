@@ -42,3 +42,5 @@ Each type of TI has equivalent, but slightly different requirements and benefits
 * [Working Group Life Cycle](working-group-lifecycle.md)
 * [Project Life Cycle](project-lifecycle.md)
 * [Special Interest Group Life Cycle](sig-lifecycle.md)
+
+To see what the expected requirements ("Gives") and benefits ("Gets") for a TI to achieve at a given lifecycle stage, refer to the [TI Gives and Gets](https://github.com/ossf/tac/blob/main/process/TI-Gives%2BGets.md) page for more information.  Each lifecycle stage has listed what they must do or produce and a list of benefits for each level of maturity in our proceeses.
