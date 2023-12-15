@@ -249,4 +249,43 @@ Company: solo.io
 With extensive experience in open-source software development and management, particularly in containers, service mesh, security and distributed systems, Lin is enthusiastic about facilitating collaboration between OpenSSF and CNCF projects. She aims to promote the adoption of best open-source security practices within some of the leading CNCF projects. Lin's background as an Istio maintainer and leader, CNCF ambassador, and TAG co-chair uniquely positions her to bring valuable insights from CNCF to OpenSSF. She is a member of the GUAC community and has already started to contribute to it from the lens of an Istio maintainer.
    </td>
   </tr>
+   <tr>
+   <td>Justin Cappos
+   </td>
+   <td>Pronouns: He/Him
+<p>
+ <br>
+Company:  New York University
+<p>
+ <p>
+<a href="https://github.com/JustinCappos">GitHub</a> <p>
+ <p>
+   </td>
+   <td>I'm an active participant in the LF and in software supply chain security.  I am a creator of the CNCF graduated project TUF and the incubating project in-toto.  I am also a creator of the JDF and IEEE/ISTO standardized project Uptane, which deals with securing updates for automobiles.  I am a creator of two OpenSSF sandbox projects, gittuf and SBOMit as well.  My dissertation work was in designing the first package manager for the cloud and led to improvements in YaST, YUM, Apt, and PACMAN.  I am also a Tech Lead in CNCF's TAG Security, where I facilitate security assessments for CNCF projects.
+<p>
+I'm a big believer in open source and in the free exchange of ideas.  I don't think any organization or group has a monopoly on good ideas and I think that all should be treated fairly and equally.  I believe that a greater representation for vendor-neutral, security-focused voices in the OpenSSF will strengthen the TAC and the OpenSSF overall.
+   </td>
+  </tr>
+   <tr>
+   <td>John Kjell
+   </td>
+   <td>Pronouns: He/Him
+<p>
+ <br>
+Company:  TestifySec
+<p>
+ <p>
+<a href="https://github.com/jkjell">GitHub</a> <p>
+ <p>
+<a href="https://www.linkedin.com/in/john-kjell/">LinkedIn</a>
+   </td>
+   <td>"John's candidacy for the Technical Advisory Council (TAC) at OpenSSF is driven by two core objectives: firstly, to contribute to the education of the community on security best practices, maximizing current technological capabilities, and secondly, to facilitate and contribute to the development of innovative solutions for emerging security challenges.
+<p>
+John's engagement with OpenSSF began with his contributions to Project Sigstore. He has since actively contributed to the SBOMit project, Supply Chain Integrity (SCI) Working Group, SCI Positioning SIG, the SLSA Specification, and the Security Toolbelt. Beyond OpenSSF, he maintains Witness and Archivista, sub-projects of in-toto, under the CNCF. His role in the CNCF TAG Security Supply Chain Security Working Group further showcases his commitment to this domain.
+<p>
+With extensive experience in software engineering and management, John has built open-source and commercial products from scratch. This experience equips him with vital skills for the TAC role, including community building, mentorship, feedback integration, problem analysis, and effective communication with stakeholders. John led the initial development of supply chain security features for VMware's Tanzu Application Platform and currently serves as the Director of Open Source at TestifySec, focusing on enabling supply chain security for all.
+<p>
+John’s blend of practical experience, active contributions to projects, and experience in supply chain security make him an ideal candidate for the TAC, ready to contribute to OpenSSF’s mission."
+   </td>
+  </tr>
 </table>

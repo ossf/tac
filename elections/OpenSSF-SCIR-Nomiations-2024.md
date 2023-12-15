@@ -57,5 +57,39 @@ Company:  Dell Technologies
    <td>As the OpenSSF SCIR I will bring to the board a strong technical security community perspective. My 15+ year security career has been primarily developer- and community-focused. I will channel this energy and focus on developing the security capabilities of the OpenSSF and the broader open-source community. I am a product security engineer, architect, and leader with experience in all phases of the development process “from concept to end of life”, with an emphasis on security by design of software, hardware, and organizational systems. I co-authored “Threat Modeling: A Practical Guide for Development Teams”, co-creator of the Threat Modeling Manifesto, and a founding member and maintainer of the pytm project (an OWASP Incubator project for "threat modeling as code"). I have been actively involved in open community initiatives with participation in the Hardware CWE and CWE/CAPEC User Experience working groups (led by MITRE), OWASP, and the OpenSSF End User WG and Security Toolbelt SIG. I am also involved in efforts at SAFECode and FIRST. I work at Dell Technologies in the Product and Application Security team helping Dell product teams design and implement secure systems with responsible consumption and use of open-source components. I believe my experience lends itself well to the SCIR role of the OpenSSF GB, where I will utilize my experiences in developer focused security to ensure strategic efforts are consumable and actionable for the developer community at large.
    </td>
   </tr>
- 
+  <tr>
+   <td>Michael Lieberman
+   </td>
+   <td>Pronouns: He/Him
+<p>
+ <br>
+Company:  Kusari
+<p>
+ <p>
+<a href="https://github.com/mlieberman85">GitHub</a> <p>
+ <p>
+<a href="https://www.linkedin.com/in/michael-lieberman-65786ba/">LinkedIn</a>
+   </td>
+   <td>I have been heavily involved in OpenSSF for the past few years. I started off contributing on behalf of an end user and now have co-founded a startup that is also heavily involved in the OpenSSF. I am a SLSA steering committee member and maintainer. I am co-creator and maintainer of GUAC, an incubating project. I am currently a TAC member and sponsor of GitTUF and SBOMit. I am heavily involved in the Security Toolbelt initiative. I am a regular attendee of multiple other working groups. I have also done a lot of work to push OpenSSF supply chain security initiatives through the work of the Supply Chain Integrity Working Group and regularly speaking at conferences like Open Source Summit, Kubecon, and OpenSSF day. I am also a CNCF TAG Security lead and help out with collaborative efforts between CNCF and OpenSSF.
+<p>
+I believe my broad understanding of OpenSSF TIs, and their goals along with the perspective I have as a hands on keyboard engineer I think make me a good fit as the SCIR.
+   </td>
+  </tr>
+   <tr>
+   <td>Justin Cappos
+   </td>
+   <td>Pronouns: He/Him
+<p>
+ <br>
+Company:  New York University
+<p>
+ <p>
+<a href="https://github.com/JustinCappos">GitHub</a> <p>
+
+   </td>
+   <td>I'm an active participant in the LF and in software supply chain security.  I am a creator of the CNCF graduated project TUF and the incubating project in-toto.  I am also a creator of the JDF and IEEE/ISTO standardized project Uptane, which deals with securing updates for automobiles.  I am a creator of two OpenSSF sandbox projects, gittuf and SBOMit as well.  My dissertation work was in designing the first package manager for the cloud and led to improvements in YaST, YUM, Apt, and PACMAN.  I am also a Tech Lead in CNCF's TAG Security, where I facilitate security assessments for CNCF projects.
+<p>
+Right now, all but 2 board members are from industry (and one is the SCIR seat which I am applying for).  I am motivated to be a vendor neutral voice and to also try to increase academic ties with the OpenSSF.  I feel like this will add an more diverse perspectives and increase impact.
+   </td>
+  </tr>
 </table>
