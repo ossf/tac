@@ -250,23 +250,6 @@ With extensive experience in open-source software development and management, pa
    </td>
   </tr>
    <tr>
-   <td>Justin Cappos
-   </td>
-   <td>Pronouns: He/Him
-<p>
- <br>
-Company:  New York University
-<p>
- <p>
-<a href="https://github.com/JustinCappos">GitHub</a> <p>
- <p>
-   </td>
-   <td>I'm an active participant in the LF and in software supply chain security.  I am a creator of the CNCF graduated project TUF and the incubating project in-toto.  I am also a creator of the JDF and IEEE/ISTO standardized project Uptane, which deals with securing updates for automobiles.  I am a creator of two OpenSSF sandbox projects, gittuf and SBOMit as well.  My dissertation work was in designing the first package manager for the cloud and led to improvements in YaST, YUM, Apt, and PACMAN.  I am also a Tech Lead in CNCF's TAG Security, where I facilitate security assessments for CNCF projects.
-<p>
-I'm a big believer in open source and in the free exchange of ideas.  I don't think any organization or group has a monopoly on good ideas and I think that all should be treated fairly and equally.  I believe that a greater representation for vendor-neutral, security-focused voices in the OpenSSF will strengthen the TAC and the OpenSSF overall.
-   </td>
-  </tr>
-   <tr>
    <td>John Kjell
    </td>
    <td>Pronouns: He/Him
@@ -279,13 +262,33 @@ Company:  TestifySec
  <p>
 <a href="https://www.linkedin.com/in/john-kjell/">LinkedIn</a>
    </td>
-   <td>"John's candidacy for the Technical Advisory Council (TAC) at OpenSSF is driven by two core objectives: firstly, to contribute to the education of the community on security best practices, maximizing current technological capabilities, and secondly, to facilitate and contribute to the development of innovative solutions for emerging security challenges.
+   <td>John's candidacy for the Technical Advisory Council (TAC) at OpenSSF is driven by two core objectives: firstly, to contribute to the education of the community on security best practices, maximizing current technological capabilities, and secondly, to facilitate and contribute to the development of innovative solutions for emerging security challenges.
 <p>
 John's engagement with OpenSSF began with his contributions to Project Sigstore. He has since actively contributed to the SBOMit project, Supply Chain Integrity (SCI) Working Group, SCI Positioning SIG, the SLSA Specification, and the Security Toolbelt. Beyond OpenSSF, he maintains Witness and Archivista, sub-projects of in-toto, under the CNCF. His role in the CNCF TAG Security Supply Chain Security Working Group further showcases his commitment to this domain.
 <p>
 With extensive experience in software engineering and management, John has built open-source and commercial products from scratch. This experience equips him with vital skills for the TAC role, including community building, mentorship, feedback integration, problem analysis, and effective communication with stakeholders. John led the initial development of supply chain security features for VMware's Tanzu Application Platform and currently serves as the Director of Open Source at TestifySec, focusing on enabling supply chain security for all.
 <p>
-John’s blend of practical experience, active contributions to projects, and experience in supply chain security make him an ideal candidate for the TAC, ready to contribute to OpenSSF’s mission."
+John’s blend of practical experience, active contributions to projects, and experience in supply chain security make him an ideal candidate for the TAC, ready to contribute to OpenSSF’s mission.
+   </td>
+  </tr>
+    <tr>
+   <td>Georg Kunz
+   </td>
+   <td>Pronouns: He/Him
+<p>
+ <br>
+Company:  Ericsson
+<p>
+ <p>
+<a href="https://github.com/gkunz">GitHub</a> <p>
+ <p>
+ <a href="https://www.linkedin.com/in/georg-kunz/">LinkedIn</a>
+<p>
+   </td>
+   <td>
+   I am an active contributor to open source projects and communities, including LF Networking and the TODO Group, for more than 10 years. In the past two years, I have been specifically involved in the OpenSSF, participating in and contributing to Technical Initiatives such as the C/C++ Hardening Guide, the Security Toolbelt, SBOM Everywhere, the Governance Committee, and others. Moreover, have I been speaking about supply chain security in the context of public policy at multiple events throughout 2023.
+	<p>	 
+As a member of the OpenSSF TAC, I will commit my time and expertise to facilitate and enable our Technical Initiatives - to make them, and the OpenSSF as a whole, successful. This means building on top of the excellent work of refining community processes done by the current TAC. With this solid foundation in place, I want to help the OpenSSF to enter a new phase, which is focusing on broad adoption of our work - both in open source communities as well as in end user organizations. Working in an OSPO, my role is to bridge between groups and facilitate collaboration - and this is what I want to bring to the OpenSSF TAC.
    </td>
   </tr>
 </table>

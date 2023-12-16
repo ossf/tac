@@ -90,4 +90,26 @@ practices. I also am a founding member of the Sigstore TSC where we have built a
 As part of the OpenSSF TAC, I would continue to bring a breadth of experience and industry & academic connections to bear to help accelerate the impact of the various working groups. I am eager to support the OpenSSF's continued growth as both a forum for evangelizing best practices and as an sponsoring organization for projects that are laser-focused on helping OSS communities and users improve their security posture.
    </td>
   </tr>
+   <tr>
+   <td>Marcela Melara
+   </td>
+   <td>Pronouns: SHe/Her
+<p>
+ <p>
+Company:  Intel
+<p>
+ <p>
+<a href="https://github.com/marcelamelara">GitHub</a> <p>
+ <p>
+<a href="https://www.linkedin.com/in/marcela-melara-285a4678/">LinkedIn</a>
+   </td>
+   <td>Marcela is lead software supply chain researcher at Intel Labs. She draw on enterprise, open-source and academic collaborations to understand unique challenges, develop practical solutions and anticipate salient future problems. Serving on the OpenSSF TAC would allow her to support such cross-sector collaborations with an emphasis on holistic solutions. 
+ <p>
+Her main contributions to OpenSSF have been through the SCI WG. Since 2020, she has helped develop and promote the SLSA framework as a SIG member and OpenSSF Tech Talk panelist. She also co-led a new SLSA workstream enabling trusted hardware for enhanced build integrity. As a core maintainer for the CNCF in-toto project on supply chain attestation, she brought insights and connections from other areas of OSS. She will work on  opportunities for fostering closer collaboration with CNCF communities via the OpenSSF TAC. As Governing Board chair of both CNCF and OpenSSF, I'll work closely with her to make this a reality.
+ <p>
+She is eager to contribute to newer OpenSSF initiatives in 2024. The holistic best practices of the Security Toolbelt strongly align with my research approach. The DEI WG’s work to create a community in which underrepresented folks feel empowered to contribute their ideas is vital. Understanding the impact of emerging areas like GenAI on OSS security and developing suitable solutions are interesting challenges for the AI/ML Security WG. 
+ <p>
+While these initiatives each cover very distinct topics, she believes they are all crucial for achieving long-term OSS security. Driving work that ensures all sectors are ready to tackle the big supply chain problems of today and tomorrow is why she seeks to join the OpenSSF TAC. 
+   </td>
+  </tr>
 </table>
