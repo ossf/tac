@@ -59,7 +59,7 @@ The following Technical Initiatives have been approved by the TAC:
 | Supply Chain Integrity         | https://github.com/ossf/wg-supply-chain-integrity       | [Meeting Notes](https://docs.google.com/document/d/1xPs2sSbH3I9Ich7OyLOzl85oJshnK8Q6WoAgREE5-zA/edit)  | Incubating |
 | Securing Software Repositories | https://github.com/ossf/wg-securing-software-repos      | [Meeting Notes](https://docs.google.com/document/d/1-f6m442MHg9hktrbcp-4sM9GbZC3HLTpZPpxMXjMCp4/edit)  | Incubating |
 | End Users                      | https://github.com/ossf/wg-endusers                     | [Meeting Notes](https://docs.google.com/document/d/1abI65H4pF5y8YtA2_TuDBAaI47v9mTfpr5mwVvccX_I/edit)  | Incubating |
-| Diversity, Equity, & Inclusion | https://github.com/ossf/wg-dei                          | [Meeting Notes](https://docs.google.com/document/d/1Ba_NJWWlsbTn2kVoBFpnMFMmdez9yJrHayocaxKkjaY/edit)  | Incubation |
+| Diversity, Equity, & Inclusion | https://github.com/ossf/wg-dei                          | [Meeting Notes](https://docs.google.com/document/d/1Ba_NJWWlsbTn2kVoBFpnMFMmdez9yJrHayocaxKkjaY/edit)  | Incubating |
 | AI/ML Security                 | https://github.com/ossf/ai-ml-security                  | [Meeting Notes](https://docs.google.com/document/d/1YNP-XJ9jpTjM6ekKOBgHH8-avAws2DVKeCpn858siiQ/edit)  | Incubating |
 
 ### Overview Diagrams
