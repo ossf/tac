@@ -27,7 +27,7 @@ Meetings are also recorded and posted to the [OpenSSF YouTube channel](https://w
 
 | Name             | Position | Email                          | Organization | Term                      |
 | ---------------- | :--------: | ------------------------------ | ------------ | --------------------------|
-| Arnaud J Le&nbsp;Hors | Vice Chair | lehors@us.ibm.com              | IBM          | April 2023 - March 2024\* |
+| Arnaud J Le&nbsp;Hors | Vice Chair | lehors@us.ibm.com              | IBM          | January 2024 - December 2025 |
 | Bob Callaway     |  | bcallaway@google.com           | Google       | January 2024 - December 2024\*  |
 | Christopher "CRob" Robinson    | Chair | christopher.robinson@intel.com | Intel        |  January 2024 - December 2024\* |
 | Dan Appelquist   |  | dan@torgo.com                  | Samsung         | January 2024 - December 2024 |
