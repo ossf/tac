@@ -34,7 +34,7 @@ Meetings are also recorded and posted to the [OpenSSF YouTube channel](https://w
 | Michael Lieberman|  | mike@kusari.dev                | Kusari       | January 2024 - December 2024 |
 | Zach Steindler   |  | steiza@github.com              | GitHub       | January 2024 - December 2024 |
 | Marcela Melara   |  | marcela.melara@intel.com       | Intel        | January 2024 - December 2025 |
-| Sarah Evans      |  | sarah.evans@dell.com           | Dell         | January 2024 - December 2024 |
+| Sarah Evans      |  | sarah.evans@dell.com           | Dell         | January 2024 - December 2024\* |
 | Jautau "Jay" White || jaywhite@microsoft.com         | Microsoft    | January 2024 - December 2025 |
 
 NOTE: \* marked entries denote OpenSSF Governing Board appointed members, others are community elected.
