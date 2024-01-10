@@ -84,11 +84,13 @@ Diagrams with an overview of the OpenSSF, including its projects and SIGs, are a
 | Package Feeds          | https://github.com/ossf/package-feeds            | [Meeting Notes](https://docs.google.com/document/d/1GFslP6elYCx27TUitdigDr1gsOItYkL0Vq7hTB9y4Lo/edit) | Securing Critical Projects WG   | TBD        |
 | Protobom | http://github.com/bom-squad/protobom | [Meeting Notes](https://docs.google.com/document/d/1bz2BBImzSnLRiBLrA5GehQ0ckW3Vs7Gmtt8R-Olm0QY/edit)  | Security Tooling WG | Sandbox |
 | Repository Service for TUF | https://github.com/repository-service-tuf/repository-service-tuf |  [Meeting Notes](https://docs.google.com/document/d/13a_AtFpPK9WO4PlAN6ciD-G1jiBU3gEDtRD1OUinUFY/edit)  | Securing Software Repositories WG | Sandbox |
+| S2C2F                  | https://github.com/ossf/s2c2f                    | [Meeting Notes](https://docs.google.com/document/d/10Q_VOvKsGaYJoK-5yJY4868mTkYZjEo-6xV6ghYS84k/edit#heading=h.1tv8gumsrtbf) | Supply Chain Integrity WG  | TBD      |
 | SBOMit                 | https://github.com/sbomit                        | [Meeting Notes](https://docs.google.com/document/d/1-nHXMqvWNzgOxAq08O8Wu2BTHz0U60yBoAklrJAMaRc/edit?usp=sharing) | Security Tooling WG             | Sandbox    |
 | Scorecard              | https://github.com/ossf/scorecard                | [Meeting Notes](https://docs.google.com/document/d/1b6d3CVJLsl7YnTE7ZaZQHdkdYIvuOQ8rzAmvVdypOWM/edit?usp=sharing) | Best Practices WG               | TBD        |
 | Security Insights Spec | https://github.com/ossf/security-insights-spec   | [Meeting Notes](https://docs.google.com/document/d/14_ILDhSK3ymKqUTQeQBRgJKgfiy_ePoGZIe8s7p3K5E/edit?usp=sharing) | Identifying Security Threats WG | TBD        |
 | Security Metrics       | https://github.com/ossf/Project-Security-Metrics | [Meeting Notes](https://docs.google.com/document/d/14_ILDhSK3ymKqUTQeQBRgJKgfiy_ePoGZIe8s7p3K5E/edit#heading=h.apj7ueyomk4r) | Identifying Security Threats WG | TBD        |
 | Sigstore               | https://github.com/sigstore                      | [Meeting Notes](https://docs.google.com/document/d/1bsl-Y0KulSD7O_nTekad1sAKOVRb80wyGb-Q5x-zdg0/edit) | OpenSSF TAC    | TBD        |
+| SLSA                   | https://github.com/slsa-framework/slsa | [Meeting Notes](https://docs.google.com/document/d/1PwhekVB1iDpcgCQRNVN_aesoVdOiTruoebCs896aGxw/edit#heading=h.gjdgxs) | Supply Chain Integrity WG   | TBD        |
 | SLSA Tooling           | https://github.com/ossf/wg-supply-chain-integrity/blob/main/slsa-tooling.md | [Meeting Notes](https://docs.google.com/document/d/18oj3CLJQhZj1dMHKDTq_1kKg0syysKCS7pLyXlw1SRc/edit#heading=h.yfiy9b23vayj) | Supply Chain Integrity WG   | TBD        |
 
 
