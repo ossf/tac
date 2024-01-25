@@ -6,7 +6,7 @@
 
 ### List of interested individuals
 
-The initial membership should be at least 3 individuals from 2 different organizations
+The initial membership should be at least three individuals from at least two distinct organizations
   * Link to relevant documentation.
 
 ### Governing body (e.g., WG)
