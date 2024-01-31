@@ -2,7 +2,6 @@
 
 The OpenSSF Technical Advisory Council is responsible for oversight of the various Technical Initiatives (TI) of the OpenSSF.
 
-
 ## Get Involved
 
 Although the TAC is composed of a set of official members listed below, any community member is welcome to participate in the TAC discussions.
@@ -49,7 +48,7 @@ The governance of TIs is documented in [the process section](process). This sect
 
 The following Technical Initiatives have been approved by the TAC:
 
-### Working Groups
+### Working Groups (WGs)
 
 | Name                         | Repository                                              | Notes                                                                                                  | Status     |
 | ---------------------------- | ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | ---------- |
@@ -63,10 +62,6 @@ The following Technical Initiatives have been approved by the TAC:
 | End Users                      | https://github.com/ossf/wg-endusers                     | [Meeting Notes](https://docs.google.com/document/d/1abI65H4pF5y8YtA2_TuDBAaI47v9mTfpr5mwVvccX_I/edit)  | Incubating |
 | Diversity, Equity, & Inclusion | https://github.com/ossf/wg-dei                          | [Meeting Notes](https://docs.google.com/document/d/1Ba_NJWWlsbTn2kVoBFpnMFMmdez9yJrHayocaxKkjaY/edit)  | Incubating |
 | AI/ML Security                 | https://github.com/ossf/ai-ml-security                  | [Meeting Notes](https://docs.google.com/document/d/1YNP-XJ9jpTjM6ekKOBgHH8-avAws2DVKeCpn858siiQ/edit)  | Incubating |
-
-### Overview Diagrams
-
-Diagrams with an overview of the OpenSSF, including its projects and SIGs, are available in the presentation [OpenSSF Introduction (including Diagrammers’ Society diagrams)](https://docs.google.com/presentation/d/1DpB-WPz4yimdF7DDH4waR_zdi7X5WumgoptcqwkMg-s/edit?usp=sharing) as created and maintained by the [OpenSSF Diagrammer's Society](https://github.com/ossf/Diagrammers-Society).
 
 ### Projects
 
@@ -93,13 +88,24 @@ Diagrams with an overview of the OpenSSF, including its projects and SIGs, are a
 | SLSA                   | https://github.com/slsa-framework/slsa | [Meeting Notes](https://docs.google.com/document/d/1PwhekVB1iDpcgCQRNVN_aesoVdOiTruoebCs896aGxw/edit#heading=h.gjdgxs) | Supply Chain Integrity WG   | TBD        |
 | SLSA Tooling           | https://github.com/ossf/wg-supply-chain-integrity/blob/main/slsa-tooling.md | [Meeting Notes](https://docs.google.com/document/d/18oj3CLJQhZj1dMHKDTq_1kKg0syysKCS7pLyXlw1SRc/edit#heading=h.yfiy9b23vayj) | Supply Chain Integrity WG   | TBD        |
 
-
 ### OpenSSF affiliated projects
 
 | Name                         | Repository                          | Notes | Status |
 | --------------------------   | ----------------------------------- | ----- | ------ |
 | Core Toolchain Infrastructure | Coming Soon                         | TBD   | TBD    |
 | Alpha Omega                  | https://github.com/ossf/alpha-omega | TBD   | TBD    |
+
+### Special Interest Groups (SIGs) - *To Be Completed*
+
+SIGs can be created and managed without formal approval from the TAC. The following is for information purpose only.
+
+| Name                       | Repository/Home Page | Notes                                                                                                 | Governing Org | Status     |
+| ---------------------- | ---------------------------------------- | ----------------------------------------------------------------------------------------------------- | -------------- |---------- |
+
+### Overview Diagrams
+
+Diagrams with an overview of the OpenSSF, including its projects and SIGs, are available in the presentation [OpenSSF Introduction (including Diagrammers’ Society diagrams)](https://docs.google.com/presentation/d/1DpB-WPz4yimdF7DDH4waR_zdi7X5WumgoptcqwkMg-s/edit?usp=sharing) as created and maintained by the [OpenSSF Diagrammer's Society](https://github.com/ossf/Diagrammers-Society).
+
 
 ## Antitrust Policy
 
