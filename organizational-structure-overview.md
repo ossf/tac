@@ -78,6 +78,7 @@ flowchart TB
         BP ---> BestPracticesBadge[Best Practices Badge]
         MM ---> SecurityInsights[Security Insights]
         MM ---> SecurityMetrics[Security Metrics]
+        REP ---> Rstuf[Repository Service for TUF]
         SCI ---> Gittuf[gittuf]
         SCI ---> GUAC[GUAC]
         SCI ---> S2C2F[S2C2F]
