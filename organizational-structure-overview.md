@@ -49,54 +49,73 @@ Legend:
 
 
 ```mermaid
-flowchart TB
-    A([Governing Board])
+flowchart LR
+    GB([Governing Board])
 
     subgraph subC[Committees]
-        direction TB
-        Market[Marketing]
+        direction LR
         Budget[Budget and Finance]
+        Market[Marketing]
         Plan[Planning and Advisory]
         Policy[Public Policy]
     end
-    A <==> subC
-    A ====> B([Technical Advisory Council])
+    GB <==> subC
+    GB ==> TAC([Technical Advisory Council])
 
-    subgraph subWG[Working Groups]
+    subgraph WG[Working Groups]
+        AI[AI/ML Security]
         BP[Best Practices]
         DEI[Diversity, Equity & Inclusion]
         EU[End Users]
-        ML[AI/ML Security] 
         MM[Metrics & Metadata]
         REP[Securing Software Repos]
         SCI[Supply Chain Integrity]
         SCP[Securing Critical Projects]
         ST[Security Tooling]
         VD[Vulnerability Disclosures]
-
-        BP ---> Scorecard[Scorecard]
-        BP ---> BestPracticesBadge[Best Practices Badge]
-        MM ---> SecurityInsights[Security Insights]
-        MM ---> SecurityMetrics[Security Metrics]
-        REP ---> Rstuf[Repository Service for TUF]
-        SCI ---> Gittuf[gittuf]
-        SCI ---> GUAC[GUAC]
-        SCI ---> S2C2F[S2C2F]
-        SCI ---> SLSA[SLSA]
-        SCP ---> Allstar[Allstar]
-        SCP ---> CriticalityScore[Criticality Score]
-        SCP ---> PackageAnalysis[Package Analysis]
-        SCP ---> PackageFeeds[Package Feeds]
-        ST ---> FuzzIntrospector[Fuzz Introspector]
-        ST ---> Protobom[protobom]
-        ST ---> Sbomit[sbomit]
-        VD ---> OpenVEX[OpenVEX]
-        VD ---> OSV[OSV Schema]
     end
-    B ====> subWG
 
     subgraph projects[Projects]
-       SS[sigstore]
+       Scorecard[Scorecard]
+       BPB[Best Practices Badge]
+       SI[Security Insights]
+       SM[Security Metrics]
+       Rstuf[Repository Service for TUF]
+       Gittuf[gittuf]
+       GUAC[GUAC]
+       SLSA[SLSA]
+       S2C2F
+       Allstar[Allstar]
+       Sigstore[sigstore]
+       CS[Criticality Score]
+       PA[Package Analysis]
+       PF[Package Feeds]
+       FI[Fuzz Introspector]
+       Protobom[protobom]
+       Sbomit[sbomit]
+       OpenVEX[OpenVEX]
+       OSV[OSV Schema]
     end
-    B ====> projects
+
+    TAC ==> WG
+    TAC ==> Sigstore
+
+    BP --> Scorecard
+    BP --> BPB
+    MM --> SI
+    MM --> SM
+    REP --> Rstuf
+    SCI --> Gittuf
+    SCI --> GUAC
+    SCI --> S2C2F
+    SCI --> SLSA
+    SCP --> Allstar
+    SCP --> CS
+    SCP --> PA
+    SCP --> PF
+    ST --> FI
+    ST --> Protobom
+    ST --> Sbomit
+    VD --> OpenVEX
+    VD --> OSV
 ```
