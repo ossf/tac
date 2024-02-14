@@ -44,7 +44,7 @@ The OpenSSF Sandbox is the entry point for early stage Projects and has four goa
 * Provides project updates to OpenSSF Marketing Committee as requested.
 
 #### Project Support
-* Receives guidance on technical direction from TAC.
+* Receives a TAC and WG sponsor for guidance on technical direction.
 * Receives consideration as in-scope for any submission to an OpenSSF-managed conference or event.
 * Receives OpenSSF Code of Conduct Committee support.
 * Reserved space for project updates in OpenSSF newsletters.
@@ -55,6 +55,10 @@ The OpenSSF Sandbox is the entry point for early stage Projects and has four goa
 
 * Projects must have a minimum of two maintainers with different organization affiliations.
 * Projects must be aligned with the OpenSSF mission _and_ either be a novel approach for existing areas or address an unfulfilled need. It is expected that the initial code or specification developed by an OpenSSF WG be kept within their repository and will not function as a Project in its own right. Should the initial WG code or specification grow and mature that it warrants its own Project status, then it is subject to Sandbox entry requirements. It is preferred that extensions of an existing OpenSSF project collaborate with the existing project rather than seek a new project.
+* Projects must seek one TAC sponsor and one WG sponsor (if reporting to a WG)
+    * TAC or WG sponsor agrees to attend Project meetings regularly
+    * TAC or WG sponsor does not need to have a formal role in Project, e.g., maintainer
+    * TAC or WG sponsor requests TAC approval
 * If contributing an existing project to the OpenSSF, the contribution must undergo license and IP due diligence by the Linux Foundation (LF).
 
 See [Submission Process](#submission-process) below and [Sandbox application](templates/PROJECT_NAME_sandbox_stage.md).
@@ -74,7 +78,6 @@ Incubating projects represent maturing but not fully realized projects. Incubati
 
 #### Project Support
 * Receives guidance on technical direction from TAC.
-* Receives a TAC or WG sponsor for guidance as an Incubation project.
 * Receives consideration as in-scope for any submission to an OpenSSF-managed conference or event.
 * Receives OpenSSF Code of Conduct Committee support.
 * Receives infrastructure support (details determined by project leads and OpenSSF Budget Committee).
