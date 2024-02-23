@@ -16,6 +16,10 @@ Once the WG has further defined its goals and garnered enough support it can app
 * Proposal of scope for review by TAC
     * This is to help ensure limited overlap with existing WGs
 * Have at least 3 interested individuals from different organizations supporting the proposal
+* 1 TAC sponsor
+    * TAC sponsor agrees to attend WG meetings regularly
+    * TAC sponsor does not need to have a formal role in WG, e.g., chair
+    * TAC sponsor requests TAC approval
 * TAC will vote to approve or provide constructive guidance
 
 ## Once `Sandbox`:
@@ -24,7 +28,7 @@ Once the WG has further defined its goals and garnered enough support it can app
 * If the WG has meetings at this stage:
   * They should appear on the OpenSSF calendar
   * The WG should have a document with upcoming agendas and notes from past meetings
-* The WG should develop a charter or mission statement defining its goals and seek a TAC sponsor.
+* The WG should develop a charter or mission statement defining its goals.
  
 ## To become `Incubating`:
 
@@ -32,10 +36,6 @@ Once the WG has further defined its goals and garnered enough support it can app
 * Have met at least 5 times
     * For these, meeting notes (or ideally recordings) must be public
 * Have at least 5 contributors from at least 3 different organizations attending regularly
-* 1 TAC sponsor
-    * TAC sponsor agrees to attend WG meetings regularly
-    * TAC sponsor does not need to have a formal role in WG, e.g., chair
-    * TAC sponsor requests TAC approval
 * TAC will vote to approve or provide constructive guidance
 
 ## Once `Incubating`:
