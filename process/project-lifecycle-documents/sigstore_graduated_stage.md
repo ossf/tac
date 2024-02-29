@@ -7,7 +7,7 @@ Below are the details of the project's readiness for graduation.
 
 ### List of project maintainers
 
-Sigstore has maintainers across many different companies and academic institutions (Examples include Purdue, NYU, Google, Chainguard, GitHub, RedHat, Stacklok, VMWmare, IBM, Trail of Bits, Yahoo)
+Sigstore has maintainers across many different companies and academic institutions (Examples include Purdue, NYU, Google, Chainguard, GitHub, RedHat, Stacklok, VMware, IBM, Trail of Bits, Yahoo)
 
 - We maintain a diversified contributor base with an active flow of contributions
 
