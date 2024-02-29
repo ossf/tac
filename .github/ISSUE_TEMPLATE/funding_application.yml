@@ -11,42 +11,62 @@ body:
       value: Thanks for taking the time to fill out this Funding Request.
   - type: markdown
     attributes:
-      value: "**Pre-conditions:**"
+      value: |
+        **Pre-conditions:**
+        - The TI must have an identified lifecycle phase in good standing. 
+        - The TI requesters should know 
+          - Within general funding limits for the TIs at the respective lifecycle (e.g. Sandbox should generally ask for less than Incubating which should ask for less than Graduated)
+          - Within approved categories of asks (e.g. no asking for a TI outing at a fancy restaurant but yes to cloud credits)
   - type: markdown
     attributes:
-      value: TI(s) in good standing
+      value: |
+        **Workflow:**
+        1. TI or TIs working together see a need for funding some work that doesn’t exist within an existing give/get that is pre-approved. For example cloud credits to do a PoC or case study.
+        2. TI(s) get consensus on the scope of how much money they are asking for and to be spent on what. For example $10k-$15k in cloud credits over a year to spend on building out a PoC to test out <some set of things>
+        3. TI(s) drafts that includes:
+          - Problem Statement in the form below
+          - Proposed work and other work considered
+          - Benefit to OSSF and ecosystem
+          - Approximate cost
+        4. TI submits this issue to the TAC. This will be treated like a CFP. Respondents will be notified in writing, and approved proposals will be published.
+        5. TAC evaluates the technical merit of the proposal and checks that its goals within OSSF and ecosystem seem reasonable and achievable. (See TAC evaluation below)
+        6. TI(s) iterate on the proposal with the TAC until approved or it’s clear that the proposal is unreasonable.
+        7. TAC brings approved proposals to the funding workflow (see below).
+        8. Steps 6-7 are repeated until approved or seen as unreasonable.
+        9. The OpenSSF Staff will distribute funds. 
+        10. TAC will review project status on milestones. If a project has more than one milestone, funds may be dispersed after each milestone is achieved (projects asking for more funds should most likely have more milestones for fund releasing). If the milestone is reached, the TAC/Staff agree that Staff should disperse funds for additional milestones(s).
   - type: markdown
     attributes:
-      value:
-        Within general funding limits for the TIs at the respective lifecycle
-        (e.g., Sandbox should generally ask for less than Incubating, which
-        should ask for less than Graduated)
+      value: |
+        **TAC review:**
+        - Is this request in line with the [TAC Technical Vision](https://github.com/ossf/tac/blob/main/technical-vision.md)?
+        - Is this request in line with the OpenSSF [MVVS](https://openssf.org/about/), and soon to be [finalized R](https://docs.google.com/document/d/1UoQudHQuaXNzakhOYbAS3IceI9TkSSR6N0bgm1fTTK0/edit#heading=h.493lq0mo4y4f)? (this is how GB/GC communicate “top-down” initiatives, like the SOSS Task Force).
+        - Does the requester(s) project have an accepted [TI lifecycle phase](https://github.com/ossf/tac/tree/main/process) in good standing?
+          - Does the request meet the “get” of the associated TI lifecycle phase?
+          - Within general funding limits for the TIs at the respective lifecycle (e.g. Sandbox should generally ask for less than Incubating which should ask for less than Graduated)
+          - Within approved categories of asks (e.g. no asking for a TI outing at a fancy restaurant but yes to cloud credits)
+        - What will be the milestone review requested and when?
+        - Final decision is open discussion and a majority consensus vote. (Alternatively, could have a private form vote)
   - type: markdown
     attributes:
-      value:
-        Within approved categories of asks (e.g., no asking for a TI outing at a
-        fancy restaurant but yes to cloud credits
+      value: |
+        **Finance review:**
+        - Who will approve this request?
+          - GM up to $100k, B&F committee up to $250k, GB above $250k
+        - Is funding available in the GTS 3 category?
+          - If yes, recommend to support?
+            - How much funds will be available for other requests? (Should we approve one request for all the funds, or seek to approve multiple smaller requests)?
+          - If no, recommend to route through a Supplemental Funding Initiative?
   - type: markdown
     attributes:
-      value: "**Process**"
+      value: |
+        **Communication of Final Decision:**
+        - Complete like a CFP. Notify in writing if it was accepted or not accepted. Put out a list of accepted proposals (like the events schedule).
   - type: markdown
     attributes:
-      value:
-        "TI or TIs working together see a need for funding some work that doesn’t
-        exist within an existing give/get that is pre-approved. For example
-        cloud credits to do a PoC or case study. "
-  - type: markdown
-    attributes:
-      value:
-        TI(s) get consensus on the scope of how much money they are asking for
-        and to be spent on what. For example $10k-$15k in cloud credits over a
-        year to spend on building out a PoC to test out <some set of things>
-  - type: markdown
-    attributes:
-      value:
-        "Problem statement - This section aims to set the stage and boundaries
+      value: "Problem statement - This section aims to set the stage and boundaries
         for the problem you are trying to solve. This is not a place to propose
-        solutions, but to define the problem and its impact. "
+        solutions, but to define the problem and its impact."
   - type: input
     id: Problem
     attributes:
@@ -81,8 +101,7 @@ body:
       required: true
   - type: markdown
     attributes:
-      value:
-        Proposed work and other work considered - The goal here is to assess the
+      value: Proposed work and other work considered - The goal here is to assess the
         feasibility of the proposed work and to understand the alternatives that
         were considered. Such as can be done now and is in scope with the
         current funds.
@@ -103,8 +122,7 @@ body:
   - type: textarea
     id: tools
     attributes:
-      label:
-        Are there tools or tech that still need to be produced to facilitate the
+      label: Are there tools or tech that still need to be produced to facilitate the
         funding initiative?
       placeholder: null
     validations:
@@ -112,8 +130,7 @@ body:
   - type: textarea
     id: requirements
     attributes:
-      label:
-        Give a summary of the requirements that contextualize the costs of the
+      label: Give a summary of the requirements that contextualize the costs of the
         funding initiative
     validations:
       required: true
@@ -125,8 +142,7 @@ body:
         quickly.
   - type: markdown
     attributes:
-      value:
-        Project Plan - It is important to think about setting up collaboration
+      value: Project Plan - It is important to think about setting up collaboration
         platform for code for contributors, reporting framework, license
         decisions, etc.
   - type: input
@@ -147,8 +163,7 @@ body:
   - type: input
     id: backup
     attributes:
-      label:
-        If the responsible or accountable parties are no longer available, what
+      label: If the responsible or accountable parties are no longer available, what
         is the backup contact or plan?
       placeholder: null
     validations:
@@ -156,8 +171,7 @@ body:
   - type: input
     id: WG
     attributes:
-      label:
-        Which technical initiative will this funding initiative be associated
+      label: Which technical initiative will this funding initiative be associated
         with, and will it report to which WG?
       placeholder: null
     validations:
@@ -177,11 +191,9 @@ body:
   - type: textarea
     id: Milestones
     attributes:
-      label:
-        List the major milestones and timelines the funding initiative plans to
+      label: List the major milestones and timelines the funding initiative plans to
         have and the associated payments with each.
-      placeholder:
-        By the end of quarter 2 of 2025, the GA release will have 500 users
+      placeholder: By the end of quarter 2 of 2025, the GA release will have 500 users
         surveyed for performance assessment completing Milestone 1 for a release
         of 5k in funding.
     validations:
@@ -190,8 +202,7 @@ body:
     id: terms
     attributes:
       label: Code of Conduct
-      description:
-        By submitting this issue, you agree to follow our [OpenSSF Code of
+      description: By submitting this issue, you agree to follow our [OpenSSF Code of
         Conduct](https://openssf.org/community/code-of-conduct/)
       options:
         - label: I agree to follow the OpenSSF's Code of Conduct
@@ -201,29 +212,24 @@ body:
       value: "Next Steps:"
   - type: markdown
     attributes:
-      value:
-        TAC evaluates the technical merit of the proposal and checks that its
+      value: TAC evaluates the technical merit of the proposal and checks that its
         goals within OSSF and the ecosystem seem reasonable and achievable.
   - type: markdown
     attributes:
-      value:
-        TI(s) iterate on the proposal with the TAC until approved or the proposal
+      value: TI(s) iterate on the proposal with the TAC until approved or the proposal
         is unreasonable.
   - type: markdown
     attributes:
       value: TAC brings approved proposals to the attention of the GC for approval.
   - type: markdown
     attributes:
-      value:
-        This is an iterative process, and the TAC will work with the TI(s) to
+      value: This is an iterative process, and the TAC will work with the TI(s) to
         ensure that the proposal is reasonable and achievable.
   - type: markdown
     attributes:
-      value:
-        OpenSSF Staff will work through payment with the Linux Foundation through
+      value: OpenSSF Staff will work through payment with the Linux Foundation through
         Contracts
   - type: markdown
     attributes:
-      value:
-        Thanks for completing this form! If you have any problems, questions or
+      value: Thanks for completing this form! If you have any problems, questions or
         concerns, please email us at operations@openssf.org
