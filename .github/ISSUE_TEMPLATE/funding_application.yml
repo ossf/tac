@@ -1,0 +1,229 @@
+---
+name: TI Funding Request Form
+description: TI Funding Request Form OpenSSF
+title: "[Technical Initiative Funding Request]: "
+labels:
+  - administration
+  - For Review
+body:
+  - type: markdown
+    attributes:
+      value: Thanks for taking the time to fill out this Funding Request.
+  - type: markdown
+    attributes:
+      value: "**Pre-conditions:**"
+  - type: markdown
+    attributes:
+      value: TI(s) in good standing
+  - type: markdown
+    attributes:
+      value:
+        Within general funding limits for the TIs at the respective lifecycle
+        (e.g., Sandbox should generally ask for less than Incubating, which
+        should ask for less than Graduated)
+  - type: markdown
+    attributes:
+      value:
+        Within approved categories of asks (e.g., no asking for a TI outing at a
+        fancy restaurant but yes to cloud credits
+  - type: markdown
+    attributes:
+      value: "**Process**"
+  - type: markdown
+    attributes:
+      value:
+        "TI or TIs working together see a need for funding some work that doesn’t
+        exist within an existing give/get that is pre-approved. For example
+        cloud credits to do a PoC or case study. "
+  - type: markdown
+    attributes:
+      value:
+        TI(s) get consensus on the scope of how much money they are asking for
+        and to be spent on what. For example $10k-$15k in cloud credits over a
+        year to spend on building out a PoC to test out <some set of things>
+  - type: markdown
+    attributes:
+      value:
+        "Problem statement - This section aims to set the stage and boundaries
+        for the problem you are trying to solve. This is not a place to propose
+        solutions, but to define the problem and its impact. "
+  - type: input
+    id: Problem
+    attributes:
+      label: Problem Statement
+      description: What is the problem?
+      placeholder: null
+    validations:
+      required: true
+  - type: input
+    id: impact
+    attributes:
+      label: Who does this affect?
+      description: Who does this problem impact, and for whom is this solution?
+      placeholder: null
+    validations:
+      required: true
+  - type: input
+    id: prior
+    attributes:
+      label: Have there been previous attempts to resolve the problem?
+      description: Why is this approach different, or why didn't the other approaches work?
+      placeholder: null
+    validations:
+      required: true
+  - type: input
+    id: why
+    attributes:
+      label: Why should it be tackled now and by this TI?
+      description: Is this the right place and time for this funding initiative?
+      placeholder: null
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value:
+        Proposed work and other work considered - The goal here is to assess the
+        feasibility of the proposed work and to understand the alternatives that
+        were considered. Such as can be done now and is in scope with the
+        current funds.
+  - type: textarea
+    id: inputs
+    attributes:
+      label: Give an idea of what is required to make the funding initiative happen
+      placeholder: null
+    validations:
+      required: true
+  - type: textarea
+    id: deliver
+    attributes:
+      label: What is going to be needed to deliver this funding initiative?
+      placeholder: null
+    validations:
+      required: true
+  - type: textarea
+    id: tools
+    attributes:
+      label:
+        Are there tools or tech that still need to be produced to facilitate the
+        funding initiative?
+      placeholder: null
+    validations:
+      required: false
+  - type: textarea
+    id: requirements
+    attributes:
+      label:
+        Give a summary of the requirements that contextualize the costs of the
+        funding initiative
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: Covering the planning phase, this next section should provide a a
+        relatively detailed plan of how work will start on the project. This
+        section is important because projects need to get up and running
+        quickly.
+  - type: markdown
+    attributes:
+      value:
+        Project Plan - It is important to think about setting up collaboration
+        platform for code for contributors, reporting framework, license
+        decisions, etc.
+  - type: input
+    id: responsible
+    attributes:
+      label: Who is responsible for doing the work of this funding initiative?
+      description: This person is the primary contact to oversee the idea.
+      placeholder: null
+    validations:
+      required: true
+  - type: input
+    id: accountable
+    attributes:
+      label: Who is accountable for doing the work of this funding initiative?
+      placeholder: null
+    validations:
+      required: true
+  - type: input
+    id: backup
+    attributes:
+      label:
+        If the responsible or accountable parties are no longer available, what
+        is the backup contact or plan?
+      placeholder: null
+    validations:
+      required: true
+  - type: input
+    id: WG
+    attributes:
+      label:
+        Which technical initiative will this funding initiative be associated
+        with, and will it report to which WG?
+      placeholder: null
+    validations:
+      required: true
+  - type: input
+    id: license
+    attributes:
+      label: What license is this funding initiative being used under?
+      placeholder: null
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: The final section is to list the Milestones and Approximate costs
+        associated with the funding initiative. If you prefer, you can submit a
+        Goolgle Sheet or Google Doc in the entry below.
+  - type: textarea
+    id: Milestones
+    attributes:
+      label:
+        List the major milestones and timelines the funding initiative plans to
+        have and the associated payments with each.
+      placeholder:
+        By the end of quarter 2 of 2025, the GA release will have 500 users
+        surveyed for performance assessment completing Milestone 1 for a release
+        of 5k in funding.
+    validations:
+      required: true
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description:
+        By submitting this issue, you agree to follow our [OpenSSF Code of
+        Conduct](https://openssf.org/community/code-of-conduct/)
+      options:
+        - label: I agree to follow the OpenSSF's Code of Conduct
+          required: true
+  - type: markdown
+    attributes:
+      value: "Next Steps:"
+  - type: markdown
+    attributes:
+      value:
+        TAC evaluates the technical merit of the proposal and checks that its
+        goals within OSSF and the ecosystem seem reasonable and achievable.
+  - type: markdown
+    attributes:
+      value:
+        TI(s) iterate on the proposal with the TAC until approved or the proposal
+        is unreasonable.
+  - type: markdown
+    attributes:
+      value: TAC brings approved proposals to the attention of the GC for approval.
+  - type: markdown
+    attributes:
+      value:
+        This is an iterative process, and the TAC will work with the TI(s) to
+        ensure that the proposal is reasonable and achievable.
+  - type: markdown
+    attributes:
+      value:
+        OpenSSF Staff will work through payment with the Linux Foundation through
+        Contracts
+  - type: markdown
+    attributes:
+      value:
+        Thanks for completing this form! If you have any problems, questions or
+        concerns, please email us at operations@openssf.org
