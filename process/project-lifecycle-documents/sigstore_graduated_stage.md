@@ -78,7 +78,6 @@ We provided updates to OpenSSF TAC on _8/9/22, 10/4/22, 8/8/23, 11/14/23_
 OSTIF completed [a security audit](https://openssf.org/blog/2022/07/18/results-of-sigstore-and-slf4j-security-audits/) for Sigstore, with all findings addressed.
 
 ### Project References
-The project must provide a list of existing resources with links to the repository, website, a roadmap, contributing guide, demos and walkthroughs, and any other material to showcase the existing breadth, maturity, and direction of the project.
 
 | Reference          | URL |
 |--------------------|-----|
