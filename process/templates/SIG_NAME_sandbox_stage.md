@@ -5,11 +5,23 @@
   * Link to relevant documentation.
 
 ### List of interested individuals
+The SIG have a minimum of two maintainers with different organizational affiliations.
+  * "name, affiliation, GitHub ID"
 
-The initial membership should be at least three individuals from at least two distinct organizations
-  * Link to relevant documentation.
+### Existing TI alignment
+The SIG should be aligned with an existing OpenSSF Working Group, or Project (TI).  The SIG commits to providing the hosting TI quarterly updates on progress.
+  * "name of TI that will host this SIG"
 
-### Governing body (e.g., WG)
-
-A governing body must agree to govern the SIG
-  * name of the governing body with link to the decision to create the SIG.
+### Project References
+The SIG should provide a list of existing resources with links to the repository, and if available, website, a roadmap, contributing guide, demos and walkthroughs, and any other material to showcase the existing breadth, maturity, and direction of the project.
+| Reference           | URL |
+|---------------------|-----|
+| Repo                |     |
+| Meeting Agenda      |     |
+| OSSF Calendar Entry |     |
+| Website             |     |
+| Contributing guide  |     |
+| Security.md         |     |
+| Roadmap             |     |
+| Demos               |     |
+| Other               |     |
