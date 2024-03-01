@@ -62,7 +62,7 @@ a monthly cadence, or as needed for bug fixes)
 
 ### Governance
 
-]Project governance is documented](https://github.com/sigstore/community/blob/main/MEMBERSHIP.md)
+[Project governance is documented](https://github.com/sigstore/community/blob/main/MEMBERSHIP.md)
 and seen through updates to the community repository to update maintainers.
 
 Technical Steering Committee (TSC) Meeting minutes are available at [Sigstore TSC Agenda and Minutes](https://docs.google.com/document/d/1rN_tn2Jf1hd_e6XDLlKg0vmQog3LIxEHfulG50WzgKQ/)
