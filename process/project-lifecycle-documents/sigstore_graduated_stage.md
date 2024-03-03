@@ -29,7 +29,7 @@ Sigstore has maintainers across many different companies and academic institutio
 
     - Sigstore-go: [Contributor data](https://github.com/sigstore/sigstore-go/graphs/contributors)
 
-        - Maintainers from: GitHub, Google Stacklok 
+        - Maintainers from: GitHub, Google, Stacklok 
 
 - We have two formalized sub-groups:
 
