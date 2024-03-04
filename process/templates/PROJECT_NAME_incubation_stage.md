@@ -18,8 +18,6 @@ The project should be able to show adoption by multiple parties and the adoption
 ### Governance
 Projects must have documented, initial project governance
   * "link to governance documents/Charter"
-Project must have a TAC sponsor
-  * "name of TAC sponsor to assist TI"
 Project must have defined Contributor Guide
   * "link to contributor guide"
 Project has attained an OpenSSF Best Practice Badge at "passing" level
