@@ -23,7 +23,7 @@ Maintainers from different organizations, especially those in different fields, 
 A diverse maintainer base signals to the community that the project is not just relevant to the organization that maintains it.
 
 
-### Where to Get Started?
+## How to Get Started?
 
 You and your project might want to get involved in the open source community but you might not be sure how to start building your community, and look to eventually contribute that project to an open source foundation like the OpenSSF. Luckily there's well trodden paths for this. Here are some common practices that can help you get started:
 
