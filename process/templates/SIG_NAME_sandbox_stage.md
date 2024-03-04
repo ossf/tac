@@ -8,7 +8,7 @@
 The SIG have a minimum of two maintainers with different organizational affiliations.
   * "name, affiliation, GitHub ID"
 
-### Existing TI alignment
+### Governing Body
 The SIG should be aligned with an existing OpenSSF Working Group, or Project (TI).  The SIG commits to providing the hosting TI quarterly updates on progress.
   * "name of TI that will host this SIG"
 
