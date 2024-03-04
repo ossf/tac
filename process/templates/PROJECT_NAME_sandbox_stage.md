@@ -5,7 +5,7 @@ The project must have a minimum of two maintainers with different organizational
   * "name, affiliation, GitHub ID"
 
 ### Sponsor
-The project should be aligned with an existing OpenSSF Working Group, SIG, or Project (TI).  The project commits to providing the hosting TI quarterly updates on progress.
+Most projects will be sponsored by an existing OpenSSF Working Group, although in some cases a project may be sponsored by the TAC. The project commits to providing the sponsor quarterly updates on progress.
   * "name of TI that will host this project"
 
 ### Mission of the project
