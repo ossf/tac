@@ -23,5 +23,6 @@ The SIG should provide a list of existing resources with links to the repository
 | Contributing guide  |     |
 | Security.md         |     |
 | Roadmap             |     |
+| code-of-conduct.md             |     |
 | Demos               |     |
 | Other               |     |
