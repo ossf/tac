@@ -11,7 +11,7 @@ The project must have a minimum of three maintainers with a minimum of two diffe
   * "name, affiliation, GitHub ID"
 
 ### Governance
-SIG has defined group goverance
+SIG has defined group governance
   * "link to charter or other document describe how group is managed"
 SIG must have met publicly at least 5 times
   * "link to meeting agenda"
