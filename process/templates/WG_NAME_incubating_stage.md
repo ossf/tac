@@ -21,7 +21,7 @@ WG must have a TAC sponsor
   * "name of TAC sponsor to assist TI"
 WG must have defined Contributor Guide
   * "link to contributor guide"
-WG has defined group goverance
+WG has defined group governance
   * "link to charter or other document describe how group is managed"
 
  Reference              | URL |
