@@ -36,7 +36,7 @@ While OpenSSF is financially supported by member organizations participation in 
 
 Practically speaking you should consider the following actions:
 
-* Post on OpenSSF’s slack (Follow link from: [OpenSSF GetInvolved](https://openssf.org/getinvolved/) to introduce yourself and your project
+* Post on OpenSSF’s slack (Follow link from: [OpenSSF Get Involved](https://openssf.org/getinvolved/) to introduce yourself and your project
 * Attend some of the community teleconferences the Technical Initiatives regularly hold. Check the public calendar at [OpenSSF GetInvolved](https://openssf.org/getinvolved/) for schedule and call-in information.
 * If you’re not sure feel free to reach out to a member of the [TAC](https://github.com/ossf/tac) or an OpenSSF staff member
 
