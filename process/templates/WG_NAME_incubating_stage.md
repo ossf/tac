@@ -33,4 +33,5 @@ WG has defined group governance
 | Contributing guide    |     |
 | Security.md           |     |
 | Roadmap               |     |
+| code-of-conduct.md               |     |
 | Other                 |     |
