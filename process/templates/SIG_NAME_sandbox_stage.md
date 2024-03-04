@@ -9,7 +9,7 @@ The SIG have a minimum of two maintainers with different organizational affiliat
   * "name, affiliation, GitHub ID"
 
 ### Governing Body
-The SIG should be aligned with an existing OpenSSF Working Group, or Project (TI).  The SIG commits to providing the hosting TI quarterly updates on progress.
+SIGs may report to an existing OpenSSF Working Group or directly to the TAC as their governing body. The SIG commits to providing the governing body quarterly updates on progress.
   * "name of TI that will host this SIG"
 
 ### Project References
