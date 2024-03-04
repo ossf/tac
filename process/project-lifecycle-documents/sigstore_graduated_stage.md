@@ -50,7 +50,7 @@ adopters include Kubernetes, Helm, Python and Kyverno. In 2024 and beyond,
 package repositories are the focus for adoption, to improve supply chain
 security for package ecosystems. 
 
-NPM leverages Sigstore to sign SLSA provenance statements, a feature which went
+npm leverages Sigstore to sign SLSA provenance statements, a feature which went
 into general availability last year. 
 
 Homebrew, PyPI and Maven Central Sigstore integration is actively underway for each ecosystem.
