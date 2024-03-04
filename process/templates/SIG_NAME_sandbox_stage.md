@@ -5,7 +5,7 @@
   * Link to relevant documentation.
 
 ### List of interested individuals
-The SIG have a minimum of two maintainers with different organizational affiliations.
+The SIG have a minimum of 3 members with 2 different organizational affiliations.
   * "name, affiliation, GitHub ID"
 
 ### Governing Body
