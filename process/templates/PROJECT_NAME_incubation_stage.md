@@ -24,8 +24,6 @@ Project must have a TAC sponsor
   * "name of TAC sponsor to assist TI"
 Project must have defined Contributor Guide
   * "link to contributor guide"
-Project has defined group goverance
-  * "link to charter or other document describe how group is managed"
 Project has attained an OpenSSF Best Practice Badge at "passing" level
   * "link to OpenSSF Badge"
 Project is integrated into the OpenSSF Scorecard
