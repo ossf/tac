@@ -4,7 +4,7 @@
   * "link to sandbox PR"
 
 ### List of regular contributors
-The WG must have a minimum of 5 contributors from at least 3 different organizations attending regulary.
+The WG must have a minimum of 5 contributors from at least 3 different organizations attending regularly.
   * "name, affiliation, GitHub ID"
 
 
