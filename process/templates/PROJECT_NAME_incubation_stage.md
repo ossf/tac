@@ -18,8 +18,6 @@ The project should be able to show adoption by multiple parties and the adoption
 ### Governance
 Projects must have documented, initial project governance
   * "link to governance documents/Charter"
-Projects must have met publicly at least 5 times
-  * "link to meeting agenda"
 Project must have a TAC sponsor
   * "name of TAC sponsor to assist TI"
 Project must have defined Contributor Guide
