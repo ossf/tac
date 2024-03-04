@@ -37,7 +37,7 @@ While OpenSSF is financially supported by member organizations participation in 
 Practically speaking you should consider the following actions:
 
 * Post on OpenSSF’s slack (Follow link from: [OpenSSF Get Involved](https://openssf.org/getinvolved/) to introduce yourself and your project
-* Attend some of the community teleconferences the Technical Initiatives regularly hold. Check the public calendar at [OpenSSF GetInvolved](https://openssf.org/getinvolved/) for schedule and call-in information.
+* Attend some of the community teleconferences the Technical Initiatives regularly hold. Check the public calendar at [OpenSSF Get Involved](https://openssf.org/getinvolved/) for schedule and call-in information.
 * If you’re not sure feel free to reach out to a member of the [TAC](https://github.com/ossf/tac) or an OpenSSF staff member
 
 You should try to identify the most relevant TIs. A good starting point is the [TAC README page](https://github.com/ossf/tac) where you can find the whole list of TIs with relevant pointers. If you’re not sure, that’s ok, feel free to attend, introduce yourself and don’t hesitate to ask if this might be the right place to find people interested in your project. If you want to get a few minutes to present or demo your project during a call, you can simply go to the TI’s meeting notes document and add an item to the next call’s agenda along with your name. If it turns out that it’s not possible to allocate time for your item that week, you’ll be given a chance on a future call.
