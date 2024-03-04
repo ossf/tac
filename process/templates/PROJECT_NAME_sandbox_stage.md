@@ -6,7 +6,7 @@ The project must have a minimum of two maintainers with different organizational
 
 ### Sponsor
 Most projects will be sponsored by an existing OpenSSF Working Group, although in some cases a project may be sponsored by the TAC. The project commits to providing the sponsor quarterly updates on progress.
-  * "name of TI that will host this project"
+  * "name of the project sponsor: either a Working Group or the TAC"
 
 ### Mission of the project
 The project must be aligned with the OpenSSF mission and either be a novel approach for existing areas, address an unfulfilled need, or be initial code needed for OpenSSF WG work. It is preferred that extensions of existing OpenSSF projects collaborate with the existing project rather than seek a new project.
