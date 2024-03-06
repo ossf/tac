@@ -27,7 +27,7 @@ Projects have met at least 4 times over a period of at least 2 months since beco
 Have a define roadmap and annual goals for the project
   * "link to roadmap and goals"
 Implements, practices, and refines mature software development and release practices, such as adherence to semantic versioning, and having a declared policy for stable releases and backported fixes.
-  * "lnk to documentation"
+  * "link to documentation"
 Projects should harden their build systems in accordance with the SLSA Framework
   * "link to SLSA documentation"
 
