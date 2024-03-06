@@ -29,13 +29,13 @@ body:
           - Proposed work and other work considered
           - Benefit to OSSF and ecosystem
           - Approximate cost
-        4. TI submits this issue to the TAC. This will be treated like a CFP. Respondents will be notified in writing, and approved proposals will be published. For the first year, grants will be reviewed as they come in and will be reviewed until funding runs out for all qualified grant applications. 
-        5. TAC evaluates the technical merit of the proposal and checks that its goals within OSSF and ecosystem seem reasonable and achievable. (See TAC evaluation below)
-        6. TI(s) iterate on the proposal with the TAC until approved or it’s clear that the proposal is unreasonable.
+          - If a third party (like a cloud provider) is requested, please list any vendor preferences (Note, these are not guaranteed and if the request is approved, you will work with OpenSSF Staff to finalize vendors to reach alignment where possible).
+        4. TI submits this issue to the TAC. This will be treated like a CFP. Respondents will be notified in writing, and approved proposals will be published.
+        5.  Submitted funding requests will be batched and reviewed quarterly, relative to each other. Dates where proposals can be accepted, as well as when the review cycle will occur, and when decisions will be made. The TAC reserves a weeklong window for technical merit, and the finance review will occur the following week.
+        6.  TAC evaluates the technical merit of the proposal and checks that its goals within OSSF and ecosystem seem reasonable and achievable. (See TAC evaluation below). During the two week review period, TAC and OpenSSF staff may iterate with TI(s) on the proposal with any questions needed to make the technical merit and funding approval decision.
         7. TAC brings approved proposals to the funding workflow (see below).
-        8. Steps 6-7 are repeated until approved or seen as unreasonable.
-        9. The OpenSSF Staff will distribute funds. 
-        10. TAC will review funding initiative status on milestones. If a funding initiative has more than one milestone, funds may be dispersed after each milestone is achieved (funding initiatives asking for more funds should most likely have more milestones for fund releasing). If the milestone is reached, the TAC/Staff agree that Staff should disperse funds for additional milestones(s).
+        8. The OpenSSF Staff will review any proposals with TAC technical merit (see Finance evaluation below) and determine which proposals will be funded based on the availability of funds. OpenSSF staff will distribute funds. 
+        9. TAC/Staff will review funding initiative status on milestones. If a funding initiative has more than one milestone, funds may be dispersed after each milestone is achieved (funding initiatives asking for more funds should most likely have more milestones for fund releasing). If the milestone is reached, the TAC/Staff agree that Staff should disperse funds for additional milestones(s).
   - type: markdown
     attributes:
       value: |
@@ -43,7 +43,6 @@ body:
         - Is this request in line with the [TAC Technical Vision](https://github.com/ossf/tac/blob/main/technical-vision.md)?
         - Is this request in line with the OpenSSF [MVVS](https://openssf.org/about/), and soon to be [finalized R](https://docs.google.com/document/d/1UoQudHQuaXNzakhOYbAS3IceI9TkSSR6N0bgm1fTTK0/edit#heading=h.493lq0mo4y4f)? (this is how GB/GC communicate “top-down” initiatives, like the SOSS Task Force).
         - Does the requester(s) have an accepted [TI lifecycle phase](https://github.com/ossf/tac/tree/main/process) in good standing?
-          - Does the request meet the “get” of the associated TI lifecycle phase?
           - Within general funding limits for the TIs at the respective lifecycle (e.g. Sandbox should generally ask for less than Incubating, which should ask for less than Graduated)
           - Within approved categories of asks (e.g. no asking for a TI outing at a fancy restaurant but yes to cloud credits)
         - What will be the milestone review requested and when?
@@ -53,11 +52,11 @@ body:
       value: |
         **Finance review:**
         - Who will approve this request?
-          - GM up to $100k, B&F committee up to $250k, GB above $250k
+          - GM up to $100k, B&F committee up to $250k, GB above $250k. These amounts are for the entirety of the funding request.
         - Is funding available in the this category?
           - If yes, recommend to support?
             - How much funds will be available for other requests? (Should we approve one request for all the funds, or seek to approve multiple smaller requests)?
-          - If no, recommend to route through a Supplemental Funding Initiative?
+          - If no, recommend to route through an alternate source?
   - type: markdown
     attributes:
       value: |
@@ -173,7 +172,7 @@ body:
     id: WG
     attributes:
       label: Which technical initiative will this funding initiative be associated
-        with, and will it report to which WG?
+        with, and will it report to which WG or project?
       placeholder: null
     validations:
       required: true
