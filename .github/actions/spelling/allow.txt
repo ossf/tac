@@ -1,5 +1,6 @@
 github
 GUAC
+guac
 guacsec
 mlieberman85
 Kusari
@@ -47,3 +48,12 @@ filling
 form
 Self-Nomination
 MVSR
+MVVS
+MVS
+Samsung
+marcela
+melara
+Melara
+Jautau
+jaywhite
+checkboxes

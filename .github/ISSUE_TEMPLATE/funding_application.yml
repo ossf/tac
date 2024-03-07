@@ -1,0 +1,220 @@
+---
+name: TI Funding Request Form
+description: TI Funding Request Form OpenSSF
+title: "[Technical Initiative Funding Request]: "
+labels:
+  - administration
+  - For Review
+  - Funding Request
+body:
+  - type: markdown
+    attributes:
+      value: Thanks for taking the time to fill out this Funding Request.
+  - type: markdown
+    attributes:
+      value: |
+        **Pre-conditions:**
+        - The TI must have an identified lifecycle phase inside the OpenSSF, such as sandbox, incubating, or graduated. 
+        - The TI requesters should know 
+          - Within general funding limits for the TIs at the respective lifecycle, that are to be determined. 
+          - Within approved categories of asks (e.g. no asking for a TI outing at a fancy restaurant but yes to cloud credits)
+  - type: markdown
+    attributes:
+      value: |
+        **Workflow:**
+        1. TI or TIs working together see a need for funding some work that doesn’t exist within an existing give/get that is pre-approved. For example cloud credits to do a PoC or case study.
+        2. TI(s) get consensus on the scope of how much money they are asking for and to be spent on what. For example $10k-$15k in cloud credits over a year to spend on building out a PoC to test out <some set of things>
+        3. TI(s) drafts that includes:
+          - Problem Statement in the form below
+          - Proposed work and other work considered
+          - Benefit to OSSF and ecosystem
+          - Approximate cost
+          - If a third party (like a cloud provider) is requested, please list any vendor preferences (Note, these are not guaranteed and if the request is approved, you will work with OpenSSF Staff to finalize vendors to reach alignment where possible).
+        4. TI submits this issue to the TAC. This will be treated like a CFP. Respondents will be notified in writing, and approved proposals will be published.
+        5.  Submitted funding requests will be reviewed at least quarterly, relative to each other. Dates where proposals can be accepted, as well as when the review cycle will occur, and when decisions will be made. The TAC reserves a weeklong window for technical merit, and the finance review will occur the following week.
+        6.  TAC evaluates the technical merit of the proposal and checks that its goals within OSSF and ecosystem seem reasonable and achievable. (See TAC evaluation below). During the two week review period, TAC and OpenSSF staff may iterate with TI(s) on the proposal with any questions needed to make the technical merit and funding approval decision.
+        7. TAC brings approved proposals to the funding workflow (see below).
+        8. The OpenSSF Staff will review any proposals with TAC technical merit (see Finance evaluation below) and determine which proposals will be funded based on the availability of funds. OpenSSF staff will distribute funds. 
+        9. TAC/Staff will review funding initiative status on milestones. If a funding initiative has more than one milestone, funds may be dispersed after each milestone is achieved (funding initiatives asking for more funds should most likely have more milestones for fund releasing). If the milestone is reached, the TAC/Staff agree that Staff should disperse funds for additional milestones(s).
+  - type: markdown
+    attributes:
+      value: |
+        **TAC review:**
+        - Is this request in line with the [TAC Technical Vision](https://github.com/ossf/tac/blob/main/technical-vision.md)?
+        - Is this request in line with the OpenSSF [MVS](https://openssf.org/about/), and soon to be [finalized R](https://docs.google.com/document/d/1UoQudHQuaXNzakhOYbAS3IceI9TkSSR6N0bgm1fTTK0/edit#heading=h.493lq0mo4y4f)? (this is how GB/GC communicate “top-down” initiatives, like the SOSS Task Force).
+        - Does the requester(s) have an accepted [TI lifecycle phase](https://github.com/ossf/tac/tree/main/process) in good standing?
+          - Within general funding limits for the TIs at the respective lifecycle (e.g. Sandbox should generally ask for less than Incubating, which should ask for less than Graduated)
+          - Within approved categories of asks (e.g. no asking for a TI outing at a fancy restaurant but yes to cloud credits)
+        - What will be the milestone review requested and when?
+        - Final decision is open discussion and a majority consensus vote. (Alternatively, could have a private form vote)
+  - type: markdown
+    attributes:
+      value: |
+        **Finance review:**
+        - Who will approve this request?
+          - GM up to $100k, B&F committee up to $250k, GB above $250k. These amounts are for the entirety of the funding request.
+        - Is funding available in the this category?
+          - If yes, recommend to support?
+            - How much funds will be available for other requests? (Should we approve one request for all the funds, or seek to approve multiple smaller requests)?
+          - If no, recommend to route through an alternate source?
+  - type: markdown
+    attributes:
+      value: |
+        **Communication of Final Decision:**
+        - Complete like a CFP. Notify in writing if it was accepted or not accepted. Put out a list of accepted proposals (like the events schedule).
+  - type: markdown
+    attributes:
+      value: "Problem statement - This section aims to set the stage and boundaries
+        for the problem you are trying to solve. This is not a place to propose
+        solutions, but to define the problem and its impact."
+  - type: input
+    id: Problem
+    attributes:
+      label: Problem Statement
+      description: What is the problem?
+      placeholder: null
+    validations:
+      required: true
+  - type: input
+    id: impact
+    attributes:
+      label: Who does this affect?
+      description: Who does this problem impact, and for whom is this solution?
+      placeholder: null
+    validations:
+      required: true
+  - type: input
+    id: prior
+    attributes:
+      label: Have there been previous attempts to resolve the problem?
+      description: Why is this approach different, or why didn't the other approaches work?
+      placeholder: null
+    validations:
+      required: true
+  - type: input
+    id: why
+    attributes:
+      label: Why should it be tackled now and by this TI?
+      description: Is this the right place and time for this funding initiative?
+      placeholder: null
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: Proposed work and other work considered - The goal here is to assess the
+        feasibility of the proposed work and to understand the alternatives that
+        were considered. Such as can be done now and is in scope with the
+        current funds.
+  - type: textarea
+    id: inputs
+    attributes:
+      label: Give an idea of what is required to make the funding initiative happen
+      placeholder: null
+    validations:
+      required: true
+  - type: textarea
+    id: deliver
+    attributes:
+      label: What is going to be needed to deliver this funding initiative?
+      placeholder: null
+    validations:
+      required: true
+  - type: textarea
+    id: tools
+    attributes:
+      label: Are there tools or tech that still need to be produced to facilitate the
+        funding initiative?
+      placeholder: null
+    validations:
+      required: false
+  - type: textarea
+    id: requirements
+    attributes:
+      label: Give a summary of the requirements that contextualize the costs of the
+        funding initiative
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: Covering the planning phase, this next section should provide 
+        a relatively detailed plan of how work will start on the funding initiative. This
+        section is important because funding initiatives need to get up and running
+        quickly.
+  - type: markdown
+    attributes:
+      value: Funding Initiative Plan - It is important to think about setting up collaboration
+        platform for code for contributors, reporting framework, license
+        decisions, etc.
+  - type: input
+    id: responsible
+    attributes:
+      label: Who is responsible for doing the work of this funding initiative?
+      description: This person is the primary contact to oversee the idea.
+      placeholder: null
+    validations:
+      required: true
+  - type: input
+    id: accountable
+    attributes:
+      label: Who is accountable for doing the work of this funding initiative?
+      placeholder: null
+    validations:
+      required: true
+  - type: input
+    id: backup
+    attributes:
+      label: If the responsible or accountable parties are no longer available, what
+        is the backup contact or plan?
+      placeholder: null
+    validations:
+      required: true
+  - type: input
+    id: WG
+    attributes:
+      label: Which technical initiative will this funding initiative be associated
+        with, and will it report to which WG or project?
+      placeholder: null
+    validations:
+      required: true
+  - type: input
+    id: license
+    attributes:
+      label: What license is this funding initiative being used under?
+      placeholder: null
+    validations:
+      required: true
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this issue, you agree to follow our [OpenSSF Code of
+        Conduct](https://openssf.org/community/code-of-conduct/) to ensure an inclusive environment for participants.
+      options:
+        - label: I agree to follow the OpenSSF's Code of Conduct
+          required: true
+  - type: markdown
+    attributes:
+      value: The final section is to list the Milestones and Approximate costs
+        associated with the funding initiative. If you prefer, you can submit a
+        Google Sheet or Google Doc in the entry below.
+  - type: textarea
+    id: Milestones
+    attributes:
+      label: List the major milestones and timelines the funding initiative plans to
+        have and the associated payments with each.
+      placeholder: By the end of quarter 2 of 2025, the GA release will have 500 users
+        surveyed for performance assessment completing Milestone 1 for a release
+        of 5k in funding.
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: "Next Steps:"
+  - type: markdown
+    attributes:
+      value: TAC evaluates the technical merit of the proposal and checks that its
+        goals within OSSF and the ecosystem seem reasonable and achievable and get back to the requester with status updates.
+  - type: markdown
+    attributes:
+      value: Thanks for completing this form! If you have any problems, questions or
+        concerns, please email us at operations@openssf.org
