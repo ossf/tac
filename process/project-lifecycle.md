@@ -44,7 +44,7 @@ The OpenSSF Sandbox is the entry point for early stage Projects and has four goa
 * Provides project updates to OpenSSF Marketing Committee as requested.
 
 #### Project Support
-* Receives a TAC and WG sponsor for guidance on technical direction.
+* Receives a TAC or WG sponsor for guidance on technical direction.
 * Receives consideration as in-scope for any submission to an OpenSSF-managed conference or event.
 * Receives OpenSSF Code of Conduct Committee support.
 * Reserved space for project updates in OpenSSF newsletters.
