@@ -40,9 +40,9 @@ body:
     attributes:
       value: |
         **TAC review:**
-        - Is this request in line with the [TAC Technical Vision](https://github.com/OpenSSF/tac/blob/main/technical-vision.md)?
+        - Is this request in line with the [TAC Technical Vision](https://github.com/ossf/tac/blob/main/technical-vision.md)?
         - Is this request in line with the OpenSSF [MVS](https://openssf.org/about/), and soon to be [finalized R](https://docs.google.com/document/d/1UoQudHQuaXNzakhOYbAS3IceI9TkSSR6N0bgm1fTTK0/edit#heading=h.493lq0mo4y4f)? (this is how GB/GC communicate “top-down” initiatives, like the SOSS Task Force).
-        - Does the requester(s) have an accepted [TI lifecycle phase](https://github.com/OpenSSF/tac/tree/main/process) in good standing?
+        - Does the requester(s) have an accepted [TI lifecycle phase](https://github.com/ossf/tac/tree/main/process) in good standing?
           - Within general funding limits for the TIs at the respective lifecycle (e.g. Sandbox should generally ask for less than Incubating, which should ask for less than Graduated)
           - Within approved categories of asks (e.g. no asking for a TI outing at a fancy restaurant but yes to cloud credits)
         - What will be the milestone review requested and when?
