@@ -4,6 +4,11 @@
 The project must have maintainers with a minimum of three different organizational affiliations.
   * "name, affiliation, GitHub ID"
 
+### List Project Chair(s) and or Vice Chair
+The Project must have a minimum of 2 Chairs or 1 Chair and 1 Vice Chair 
+
+  * "name, affiliation, GitHUb ID"
+
 ### Mission of the project
 The project must be aligned with the OpenSSF mission and either be a novel approach for existing areas, address an unfulfilled need, or be code needed to deliver OpenSSF WG work. It is preferred that extensions of existing OpenSSF projects collaborate with the existing project rather than seek a new project.
   * "description of the project mission"
