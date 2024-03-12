@@ -1,5 +1,10 @@
 ## Working Group graduation application
 
+### List WG Chair(s) and or Vice Chair
+The WG must have a minimum of 2 Chair(s) or 1 Chair and 1 Vice Chair
+
+  * "name, affiliation, GitHUb ID"
+    
 ### List of regular contributors
 The WG must have at least 5 contributors from at least 3 different organizations attending regularly as recorded in meeting minutes.
 
