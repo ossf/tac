@@ -1,5 +1,10 @@
 ## Working Group incubation application
 
+### List WG Chair(s) and or Vice Chair
+The WG must have a minimum of 1 Chair
+
+  * "name, affiliation, GitHUb ID"
+    
 ### List of regular contributors
 The WG must have a minimum of 5 contributors from at least 3 different organizations attending regulary.
 
