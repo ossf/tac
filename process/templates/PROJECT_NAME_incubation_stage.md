@@ -3,6 +3,11 @@
 ### Project has met all Sandbox requirement
   * "link to sandbox PR"
     
+### List Project Chair(s) and or Vice Chair
+The Project must have a minimum of 1 Chair
+
+  * "name, affiliation, GitHUb ID"
+
 ### List of project maintainers
 The project must have a minimum of three maintainers with a minimum of two different organizational affiliations.
   * "name, affiliation, GitHub ID"
