@@ -9,6 +9,11 @@
 The initial membership should be at least three individuals from at least two distinct organizations
   * Link to relevant documentation.
 
+### List SIG Lead(s)
+The WG must have a minimum of 1 Lead
+
+  * "name, affiliation, GitHUb ID"
+
 ### Governing body (e.g., WG)
 
 A governing body must agree to govern the SIG
