@@ -1,5 +1,11 @@
 ## Working Group incubation application
 
+### List WG Chair(s) and or Vice Chair
+The WG must have a minimum of 1 Chair
+
+  * "name, affiliation, GitHUb ID"
+
+
 ### Working Group (WG) has met all Sandbox requirement
   * "link to sandbox PR"
 
