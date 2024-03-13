@@ -21,8 +21,6 @@ The WG must have a charter or mission statement for review by TAC
 ### Governance
 WG must have met publicly at least 5 times
    * Link to public meeting notes (or ideally recordings)
-WG must have a TAC sponsor
-  * "name of TAC sponsor to assist TI"
 WG must have defined Contributor Guide
   * "link to contributor guide"
 WG has defined group governance
