@@ -10,8 +10,6 @@ The WG must have at least 5 contributors from at least 3 different organizations
 ### Governance
 Projects have met at least 4 times over a period of at least 2 months since becoming incubating
   * "link to meeting agenda"
-Have a define roadmap and annual goals for the project
-  * "link to roadmap and goals"
 
 ### To retain Graduated status
 A TI is expected to continue operating per the above guidelines, and to provide the TAC with quarterly status updates, and to approach the TAC when seeking approval of substantial changes (such as when accepting or promoting new Projects).
