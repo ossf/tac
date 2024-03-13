@@ -8,8 +8,6 @@ The WG must have at least 5 contributors from at least 3 different organizations
   * "name, affiliation, GitHub ID"
 
 ### Governance
-Projects must have documented project governance and be able to demonstrate that governance in action.
-  * "link to governance documents"
 Projects have met at least 4 times over a period of at least 2 months since becoming incubating
   * "link to meeting agenda"
 Have a define roadmap and annual goals for the project
