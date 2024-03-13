@@ -19,8 +19,6 @@ The WG must have a charter or mission statement for review by TAC
   * Link to the WG charter or mission statement defining its goals.
 
 ### Governance
-Working Groups must have documented, initial WG governance
-  * "link to governance documents/Charter"
 WG must have met publicly at least 5 times
    * Link to public meeting notes (or ideally recordings)
 WG must have a TAC sponsor
