@@ -18,13 +18,10 @@ TAC sponsor agrees to attend WG meetings regularly, although they are not requir
   
 ### Working Group References
 The WG should provide a list of existing resources with links to the repository, and if available, website and any other material to showcase the existing breadth, maturity, and direction of the WG.
+
 | Reference           | URL |
 |---------------------|-----|
 | Repo                |     |
-| Meeting Agenda      |     |
-| OSSF Calendar Entry |     |
 | Website             |     |
-| Contributing guide  |     |
-| Security.md         |     |
-| Roadmap             |     |
+| Security.md    |     |
 | Other               |     |
