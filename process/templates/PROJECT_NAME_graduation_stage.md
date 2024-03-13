@@ -25,7 +25,7 @@ Projects must have documented project governance and be able to demonstrate that
 Have a define roadmap and annual goals for the project
   * "link to roadmap and goals"
 Implements, practices, and refines mature software development and release practices, such as adherence to semantic versioning, and having a declared policy for stable releases and backported fixes.
-  * "link to documentation"
+  * "link to policy for (or describe here) software development and release practices"
 Projects should harden their build systems in accordance with the SLSA Framework
   * "link to SLSA documentation"
 
