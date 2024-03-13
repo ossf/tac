@@ -23,8 +23,6 @@ WG must have met publicly at least 5 times
    * Link to public meeting notes (or ideally recordings)
 WG must have defined Contributor Guide
   * "link to contributor guide"
-WG has defined group governance
-  * "link to charter or other document describe how group is managed"
 
  Reference              | URL |
 |-----------------------|-----|
