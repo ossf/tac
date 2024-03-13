@@ -27,7 +27,7 @@ Have a define roadmap and annual goals for the project
 Implements, practices, and refines mature software development and release practices, such as adherence to semantic versioning, and having a declared policy for stable releases and backported fixes.
   * "link to policy for (or describe here) software development and release practices"
 Projects should harden their build systems in accordance with the SLSA Framework
-  * "link to SLSA documentation"
+  * "link to policy for (or describe here) hardened build system"
 
 ### Security audit
 When applicable, projects must have completed a security audit through a third party and addressed audit findings and recommendations.
