@@ -3,11 +3,6 @@
 ### Project has met all Incubating requirements
   * "link to Incubating PR"
 
-### List Project Chair(s) and or Vice Chair
-The Project must have a minimum of 2 Chairs or 1 Chair and 1 Vice Chair 
-
-  * "name, affiliation, GitHUb ID"
-
 ### List of project maintainers
 The project must have maintainers with a minimum of five different contributors from three different organizational affiliations.
   * "name, affiliation, GitHub ID"
