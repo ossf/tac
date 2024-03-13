@@ -22,8 +22,6 @@ The project must be able to show a consistent release cadence.
 ### Governance
 Projects must have documented project governance and be able to demonstrate that governance in action.
   * "link to governance documents"
-Projects have met at least 4 times over a period of at least 2 months since becoming incubating
-  * "link to meeting agenda"
 Have a define roadmap and annual goals for the project
   * "link to roadmap and goals"
 Implements, practices, and refines mature software development and release practices, such as adherence to semantic versioning, and having a declared policy for stable releases and backported fixes.
