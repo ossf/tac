@@ -7,10 +7,6 @@
 The WG must have at least 5 contributors from at least 3 different organizations attending regularly as recorded in meeting minutes.
   * "name, affiliation, GitHub ID"
 
-### Release cadence
-The TI must be able to show a consistent release cadence.
-  * "link to release documentation"
-
 ### Governance
 Projects must have documented project governance and be able to demonstrate that governance in action.
   * "link to governance documents"
