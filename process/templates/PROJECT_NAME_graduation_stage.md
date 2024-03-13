@@ -49,5 +49,4 @@ The project must provide a list of existing resources with links to the reposito
 | Demos                 |     |
 | Best Practices Badge  |     |
 | Scorecard integration |     |
-| SLSA documentation    |     |
 | Other                 |     |
