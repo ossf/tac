@@ -32,6 +32,5 @@ WG must have defined Contributor Guide
 | Website               |     |
 | Contributing guide    |     |
 | Security.md           |     |
-| Roadmap               |     |
 | code-of-conduct.md               |     |
 | Other                 |     |
