@@ -42,8 +42,6 @@ The project must provide a list of existing resources with links to the reposito
  Reference              | URL |
 |-----------------------|-----|
 | Repo                  |     |
-| Meeting Agenda        |     |
-| OSSF Calendar Entry   |     |
 | Website               |     |
 | Contributing guide    |     |
 | Security.md           |     |
