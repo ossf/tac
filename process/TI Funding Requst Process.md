@@ -1,11 +1,12 @@
 This process details how an eligible OpenSSF Technical Initiative can petition for resources and funding.
 
-## Pre-conditions:##
+## Pre-conditions ##
     - The TI must have an identified lifecycle phase inside the OpenSSF, such as sandbox, incubating, or graduated. 
-     - The TI requesters should know: 
+    - The TI requesters should know: 
           - Within general funding limits for the TIs at the respective lifecycle, that are to be determined. 
 
-## Workflow ##  1. TI or TIs working together see a need for funding some work that doesn’t exist within an existing give/get that is pre-approved. For example cloud credits to do a PoC or case study.
+## Workflow ##  
+  1. TI or TIs working together see a need for funding some work that doesn’t exist within an existing give/get that is pre-approved. For example cloud credits to do a PoC or case study.
   2. TI(s) get consensus on the scope of how much money they are asking for and to be spent on what. For example $10k-$15k in cloud credits over a year to spend on building out a PoC to test out <some set of things>
   3. TI(s) drafts that includes:
      - Problem Statement in the form below
