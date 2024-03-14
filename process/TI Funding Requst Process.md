@@ -28,4 +28,5 @@ This process details how an eligible OpenSSF Technical Initiative can petition f
       - Within general funding limits for the TIs at the respective lifecycle (e.g. Sandbox should generally ask for less than Incubating, which should ask for less than Graduated)
       - Within approved categories of asks (e.g. no asking for a TI outing at a fancy restaurant but yes to cloud credits)
       - What will be the milestone review requested and when?
-   - Final decision is open discussion and a majority consensus vote. (Alternatively, could have a private form vote)
+   - Final decision is open discussion and a majority consensus vote.
+   - TAC moves approved requests forward and recommends to the OpenSSF General Manager and the Governance Committee for dispensation.
