@@ -5,7 +5,7 @@
   * Link to relevant documentation.
 
 ### List SIG Lead(s)
-The WG must have a minimum of 1 Lead
+The SIG must have a minimum of 1 Lead
 
   * "name, affiliation, GitHUb ID"
 
