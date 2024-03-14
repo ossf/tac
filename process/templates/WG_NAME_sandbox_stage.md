@@ -12,11 +12,16 @@ The WG must be aligned with the OpenSSF mission and address an unfulfilled need.
 When contributing to OpenSSF any existing material for the new WG to work on, the contribution must undergo license and IP due diligence by the Linux Foundation (LF).
   * "yes / no / not applicable. If yes, provide a link to the corresponding GitHub issue."
   
+### TAC Sponsor
+TAC sponsor agrees to attend WG meetings regularly, although they are not required to have a formal role in WG.
+  * "name of TAC sponsor"
+  
 ### Working Group References
 The WG should provide a list of existing resources with links to the repository, and if available, website and any other material to showcase the existing breadth, maturity, and direction of the WG.
 
-| Reference          | URL |
-|--------------------|-----|
-| Repo               |     |
-| Website            |     |
-| Other              |     |
+| Reference           | URL |
+|---------------------|-----|
+| Repo                |     |
+| Website             |     |
+| Security.md    |     |
+| Other               |     |
