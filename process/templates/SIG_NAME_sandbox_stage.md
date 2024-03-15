@@ -16,7 +16,7 @@ SIGs may report to an existing OpenSSF Working Group or directly to the TAC as t
   * "name of governing body (WG or TAC) for this SIG"
 
 ### SIG References
-The SIG should provide a list of existing resources with links to the repository, and if available, website, a roadmap, contributing guide, demos and walkthroughs, and any other material to showcase the existing breadth, maturity, and direction of the project.
+The SIG should provide a list of existing resources with links to the repository, and if available, website, a roadmap, demos and walkthroughs, and any other material to showcase the existing breadth, maturity, and direction of the SIG.
 | Reference           | URL |
 |---------------------|-----|
 | Repo                |     |
