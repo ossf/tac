@@ -15,7 +15,7 @@ The SIG have a minimum of 3 members with 2 different organizational affiliations
 SIGs may report to an existing OpenSSF Working Group or directly to the TAC as their governing body. The SIG commits to providing the governing body quarterly updates on progress.
   * "name of governing body (WG or TAC) for this SIG"
 
-### Project References
+### SIG References
 The SIG should provide a list of existing resources with links to the repository, and if available, website, a roadmap, contributing guide, demos and walkthroughs, and any other material to showcase the existing breadth, maturity, and direction of the project.
 | Reference           | URL |
 |---------------------|-----|
