@@ -7,8 +7,6 @@
 ### List SIG Lead(s)
 The SIG must have a minimum of 1 Lead
 
-  * "name, affiliation, GitHUb ID"
-
 ### List of interested individuals
 The SIG have a minimum of 3 members with 2 different organizational affiliations.
   * "name, affiliation, GitHub ID"
