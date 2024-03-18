@@ -4,7 +4,7 @@ The governing body must agree that the SIG has completed a major deliverable
   * Link to relevant documentation.
 
 ## SIG has met all Incubating requirements
-  * "link to Incubating PR"
+  * "link to Incubating PR if exists"
 
 ### Governance
 SIG must have documented project governance and be able to demonstrate that governance in action.
