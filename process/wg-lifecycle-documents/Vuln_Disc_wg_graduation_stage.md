@@ -12,7 +12,7 @@ The WG must have at least 5 contributors from at least 3 different organizations
 - [David A Wheeler, LF/OSSF](https://github.com/david-a-wheeler)
 - [Randall T. Vasquez (SKF/Gentoo/Homebrew)](https://github.com/ran-dall)
 - [Adolfo García Veytia, Chainguard & OpenVEX](https://github.com/puerco)
-- [Andrew Pollock, Google & OSV](
+- [Andrew Pollock, Google & OSV](https://github.com/andrewpollock)
 - [Arnaud Le Hors, IBM](https://github.com/lehors)
 - [Art Manion, ANALYGENCE](https://github.com/zmanion)
 - [Avishay Balter, Microsoft](https://github.com/balteravishay)
