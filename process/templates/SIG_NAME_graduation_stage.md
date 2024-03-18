@@ -9,9 +9,6 @@ The governing body must agree that the SIG has completed a major deliverable
 ### Governance
 SIG must have documented governance and be able to demonstrate that governance in action.
   * "link to governance documents"
-SIG has met at least 4 times over a period of at least 2 months since becoming incubating
-  * "link to meeting agenda"
-Have a define roadmap and annual goals for the project
   * "link to roadmap and goals"
 SIG has completed a major deliverable
 	  * "link to completed deliverable"
