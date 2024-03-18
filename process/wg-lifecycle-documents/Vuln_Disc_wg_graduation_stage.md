@@ -8,7 +8,7 @@ Vulnerability Disclosures WG
 The WG must have at least 5 contributors from at least 3 different organizations attending regularly as recorded in meeting minutes.
 - [Christopher "CRob" Robinson, Intel](https://github.com/SecurityCRob)
 - [Jonathan Leitschuh, Dan Kaminsky Fellowship - HUMAN](https://github.com/JLLeitschuh)
-- [Madison Oliver, GitHub Security Lab](https://github.com/)
+- [Madison Oliver, GitHub Security Lab](https://github.com/taladrane)
 - [David A Wheeler, LF/OSSF](https://github.com/david-a-wheeler)
 - [Randall T. Vasquez (SKF/Gentoo/Homebrew)](https://github.com/ran-dall)
 - [Adolfo García Veytia, Chainguard & OpenVEX](https://github.com/puerco)
