@@ -7,7 +7,7 @@ The WG must have a minimum of 1 Chair
 
 
 ### Working Group (WG) has met all Sandbox requirement
-  * "link to sandbox PR"
+  * "link to sandbox PR if exists"
 
 ### List of regular contributors
 The WG must have a minimum of 5 contributors from at least 3 different organizations attending regularly.
