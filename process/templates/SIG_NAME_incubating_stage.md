@@ -13,10 +13,8 @@ The project must have a minimum of three maintainers with a minimum of two diffe
 ### Governance
 SIG has defined group governance
   * "link to charter or other document describe how group is managed"
-SIG must have met publicly at least 5 times
-  * "link to meeting agenda"
-SIG should have defined Contributor Guide
-  * "link to contributor guide"
+SIG has made substantial progress on deliverable
+  * "link to deliverable in progress"
 
 
 
