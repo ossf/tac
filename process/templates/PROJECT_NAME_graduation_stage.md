@@ -1,7 +1,7 @@
 ## Project graduation application
 
 ### Project has met all Incubating requirements
-  * "link to Incubating PR"
+  * "link to Incubating PR if exists"
 
 ### List of project maintainers
 The project must have maintainers with a minimum of five different contributors from three different organizational affiliations.
