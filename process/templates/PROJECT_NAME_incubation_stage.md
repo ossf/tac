@@ -1,5 +1,8 @@
 ## Project incubation application
 
+### Project has met all Sandbox requirement
+  * "link to sandbox PR if one exists"
+    
 ### List of project maintainers
 The project must have a minimum of three maintainers with a minimum of two different organizational affiliations.
   * "name, affiliation, GitHub ID"
@@ -13,8 +16,16 @@ The project should be able to show adoption by multiple parties and the adoption
   * "description of adoption"
 
 ### Governance
+Project must have met publicly at least 5 times
+   * Link to public meeting notes (or ideally recordings)
 Projects must have documented, initial project governance
-  * "link to governance documents"
+  * "link to governance documents/Charter"
+Project must have defined Contributor Guide
+  * "link to contributor guide"
+Project has attained an OpenSSF Best Practice Badge at "passing" level
+  * "link to OpenSSF Badge"
+Project is integrated into the OpenSSF Scorecard
+  * "link to Scorecard output"
 
 ### IP policy and licensing due diligence
 When contributing an existing Project to the OpenSSF, the contribution must undergo license and IP due diligence by the Linux Foundation (LF). This step is only needed for the initial donation and only applicable here, if the project intends to join the OpenSSF Incubation stage.
@@ -23,11 +34,16 @@ When contributing an existing Project to the OpenSSF, the contribution must unde
 ### Project References
 The project should provide a list of existing resources with links to the repository, website, a roadmap, contributing guide, demos and walkthroughs, and any other material to showcase the existing breadth, maturity, and direction of the project.
 
-| Reference          | URL |
-|--------------------|-----|
-| Repo               |     |
-| Website            |     |
-| Contributing guide |     |
-| Roadmap            |     |
-| Demos              |     |
-| Other              |     |
+ Reference           | URL |
+|---------------------|-----|
+| Repo                  |     |
+| Meeting Agenda        |     |
+| OSSF Calendar Entry   |     |
+| Website               |     |
+| Contributing guide    |     |
+| Security.md           |     |
+| Roadmap               |     |
+| Demos                 |     |
+| Best Practices Badge  |     |
+| Scorecard integration |     |
+| Other                 |     |
