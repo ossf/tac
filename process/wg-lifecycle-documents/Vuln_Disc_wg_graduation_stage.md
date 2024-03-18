@@ -7,7 +7,7 @@ Vulnerability Disclosures WG
 ### List of regular contributors
 The WG must have at least 5 contributors from at least 3 different organizations attending regularly as recorded in meeting minutes.
 - [Christopher "CRob" Robinson, Intel](https://github.com/SecurityCRob)
-- [Jonathan Leitschuh, Dan Kaminsky Fellowship - HUMAN](https://github.com/)
+- [Jonathan Leitschuh, Dan Kaminsky Fellowship - HUMAN](https://github.com/JLLeitschuh)
 - [Madison Oliver, GitHub Security Lab](https://github.com/)
 - [David A Wheeler, LF/OSSF](https://github.com/david-a-wheeler)
 - [Randall T. Vasquez (SKF/Gentoo/Homebrew)](https://github.com/ran-dall)
