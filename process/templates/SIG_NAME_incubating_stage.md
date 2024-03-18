@@ -7,7 +7,7 @@ The governing body must agree that the SIG has made substantial progress on a de
   * "link to sandbox PR if exists"
 
 ### List of SIG maintainers
-The project must have a minimum of three maintainers with a minimum of two different organizational affiliations.
+The SIG must have a minimum of three contributors with a minimum of two different organizational affiliations.
   * "name, affiliation, GitHub ID"
 
 ### Governance
