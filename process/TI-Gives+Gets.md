@@ -39,10 +39,11 @@ Also note that benefits may actually vary based on resources and funds availabil
 
 All requirements of Sandbox must be fulfilled. PR filed to promote TI to Incubating stage.
  * TI must have documented, initial group governance.
- * WG and Project has met no less than 5 times within the last calendar quarter
  * Maintains a diversified contributor base (i.e. not a single-vendor project) with an active flow of contributions, and documents the current list of maintainers:
    * WG must have a minimum of five participants with a minimum of three different organization affiliations.
-   * Project and SIG must have a minimum of three contributors with a minimum of two different organization affiliations. 
+   * Project and SIG must have a minimum of three contributors with a minimum of two different organization affiliations.
+ * WG and Project has met at least 5 times within the last calendar quarter since becoming Sandbox.
+ * SIG must have made substantial progress on a deliverable.
  * Project must have defined a contributor guide, which makes it clear how and when contributors should be given increasing responsibilities towards maintainership of the project. (Example guides: Sigstore, AllStar)
  * Project should be able to show adoption by multiple parties and adoption's value to the open source community and/or end users (may include adoption of beta/early versions) with the intent to showcase wide adoption by the project's consumers.
  * TI that develops code:
