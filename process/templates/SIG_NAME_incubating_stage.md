@@ -4,7 +4,7 @@ The governing body must agree that the SIG has made substantial progress on a de
    * Link to relevant documentation.
 
 ### SIG has met all Sandbox requirement
-  * "link to sandbox PR"
+  * "link to sandbox PR if exists"
 
 ### List of SIG maintainers
 The project must have a minimum of three maintainers with a minimum of two different organizational affiliations.
