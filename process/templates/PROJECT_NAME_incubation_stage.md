@@ -1,7 +1,7 @@
 ## Project incubation application
 
 ### Project has met all Sandbox requirement
-  * "link to sandbox PR"
+  * "link to sandbox PR if one exists"
     
 ### List of project maintainers
 The project must have a minimum of three maintainers with a minimum of two different organizational affiliations.
