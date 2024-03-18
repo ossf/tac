@@ -22,7 +22,7 @@ The project must be able to show a consistent release cadence.
 ### Governance
 Projects must have documented project governance and be able to demonstrate that governance in action.
   * "link to governance documents"
-Have a define roadmap and annual goals for the project
+Have a defined and documented roadmap and annual goals for the project
   * "link to roadmap and goals"
 Implements, practices, and refines mature software development and release practices, such as adherence to semantic versioning, and having a declared policy for stable releases and backported fixes.
   * "link to policy for (or describe here) software development and release practices"
