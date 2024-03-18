@@ -33,9 +33,6 @@ Projects should harden their build systems in accordance with the SLSA Framework
 When applicable, projects must have completed a security audit through a third party and addressed audit findings and recommendations.
   * "link to results of security audit"
 
-### To retain Graduated status
-A TI is expected to continue operating per the above guidelines, and to provide the TAC with quarterly status updates, and to approach the TAC when seeking approval of substantial changes (such as when accepting or promoting new Projects).
-
 ### Project References
 The project must provide a list of existing resources with links to the repository, website, a roadmap, contributing guide, demos and walkthroughs, and any other material to showcase the existing breadth, maturity, and direction of the project.
 
