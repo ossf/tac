@@ -25,7 +25,6 @@ The SIG should provide a list of existing resources with links to the repository
 | Meeting Agenda        |     |
 | OSSF Calendar Entry   |     |
 | Website               |     |
-| Contributing guide    |     |
 | Security.md           |     |
 | Roadmap               |     |
 | Other                 |     |
