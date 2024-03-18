@@ -16,6 +16,8 @@ The project should be able to show adoption by multiple parties and the adoption
   * "description of adoption"
 
 ### Governance
+Project must have met publicly at least 5 times
+   * Link to public meeting notes (or ideally recordings)
 Projects must have documented, initial project governance
   * "link to governance documents/Charter"
 Project must have defined Contributor Guide
