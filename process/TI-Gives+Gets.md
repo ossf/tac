@@ -69,6 +69,7 @@ All requirements of Incubating must be fulfilled and additionally:
  * WG and Project has met at least 4 times over a period of at least 2 months since becoming Incubating.
  * SIG has completed a major deliverable.
  * WG and Project must have a minimum of five participants with a minimum of three different organization affiliations.
+ * SIG must have a minimum of three participants with a minimum of two different organization affiliations.
  * TI that develops code:
    * Implements, practices, and refines mature software development and release practices, such as adherence to semantic versioning, and having a declared policy for stable releases and backported fixes.
    * TI must be able to show a consistent release cadence.

@@ -4,7 +4,11 @@ SIG has completed a major deliverable
   * "link to completed deliverable".
 
 ## SIG has met all Incubating requirements
-  * "link to Incubating PR if exists"
+* "link to Incubating PR if exists"
+
+### List of SIG participants
+The SIG must have a minimum of three contributors with a minimum of two different organizational affiliations.
+  * "name, affiliation, GitHub ID"
 
 ### Governance
 SIG must have documented governance and be able to demonstrate that governance in action.
