@@ -1,7 +1,7 @@
 ## Application for creating a new Working Group at Sandbox stage
 
 ### List of interested individuals
-The WG must have a minimum of 3 interested individual from different organizations.
+The WG must have a minimum of 3 interested contributors from two different organizations.
   * "name, affiliation, GitHub ID"
 
 ### Mission of the Working Group

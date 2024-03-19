@@ -13,7 +13,7 @@ Also note that benefits may actually vary based on resources and funds availabil
 ### Gives/Requirements
 
  * TI must be aligned with the OpenSSF mission and either be a novel approach for existing areas or address an unfulfilled need. It is expected that the initial code needed for an OpenSSF WG to work be kept within their repository and will not function as a project in its own right. Should initial WG code grow and mature that it warrants its own Project status, then it is subject to Sandbox entry requirements. It is preferred that extensions of existing OpenSSF projects collaborate with the existing project rather than seek a new project.
- * TI must maintain a diversified contributor base (i.e. not a single-vendor project).  TI must have a minimum of two maintainers with different organization affiliations.
+ * TI must maintain a diversified contributor base (i.e. not a single-vendor project).  TI must have a minimum of three contributors with a minimum of two different organization affiliations.
  * WG must find a TAC sponsor that can help guide the WG through its sandbox stage.
  * Project and or SIG must find an aligned WG to host the TI or must have a TAC sponsor that can help guide the TI through the sandbox stage.
  * TI agrees to follow the [Secure Software Development Guiding Principles](https://github.com/ossf/wg-best-practices-os-developers/blob/main/docs/SecureSoftwareGuidingPrinciples.md) and the [Open Source Consumption Manifesto](https://github.com/ossf/wg-endusers/tree/main/MANIFESTO).
