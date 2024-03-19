@@ -16,14 +16,18 @@ The project should be able to show adoption by multiple parties and the adoption
   * "description of adoption"
 
 ### Governance
-Project must have met publicly at least 5 times
-   * Link to public meeting notes (or ideally recordings)
+Project must have met publicly at least 5 times in the last quarter since becoming Sandbox
+  * Link to public meeting notes (or ideally recordings)
+
 Projects must have documented, initial project governance
   * "link to governance documents/Charter"
+
 Project must have defined Contributor Guide
   * "link to contributor guide"
+
 Project has attained an OpenSSF Best Practice Badge at "passing" level
   * "link to OpenSSF Badge"
+
 Project is integrated into the OpenSSF Scorecard
   * "link to Scorecard output"
 
