@@ -23,6 +23,7 @@ The WG must have at least 5 contributors from at least 3 different organizations
 
 ### Governance
 Projects have met at least 4 times over a period of at least 2 months since becoming incubating
+  * [BEST WG Charter](https://github.com/ossf/wg-best-practices-os-developers/blob/main/CHARTER.md)
   * [2024 Meeting Notes](https://docs.google.com/document/d/1JY8FREBPCUUFpuv7-4B9EjeS2MLDpel0dbG5DFWrTns/edit)
   * [Historic Meeting Notes](https://github.com/ossf/wg-best-practices-os-developers/tree/main/minutes)
 
