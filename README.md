@@ -52,7 +52,7 @@ The following Technical Initiatives have been approved by the TAC:
 
 | Name                         | Repository                                              | Notes                                                                                                  | Status     |
 | ---------------------------- | ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | ---------- |
-| Vulnerability Disclosures      | https://github.com/ossf/wg-vulnerability-disclosures    | [Meeting Notes](https://github.com/ossf/wg-vulnerability-disclosures/tree/main/docs/meeting-notes)     | Incubating |
+| Vulnerability Disclosures      | https://github.com/ossf/wg-vulnerability-disclosures    | [Meeting Notes](https://github.com/ossf/wg-vulnerability-disclosures/tree/main/docs/meeting-notes)     | [Graduated](process/wg-lifecycle-documents/Vuln_Disc_wg_graduation_stage.md) |
 | Security Tooling               | https://github.com/ossf/wg-security-tooling             | [Meeting Notes](https://docs.google.com/document/d/1jzxhzIfkOMTagpeFWYoZpMKwHYeO4Gc7Eq5FcMFEw2c/edit#heading=h.wdz394z3k3h2) | Incubating |
 | Security Best Practices        | https://github.com/ossf/wg-best-practices-os-developers | [Meeting Notes](https://github.com/ossf/wg-best-practices-os-developers/blob/main/meeting-minutes.md)  | [Graduated](process/wg-lifecycle-documents/BEST_practices_wg_graduation_stage.md))  |
 | Metrics & Metadata             | https://github.com/ossf/wg-metrics-and-metadata         | [Meeting Notes](https://docs.google.com/document/d/14_ILDhSK3ymKqUTQeQBRgJKgfiy_ePoGZIe8s7p3K5E/edit)  | Incubating |
