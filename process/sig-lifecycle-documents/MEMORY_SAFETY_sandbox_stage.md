@@ -19,28 +19,32 @@ Our in progress deliverables include:
 
 ### List of interested individuals
 The SIG have a minimum of 3 members with 2 different organizational affiliations.
-* Jay White, Microsoft, 
+* Jay White, Microsoft
 * Gabriel Dos Reis, Microsoft, [GabrielDosReis](https://github.com/GabrielDosReis)
 * Charles Palmer, IBM Research, Dartmouth
 * David Edelsohn, IBM
 * Andrew Fryer, [Andrew-Fryer](https://github.com/Andrew-Fryer)
+* Justin Cappos, NYU, [JustinCappos](https://github.com/JustinCappos)
 * Andrew Lilley Brinker, Mitre, [alilleybrinker](https://github.com/alilleybrinker)
-
+* Joshua J. Drake, [jduck](https://github.com/jduck)
+* Chris de Almeida, IBM, [ctcpip](https://github.com/ctcpip)
+* Jordan Harband, TC39, [ljharb](https://github.com/ljharb)
+ 
 
 ### Governing Body
 SIGs may report to an existing OpenSSF Working Group or directly to the TAC as their governing body. The SIG commits to providing the governing body quarterly updates on progress.
-  * "name of governing body (WG or TAC) for this SIG"
+* [Best Practices Working Group](https://github.com/ossf/wg-best-practices-os-developers)
 
 ### SIG References
 The SIG should provide a list of existing resources with links to the repository, and if available, website, a roadmap, demos and walkthroughs, and any other material to showcase the existing breadth, maturity, and direction of the SIG.
 | Reference           | URL |
 |---------------------|-----|
-| Repo                |     |
-| Meeting Agenda      |     |
-| OSSF Calendar Entry |     |
+| Repo                |https://github.com/ossf/Memory-Safety                                                |
+| Meeting Agenda      |https://docs.google.com/document/d/1RnIzqeKyrOJvs6vQ8xGH6TjZDoEFaGUs1NkAx--v_3Y/edit |
+| OSSF Calendar Entry |Not sure how to link this, but there is one!                                         |
 | Website             |     |
 | Security.md         |     |
 | Roadmap             |     |
-| code-of-conduct.md             |     |
+| code-of-conduct.md  |https://openssf.org/community/code-of-conduct/                                       |
 | Demos               |     |
 | Other               |     |
