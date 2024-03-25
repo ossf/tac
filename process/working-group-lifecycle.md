@@ -33,7 +33,7 @@ Once the WG has further defined its goals and garnered enough support it can app
 ## To become `Incubating`:
 
 * Have a charter or mission statement for review by TAC
-* Have met at least 5 times
+* Have met at least 5 times within the last calendar quarter since becoming `Sandbox`
     * For these, meeting notes (or ideally recordings) must be public
 * Have at least 5 contributors from at least 3 different organizations attending regularly
 * TAC will vote to approve or provide constructive guidance
