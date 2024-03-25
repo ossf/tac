@@ -6,6 +6,7 @@
 
 ### List SIG Lead(s)
 The SIG must have a minimum of 1 Lead
+  * "name, affiliation, GitHub ID"
 
 ### List of interested individuals
 The SIG have a minimum of 3 members with 2 different organizational affiliations.
@@ -25,6 +26,6 @@ The SIG should provide a list of existing resources with links to the repository
 | Website             |     |
 | Security.md         |     |
 | Roadmap             |     |
-| code-of-conduct.md             |     |
+| code-of-conduct.md  |     |
 | Demos               |     |
 | Other               |     |

@@ -15,7 +15,7 @@ Once the WG has further defined its goals and garnered enough support it can app
 
 * Proposal of scope for review by TAC
     * This is to help ensure limited overlap with existing WGs
-* Have at least 3 interested individuals from different organizations supporting the proposal
+* Have at least 3 interested individuals from two different organizations supporting the proposal
 * 1 TAC sponsor
     * TAC sponsor agrees to attend WG meetings regularly
     * TAC sponsor does not need to have a formal role in WG, e.g., chair

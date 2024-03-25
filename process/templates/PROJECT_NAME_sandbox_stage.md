@@ -1,7 +1,7 @@
 ## Application for creating a new project at Sandbox stage
 
 ### List of project maintainers
-The project must have a minimum of two maintainers with different organizational affiliations.
+The project must have a minimum of three maintainers with a minimum of two different organizational affiliations.
   * "name, affiliation, GitHub ID"
 
 ### Sponsor
