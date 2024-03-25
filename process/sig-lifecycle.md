@@ -59,10 +59,10 @@ The SIG life cycle begins with interested contributors deciding to undertake thi
 
 ### SIG creation or change of lifecycle stage
 
-SIGs can be created and managed without formal approval from the TAC. However, for documentation purposes, group leads should record a lifecycle document when creating a SIG or changing a SIG's lifecycle stage. To this end, a SIG lead (or anyone in the case of an Archived SIG) creates a PR in this repository with the following changes:
+SIGs can be created and managed without a formal vote from the TAC. However, for documentation purposes, group leads should record a lifecycle document when creating a SIG or changing a SIG's lifecycle stage. To this end, a SIG lead (or anyone in the case of an Archived SIG) creates a PR in this repository with the following changes:
 
 * A new file in the `sig-lifecycle-documents` directory containing the information pertinent to the creation of the SIG or its lifecycle change. This file must be based on the template for the respective lifecycle stage in the `templates` directory. The `SIG_NAME_` prefix of the template must be replaced by the SIG name.
 
 * Modification of the table listing all SIGs in the [README](../README.md) of this repository by either updating the status field of the SIG in the table to the intended new lifecycle stage or by adding the SIG to the table in case of a SIG creation.
 
-Because no formal approval by the TAC is required the PR can be merged by any TAC or staff member.
+Because no formal vote by the TAC is required, the PR can be merged by any TAC or staff member without needing a majority of the TAC to approve the PR.
