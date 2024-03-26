@@ -11,12 +11,12 @@ This process details how an eligible OpenSSF Technical Initiative can petition f
   3. TI(s) drafts that includes:
      - Problem Statement in the form below
      - Proposed work and other work considered
-     - Benefit to OSSF and ecosystem
+     - Benefit to OpenSSF and ecosystem
      - Approximate cost
      - If a third party (like a cloud provider) is requested, please list any vendor preferences (Note, these are not guaranteed and if the request is approved, you will work with OpenSSF Staff to finalize vendors to reach alignment where possible).
   4. TI submits this issue to the TAC. This will be treated like a CFP. Respondents will be notified in writing, and approved proposals will be published.
   5.  Submitted funding requests will be reviewed at least quarterly, relative to each other. Dates where proposals can be accepted, as well as when the review cycle will occur, and when decisions will be made. The TAC reserves a weeklong window for technical merit, and the finance review will occur the following week.
-  6.  TAC evaluates the technical merit of the proposal and checks that its goals within OSSF and ecosystem seem reasonable and achievable. (See TAC evaluation below). During the two week review period, TAC and OpenSSF Staff may iterate with TI(s) on the proposal with any questions needed to make the technical merit and funding approval decision.
+  6.  TAC evaluates the technical merit of the proposal and checks that its goals within OpenSSF and ecosystem seem reasonable and achievable. (See TAC evaluation below). During the two week review period, TAC and OpenSSF Staff may iterate with TI(s) on the proposal with any questions needed to make the technical merit and funding approval decision.
   7. TAC brings approved proposals to the funding workflow (see below).
   8. The OpenSSF General Manager or delegate will review any proposals with TAC technical merit (see Finance evaluation below) and determine which proposals will be funded based on the availability of funds. Funding beyond the delegated authority of the OpenSSF General Manager or Delegate will request the approval of the Budget and Finance Committee, and/or Governing Board. OpenSSF Staff will distribute funds. 
   9. TAC/OpenSSF General Manager or delegate will review funding initiative status on milestones. If a funding initiative has more than one milestone, funds may be dispersed after each milestone is achieved (funding initiatives asking for more funds should most likely have more milestones for fund releasing). If the milestone is reached, the TAC/OpenSSF General Manager or delegate agree that Staff should disperse funds for additional milestones(s).
