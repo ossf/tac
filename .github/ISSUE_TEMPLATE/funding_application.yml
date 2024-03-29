@@ -14,7 +14,7 @@ body:
     attributes:
       value: |
         **Process:**
-        - Please review the process in the [TAC Process Documents](https://github.com/ossf/tac/blob/main/process/TI%20Funding%20Requst%20Process.md)
+        - Please review the process in the [TAC Process Documents](https://github.com/ossf/tac/blob/main/process/TI%20Funding%20Request%20Process.md)
   - type: markdown
     attributes:
       value: "Problem statement - This section aims to set the stage and boundaries
