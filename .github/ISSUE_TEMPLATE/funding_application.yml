@@ -13,55 +13,8 @@ body:
   - type: markdown
     attributes:
       value: |
-        **Pre-conditions:**
-        - The TI must have an identified lifecycle phase inside the OpenSSF, such as sandbox, incubating, or graduated and completed the checklist for that stage.
-        - The TI requesters should know 
-          - Within general funding limits for the TIs at the respective lifecycle, that are to be determined. 
-          - Within approved categories of asks (e.g. no asking for a TI outing at a fancy restaurant but yes to cloud credits)
-  - type: markdown
-    attributes:
-      value: |
-        **Workflow:**
-        1. TI or TIs working together see a need for funding some work that doesn’t exist within an existing give/get that is pre-approved. For example cloud credits to do a PoC or case study.
-        2. TI(s) get consensus on the scope of how much money they are asking for and to be spent on what. For example $10k-$15k in cloud credits over a year to spend on building out a PoC to test out <some set of things>
-        3. TI(s) drafts that includes:
-          - Problem Statement in the form below
-          - Proposed work and other work considered
-          - Benefit to OpenSSF and ecosystem
-          - Approximate cost
-          - If a third party (like a cloud provider) is requested, please list any vendor preferences (Note, these are not guaranteed and if the request is approved, you will work with OpenSSF Staff to finalize vendors to reach alignment where possible).
-        4. TI submits this issue to the TAC. This will be treated like a CFP. Respondents will be notified in writing, and approved proposals will be published.
-        5.  Submitted funding requests will be reviewed at least quarterly, relative to each other. Dates where proposals can be accepted, as well as when the review cycle will occur, and when decisions will be made. The TAC reserves a weeklong window for technical merit, and the finance review will occur the following week.
-        6.  TAC evaluates the technical merit of the proposal and checks that its goals within OpenSSF and ecosystem seem reasonable and achievable. (See TAC evaluation below). During the two week review period, TAC and OpenSSF staff may iterate with TI(s) on the proposal with any questions needed to make the technical merit and funding approval decision.
-        7. TAC brings approved proposals to the funding workflow (see below).
-        8. The OpenSSF Staff will review any proposals with TAC technical merit (see Finance evaluation below) and determine which proposals will be funded based on the availability of funds. OpenSSF staff will distribute funds. 
-        9. TAC/Staff will review funding initiative status on milestones. If a funding initiative has more than one milestone, funds may be dispersed after each milestone is achieved (funding initiatives asking for more funds should most likely have more milestones for funding). If the milestone is reached, the TAC/Staff agree that Staff should disperse funds for additional milestones(s).
-  - type: markdown
-    attributes:
-      value: |
-        **TAC review:**
-        - Is this request in line with the [TAC Technical Vision](https://github.com/ossf/tac/blob/main/technical-vision.md)?
-        - Is this request in line with the OpenSSF [MVS](https://openssf.org/about/), and soon to be [finalized R](https://docs.google.com/document/d/1UoQudHQuaXNzakhOYbAS3IceI9TkSSR6N0bgm1fTTK0/edit#heading=h.493lq0mo4y4f)? (this is how GB/GC communicate “top-down” initiatives, like the SOSS Task Force).
-        - Does the requester(s) have an accepted [TI lifecycle phase](https://github.com/ossf/tac/tree/main/process) in good standing?
-          - Within general funding limits for the TIs at the respective lifecycle (e.g. Sandbox should generally ask for less than Incubating, which should ask for less than Graduated)
-          - Within approved categories of asks (e.g. no asking for a TI outing at a fancy restaurant but yes to cloud credits)
-        - What will be the milestone review requested and when?
-        - Final decision is open discussion and a majority consensus vote. (Alternatively, could have a private form vote)
-  - type: markdown
-    attributes:
-      value: |
-        **Finance and Legal Review:**
-        - Who will approve this request?
-          - GM up to $100k, B&F committee up to $250k, GB above $250k. These amounts are for the entirety of the funding request.
-        - Is funding available in the this category?
-          - If yes, recommend to support?
-            - How much funds will be available for other requests? (Should we approve one request for all the funds, or seek to approve multiple smaller requests)?
-          - If no, recommend to route through an alternate source?
-  - type: markdown
-    attributes:
-      value: |
-        **Communication of Final Decision:**
-        - Complete like a CFP. Notify in writing if it was accepted or not accepted. Put out a list of accepted proposals (like the events schedule).
+        **Process:**
+        - Please review the process in the [TAC Process Documents](https://github.com/ossf/tac/blob/main/process/TI%20Funding%20Request%20Process.md)
   - type: markdown
     attributes:
       value: "Problem statement - This section aims to set the stage and boundaries
@@ -211,13 +164,6 @@ body:
       label: If this is a request for funding to issue a contract, then OpenSSF will issue that contract. Please provide a Statement of Work (SOW) that we may review. Any contracting action will take 4-6 weeks to issue.
     validations:
       required: false
-  - type: markdown
-    attributes:
-      value: "Next Steps:"
-  - type: markdown
-    attributes:
-      value: TAC evaluates the technical merit of the proposal and checks that its
-        goals within OpenSSF and the ecosystem seem reasonable and achievable and get back to the requester with status updates.
   - type: markdown
     attributes:
       value: Thanks for completing this form! If you have any problems, questions or
