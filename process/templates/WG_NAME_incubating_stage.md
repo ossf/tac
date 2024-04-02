@@ -2,9 +2,7 @@
 
 ### List WG Chair(s) and or Vice Chair
 The WG must have a minimum of 1 Chair
-
   * "name, affiliation, GitHub ID"
-
 
 ### Working Group (WG) has met all Sandbox requirement
   * "link to sandbox PR if exists"
@@ -13,14 +11,17 @@ The WG must have a minimum of 1 Chair
 The WG must have a minimum of 5 contributors from at least 3 different organizations attending regularly.
   * "name, affiliation, GitHub ID"
 
-
 ### Mission of the Working Group
 The WG must have a charter or mission statement for review by TAC
   * Link to the WG charter or mission statement defining its goals.
 
 ### Governance
-WG must have met publicly at least 5 times
-   * Link to public meeting notes (or ideally recordings)
+WG must have documented, initial group governance.
+  * Link to initial group governance doc
+
+WG must have met publicly at least 5 times in the last quarter since becoming Sandbox
+  * Link to public meeting notes (or ideally recordings)
+
 WG must have defined Contributor Guide
   * "link to contributor guide"
 
@@ -32,5 +33,5 @@ WG must have defined Contributor Guide
 | Website               |     |
 | Contributing guide    |     |
 | Security.md           |     |
-| code-of-conduct.md               |     |
+| code-of-conduct.md    |     |
 | Other                 |     |
