@@ -15,8 +15,8 @@ Once the WG has further defined its goals and garnered enough support it can app
 
 * Proposal of scope for review by TAC
     * This is to help ensure limited overlap with existing WGs
-* Have at least 3 interested individuals from different organizations supporting the proposal
-* 1 TAC sponsor to shepherd the WG through the Sandbox stage
+* Have at least 3 interested individuals from at least 2 different organizations supporting the proposal
+* 1 TAC sponsor
     * TAC sponsor agrees to attend WG meetings regularly
     * TAC sponsor does not need to have a formal role in WG, e.g., chair
     * TAC sponsor requests TAC approval
@@ -34,7 +34,7 @@ Once the WG has further defined its goals and garnered enough support it can app
 ## To become `Incubating`:
 
 * Have a charter or mission statement for review by TAC
-* Have met at least 5 times
+* Have met at least 5 times within the last calendar quarter since becoming `Sandbox`
     * For these, meeting notes (or ideally recordings) must be public
 * Have at least 5 contributors from at least 3 different organizations attending regularly
 * TAC will vote to approve or provide constructive guidance

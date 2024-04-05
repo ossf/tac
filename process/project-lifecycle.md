@@ -53,9 +53,9 @@ The OpenSSF Sandbox is the entry point for early stage Projects and has four goa
 
 #### Sandbox Entry Requirements and Considerations
 
-* Projects must have a minimum of two maintainers with different organization affiliations.
+* Projects must have a minimum of three maintainers with a minimum of two different organization affiliations.
 * Projects must be aligned with the OpenSSF mission _and_ either be a novel approach for existing areas or address an unfulfilled need. It is expected that the initial code or specification developed by an OpenSSF WG be kept within their repository and will not function as a Project in its own right. Should the initial WG code or specification grow and mature that it warrants its own Project status, then it is subject to Sandbox entry requirements. It is preferred that extensions of an existing OpenSSF project collaborate with the existing project rather than seek a new project.
-* Projects must seek one TAC sponsor and one WG sponsor (if reporting to a WG)
+* Projects must seek one TAC sponsor or one WG sponsor (if reporting to a WG)
     * TAC or WG sponsor agrees to attend Project meetings regularly
     * TAC or WG sponsor does not need to have a formal role in Project, e.g., maintainer
     * TAC or WG sponsor requests TAC approval
@@ -89,10 +89,11 @@ Incubating projects represent maturing but not fully realized projects. Incubati
 
 #### Incubation Entry Requirements and Considerations
 
+All requirements of Sandbox must be fulfilled, plus:
 * Projects must have a minimum of three maintainers with a minimum of two different organization affiliations, and document the current list of maintainers.
+* Projects must have met at least 5 times within the last calendar quarter since becoming `Sandbox`.
 * Projects must have defined a contributor guide, which makes it clear how and when contributors should be given increasing responsibilities towards maintainership of the project. (Example guides: [Sigstore](https://github.com/sigstore/community/blob/main/MEMBERSHIP.md), [AllStar](https://github.com/ossf/allstar/blob/main/contributor-ladder.md))
 * Projects should be able to show adoption by multiple parties and adoption's value to the open source community and/or end users (may include adoption of beta/early versions) with the intent to showcase wide adoption by the project's consumers.
-* Projects must be aligned with the OpenSSF mission _and_ either be a novel approach for existing areas or address an unfulfilled need. It is expected that the initial code or specification developed by an OpenSSF WG be kept within their repository and will not function as a Project in its own right. Should the initial WG code or specification grow and mature that it warrants its own Project status, then it is subject to Sandbox entry requirements. It is preferred that extensions of an existing OpenSSF project collaborate with the existing project rather than seek a new project.
 * Projects must have documented, initial project governance.
 * If reporting directly to the TAC, the TAC sponsor and Project should decide on continued TAC sponsor engagement going forward. Continued engagement may include, but is not limited to:
     * Project may consult about Project direction with TAC sponsor as needed throughout Incubating stage.
@@ -131,8 +132,9 @@ Graduated projects signal the highest level of maturity for an OpenSSF project. 
 
 #### Graduated Project Entry Requirements and Considerations
 
-* Projects must have maintainers with a minimum of three different organizational affiliations.
-* Projects must be aligned with the OpenSSF mission and be a novel approach for existing areas or address an unfulfilled need. Projects with duplicate, similar or competing functionality to an existing OpenSSF project may be denied Graduation status if the TAC does not see technical justification for overlapping projects.
+All requirements of Incubating must be fulfilled, plus:
+* Projects must have a minimum of five maintainers with a minimum of three different organizational affiliations.
+* Projects must have met at least 5 times over a period of at least 2 months since becoming Incubating.
 * Projects must be able to show adoption by multiple parties, which could be production deployments or substantial use by established open source communities, and demonstrate the value of that adoption to either the end users or the open source community —  effectively wide adoption by the project's consumers.
 * Projects must be able to show a consistent release cadence.
 * Projects must have documented project governance and be able to demonstrate that governance in action.
