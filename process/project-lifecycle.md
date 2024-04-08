@@ -44,7 +44,7 @@ The OpenSSF Sandbox is the entry point for early stage Projects and has four goa
 * Provides project updates to OpenSSF Marketing Committee as requested.
 
 #### Project Support
-* Receives a TAC or WG sponsor for guidance on technical direction.
+* Receives a TAC or WG sponsor for guidance on technical direction. The sponsor also ensures the Project operates within the scope of the OpenSSF, adheres to the OpenSSF code of conduct, legal and IP policies, and reserves the right to consult with the TAC to raise any related concerns. Projects can reach out to the TAC if concerns about sponsor involvement arise.
 * Receives consideration as in-scope for any submission to an OpenSSF-managed conference or event.
 * Receives OpenSSF Code of Conduct Committee support.
 * Reserved space for project updates in OpenSSF newsletters.
@@ -77,7 +77,7 @@ Incubating projects represent maturing but not fully realized projects. Incubati
 * Begins to establish the appropriate governance that enables its sustainment for potential graduation.
 
 #### Project Support
-* Receives guidance on technical direction from TAC.
+* Receives guidance on technical direction from TAC and/or WG. The sponsor continues to ensure the Project operates within the scope of the OpenSSF, adheres to the OpenSSF code of conduct, legal and IP policies, and reserves the right to consult with the TAC to raise any related concerns. Projects can reach out to the TAC if concerns about sponsor involvement arise.
 * Receives consideration as in-scope for any submission to an OpenSSF-managed conference or event.
 * Receives OpenSSF Code of Conduct Committee support.
 * Receives infrastructure support (details determined by project leads and OpenSSF Budget Committee).
@@ -95,6 +95,9 @@ All requirements of Sandbox must be fulfilled, plus:
 * Projects must have defined a contributor guide, which makes it clear how and when contributors should be given increasing responsibilities towards maintainership of the project. (Example guides: [Sigstore](https://github.com/sigstore/community/blob/main/MEMBERSHIP.md), [AllStar](https://github.com/ossf/allstar/blob/main/contributor-ladder.md))
 * Projects should be able to show adoption by multiple parties and adoption's value to the open source community and/or end users (may include adoption of beta/early versions) with the intent to showcase wide adoption by the project's consumers.
 * Projects must have documented, initial project governance.
+* If reporting directly to the TAC, the TAC sponsor and Project should decide on continued TAC sponsor engagement going forward. Continued engagement may include, but is not limited to:
+    * Project may consult about Project direction with TAC sponsor as needed throughout Incubating stage.
+    * TAC sponsor should continue to monitor Project activities, though regular meeting attendance is optional.
 
 #### Project Process: Sandbox to Incubation and direct entry to Incubation
 
@@ -116,7 +119,7 @@ Graduated projects signal the highest level of maturity for an OpenSSF project. 
 * Implements, practices, and refines mature development and release practices, such as adherence to semantic versioning, and having a declared policy for stable releases and backported fixes.
 
 #### Project Support
-* Receives guidance on technical direction from TAC.
+* Receives guidance on technical direction from TAC and/or WG.
 * Receives consideration as in-scope for any submission to an OpenSSF-managed conference or event.
 * Receives OpenSSF Code of Conduct Committee support.
 * Receives infrastructure support (details determined by project leads and OpenSSF Budget Committee).
@@ -136,6 +139,7 @@ All requirements of Incubating must be fulfilled, plus:
 * Projects must be able to show a consistent release cadence.
 * Projects must have documented project governance and be able to demonstrate that governance in action.
 * When applicable, projects must have completed a security audit through a third party and addressed audit findings and recommendations.
+* If reporting directly to the TAC, TAC sponsor monitoring and consultation become optional.
 
 #### Project Graduation Process: Incubating to Graduation
 

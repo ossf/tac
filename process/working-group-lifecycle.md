@@ -15,7 +15,7 @@ Once the WG has further defined its goals and garnered enough support it can app
 
 * Proposal of scope for review by TAC
     * This is to help ensure limited overlap with existing WGs
-* Have at least 3 interested individuals from two different organizations supporting the proposal
+* Have at least 3 interested individuals from at least 2 different organizations supporting the proposal
 * 1 TAC sponsor
     * TAC sponsor agrees to attend WG meetings regularly
     * TAC sponsor does not need to have a formal role in WG, e.g., chair
@@ -29,6 +29,7 @@ Once the WG has further defined its goals and garnered enough support it can app
   * They should appear on the OpenSSF calendar
   * The WG should have a document with upcoming agendas and notes from past meetings
 * The WG should develop a charter or mission statement defining its goals.
+* The TAC sponsor ensures the WG operates within the scope of the OpenSSF, adheres to the OpenSSF code of conduct, legal and IP policies, and reserves the right to consult with the TAC to raise any related concerns.
  
 ## To become `Incubating`:
 
@@ -37,6 +38,9 @@ Once the WG has further defined its goals and garnered enough support it can app
     * For these, meeting notes (or ideally recordings) must be public
 * Have at least 5 contributors from at least 3 different organizations attending regularly
 * TAC will vote to approve or provide constructive guidance
+* TAC sponsor and WG chair(s) should decide on continued TAC sponsor engagement going forward. Continued engagement may include, but is not limited to:
+    * WG chair(s) may consult about WG direction with TAC sponsor as needed throughout the Incubating stage
+    * TAC sponsor should continue to monitor WG activities, though regular meeting attendance is optional.
 
 ## Once `Incubating`:
 
@@ -44,6 +48,7 @@ Once the WG has further defined its goals and garnered enough support it can app
 * Deliver quarterly reviews to TAC
 * Complete and request TAC approval of [README.md](https://github.com/ossf/project-template/blob/main/README.md) which defines the WG's Charter and lists primary point(s) of contact from the TAC to the WG (this is often the WG Chair).
 * Meet on a regular cadence. Meetings are public, recorded, and on the calendar
+* The TAC sponsor continues to ensure the WG operates within the scope of the OpenSSF, adheres to the OpenSSF code of conduct, legal and IP policies, and reserves the right to consult with the TAC to raise any related concerns.
 * Have access to community resources (Zooms, YouTube channels, GitHub, Slack channels, etc.)
 * Can request funding/other resources (subject to TAC/GB approval)
     * NOTE: _At this time, funding and resources beyond collaboration tools have not been established in the OpenSSF. WGs should expect that their main resource is the community contributions they are able to recruit._
@@ -53,7 +58,8 @@ Once the WG has further defined its goals and garnered enough support it can app
 * Have received TAC approval of the README.md per `Incubating` requirements above
 * Have met at least 4 times over a period of at least 2 months since becoming `Incubating`
 * Have at least 5 contributors from at least 3 different organizations attending regularly as recorded in meeting minutes.
-* Request TAC approval. TAC will vote to approve or provide constructive guidance
+* Request TAC approval. TAC will vote to approve or provide constructive guidance.
+* TAC sponsor monitoring and consultation become optional.
 
 ## To remain `Graduated`:
 
