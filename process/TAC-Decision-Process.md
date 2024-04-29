@@ -20,6 +20,6 @@ The TAC must have quorum (majority of members present) and a simple majority of 
 
 
 ## 3.) For  major items that require a formal vote ##
-An issue or pr must be created within the TAC repository.  TAC member will be asked via the TAC mailing list to review, comment, and decline/approve the item within the GitHub issue/pr.  The TAC will be given 10 business days to review and consider the request.  These topics ideally should also be presented at a TAC meeting and publicly discussed/debated prior to the closing of voting.  
+An issue or PR must be created within the TAC repository.  TAC members will be asked via the TAC mailing list to review, comment, and decline/approve the item within the GitHub issue/PR.  The TAC will be given 10 business days to review and consider the request.  These topics ideally should also be presented at a TAC meeting and publicly discussed/debated prior to the closing of voting.  
 
 This includes items such as changes to the TAC technical vision, Foundation strategy, wg/project adoption, funding requests, etc.
