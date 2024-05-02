@@ -23,3 +23,19 @@ The TAC must have quorum (majority of members present) and a simple majority of 
 An issue or PR must be created within the TAC repository.  TAC members will be asked via the TAC mailing list to review, comment, and decline/approve the item within the GitHub issue/PR.  The TAC will be given 10 business days to review and consider the request.  These topics ideally should also be presented at a TAC meeting and publicly discussed/debated prior to the closing of voting.  
 
 This includes items such as changes to the TAC technical vision, Foundation strategy, WG/project adoption, funding requests, etc.
+
+# Pull request types #
+
+Every PR must be categorized using one of the following <type> values. The purpose is twofold: to make it easier for readers to understand the scope of the PR at a glance, and to allow us to adjust the minimum review period and number of approvers based on how sensitive the PR is.
+
+Use the closest entry in the table that applies, selecting the first one if multiple apply. If you are not sure which type to use, take a guess and a maintainer will update if needed. See review and approval for the meaning of "waiting period" and "# approvers".
+
+|  Type  | Meaning | Waiting period |	# Approvers |
+| ------ | ------- | -------------- | ----------- |
+| content |	A change to the meaning of the specification. Must include a changelog entry. |	72h |	3 |
+| editorial |	A clarification to the specification that does not change its meaning, beyond a simple fix. |	24h |	2 |
+| nonspec | 	A change to a non-specification, non-blog page, beyond a simple fix. |	24h |	2 |
+| blog | 	A new or updated blog post. (Do not mix with categories above.) | 	24h |	2 |
+| fix |	A fix for obvious typos, broken links, and similar. |	0h |	1 |
+| style |	A user-visible style or layout change. No content changes. |	0h |	1 |
+| impl | 	A user-invisible change, such as editing a README or the repo configuration. |	0h | 	1 |
