@@ -46,3 +46,4 @@ The mission of the Secure Supply Chain Consumption Framework (S2C2F) project is 
 | Contributing guide |  [https://github.com/ossf/s2c2f/blob/main/Contributing.md](https://github.com/ossf/s2c2f/blob/main/Contributing.md)  |
 | Roadmap            |   [https://github.com/ossf/s2c2f/blob/main/community/Roadmap.md](https://github.com/ossf/s2c2f/blob/main/community/Roadmap.md)  |
 | FAQ             |   [https://github.com/ossf/s2c2f/blob/main/FAQ.md](https://github.com/ossf/s2c2f/blob/main/FAQ.md)  |
+| Meeting Notes | [https://docs.google.com/document/d/10Q_VOvKsGaYJoK-5yJY4868mTkYZjEo-6xV6ghYS84k/edit?usp=sharing](https://docs.google.com/document/d/10Q_VOvKsGaYJoK-5yJY4868mTkYZjEo-6xV6ghYS84k/edit?usp=sharing)  | 
