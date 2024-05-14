@@ -28,7 +28,7 @@ This includes items such as changes to the TAC technical vision, Foundation stra
 
 Every PR must be categorized using one of the following <type> values. The purpose is twofold: to make it easier for readers to understand the scope of the PR at a glance, and to allow us to adjust the minimum review period and number of approvers based on how sensitive the PR is.
 
-Use the closest entry in the table that applies, selecting the first one if multiple apply. If you are not sure which type to use, take a guess and a maintainer will update if needed. See review and approval for the meaning of "waiting period" and "# approvers".
+Use the closest entry in the table that applies, selecting the first one if multiple apply. If you are not sure which type to use, take a guess and a maintainer will update if needed.
 
 |  Type  | Meaning | Waiting period |	# Approvers |
 | ------ | ------- | -------------- | ----------- |
