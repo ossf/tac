@@ -32,12 +32,12 @@ Use the closest entry in the table that applies, selecting the first one if mult
 
 |  Type  | Meaning | Waiting period |	# Approvers |
 | ------ | ------- | -------------- | ----------- |
-| Major  | Proposed changes to Charter, Technical Strategy, or other cross-foundation changing proposal.  If approved, than moved to the Governing committee for review, move to GB. | 15d | 7 |
-| TI lifecycle | A new TI or updated TI lifecycle stage. | 10d | 5 |
-| content |	A change to the process. Must include a changelog entry. |	72h |	3 |
-| editorial |	A clarification to the process that does not change its requirements or meaning, beyond a simple fix. |	24h |	2 |
-| nonspec | 	A change to a non-specification, non-blog page, beyond a simple fix. |	24h |	2 |
-| blog | 	A new or updated blog post. (Do not mix with categories above.) | 	24h |	2 |
-| fix |	A fix for obvious typos, broken links, and similar. |	0h |	1 |
-| style |	A user-visible style or layout change. No content changes. |	0h |	1 |
-| impl | 	A user-invisible change, such as editing a README or the repo configuration. |	0h | 	1 |
+| Major  | Proposed changes to Charter, Technical Strategy, adopting a new TI, modifications to the TI Lifecycle process, or other cross-foundation changing proposals.  If approved, certain proposals will be moved to the Governing committee for review, move to GB. | 15d | 7 |
+| TI Lifecycle | Filed PRs for movement of TIs to new stages of the TI Lifecycle | 10d | 5 |
+| Content |	A change to the process. Must include a changelog entry. |	72h |	3 |
+| Editorial |	A clarification to the process that does not change its requirements or meaning, beyond a simple fix. |	24h |	2 |
+| Nonspec | 	A change to a non-specification, non-blog page, beyond a simple fix. |	24h |	2 |
+| Blog | 	A new or updated blog post. (Do not mix with categories above.) | 	24h |	2 |
+| Fix |	A fix for obvious typos, broken links, and similar. |	0h |	1 |
+| Style |	A user-visible style or layout change. No content changes. |	0h |	1 |
+| Impl | 	A user-invisible change, such as editing a README or the repo configuration. |	0h | 	1 |
