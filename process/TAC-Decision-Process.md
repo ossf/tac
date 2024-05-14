@@ -32,6 +32,7 @@ Use the closest entry in the table that applies, selecting the first one if mult
 
 |  Type  | Meaning | Waiting period |	# Approvers |
 | ------ | ------- | -------------- | ----------- |
+| TI lifecycle | A new TI or updated TI lifecycle stage. | 10d | 7 |
 | content |	A change to the meaning of the specification. Must include a changelog entry. |	72h |	3 |
 | editorial |	A clarification to the specification that does not change its meaning, beyond a simple fix. |	24h |	2 |
 | nonspec | 	A change to a non-specification, non-blog page, beyond a simple fix. |	24h |	2 |
