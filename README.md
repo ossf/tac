@@ -44,9 +44,9 @@ The TAC is chartered as part of the [Open Source Security Foundation Charter](ht
 
 ## Technical Initiatives
 
-The governance of TIs is documented in [the process section](process). This section provides you with all the information about the different types of initiatives and how they are managed, as well as how to propose a new initiative. It also covers the different levels of maturity a TI can be in, the requirements that must be met to move up to the next level, as well as the benefits that come with each level. 
+The governance of TIs is documented in [the process section](process). This section provides you with all the information about the different types of initiatives and how they are managed, as well as how to propose a new initiative. It also covers the different levels of maturity a TI can be in, the requirements that must be met to move up to the next level, as well as the benefits that come with each level.
 
-The following Technical Initiatives have been approved by the TAC:
+The following Technical Initiatives have been approved by the TAC. You may learn more about their status through their [quarterly reports](TI-reports).
 
 ### Working Groups (WGs)
 
