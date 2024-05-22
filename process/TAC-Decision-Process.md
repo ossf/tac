@@ -24,9 +24,9 @@ An issue or PR must be created within the TAC repository.  TAC members will be a
 
 This includes items such as changes to the TAC technical vision, Foundation strategy, WG/project adoption, funding requests, adopting new Working Group, etc.).
 
-# Pull request types #
+# Issue/Pull request types #
 
-Every PR must be categorized using one of the following <type> values. The purpose is twofold: to make it easier for readers to understand the scope of the PR at a glance, and to allow us to adjust the minimum review period and number of approvers based on how sensitive the PR is.
+Every Issue/PR must be categorized using one of the following <type> values. The purpose is twofold: to make it easier for readers to understand the scope of the PR at a glance, and to allow us to adjust the minimum review period and number of approvers based on how sensitive the Issue/PR is.
 
 Use the closest entry in the table that applies, selecting the first one if multiple apply. If you are not sure which type to use, take a guess and a maintainer will update if needed.
 
@@ -34,6 +34,7 @@ Use the closest entry in the table that applies, selecting the first one if mult
 | ------ | ------- | -------------- | ----------- |
 | Major  | Proposed changes to Charter, Technical Strategy, adopting a new TI, modifications to the TI Lifecycle process, or other cross-foundation changing proposals.  If approved, certain proposals will be moved to the Governing committee for review, move to GB. | 15d | 7 |
 | TI Lifecycle | Filed PRs for movement of TIs to new stages of the TI Lifecycle | 10d | 5 |
+| TI Funding Request | Issues opened by eligible OpenSSF Technical Initiative to petition for resources/funding. TAC review happens at the end of a quarterly submission period. If approved, recommended requests will be moved to the OpenSSF General Manager and the Governance Committee for dispensation. | 7d | 5 |
 | Content |	A change to the process. Must include a changelog entry. |	72h |	3 |
 | Editorial |	A clarification to the process that does not change its requirements or meaning, beyond a simple fix. |	24h |	2 |
 | Nonspec | 	A change to a non-specification, non-blog page, beyond a simple fix. |	24h |	2 |
