@@ -30,3 +30,19 @@ This process details how an eligible OpenSSF Technical Initiative can petition f
       - What will be the milestone review requested and when?
    - Final decision is open discussion and a majority consensus vote.
    - TAC moves approved requests forward and recommends to the OpenSSF General Manager and the Governance Committee for dispensation.
+
+## Review Cycles
+
+### Q2 2024
+   - Request submission deadline: June 7, 2024
+   - TAC review period: June 10-14, 2024
+   - Decisions announced (in writing): No later than June 21, 2024
+   - Accepted requests published: June 26, 2024
+
+### Q3 2024
+
+Mid-September; exact dates TBD
+
+### Q4 2024
+
+Mid-December; exact dates TBD
