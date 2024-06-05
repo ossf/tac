@@ -44,9 +44,9 @@ The TAC is chartered as part of the [Open Source Security Foundation Charter](ht
 
 ## Technical Initiatives
 
-The governance of TIs is documented in [the process section](process). This section provides you with all the information about the different types of initiatives and how they are managed, as well as how to propose a new initiative. It also covers the different levels of maturity a TI can be in, the requirements that must be met to move up to the next level, as well as the benefits that come with each level. 
+The governance of TIs is documented in [the process section](process). This section provides you with all the information about the different types of initiatives and how they are managed, as well as how to propose a new initiative. It also covers the different levels of maturity a TI can be in, the requirements that must be met to move up to the next level, as well as the benefits that come with each level.
 
-The following Technical Initiatives have been approved by the TAC:
+The following Technical Initiatives have been approved by the TAC. You may learn more about their status through their [quarterly reports](TI-reports).
 
 ### Working Groups (WGs)
 
@@ -78,8 +78,8 @@ The following Technical Initiatives have been approved by the TAC:
 | Package Analysis       | https://github.com/ossf/package-analysis         | [Meeting Notes](https://docs.google.com/document/d/1GFslP6elYCx27TUitdigDr1gsOItYkL0Vq7hTB9y4Lo/edit) | Securing Critical Projects WG   | TBD        |
 | Package Feeds          | https://github.com/ossf/package-feeds            | [Meeting Notes](https://docs.google.com/document/d/1GFslP6elYCx27TUitdigDr1gsOItYkL0Vq7hTB9y4Lo/edit) | Securing Critical Projects WG   | TBD        |
 | Protobom | http://github.com/bom-squad/protobom | [Meeting Notes](https://docs.google.com/document/d/1bz2BBImzSnLRiBLrA5GehQ0ckW3Vs7Gmtt8R-Olm0QY/edit)  | Security Tooling WG | [Sandbox](process/project-lifecycle-documents/protobom_sandbox_stage.md) |
-| Repository Service for TUF | https://github.com/repository-service-tuf/repository-service-tuf |  [Meeting Notes](https://docs.google.com/document/d/13a_AtFpPK9WO4PlAN6ciD-G1jiBU3gEDtRD1OUinUFY/edit)  | Securing Software Repositories WG | [Sandbox](process/project-lifecycle-documents/repository_service_for_tuf_sandbox_stage.md) |
-| S2C2F                  | https://github.com/ossf/s2c2f                    | [Meeting Notes](https://docs.google.com/document/d/10Q_VOvKsGaYJoK-5yJY4868mTkYZjEo-6xV6ghYS84k/edit#heading=h.1tv8gumsrtbf) | Supply Chain Integrity WG  | TBD      |
+| Repository Service for TUF | https://github.com/repository-service-tuf/repository-service-tuf |  [Meeting Notes](https://docs.google.com/document/d/13a_AtFpPK9WO4PlAN6ciD-G1jiBU3gEDtRD1OUinUFY/edit)  | Securing Software Repositories WG | [Incubating](process/project-lifecycle-documents/repository_service_for_tuf_incubation_stage.md) |
+| S2C2F                  | https://github.com/ossf/s2c2f                    | [Meeting Notes](https://docs.google.com/document/d/10Q_VOvKsGaYJoK-5yJY4868mTkYZjEo-6xV6ghYS84k/edit#heading=h.1tv8gumsrtbf) | Supply Chain Integrity WG  | [Incubating](process/project-lifecycle-documents/s2c2f_incubation_stage.md)      |
 | SBOMit                 | https://github.com/sbomit                        | [Meeting Notes](https://docs.google.com/document/d/1-nHXMqvWNzgOxAq08O8Wu2BTHz0U60yBoAklrJAMaRc/edit?usp=sharing) | Security Tooling WG             | [Sandbox](process/project-lifecycle-documents/SBOMit_sandbox_stage.md)    |
 | Scorecard              | https://github.com/ossf/scorecard                | [Meeting Notes](https://docs.google.com/document/d/1b6d3CVJLsl7YnTE7ZaZQHdkdYIvuOQ8rzAmvVdypOWM/edit?usp=sharing) | Best Practices WG               | TBD        |
 | Security Insights Spec | https://github.com/ossf/security-insights-spec   | [Meeting Notes](https://docs.google.com/document/d/14_ILDhSK3ymKqUTQeQBRgJKgfiy_ePoGZIe8s7p3K5E/edit?usp=sharing) | Metrics & Metadata WG           | TBD        |

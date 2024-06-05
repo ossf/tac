@@ -31,7 +31,7 @@ Also note that benefits may actually vary based on resources and funds availabil
  * Projects may say they are, "A sandbox project in the OpenSSF" or "An experimental project in the OpenSSF."  Gets a "sandbox" logo that is shared amongst all OpenSSF sandbox TIs.
  * Communication & Collaboration - OpenSSF mailing list, OpenSSF Slack channel, OpenSSF GitHub, OpenSSF Calendaring / Recording,  OpenSSF Social Media & External Engagement Support
  * Governance & Administration - TI Charter Development & Review, TI Technical Steering Committee Setup, TI IP & License Review, TI Operations & Maintenance, Technical Support
-
+* Best effort OpenSSF staff support
 
 ## Incubating level Gives & Gets
 
@@ -59,10 +59,12 @@ All requirements of Sandbox must be fulfilled. PR filed to promote TI to Incubat
  * Receives more infrastructure support from the OpenSSF (e.g., website support)
  * Receives consideration as in-scope for any submission to an OpenSSF-managed conference or event.
  * Project may request custom OpenSSF Logo for group
+ * May request swag bearing custom OpenSSF Logo
  * Projects may use the OpenSSF logo to promote their project (in accordance with the trademark guidelines). Projects may not be referred to as an "OpenSSF Project" or "OpenSSF $ProjectName." Projects may say they are an "OpenSSF Incubating Project."
  * With additional TAC or WG approval, may fundraise for dedicated project funds, coordinated by the OpenSSF.
  * Receives support with vulnerability disclosure from the OpenSSF (Vulnerability Disclosure WG).
  * May post project updates and tutorials to the OpenSSF blog.
+ * Recieves higer priority for OpenSSF staff support than Incubating, less than Graduated.
 
 ## Graduated level Gives & Gets
 
@@ -94,3 +96,4 @@ All requirements of Incubating must be fulfilled and additionally:
  * May request considered for Grants
  * May request consideration to get Contract Developers
  * Requests for one time funding needs to include: Tech writer, Graphic designer, Security audit, Event support, Outreach, Dashboard/reports, Recognition awards, Infrastructure support for software projects (like special build, QA) (will have ongoing operational expense),  Cloud hosting (will have ongoing operational expense)
+ * Highest priority for OpenSSF staff support
