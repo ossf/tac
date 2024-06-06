@@ -4,7 +4,7 @@
 The project must have a minimum of three maintainers with a minimum of two different organizational affiliations.
   * Sarah Christoff, Defense Unicorns, @sscristoff-du
   * Austin Abro, Defense Unicorns, @AustinAbro321
-  * Lucas Rodriguez, Defense Unicorns, @lucasrpd16
+  * Lucas Rodriguez, Defense Unicorns, @lucasrod16
   * Danny Gershman, Radius Method, @dgershman
 
 ### Sponsor
