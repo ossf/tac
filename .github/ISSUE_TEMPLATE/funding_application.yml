@@ -17,6 +17,33 @@ body:
         - Please review the process in the [TAC Process Documents](https://github.com/ossf/tac/blob/main/process/TI%20Funding%20Request%20Process.md)
   - type: markdown
     attributes:
+      value: "Qualifying information"
+  - type: input
+    id: TI
+    attributes:
+      label: Technical Initiative
+      description: Which OpenSSF Technical Initiative is requesting the funds?
+      placeholder: an existing OpenSSF working group, special interest group, or project
+    validations:
+      required: true
+  - type: input
+    id: lifecycle
+    attributes:
+      label: Lifecycle Phase
+      description: What is the lifecycle phase of the requesting Technical Initiative?
+      placeholder: sandbox
+    validations:
+      required: true
+  - type: input
+    id: amount
+    attributes:
+      label: Funding amount
+      description: What is the exact amount of funding you're requesting?
+      placeholder: $1000
+    validations:
+      required: true
+  - type: markdown
+    attributes:
       value: "Problem statement - This section aims to set the stage and boundaries
         for the problem you are trying to solve. This is not a place to propose
         solutions, but to define the problem and its impact."
@@ -118,14 +145,6 @@ body:
     attributes:
       label: If the responsible or accountable parties are no longer available, what
         is the backup contact or plan?
-      placeholder: null
-    validations:
-      required: true
-  - type: input
-    id: WG
-    attributes:
-      label: Which technical initiative will this funding initiative be associated
-        with, and will it report to which WG or project?
       placeholder: null
     validations:
       required: true
