@@ -2,14 +2,12 @@
 
 ### List of project maintainers
 
-The project has 7 maintainers from 3 different organizations:
+The project has 4 maintainers from 3 different organizations:
 
 *  Laurent Simon, Google, @laurentsimon
 *  Daniel Major, NVidia,
 *  Eoin Wickens, HiddenLayer, @EWickens
 *  Mihai Maruseac, Google, @mihaimaruseac
-*  Hayden Blauzvern, Google, @haydentherapper
-*  Sarah Meiklejohn, Google, @smeiklej
 
 ### Mission of the project
 
