@@ -87,6 +87,7 @@ The following Technical Initiatives have been approved by the TAC. You may learn
 | Sigstore               | https://github.com/sigstore                      | [Meeting Notes](https://docs.google.com/document/d/1bsl-Y0KulSD7O_nTekad1sAKOVRb80wyGb-Q5x-zdg0/edit) | OpenSSF TAC    | [Graduated](process/project-lifecycle-documents/sigstore_graduated_stage.md)        |
 | SLSA                   | https://github.com/slsa-framework/slsa | [Meeting Notes](https://docs.google.com/document/d/1PwhekVB1iDpcgCQRNVN_aesoVdOiTruoebCs896aGxw/edit#heading=h.gjdgxs) | Supply Chain Integrity WG   | TBD        |
 | SLSA Tooling           | https://github.com/ossf/wg-supply-chain-integrity/blob/main/slsa-tooling.md | [Meeting Notes](https://docs.google.com/document/d/18oj3CLJQhZj1dMHKDTq_1kKg0syysKCS7pLyXlw1SRc/edit#heading=h.yfiy9b23vayj) | Supply Chain Integrity WG   | TBD        |
+| Zarf          | https://github.com/defenseunicorns/zarf | [Meeting Notes](https://docs.google.com/document/d/1Ww5XOICluxIY_bAsyVieLe9GU9FpXJ3LwSCZxqOSLaM/edit#heading=h.wq25h5ks8vsu) | Supply Chain Integrity WG   | [Sandbox](process/project-lifecycle-documents/zarf_sandbox_stage.md)       |
 
 ### OpenSSF affiliated projects
 
