@@ -1,18 +1,20 @@
 # 2024 Q2 Alpha-Omega
+
 ## Overview
 
 <mark>
-Alpha-Omega continues on our mission, to sustainably 
+The Alpha-Omega Directed Fund continues our mission, to catalyze sustainable security improvements to the world's most critical open source projects and ecosystems. We do this by applying funding and influence in four key areas:
 
-We provide [monthly public reports](https://alpha-omega.dev/resources/reports), including to TAC and the OpenSSF Governing Board:
-  * May 2024
-  * March/April 2024
-  * February 2024
+* Staffing dedicated security roles within critical ecosystems/foundations
+* Funding work to improve security for artifact repositories / package registries
+* Funding security audits and remediation, often as a precusor to additional work
+* Experimentation
 
-_Required: Sum up the status, health of your TI, and the community in a few sentences. Consider this the TL;DR for the rest of the report. How is your community doing health-wise (e.g., is the number of active contributors increasing or decreasing) ? What are the latest news?
+Our team consists of Michael Scovetta (Microsoft), Henri Yandell (Amazon Web Services), Bob Callaway (Google), supported by Michael Winser (contractor) and Michelle Martineau and Tracy Li from the Linux Foundation. We've received $5M in funding so far in 2024 and are actively meeting with new potential engagement partners.
 </mark>
 
-## Activity #1 
+## Objectives & Key Results
+
 
 <mark>_Required: Replace the section title with the actual name (e.g., "Memory Safety SIG") and fill out each subsection. Repeat this section and subsections as necesssary for other activities.
 </mark>
@@ -31,9 +33,18 @@ Some key:
 * We'll have a roundtable at Open Source Summit EU in September and are planning to attend the LF Member Summit.
 
 ### Questions/Issues for the TAC
-No, but if TAC has any
+
+No, but as always, we're eager for substantive discussion with TAC and others 
 
 ## Additional Information
 
-<mark>_Optional: Please provide any additional information that you feel would be useful for TAC to be aware._
+<mark>
+We provide [monthly public reports](https://alpha-omega.dev/resources/reports), including to TAC and the OpenSSF Governing Board:
+  * [May 2024](https://alpha-omega.dev/wp-content/uploads/sites/22/2024/06/May-Monthly-2024-Report.pdf)
+  * [March/April 2024](https://alpha-omega.dev/wp-content/uploads/sites/22/2024/05/AO-March-April-Monthly-2024-Report.pdf)
+  * [February 2024](https://alpha-omega.dev/wp-content/uploads/sites/22/2024/03/AO-February-Monthly-2024-Report.pdf)
+  * [January 2024](https://alpha-omega.dev/wp-content/uploads/sites/22/2024/02/AO-January-Monthly-2024-Report.pdf)
+  * [2023 Annual Report](https://alpha-omega.dev/wp-content/uploads/sites/22/2024/02/Alpha-Omega-Annual-Report-2023.pdf)
+
+You can always reach us at [#alpha_omega](https://openssf.slack.com/archives/C02LUUWQZNK) or by e-mail directly.
 </mark>
