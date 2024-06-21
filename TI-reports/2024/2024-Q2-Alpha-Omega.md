@@ -10,9 +10,28 @@ The Alpha-Omega Directed Fund continues our mission, to catalyze sustainable sec
 * Experimentation
 
 ### Recent Updates
+We receive monthly updates from each of our engagements - we urge TAC to read through some of the recent updates in [our repository](https://github.com/ossf/alpha-omega/tree/main/alpha/engagements/2024) to learn more about the depth and breadth of the work that's going on:
 
-* OpenSSL 3.1 security audit completed.
-* Homebrew 
+* [Eclipse Foundation](https://github.com/ossf/alpha-omega/tree/main/alpha/engagements/2024/Eclipse%20Foundation)
+* [FreeBSD](https://github.com/ossf/alpha-omega/tree/main/alpha/engagements/2024/FreeBSD)
+* [Homebrew](https://github.com/ossf/alpha-omega/tree/main/alpha/engagements/2024/Homebrew)
+* [jQuery](https://github.com/ossf/alpha-omega/tree/main/alpha/engagements/2024/jQuery)
+* [Node.js](https://github.com/ossf/alpha-omega/tree/main/alpha/engagements/2024/NodeJS)
+* [OpenRefactory](https://github.com/ossf/alpha-omega/tree/main/alpha/engagements/2024/OpenRefactory)
+* [OpenSSL](https://github.com/ossf/alpha-omega/tree/main/alpha/engagements/2024/OpenSSL)
+* [Prossimo](https://github.com/ossf/alpha-omega/tree/main/alpha/engagements/2024/Prossimo)
+* [Python Software Foundation](https://github.com/ossf/alpha-omega/tree/main/alpha/engagements/2024/Python%20Software%20Foundation)
+* [Ruby Central](https://github.com/ossf/alpha-omega/tree/main/alpha/engagements/2024/RubyCentral)
+* [Rust Foundation](https://github.com/ossf/alpha-omega/tree/main/alpha/engagements/2024/Rust%20Foundation)
+
+Below is a very small sampling of recent updates.
+
+* **Homebrew**: Homebrew now supports build provenance for practically all bottles and opt-in client-side validation. Read more on the [Trail of Bits blog](https://blog.trailofbits.com/2024/05/14/a-peek-into-build-provenance-for-homebrew/).
+* **Eclipse Kuksa**: This project provides shared building blocks for Software Defined Vehicles, and the audit covered the data broker and the Python client, conducted by
+  Quarkslab and managed by the Open Source Technology Improvement Fund. There were two high severity findings and about a dozen lower severity findings, all
+  addressed in the latest version. [Download the full report](https://ostif.org/wp-content/uploads/2024/05/Kuksaaudit1.2.pdf).
+* **OpenSSL**: This security audit focused on the libcrypto component of OpenSSL 3.1, and was conducted by Trail of Bits and managed by the Open Source Technology
+  Improvement Fund. There were four medium and six low severity findings. [Download the full report](https://github.com/trailofbits/publications/blob/master/reviews/2023-09-openssl-securityreview.pdf).
 
 ## Objectives & Key Results
 
@@ -59,7 +78,6 @@ No, but as always, we're eager for substantive discussion with TAC and others.
 
 ## Additional Information
 
-<mark>
 We provide [monthly public reports](https://alpha-omega.dev/resources/reports), including to TAC and the OpenSSF Governing Board:
   * [May 2024](https://alpha-omega.dev/wp-content/uploads/sites/22/2024/06/May-Monthly-2024-Report.pdf)
   * [March/April 2024](https://alpha-omega.dev/wp-content/uploads/sites/22/2024/05/AO-March-April-Monthly-2024-Report.pdf)
@@ -67,6 +85,4 @@ We provide [monthly public reports](https://alpha-omega.dev/resources/reports), 
   * [January 2024](https://alpha-omega.dev/wp-content/uploads/sites/22/2024/02/AO-January-Monthly-2024-Report.pdf)
   * [2023 Annual Report](https://alpha-omega.dev/wp-content/uploads/sites/22/2024/02/Alpha-Omega-Annual-Report-2023.pdf)
 
-Each engagement partners provides monthly updates to us on our [GitHub repository](https://github.com/ossf/alpha-omega/tree/main/alpha/engagements/2024).
 You can always reach us at [#alpha_omega](https://openssf.slack.com/archives/C02LUUWQZNK) or by e-mail directly.
-</mark>
