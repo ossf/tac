@@ -21,7 +21,7 @@ flowchart TD
 
 The process is designed to be flexible to enable a Project to move in and out of a Working Group as deemed appropriate by the TAC.
 
-A SIG can be developed within a WG or Project to address a specific need. Note that a SIG cannot produce code or specifications.
+A SIG can be developed within a WG or Project to address a specific need. Note that a SIG purpose is not to primary produce code or specifications (it can produce them as secondary goals, or as experimental POCs).
 
 # II. Lifecycle
 
