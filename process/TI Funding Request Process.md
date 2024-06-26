@@ -40,9 +40,14 @@ This process details how an eligible OpenSSF Technical Initiative can petition f
    - Accepted requests published: June 26, 2024
 
 ### Q3 2024
+   - Request submission deadline: Sep. 06, 2024
+   - TAC review period: Sep. 09 - 13, 2024
+   - Decisions announced (in writing): No later than Sep. 20, 2024
+   - Accepted requests published: Sep. 25, 2024
 
-Mid-September; exact dates TBD
 
-### Q4 2024
-
-Mid-December; exact dates TBD
+### Q4 2024 (for Q1 2025)
+   - Request submission deadline: Nov. 29, 2024
+   - TAC review period: Dec. 02 - 06, 2024
+   - Decisions announced (in writing): No later than Dec. 13, 2024
+   - Accepted requests published: Dec. 18, 2024
