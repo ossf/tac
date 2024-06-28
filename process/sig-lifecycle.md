@@ -22,7 +22,7 @@ The SIG life cycle begins with interested contributors deciding to undertake thi
 * SIGs may have regular meetings separate from their governing body, if so:
   * They should appear on the OpenSSF calendar
   * They should have a document with upcoming agendas and notes from past meetings
-* If the SIG starts to produce code or specifications, they should consider becoming a [project](./project-lifecycle.md) instead
+* If the SIG starts to produce code or specifications, they should consider becoming a [project](./project-lifecycle.md) instead, especially if this becomes the main scope of the SIG.
 
 ## To become `Incubating`:
 
