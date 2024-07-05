@@ -93,7 +93,7 @@ The following Technical Initiatives have been approved by the TAC. You may learn
 
 | Name                         | Repository                          | Notes | Status |
 | --------------------------   | ----------------------------------- | ----- | ------ |
-| Core Toolchain Infrastructure | Coming Soon                         | TBD   | TBD    |
+| Core Toolchain Infrastructure | https://git.coretoolchain.dev/     | TBD   | TBD    |
 | Alpha Omega                  | https://github.com/ossf/alpha-omega | TBD   | TBD    |
 
 ### Special Interest Groups (SIGs) - *To Be Completed*
