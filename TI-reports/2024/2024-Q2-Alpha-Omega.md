@@ -10,7 +10,20 @@ The Alpha-Omega Directed Fund continues our mission, to catalyze sustainable sec
 * Experimentation
 
 ### Recent Updates
-We receive monthly updates from each of our engagements - we urge TAC to read through some of the recent updates in [our repository](https://github.com/ossf/alpha-omega/tree/main/alpha/engagements/2024) to learn more about the depth and breadth of the work that's going on:
+
+We published our June 2024 report at <https://alpha-omega.dev/resources/reports>.
+
+A few new/renewed engagments:
+
+* **AI Library Reviews**: We've agreed to fund security audits for the top 100 open source AI libraries, the first set of 25 via the Open Source Technology Improvement Fund (OSTIF). Open source AI libraries are of particular interest due to their inherent nature and the speed at which the space is moving. OSTIF will be conducting these reviews through the end of 2024 after which we'll take what we learn and apply it to the next set of open source AI libraries.
+
+* **OpenRefactory**: We've renewed our engagement with OpenRefactory to continue scanning important open source projects for serious security vulnerabilities, including full transitive dependency scans of Apache Airflow, Kubernetes, and Jenkins, as well as an initial scan of the top 300 Rust crates.
+
+* **Apache Airflow**: We've agreed to fund work in 2024 on a security audit of Apache Airflow and a "light" audit it's entire (700+) dependencies. We expect to learn a lot for this experience and will use it to inform our strategy moving forward.
+
+* **Rust for Linux**: We've agreed to renew funding (through Prossimo / ISRG) to support advancing Rust in the Linux Kernel.
+
+In addition, we receive monthly inbound updates from each of our engagements - we urge TAC to read through some of the recent updates in [our repository](https://github.com/ossf/alpha-omega/tree/main/alpha/engagements/2024) to learn more about the depth and breadth of the work that's going on:
 
 * [Eclipse Foundation](https://github.com/ossf/alpha-omega/tree/main/alpha/engagements/2024/Eclipse%20Foundation)
 * [FreeBSD](https://github.com/ossf/alpha-omega/tree/main/alpha/engagements/2024/FreeBSD)
@@ -24,7 +37,7 @@ We receive monthly updates from each of our engagements - we urge TAC to read th
 * [Ruby Central](https://github.com/ossf/alpha-omega/tree/main/alpha/engagements/2024/RubyCentral)
 * [Rust Foundation](https://github.com/ossf/alpha-omega/tree/main/alpha/engagements/2024/Rust%20Foundation)
 
-Below is a very small sampling of recent updates.
+Below is a very small sampling of recent updates from our existing engagements:
 
 * **Homebrew**: Homebrew now supports build provenance for practically all bottles and opt-in client-side validation. Read more on the [Trail of Bits blog](https://blog.trailofbits.com/2024/05/14/a-peek-into-build-provenance-for-homebrew/).
 * **Eclipse Kuksa**: This project provides shared building blocks for Software Defined Vehicles, and the audit covered the data broker and the Python client, conducted by
@@ -59,11 +72,9 @@ To catalyze sustainable security improvements to the world's most critical open 
 
 ### Current Status
 
-We're active and healthy. Our team consists of Michael Scovetta (Microsoft), Henri Yandell (Amazon Web Services), Bob Callaway (Google), supported by Michael Winser (contractor) and Michelle Martineau and Tracy Li from the Linux Foundation. We've received $5M in funding so far in 2024 and are actively meeting with new potential engagement partners. We meet at least weekly as a team and most weeks, meet with at least a few partners (actual or potential).
+We're active and healthy. Our team consists of Michael Scovetta (Microsoft), Henri Yandell (Amazon Web Services), Bob Callaway (Google), supported by Michael Winser (contractor) and Michelle Martineau and Tracy Li from the Linux Foundation. We've received $5M in funding so far in 2024 and are actively meeting with new potential engagement partners. We've spent $4M so far in 2024 and plan to spend more. We meet at least weekly as a team and most weeks, meet with our partners (existing and potential) regularly.
 
 ### Up Next
-
-We're finalizing details on a few new engagements - details will be shared with TAC privately through the private TAC mailing list.
 
 Some key opportunities to engage:
 
@@ -79,6 +90,7 @@ No, but as always, we're eager for substantive discussion with TAC and others.
 ## Additional Information
 
 We provide [monthly public reports](https://alpha-omega.dev/resources/reports), including to TAC and the OpenSSF Governing Board:
+  * [June 2024](https://alpha-omega.dev/wp-content/uploads/sites/22/2024/07/June-Monthly-2024-Report.pdf)
   * [May 2024](https://alpha-omega.dev/wp-content/uploads/sites/22/2024/06/May-Monthly-2024-Report.pdf)
   * [March/April 2024](https://alpha-omega.dev/wp-content/uploads/sites/22/2024/05/AO-March-April-Monthly-2024-Report.pdf)
   * [February 2024](https://alpha-omega.dev/wp-content/uploads/sites/22/2024/03/AO-February-Monthly-2024-Report.pdf)
