@@ -232,7 +232,7 @@ Encrypting data in transit ensures that data transmitted over networks or betwee
 
 For data at rest, follow the instructions from the storage solutions for encryption practices
 
-### Curl and openssl Tips
+### Curl and OpenSSL Tips
 [curl](https://curl.se/docs/sslcerts.html) is a powerful CLI tool to troubleshoot and observe details of HTTPS traffic, including the TLS handshake and certificate information. For example the following command provides insights into a HTTPS GET request and response, including the x.509 certificate details, TLS protocol and cipher, etc. This [article](https://www.sectigo.com/resource-library/what-is-x509-certificate) provides a comprehensive overview of x.509 certificates. 
 ```
 curl -vI  https://google.com
