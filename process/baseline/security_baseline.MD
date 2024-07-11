@@ -69,7 +69,7 @@ To navigate these constraints, the following operating principles are adopted:
   * **Documented Governance Process**
     * **Objective**: Maintain and refine the baseline requirements effectively.
     * **Approach**:
-      * Incoporate the baseline into OpenSSF Technical Advisory Council (TAC) [technical initiative life cycle process](https://github.com/ossf/tac/blob/main/process/project-lifecycle.md).
+      * Incorporate the baseline into OpenSSF Technical Advisory Council (TAC) [technical initiative life cycle process](https://github.com/ossf/tac/blob/main/process/project-lifecycle.md).
       * Revision to the baseline will be a community effort following the [TAC Issue/PR process](https://github.com/ossf/tac/blob/main/process/TAC-Decision-Process.md#issuepull-request-types). 
 
 ## Security Baseline 
