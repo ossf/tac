@@ -4,6 +4,10 @@
 
 The goal of this SIG is to evolve [OpenSSF security baseline](https://github.com/ossf/tac/blob/a90b9838739ac18df43197fdd89f045c1a1e4dc3/process/security_baseline.md) for Linux Foundation wide adoption.
 
+This SIG creates a venue for other participating foundations to help evolve the OpenSSF security baseline into a security baseline that can be applied to a broad range of software-based projects. The group will define the right level of risks that the baseline is applicable for, the effectiveness measurement of the baseline, and the adoption path of the baseline at the minimum.
+
+Members of this group will be from various Linux foundations and entities outside of Linux FOundation. Reducing duplicate effort and achieving a higher level of security across Linux FOundation participating foundations is the starting focus of this group. 
+
 ### List SIG Lead(s)
 The SIG must have a minimum of 1 Lead
   * Eddie Knight, OpenSSF Security Insights lead, Sonatype, GitHub ID: eddie-knight
@@ -19,6 +23,8 @@ The SIG have a minimum of 3 members with 2 different organizational affiliations
 ### Governing Body
 SIGs may report to an existing OpenSSF Working Group or directly to the TAC as their governing body. The SIG commits to providing the governing body quarterly updates on progress.
   * Security Best Practices Working Group
+
+CRob and Dana Wang had conversations about this inititve. CRob has agreed to be the sponsor of this SIG and welcome the group to join Security Best Practices Working Group. 
 
 ### SIG References
 The SIG should provide a list of existing resources with links to the repository, and if available, website, a roadmap, demos and walkthroughs, and any other material to showcase the existing breadth, maturity, and direction of the SIG.
