@@ -17,7 +17,7 @@ In the United States, open source software is used across all critical infrastru
 In the European Union, [Cyber Resiliency Act](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CONSIL:ST_17000_2023_INIT) (CRA) has declared a new role - Open Source Steward(Article 3(18a). The legislation is to ensure that consumers of products with digital features are protected, and manufacturers of these products are held accountable for product security. Open source security is the foundation for manufacturers to be compliant with the legislation.     
 
 ## Success Criteria
-The success of the security baseline SHOULD be quantified and qualified in a few dimension:
+The success of the security baseline SHOULD be quantified and qualified in a few dimensions:
  * **Security Outcomes Adoption and Advancement**
    * **Objective**: The security baseline promotes improved open source security outcomes.
    * **Approach**: Utilize technical outcomes from the OSS community to implement, and verify the security baseline.
