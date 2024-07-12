@@ -23,7 +23,7 @@ The success of the security baseline SHOULD be quantified and qualified in a few
    * **Approach**: Utilize technical outcomes from the OSS community to implement, and verify the security baseline.
    * **Collaborations**: Partner with other foundations to enhance OSS security through education, specifications, frameworks, and tooling.
    * **Automation and Tooling**: Identify opportunities for automation and tooling to ease the burden on maintainers and contributors, facilitating secure by design and secure by default principles.
- * **Increased Adoption Rate**
+ * **Increased Security Baseline Adoption Rate**
    * **Objective**: Ensure the security baseline is widely adopted.
    * **Metrics**:
      * Three OpenSSF software-based pilot projects adopt the baseline by 9/15/2024.
