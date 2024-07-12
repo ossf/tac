@@ -18,7 +18,7 @@ In the European Union, [Cyber Resiliency Act](https://eur-lex.europa.eu/legal-co
 
 ## Success Criteria
 The success of the security baseline SHOULD be quantified and qualified in a few dimensions:
- * **Security Outcomes Adoption and Advancement**
+ * **Adoption and Advancement of Security Technologies**
    * **Objective**: The security baseline promotes improved open source security outcomes.
    * **Approach**: Utilize technical outcomes from the OSS community to implement, and verify the security baseline.
    * **Collaborations**: Partner with other foundations to enhance OSS security through education, specifications, frameworks, and tooling.
