@@ -60,14 +60,14 @@ To navigate these constraints, the following operating principles are adopted:
     * **Approach**:
       * Ensure the baseline is minimal and achievable with current technology.
       * Allow for incremental adoption throughout a software project’s lifecycle by shifting security left in the SDLC process.
-      * Reuse existing OpenSSF guides and technologies without imposing new requirements.
+      * Reuse existing OpenSSF guides and technologies with minimal new requirements.
   * **Continuous Improvement**
     * **Objective**: Establish a consistent set of objective security measures for all participating foundations and projects.
     * **Approach**:
       * Provide clear, implementable, and definitive guidelines for maintainers and contributors.
       * Rely on every adopting project to submit issues to log the friction points and provide feedback to refine the baseline, facilitating easier adoption.
   * **Documented Governance Process**
-    * **Objective**: Maintain and refine the baseline requirements effectively.
+    * **Objective**: Ensure the baseline is an integral part of the TAC life cycle process, and maintenance of the baseline follows the TAC decisioning process.  
     * **Approach**:
       * Incorporate the baseline into OpenSSF Technical Advisory Council (TAC) [technical initiative life cycle process](https://github.com/ossf/tac/blob/main/process/project-lifecycle.md).
       * Revision to the baseline will be a community effort following the [TAC Issue/PR process](https://github.com/ossf/tac/blob/main/process/TAC-Decision-Process.md#issuepull-request-types). 
