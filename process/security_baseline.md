@@ -54,7 +54,7 @@ To navigate these constraints, the following operating principles are adopted:
 
   * **Strong Bias Towards Automation and Automatability**
     * **Objective**: Enhance security by default and position security as an enabler rather than an inhibitor.
-    * **Approach**: Prioritize automation and automatability to manage dependencies and vulnerabilities more effectively.[[Know, Prevent, Fix](https://security.googleblog.com/2021/02/know-prevent-fix-framework-for-shifting.html)]
+    * **Approach**: Prioritize automation and automatability to manage dependencies and vulnerabilities more effectively.[[Know, Prevent, Fix](https://security.googleblog.com/2021/02/know-prevent-fix-framework-for-shifting.html)], [[software supply chain transparency logical model](https://github.com/guacsec/guac?tab=readme-ov-file)]
   * **Minimal, Achievable, and Practical Baseline Requirements**
     * **Objective**: Design a security baseline that balances software reliability, performance, cost, and security.
     * **Approach**:
