@@ -27,7 +27,7 @@ The SIG have a minimum of 3 members with 2 different organizational affiliations
 SIGs may report to an existing OpenSSF Working Group or directly to the TAC as their governing body. The SIG commits to providing the governing body quarterly updates on progress.
   * Security Best Practices Working Group
 
-CRob and Dana Wang had conversations about this inititve. CRob has agreed to be the sponsor of this SIG and welcome the group to join Security Best Practices Working Group. 
+CRob and Dana Wang had conversations about this initiative. CRob has agreed to be the sponsor of this SIG and welcome the group to join Security Best Practices Working Group. 
 
 ### SIG References
 The SIG should provide a list of existing resources with links to the repository, and if available, website, a roadmap, demos and walkthroughs, and any other material to showcase the existing breadth, maturity, and direction of the SIG.
