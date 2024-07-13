@@ -26,9 +26,9 @@ The success of the security baseline SHOULD be quantified and qualified in a few
  * **Increased Security Baseline Adoption Rate**
    * **Objective**: Ensure the security baseline is widely adopted.
    * **Metrics**:
-     * Three OpenSSF software-based pilot projects adopt the baseline by 9/15/2024.
-     * All OpenSSF software-based projects adopt the baseline by the end of 2024.
-     * At least two other LF foundations adopt the baseline by the end of 2024.
+     * Three OpenSSF software-based pilot projects meet the baseline requirements for each project's life cycle by 9/15/2024.
+     * All OpenSSF software-based projects meet the baseline requirements for each project's life cycle by the end of 2024, an aspirational goal.
+     * At least two other LF foundations adopt the baseline by the end of 2024, an aspirational goal.
 * **Reduction in Security Findings**
   * **Objective**: Measure the effectiveness of the baseline in improving a project’s security posture.
   * **Metrics**:
@@ -61,15 +61,14 @@ To navigate these constraints, the following operating principles are adopted:
       * Ensure the baseline is minimal and achievable with current technology.
       * Allow for incremental adoption throughout a software project’s lifecycle by shifting security left in the SDLC process.
       * Reuse existing OpenSSF guides and technologies with minimal new requirements.
-  * **Continuous Improvement**
-    * **Objective**: Establish a consistent set of objective security measures for all participating foundations and projects.
+  * **Documented Governance Process**
+    * **Objective**:
+      * Establish a consistent set of objective security measures for all participating foundations and projects.
+      * Ensure the baseline is an integral part of the TAC life cycle process, and maintenance of the baseline follows the TAC decisioning process.  
     * **Approach**:
       * Provide clear, implementable, and definitive guidelines for maintainers and contributors.
-      * Rely on every adopting project to submit issues to log the friction points and provide feedback to refine the baseline, facilitating easier adoption.
-  * **Documented Governance Process**
-    * **Objective**: Ensure the baseline is an integral part of the TAC life cycle process, and maintenance of the baseline follows the TAC decisioning process.  
-    * **Approach**:
       * Incorporate the baseline into OpenSSF Technical Advisory Council (TAC) [technical initiative life cycle process](https://github.com/ossf/tac/blob/main/process/project-lifecycle.md).
+      * Rely on every adopting project to submit issues to log the friction points and provide feedback to refine the baseline, facilitating easier adoption.
       * Revision to the baseline will be a community effort following the [TAC Issue/PR process](https://github.com/ossf/tac/blob/main/process/TAC-Decision-Process.md#issuepull-request-types). 
 
 ## Security Baseline 
