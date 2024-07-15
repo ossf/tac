@@ -4,11 +4,11 @@
 
 The goal of this SIG is to evolve [OpenSSF security baseline](https://github.com/ossf/tac/blob/a90b9838739ac18df43197fdd89f045c1a1e4dc3/process/security_baseline.md) for Linux Foundation wide adoption.
 
-For OpenSSF adoption of the security baseline, there needs to be a home for tracking the adoption, for maintainers to raise issues to achieve the objectives of the baseline, and for OpenSSF to develop the roadmap for refining the baseline and future roadmaps. The pilot adoption builds the foundation for wider adoption of the baseline in OpenSSF and in Linux Foundation.  
+For OpenSSF adoption of the security baseline, there needs to be a home for tracking the adoption, for maintainers to raise issues to refine the security baseline, merge the baseline back to TAC lifecycle, and for OpenSSF to develop the roadmap for the security baseline. It will provide a venue for early adopters to share their reusable code and findings with other maintainers. The pilot adoption builds the foundation for wider adoption of the security baseline in OpenSSF and in Linux Foundation.  
 
-This SIG creates a venue for other participating foundations to help evolve the OpenSSF security baseline into a security baseline that can be applied to a broad range of software-based projects. The group will define the right level of risks that the baseline is applicable for, the effectiveness measurement of the baseline, and the adoption path of the baseline at the minimum.
+This SIG creates a venue for other participating foundations to help evolve the OpenSSF security baseline into a security baseline that can be applied to a broad range of software-based projects. The group will define the right level of risks that the security baseline is applicable for, the effectiveness measurement of the security baseline, and the adoption path of the security baseline at the minimum.
 
-Members of this group will be from various Linux foundations and entities outside of Linux Foundation. Reducing duplicate effort and achieving a higher level of security across Linux FOundation participating foundations is one of the goal of the group. 
+Members of this group will be from various Linux foundations and entities outside of Linux Foundation. Reducing duplicate effort and achieving a higher level of security across Linux FOundation participating foundations is one of the goals of the group. 
  
 
 ### List SIG Lead(s)
