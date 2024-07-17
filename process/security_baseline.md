@@ -80,6 +80,8 @@ As a software project progresses through the [OpenSSF technical initiative life 
 This phased approach intends to support maintainers, contributors, and the community in innovating quickly with security built into the design or enabled by default.
 
 ### Baseline - Once Sandbox
+When the project starts, it's critical to have a security foundation to reduce a class of vulnerabilities and secure your digital assets with strong credential protections. 
+
 | Security Baseline | Objective | How to Implement | How to Verify|
 |-------|-------|-------|-------|
 | A memory-safe language is adopted for new projects or new components. | Reduce  memory safety vulnerabilities at scale. | Choose one of the [memory-safe languages](https://www.memorysafety.org/docs/memory-safety/) <br /> <br />  For preexisting projects in C or C++, follow the [Compiler Options Hardening Guide](https://best.openssf.org/Compiler-Hardening-Guides/Compiler-Options-Hardening-Guide-for-C-and-C++) | Check the [file extension](#Standard-File-Extensions-of-Common-Programming-Languages) and compare with the code. <br /> <br /> 
