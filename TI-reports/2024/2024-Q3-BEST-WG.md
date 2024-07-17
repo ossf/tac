@@ -15,7 +15,7 @@ The BEST Working Group continues to curate and create artifacts tailored towards
 
 <img align="top" src="https://github.com/ossf/wg-best-practices-os-developers/blob/main/img/OpenSSF%20Dev%20Best%20Practices%20Projects%20Relations.png">
 
-The group continues to be active and is working on several simultaneous projects aligned with our Mission & Vision.  Attendence generally is down, and several former key contributors no longer attend meetings.
+The group continues to be active and is working on several simultaneous projects aligned with our Mission & Vision.  Attendance generally is down, and several former key contributors no longer attend meetings.
 
 
 ### Key Resources
