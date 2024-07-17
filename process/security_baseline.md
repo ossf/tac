@@ -73,8 +73,8 @@ To navigate these constraints, the following operating principles are adopted:
 
 ## Security Baseline 
 As a software project progresses through the [OpenSSF technical initiative life cycle](https://github.com/ossf/tac/blob/main/process/project-lifecycle.md), it is beneficial to incrementally integrate more security measures.
-  * Sandbox stage - baseline awareness, and initial requirements
-  * Incubation stage - sandbox requirements plus additional baselines to sustain the secure project development and protect early adopters. 
+  * Sandbox stage: Baseline awareness, and initial requirements
+  * Incubation stage: Sandbox requirements plus additional baselines to sustain the secure project development and protect early adopters. 
   * Graduated stage: Incubation baseline plus additional baselines to prepare for its general availability and sustainability. 
 
 This phased approach intends to support maintainers, contributors, and the community in innovating quickly with security built into the design or enabled by default.
