@@ -162,7 +162,7 @@ When voting on a proposal to archive a project, TAC members may consider:
 #### Considerations when Archiving a TI that has sub-efforts embedded within ####
 
 1.) Overseeing TI will be moving to "Archived" status
-2.) Active subgroups (SIG or project) is still active and desires to continue collaborating
+2.) Whether subgroups/-TIs (SIG or project) are still active and desire to continue collaborating
 3.) Subgroup reviews active TIs to see if there is alignment of vision and purpose (https://openssf.org/community/openssf-working-groups/)
 4.) Subgroup meets with TI leader and group to discuss adoption
 5.) New TI agrees to become new oversight group for subgroup
