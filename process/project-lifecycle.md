@@ -149,7 +149,7 @@ See [Submission Process](#submission-process) below and [Graduation application]
 
 ### Archived
 
-Open source projects have a lifecycle and there are times when projects become inactive due to a variety of reasons. There are also cases where a project may no longer want to be supported by the OpenSSF, the given effort no longer has broad community interest and particpation, or the OpenSSF TAC may no longer wish to recommend the use of a project. Archiving happens through a vote of the TAC, and can be requested by the corresponding project's lead(s) or a TAC member.  TI's that are dormant, with no activity for 9 months (meetings, mailing lists, or other publicly viewable channels) in a row should be considered good candidates for Archiving.
+Open source projects have a lifecycle and there are times when projects become inactive due to a variety of reasons. There are also cases where a project may no longer want to be supported by the OpenSSF, the given effort no longer has broad community interest and participation, or the OpenSSF TAC may no longer wish to recommend the use of a project. Archiving happens through a vote of the TAC, and can be requested by the corresponding project's lead(s) or a TAC member.  TI's that are dormant, with no activity for 9 months (meetings, mailing lists, or other publicly viewable channels) in a row should be considered good candidates for Archiving.
 
 #### Archiving Considerations
 
