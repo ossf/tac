@@ -128,7 +128,7 @@ As a project matures and progresses towards graduation, it gains wider adoption.
 |Monitoring of security events is implemented if your project provides internet or infrastructure service on behalf of the foundation.|To monitor security relevant events for incident response.|If the project provides a service, monitoring SHALL be in place to raise actionable alerts when security relevant events meets pre-defined  thresholds, for example host level firewall configuration is changed.|Manual review.|
 |If your project provides internet or infrastructure service on behalf of the foundation, an initial  security audit is conducted. Audit findings are addressed.|To identify and remediate the vulnerabilities in the internet service.|Security audit SHALL be funded through the [TAC TI funding process](https://github.com/ossf/tac/blob/main/process/TI%20Funding%20Request%20Process.md).<br /><br />SECURITY_INSIGHTS.yml SHALL be updated under “security-assessments” with a link to the audit report.|SECURITY_INSIGHTS.yml identifies the security audit report. The report provides details of the audit methodology, findings and recommendations.|
 
-### Security Baseline - Graduated
+### Security Baseline - Once Graduated
 Additional security MVP baseline on top of incubating baseline:
 
 | Security Baseline | Objective | How to Implement | How to Verify|
