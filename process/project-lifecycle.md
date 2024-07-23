@@ -42,6 +42,7 @@ The OpenSSF Sandbox is the entry point for early stage Projects and has four goa
 * Maintains a diversified contributor base (i.e. not a single-vendor project).
 * For code development, follows security best practices (as recommended by the OpenSSF and others), including passing the [OpenSSF Best Practices criteria](https://bestpractices.coreinfrastructure.org/en/criteria/0).
 * Provides project updates to OpenSSF Marketing Committee as requested.
+* Meet the "[Security Baseline - Once Sandbox](https://github.com/ossf/tac/blob/308c777124a05f1903301400653f1a7a944bd7be/process/security_baseline.md#baseline---once-sandbox)" requirements.
 
 #### Project Support
 * Receives a TAC or WG sponsor for guidance on technical direction. The sponsor also ensures the Project operates within the scope of the OpenSSF, adheres to the OpenSSF code of conduct, legal and IP policies, and reserves the right to consult with the TAC to raise any related concerns. Projects can reach out to the TAC if concerns about sponsor involvement arise.
@@ -98,6 +99,7 @@ All requirements of Sandbox must be fulfilled, plus:
 * If reporting directly to the TAC, the TAC sponsor and Project should decide on continued TAC sponsor engagement going forward. Continued engagement may include, but is not limited to:
     * Project may consult about Project direction with TAC sponsor as needed throughout Incubating stage.
     * TAC sponsor should continue to monitor Project activities, though regular meeting attendance is optional.
+* Meet the "[Security Baseline - To Become Incubating](https://github.com/ossf/tac/blob/308c777124a05f1903301400653f1a7a944bd7be/process/security_baseline.md#baseline---to-become-incubating)" requirements.
 
 #### Project Process: Sandbox to Incubation and direct entry to Incubation
 
