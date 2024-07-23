@@ -149,7 +149,7 @@ See [Submission Process](#submission-process) below and [Graduation application]
 
 ### Archived
 
-Open source projects have a lifecycle and there are times when projects become inactive due to a variety of reasons. There are also cases where a project may no longer want to be supported by the OpenSSF, or the OpenSSF TAC may no longer wish to recommend the use of a project. Archiving happens through a vote of the TAC, and can be requested by the corresponding project's lead(s) or a TAC member.
+Open source projects have a lifecycle and there are times when projects become inactive due to a variety of reasons. There are also cases where a project may no longer want to be supported by the OpenSSF, the given effort no longer has broad community interest and participation, or the OpenSSF TAC may no longer wish to recommend the use of a project. Archiving happens through a vote of the TAC, and can be requested by the corresponding project's lead(s) or a TAC member.  TI's that are dormant, with no activity for 9 months (meetings, mailing lists, or other publicly viewable channels) in a row should be considered good candidates for Archiving.
 
 #### Archiving Considerations
 
@@ -158,6 +158,16 @@ When voting on a proposal to archive a project, TAC members may consider:
 * If the project still supports the OpenSSF mission.
 * If the project's inactivity or inconsistent maintenance presents a user security risk.
 * If the project's design or approach is no longer a recommended best practice.
+
+#### Considerations when Archiving a TI that has sub-efforts embedded within ####
+
+1. Overseeing TI will be moving to "Archived" status
+2. Whether subgroups/-TIs (SIG or project) are still active and desire to continue collaborating
+3. Subgroup reviews active TIs to see if there is alignment of vision and purpose (https://openssf.org/community/openssf-working-groups/)
+4. Subgroup meets with TI leader and group to discuss adoption
+5. New TI agrees to become new oversight group for subgroup
+6. PRs filed in TI and TAC repos to note change of status
+7. Archiving TI has PR filed noting new status
 
 #### Archive Process
 
