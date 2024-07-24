@@ -76,6 +76,7 @@ Incubating projects represent maturing but not fully realized projects. Incubati
 * For code development, maintains a point of contact for vulnerability reports.
 * Implements, practices, and refines mature development and release practices such as following a version schema.
 * Begins to establish the appropriate governance that enables its sustainment for potential graduation.
+* Meets the "[Security Baseline - Once Incubating](https://github.com/ossf/tac/blob/main/process/security_baseline.md#security-baseline---once-incubating)" requirements.
 
 #### Project Support
 * Receives guidance on technical direction from TAC and/or WG. The sponsor continues to ensure the Project operates within the scope of the OpenSSF, adheres to the OpenSSF code of conduct, legal and IP policies, and reserves the right to consult with the TAC to raise any related concerns. Projects can reach out to the TAC if concerns about sponsor involvement arise.
@@ -141,6 +142,7 @@ All requirements of Incubating must be fulfilled, plus:
 * Projects must be able to show a consistent release cadence.
 * Projects must have documented project governance and be able to demonstrate that governance in action.
 * When applicable, projects must have completed a security audit through a third party and addressed audit findings and recommendations.
+* Projects meet the "[Security Baseline - To Become Graduated](https://github.com/ossf/tac/blob/main/process/security_baseline.md#security-baseline---to-become-graduated)" requirements.
 * If reporting directly to the TAC, TAC sponsor monitoring and consultation become optional.
 
 #### Project Graduation Process: Incubating to Graduation
