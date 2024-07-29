@@ -120,6 +120,7 @@ Graduated projects signal the highest level of maturity for an OpenSSF project. 
 * For code development, follows security best practices, including achieving a [Gold OpenSSF Best Practices badge](https://bestpractices.coreinfrastructure.org/en/criteria).
 * For code development, maintains a point of contact for vulnerability reports and follow coordinated vulnerability disclosure practices.
 * Implements, practices, and refines mature development and release practices, such as adherence to semantic versioning, and having a declared policy for stable releases and backported fixes.
+* Meets the "[Security Baseline - Once Graduated](https://github.com/ossf/tac/blob/main/process/security_baseline.md#security-baseline---once-graduated)" requirements.
 
 #### Project Support
 * Receives guidance on technical direction from TAC and/or WG.
