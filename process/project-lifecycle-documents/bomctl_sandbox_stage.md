@@ -22,7 +22,7 @@ The project must be aligned with the OpenSSF mission and either be a novel appro
 * "__bomctl__ is format-agnostic Software Bill of Materials (SBOM) tooling, which is intended to bridge the gap between SBOM generation and SBOM analysis tools. It focuses on supporting more complex SBOM operations by being opinionated on only supporting the NTIA minimum fields or other fields supported by protobom."
 * "__bomctl__ started as an action from Secure Open Source Summit 2023 in DC. The action item was to merge existing sbom tooling into a single source for sbom format agnostic tooling to manage relationships between SBOM files. No existing tooling beyond the [protobom](https://github.com/protobom/protobom) work existed that was format agnostic. This lead to __bomctl__ being developed by the Security Tooling WG."
 * "__bomctl__ heavily builds on [protobom](https://github.com/protobom/protobom)."
-  * "[Protobom](https://github.com/protobom/protobom) is a go library for manipulating SBOM data in an agnostic manner"
+  * "[Protobom](https://github.com/protobom/protobom) is a go library for manipulating SBOM data in a schema-agnostic manner"
   * "__Bomctl__ is a CLI that handles movement, operations, and caching of SBOM files and will allow linkages between SBOM files"
 
 ### IP policy and licensing due diligence
