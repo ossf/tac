@@ -36,7 +36,7 @@ The group continues to be active and is working on several simultaneous projects
 ### Leads	
 - WG - CRob  
 - BP Badge and SecDev course - David Wheeler
-- Compiler Hardening Guides - Thomas Nyman & Geog Kunz
+- Compiler Hardening Guides - Thomas Nyman & Georg Kunz
 - EDU SIG - CRob & Dave Russo
 - Mem Safety SIG - Nell Shamrell-Harrignton & Avishay Balter
 - Python Hardening Guide - Helge & Georg
