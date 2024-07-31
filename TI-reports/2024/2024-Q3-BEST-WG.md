@@ -31,7 +31,7 @@ The group continues to be active and is working on several simultaneous projects
 - OpenSSF Best Practices Badge - [link](https://www.bestpractices.dev/)
 - Scorecard - [link](https://github.com/ossf/scorecard)
 - Secure Software Development Fundamentals course - [link](https://github.com/ossf/secure-sw-dev-fundamentals)
-- Security Baseline - [link](
+- Security Baseline - [link](https://github.com/ossf/security-baseline)
   
 ### Leads	
 - WG - CRob  
@@ -106,13 +106,22 @@ Materials will be maximally accessible and easy to consume for all learners.
 - For OpenSSF adoption of the security baseline, there needs to be a home for tracking the adoption, for maintainers to raise issues to refine the security baseline, merge the baseline back to TAC lifecycle, and for OpenSSF to develop the roadmap for the security baseline. It will provide a venue for early adopters to share their reusable code and findings with other maintainers. The pilot adoption builds the foundation for wider adoption of the security baseline in OpenSSF and in Linux Foundation.
 - This SIG creates a venue for other participating foundations to help evolve the OpenSSF security baseline into a security baseline that can be applied to a broad range of software-based projects. The group will define the right level of risks that the security baseline is applicable for, the effectiveness measurement of the security baseline, and the adoption path of the security baseline at the minimum.
 #### Current Status
-- on 16July the WG voted to adopt the OpenSSF Security Baseline as a SIG within our group.
-- Eddie Knight will help lead the cross-foundation effort
-- 3 OpenSSF Projects will work to comply with the Security Baseline by this fall.
-- CNCF & FINOS will also be collaborating on this effort
+- on 16 July the WG voted to adopt the OpenSSF Security Baseline as a SIG within our group.
+- Eddie Knight will help lead the cross-foundation effort.
+- SIG resources setup completed (Gitbug, mailing list, slack, community meeting time, etc.).
+- 5 OpenSSF Projects are actively piloting the security baseline adoption to comply with the Security Baseline by 9/15/2024, inlcuding OpenVEX, Protobom, RSTUF, GUAC, and Scorecard.
+- Tracking of the adoption friction points and adoption prgress is in progress.
+- Removing adoption friction points is in progress via security baseline SIG repo issues and PR's. 
+- 2FA will be enabled at the OpenSSF enterprise level on Auguest 6, 2024.  
+- OpenSSF technology consumption architecuture for depenednecy management is up for review. Reviewers needed!
+- Survey for security baseline for Linux Foundation wide adoption is being actively worked on.
+- CNCF & FINOS will be collaborating on this effort.
 #### Up Next
-- Get SIG resources setup (Gitbug, mailing list, slack,etc.)
-- Determine meeting time
+- Continue tracking and removing security baseline pilot adoption friction points.
+- Pilot projects continue to make progress on security baseline compliance.
+- Develop openSSF technology consumption architecuture for vulnerability management.
+- Publish the survey for security baseline for Linux Foundation wide adoption is being actively worked on.
+- First community meeting on 8/6/2024. 
 
 ### Web Developer Security Guide
 #### Purpose
