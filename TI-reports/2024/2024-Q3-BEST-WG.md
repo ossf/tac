@@ -49,9 +49,19 @@ The group continues to be active and is working on several simultaneous projects
 #### Purpose
 - The Open Source Security Foundation (OpenSSF) Best Practices badge is a way for Free/Libre and Open Source Software (FLOSS) projects to show that they follow best practices. Projects can voluntarily self-certify, at no cost, by using this web application to explain how they follow each best practice.
 #### Current Status
--
+- OpenSSF Best Practice Badge continues to gain users, as shown in its project statistics. As of 2024-08-04 it has 7,383 participating projects and 1,450 passing projects. We occasionally process special requests, such as ownership changes, and update dependencies (especially if a vulnerability is found in a dependency).
 - #### Up Next
-- TBD
+- The current plan is to continue to maintain the project as needed.
+
+
+### Developing Secure Software Fundamentals Course (LFD121)
+#### Purpose
+Provide baseline security education for developers.
+#### Current Status
+-The LFD121 course is occasionally updated as suggestions are made or new issues are discovered.
+#### Up Next
+- We are developing a set of interactive labs for the course. To see them and their current status, see the labs README.
+
 
 ### Concise Guides
 #### Purpose
