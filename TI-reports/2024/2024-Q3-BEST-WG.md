@@ -30,7 +30,7 @@ The group continues to be active and is working on several simultaneous projects
 - Memory Safety SIG - [link](https://github.com/ossf/Memory-Safety)
 - OpenSSF Best Practices Badge - [link](https://www.bestpractices.dev/)
 - Scorecard - [link](https://github.com/ossf/scorecard)
-- Secure Software Development Fundamentals course - [link](https://github.com/ossf/secure-sw-dev-fundamentals)
+- Best Practices Badge and Developing Secure Software (LFD121) course - [link](https://github.com/ossf/secure-sw-dev-fundamentals)
 - Security Baseline - [link](https://github.com/ossf/security-baseline)
   
 ### Leads	
