@@ -101,6 +101,9 @@ Materials will be maximally accessible and easy to consume for all learners.
 #### Current Status
 
 #### Up Next
+- The group is working on adding more content for a broad range of CWE rules. The status is being tracked in issue 531
+- We are inviting all interested Python coders to review the current content and/or pick a new CWE rule from 531 and contribute content
+
 
 ### Scorecard
 #### Purpose
