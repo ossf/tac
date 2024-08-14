@@ -96,7 +96,8 @@ Materials will be maximally accessible and easy to consume for all learners.
 
 ### Python Hardening Guide
 #### Purpose
-
+-  Help Python developers to create more secure code by explaining vulnerable and non-vulnerable coding patterns based on the CWE framework and rules.
+- Besides a description of each coding pattern, the guide includes executable code examples for each rule, which allow for an in-depth understanding of each pattern.
 #### Current Status
 
 #### Up Next
