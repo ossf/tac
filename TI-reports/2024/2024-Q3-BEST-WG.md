@@ -88,7 +88,7 @@ Materials will be maximally accessible and easy to consume for all learners.
 #### Purpose
 - The Memory Safety SIG is a group working within the OpenSSF's Best Practices Working Group formed to advance and deliver upon The OpenSSF's Mobilization Plan - Stream 4.
 #### Current Status
--Have drafted a “Memory Safety Continuum” concept document
+- Have drafted a “Memory Safety Continuum” concept document
 - Have gathered guides/practices related to best memory safety practices in both memory safe by default and non memory safe by default languages
 #### Up Next 
 - Produce a Memory Safety workshop (modeled after W3C workshops). Theme is “Improving Memory Safety in an Imperfect World”
