@@ -58,7 +58,7 @@ The group continues to be active and is working on several simultaneous projects
 #### Purpose
 Provide baseline security education for developers.
 #### Current Status
--The LFD121 course is occasionally updated as suggestions are made or new issues are discovered.
+- The LFD121 course is occasionally updated as suggestions are made or new issues are discovered.
 #### Up Next
 - We are developing a set of interactive labs for the course. To see them and their current status, see the labs README.
 
