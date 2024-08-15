@@ -28,7 +28,8 @@ Also note that benefits may actually vary based on resources and funds availabil
  * TI receives guidance on technical direction from its TAC sponsor or hosting WG.
  * Reserved space for project updates in OpenSSF newsletters.
  * May request basic infrastructure support from the OpenSSF (e.g., mailing list and github repo).
- * Projects may say they are, "A sandbox project in the OpenSSF" or "An experimental project in the OpenSSF."  Gets a "sandbox" logo that is shared amongst all OpenSSF sandbox TIs.
+ * Projects may say they are, "A sandbox project in the OpenSSF" or "An experimental project in the OpenSSF."  
+ * Gets a ["sandbox" badge](https://github.com/ossf/tac/blob/main/files/images/OpenSSF_StagesBadges_sandbox.svg) that is shared amongst all OpenSSF sandbox TIs.
  * Communication & Collaboration - OpenSSF mailing list, OpenSSF Slack channel, OpenSSF GitHub, OpenSSF Calendaring / Recording,  OpenSSF Social Media & External Engagement Support
  * Governance & Administration - TI Charter Development & Review, TI Technical Steering Committee Setup, TI IP & License Review, TI Operations & Maintenance, Technical Support
 * Best effort OpenSSF staff support
@@ -61,6 +62,7 @@ All requirements of Sandbox must be fulfilled. PR filed to promote TI to Incubat
  * Project may request custom OpenSSF Logo for group
  * May request swag bearing custom OpenSSF Logo
  * Projects may use the OpenSSF logo to promote their project (in accordance with the trademark guidelines). Projects may not be referred to as an "OpenSSF Project" or "OpenSSF $ProjectName." Projects may say they are an "OpenSSF Incubating Project."
+ * Gets an ["incubating" badge](https://github.com/ossf/tac/blob/main/files/images/OpenSSF_StagesBadges_incubating.svg) that is shared amongst all OpenSSF incubating TIs.
  * With additional TAC or WG approval, may fundraise for dedicated project funds, coordinated by the OpenSSF.
  * Receives support with vulnerability disclosure from the OpenSSF (Vulnerability Disclosure WG).
  * May post project updates and tutorials to the OpenSSF blog.
@@ -93,6 +95,7 @@ All requirements of Incubating must be fulfilled and additionally:
  * May request OpenSSF budget for sustained maintainer stipends (details determined by OpenSSF and project leads).
  * With additional TAC or WG approval, may fundraise for dedicated project funds, coordinated by the OpenSSF.
  * Projects may use the OpenSSF logo to promote their project (in accordance with the trademark guidelines). Projects may be referred to as an "OpenSSF Project" or "OpenSSF $ProjectName."
+ * Gets a ["graduated" badge](https://github.com/ossf/tac/blob/main/files/images/OpenSSF_StagesBadges_graduated.svg) that is shared amongst all OpenSSF graduated TIs.
  * May request considered for Grants
  * May request consideration to get Contract Developers
  * Requests for one time funding needs to include: Tech writer, Graphic designer, Security audit, Event support, Outreach, Dashboard/reports, Recognition awards, Infrastructure support for software projects (like special build, QA) (will have ongoing operational expense),  Cloud hosting (will have ongoing operational expense)
