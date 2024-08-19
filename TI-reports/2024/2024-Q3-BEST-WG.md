@@ -71,6 +71,15 @@ Provide baseline security education for developers.
 #### Up Next
 - TBD
 
+### Compiler Hardening Guides
+#### Purpose
+- Help C and C++ developers and those who compile C/C++ code, e.g., package maintainers, ensure that produced application binaries (libraries and executables) are equipped with security mechanisms provided by compilers against potential attacks and/or misbehavior.
+#### Current Status
+- Continued revision, updates, & enhancement, e.g., keeping the compiler options hardening guide up-to-date with upstream options additions and changes in GCC and Clang/LLVM.
+#### Up next
+- Compiler annotations guide for C and C++ (in incubation), expanding compiler options guide to also cover other compilers, such as Microsoft MSVC (tracked in [BEST Issue 150](https://github.com/ossf/wg-best-practices-os-developers/issues/150))
+- Outreach, e.g., upcoming talk at Nordic Software Security Summit 2024 
+
 ### EDU.SIG
 #### Purpose
 - Deliver Baseline Secure Software Development Education and Certification to All.  Provide access to open and widely available education materials to all learners.
