@@ -1,0 +1,60 @@
+## AI/ML Working Group incubation application
+
+### List WG Chairs
+
+The WG must have a minimum of 1 Chair
+
+* Mihai Maruseac, Google, mihaimaruseac
+* Jautau "Jay" White, Microsoft, camaleon2016
+
+### Working Group (WG) has met all Sandbox requirement
+
+* Applying directly to Incubating
+
+### List of regular contributors
+
+The WG must have a minimum of 5 contributors from at least 3 different
+organizations attending regularly.
+
+* David A. Wheeler, LF
+* David Edelsohn, IBM / AI Alliance
+* Emily Fox, Red Hat
+* Jautau "Jay" White, Microsoft
+* Karen Bennet, ISO
+* Marcela Melara, Intel
+* Mihai Maruseac, Google
+* Newt Tan, University of Glasgow
+* Sarah Evans, Dell Technologies
+* Yotam Perkal, Rezilion
+
+and many others
+
+### Mission of the Working Group
+
+The WG must have a charter or mission statement for review by TAC
+
+* https://github.com/ossf/ai-ml-security/blob/main/mvsr.md
+
+### Governance
+
+WG must have documented, initial group governance.
+
+* https://github.com/ossf/ai-ml-security/blob/main/doc/CHARTER.md
+
+WG must have met publicly at least 5 times in the last quarter since becoming
+Sandbox
+
+* 2024: https://docs.google.com/document/d/1YNP-XJ9jpTjM6ekKOBgHH8-avAws2DVKeCpn858siiQ/edit
+* 2023: https://docs.google.com/document/d/1hEJdr7yXv5tfYpUfn_e7DAUTyvoU6mY0b9eH6EXAHaI/edit
+
+WG must have defined Contributor Guide
+
+* https://github.com/ossf/ai-ml-security?tab=readme-ov-file#how-to-participate
+
+ Reference              | URL |
+|-----------------------|-----|
+| Repo                  | https://github.com/ossf/ai-ml-security |
+| Meeting Agenda        | https://docs.google.com/document/d/1YNP-XJ9jpTjM6ekKOBgHH8-avAws2DVKeCpn858siiQ/edit |
+| Contributing guide    | https://github.com/ossf/ai-ml-security?tab=readme-ov-file#how-to-participate |
+| Security.md           | https://github.com/ossf/ai-ml-security/blob/main/SECURITY.md |
+| code-of-conduct.md    | https://github.com/ossf/ai-ml-security/blob/main/code-of-conduct.md |
