@@ -227,7 +227,7 @@ Encrypting data in transit ensures that data transmitted over networks or betwee
     * Higher security: 3072 bits or 4096 bits
   * ECDSA (Elliptic Curve Digital Signature Algorithm):
     * Minimum recommended key length: 256 bits
-    * Higher security: 384 bits or 521 bits
+    * Higher security: 384 bits to 521 bits
   * Ed25519:
     * Fixed key length: 256 bits
 
