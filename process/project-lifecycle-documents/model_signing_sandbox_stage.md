@@ -26,9 +26,10 @@ projects collaborate with the existing project rather than seek a new project.
 #### Specific Goals Include:
 
 * Develop standards for efficient hashing of large models
-* Develop standards for efficient verification of models that contain multiple
-  formats in the same place
-* Develop standards for efficient verification of models at inference time.
+* Develop standards for efficient verification of integrity of models that
+  contain multiple formats in the same place
+* Develop standards for efficient verification of integrity of models at
+  inference time.
 
 To achieve these goals, we work on developing
 https://github.com/sigstore/model-transparency library as an OSS standard for ML
@@ -40,6 +41,12 @@ verification, and deployment (e.g., model signature format).
 
 * Developing a new model format
 * Handling security of ML outputs
+* Asserting and verifying any properties related to the ML lifecycle, including
+  but not limited to: data bias, data quality, security of the training
+  pipeline, potential misuses of the model.
+
+The project's goal are only related to the integrity of the model bytes.
+Anything outside of this is out of scope.
 
 ### OpenSSF Mission Alignment
 
@@ -90,6 +97,7 @@ The project should provide a list of existing resources with links to the reposi
 | Reference          | URL |
 |--------------------|-----|
 | Main Repository    | TODO |
+| Meeting Agenda     | https://docs.google.com/document/d/18oAsfhfKJurH-YTUFe520CAZS3lkORX1WnZmBv4Llkc/edit#heading=h.etrsjlz02gla |
 | Contributing guide | TODO |
 | Security.md        | TODO |
 | Roadmap            | TODO |
