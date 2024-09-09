@@ -15,7 +15,7 @@
 - Participate in community events to raise awareness of OpenSSF tools and standards among project maintainers
 - Plans to engage & recruit community members 
 - Be available and responsive to OpenSSF staff for consulting early and often on operational plans,  issues and communications that have direct or indirect impact on OpenSSF community
-- Be available and responsive to leaders of “adjacent” initiatives (i.e. Alpha/Omega, GNU Toolchain) for early and oftern changes in strategy, roadmap, and press releases, etc
+- Be available and responsive to leaders of “adjacent” initiatives (i.e. Alpha/Omega, GNU Toolchain) for early and often changes in strategy, roadmap, and press releases, etc
 
 - TAC and Technical Initiative meetings shall be open, public meetings. For special circumstances, the TAC may hold meetings limited to the TAC voting representatives, invited guests, and LF staff
 - Annually elect a Chairperson who will preside over meetings, set the agenda for meetings, ensure meeting minutes are taken, and serve on the Governing Board as the TAC’s representative (the “TAC Representative”)
