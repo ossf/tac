@@ -9,7 +9,11 @@ The WG must have a minimum of 1 Chair
 
 ### Working Group (WG) has met all Sandbox requirement
 
-* Applying directly to Incubating
+* Applying directly to Incubating, but we have met Sandbox requirements, as
+  listed below
+  * Proposal of scope has been reviewed by TAC: [#175](https://github.com/ossf/tac/issues/175) (and [#188](https://github.com/ossf/tac/issues/188) to ensure limited overlap)
+  * At least 3 interested individuals, from 2 different organizations supporting the proposal. See list of regular contributors in the next section
+  * 1 TAC sponsor. Originally Dan Appelquist, now Jay White
 
 ### List of regular contributors
 
