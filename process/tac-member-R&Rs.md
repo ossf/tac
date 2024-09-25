@@ -21,4 +21,4 @@
 - Annually elect a Chairperson who will preside over meetings, set the agenda for meetings, ensure meeting minutes are taken, and serve on the Governing Board as the TAC’s representative (the “TAC Representative”)
   
 - Time commitment: average 5+ hours per week
-- If unable to continue fulfilling committed Technical Initiative sponsor role, another TAC member available to take over the sponsor role should be identified and transitioned into the role.
+- Must inform the TAC if unable to continue fulfilling committed Technical Initiative sponsor role, so that a new sponsor can be identified and transitioned into the role.
