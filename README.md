@@ -28,15 +28,14 @@ Meetings are also recorded and posted to the [OpenSSF YouTube channel](https://w
 | ---------------- | :--------: | ------------------------------ | ------------ | --------------------------|
 | Arnaud J Le&nbsp;Hors | Vice Chair | lehors@us.ibm.com              | IBM          | January 2024 - December 2025 |
 | Bob Callaway     |  | bcallaway@google.com           | Google       | January 2024 - December 2024\*  |
-| Christopher "CRob" Robinson    | Chair | christopher.robinson@intel.com | Intel        |  January 2024 - December 2024\* |
 | Dan Appelquist   |  | dan@torgo.com                  | Samsung         | January 2024 - December 2024 |
 | Michael Lieberman|  | mike@kusari.dev                | Kusari       | January 2024 - December 2024 |
-| Zach Steindler   |  | steiza@github.com              | GitHub       | January 2024 - December 2024 |
+| Zach Steindler   | Chair | steiza@github.com         | GitHub       | January 2024 - December 2024 |
 | Marcela Melara   |  | marcela.melara@intel.com       | Intel        | January 2024 - December 2025 |
 | Sarah Evans      |  | sarah.evans@dell.com           | Dell         | January 2024 - December 2024\* |
 | Jautau "Jay" White || jaywhite@microsoft.com         | Microsoft    | January 2024 - December 2025 |
 
-NOTE: \* marked entries denote OpenSSF Governing Board appointed members, others are community elected.
+NOTE: \* marked entries denote OpenSSF Governing Board appointed members, others are community elected. There is currently 1 vacant Governing Board appointed seat.
 
 ## Charter
 
