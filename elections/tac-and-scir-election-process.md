@@ -94,20 +94,32 @@ About 10 months after the previous cycle, a committee of Election Officials will
 
 ### 2025 Timeline
 
- * September 30 - Send call for volunteers to serve as Election Officials in email and on Slack.
- * October 7 - Send reminder of call for volunteers.
- * October 14 - Self-Nomination and Voter registration period starts. Send call for nominees and eligible voters in email and on Slack.
- * October 21 - Send reminder of call for nomination and registration.
- * October 27 - Self-Nomination and Voter registration period ends at the End of Day US Pacific.
- * October 28 - November 3 - Validation period.
- * November 4 - Voting starts. Slate of candidates is formally announced. All registered voters are sent a ballot.
- * November 17 - Voting ends at the End of Day US Pacific.
- * November 18 - Results are announced, appointment starts. An email is sent to all GB members informing them of the vote, the results from the community election, and to look for a separate email with the ballot.
- * November 23 - Send email reminder to GB members.
- * December 1 - Voting ends at the End of Day US Pacific.
- * December 2 - Results are announced, election of the Chair and Vice Chair starts
- * December 17 - Chair and Vice Chair election results are announced
- * New members seated: January 1
+**Community Self-Nomination & Security Community Individual Representative (SCIR) Election Timeline**
+
+| Date | Action |
+| :--- | :--- |
+| October 14 | Self-Nomination and Voter registration period starts. Send call for nominees and eligible voters in email and on Slack.|
+| October 27 | Self-Nomination and Voter registration period ends, 11:59 pm PDT
+| October 28 - November 1 | Validation Period of nominee submissions
+| November 4 | Slate of respective nominees and ballot or link to an electronic voting system sent to registered voters.
+| November 17 | The voting period ends at 11:59 pm PDT
+| November 18 | The election winners announced
+
+[Community Election Self-Nomination Form](https://forms.gle/kanWZDrpT3dT79gD9)
+[SCIR Self-Nomination Form](https://forms.gle/2wzS6hgXQoiTxXKn9)
+
+
+**Governing Board Appointed Seat Timeline**
+
+| Date | Action |
+| :--- | :--- |
+| November 4 | The Governing Board-appointed TAC representative period starts. Send call for nominees to governing board members including the list of validated self-nominations.|
+| November 19 | Nomination period ends, 11:59 pm PDT
+| November 20 | Slate of respective nominees and ballot or link to an electronic voting system sent to Governing Board Members.
+| December 2 | The voting period ends at 11:59 pm PDT
+| December 3 | The GB-appointed TAC representatives announced
+
+ **New members seated: January 1**
 
 
 ## Voter Registration form
