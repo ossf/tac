@@ -106,6 +106,7 @@ About 10 months after the previous cycle, a committee of Election Officials will
 | November 18 | The election winners announced
 
 [Community Election Self-Nomination Form](https://forms.gle/kanWZDrpT3dT79gD9)
+
 [SCIR Self-Nomination Form](https://forms.gle/2wzS6hgXQoiTxXKn9)
 
 
@@ -113,16 +114,15 @@ About 10 months after the previous cycle, a committee of Election Officials will
 
 | Date | Action |
 | :--- | :--- |
-| November 4 | The Governing Board-appointed TAC representative period starts. Send call for nominees to governing board members including the list of validated self-nominations.|
-| November 19 | Nomination period ends, 11:59 pm PDT
-| November 20 | Slate of respective nominees and ballot or link to an electronic voting system sent to Governing Board Members.
-| December 2 | The voting period ends at 11:59 pm PDT
-| December 3 | The GB-appointed TAC representatives announced
+| November 18 | The GB-appointed TAC representative period starts. An email is sent to all GB members informing them of the vote, the results from the community election, and to look for a separate email with the ballot.|
+| November 23 | Send an email reminder to GB members.
+| December 1 | The voting period ends at 11:59 pm PST
+| December 2 | The GB-appointed TAC representatives announced
 
  **New members seated: January 1**
 
 
 ## Voter Registration form
 
-The electorate can request a ballot by filling out this [Google form](https://forms.gle/7suYexAnPxndvX856).
+The electorate can request a ballot by filling out this [Google Form](https://forms.gle/2FofZgurk8GzZb7h7).
 
