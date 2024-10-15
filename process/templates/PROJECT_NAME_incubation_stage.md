@@ -35,6 +35,10 @@ Project is integrated into the OpenSSF Scorecard
 When contributing an existing Project to the OpenSSF, the contribution must undergo license and IP due diligence by the Linux Foundation (LF). This step is only needed for the initial donation and only applicable here, if the project intends to join the OpenSSF Incubation stage.
   * "yes / no / not applicable. If yes, provide a link to the corresponding GitHub issue."
 
+### Security Baseline
+
+The project must meet the "[Security Baseline - To Become Incubating](https://github.com/ossf/tac/blob/308c777124a05f1903301400653f1a7a944bd7be/process/security_baseline.md#baseline---to-become-incubating)" requirements.
+
 ### Project References
 The project should provide a list of existing resources with links to the repository, website, a roadmap, contributing guide, demos and walkthroughs, and any other material to showcase the existing breadth, maturity, and direction of the project.
 
