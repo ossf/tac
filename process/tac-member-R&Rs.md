@@ -5,7 +5,7 @@
 - Establish and drive an overall Technical Vision aligned with the Foundation's MVSR for the community 
 - Regularly attend TAC meetings, participate in discussions, voting, and ad-hoc meetings as needed to support Technical Initiatives
 - Approve, establish, structure, organize, and archive Technical Initiatives and associated policies and procedures; identify gaps that require new Technical Initatives and advocate to close those gaps in the open source community; if a need for shared services that benefits stakeholders is identified by the community, communicate with the governing board to evaluate services on a case-by-case basis
-- Review and engage on open Github Issues and Pull Requests in advance of upcoming TAC meetings
+- Review and engage on open Github Issues and Pull Requests in advance of upcoming TAC meetings. Prior to each TAC meeting, review open pull requests, with the goal to approve or provide active comments and feedback preventing approval. Between TAC meetings comment on open Issues, seeking to drive Issue resolution on behalf of the community for open Issues in a timely manner.  
 - Provide sponsorship and guidance to new Technical Initiatives that petition to join or be created within OpenSSF
   - Sponsorship includes ensuring Technical Initiatives operate within the scope of the OpenSSF and adhere to OpenSSF code of conduct, legal and IP policies. Sponsors also reserve the right to consult with the rest of the TAC to raise any concerns about an Initiative's operations or conduct.
  - Participate in Technical Initiatives regularly to ensure alignment with the Technical Vision and MVSR of OpenSSF, and to identify any resource or funding requirements
