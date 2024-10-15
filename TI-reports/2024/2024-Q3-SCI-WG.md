@@ -48,7 +48,7 @@ v1.1 (soon!) with an updated threat model and minor clarifications
 
 Source Track in draft
 
-Hardware Attestations Track in development
+Attested Build Environments Track in development
 
 Dependencies Track work beginning
 
