@@ -37,13 +37,14 @@ and many others
 
 The WG must have a charter or mission statement for review by TAC
 
+* https://github.com/ossf/ai-ml-security/blob/main/CHARTER.md
 * https://github.com/ossf/ai-ml-security/blob/main/mvsr.md
 
 ### Governance
 
 WG must have documented, initial group governance.
 
-* https://github.com/ossf/ai-ml-security/blob/main/doc/CHARTER.md
+* https://github.com/ossf/ai-ml-security/blob/main/README.md#wg-leadership
 
 WG must have met publicly at least 5 times in the last quarter since becoming
 Sandbox
@@ -53,12 +54,12 @@ Sandbox
 
 WG must have defined Contributor Guide
 
-* https://github.com/ossf/ai-ml-security?tab=readme-ov-file#how-to-participate
+* https://github.com/ossf/ai-ml-security/blob/main/README.md#how-to-participate
 
  Reference              | URL |
 |-----------------------|-----|
 | Repo                  | https://github.com/ossf/ai-ml-security |
 | Meeting Agenda        | https://docs.google.com/document/d/1YNP-XJ9jpTjM6ekKOBgHH8-avAws2DVKeCpn858siiQ/edit |
-| Contributing guide    | https://github.com/ossf/ai-ml-security?tab=readme-ov-file#how-to-participate |
+| Contributing guide    | https://github.com/ossf/ai-ml-security/blob/main/README.md#how-to-participate |
 | Security.md           | https://github.com/ossf/ai-ml-security/blob/main/SECURITY.md |
 | code-of-conduct.md    | https://github.com/ossf/ai-ml-security/blob/main/code-of-conduct.md |
