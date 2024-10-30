@@ -99,11 +99,11 @@ About 10 months after the previous cycle, a committee of Election Officials will
 | Date | Action |
 | :--- | :--- |
 | October 14 | Self-Nomination and Voter registration period starts. Send call for nominees and eligible voters in email and on Slack.|
-| October 27 | Self-Nomination and Voter registration period ends, 11:59 pm PDT
-| October 28 - November 1 | Validation Period of nominee submissions
-| November 4 | Slate of respective nominees and ballot or link to an electronic voting system sent to registered voters.
-| November 17 | The voting period ends at 11:59 pm PDT
-| November 18 | The election winners announced
+| November 6 | Self-Nomination and Voter registration period ends, 11:59 pm PDT
+| November 7 - November 8 | Validation Period of nominee submissions
+| November 11 | Slate of respective nominees and ballot or link to an electronic voting system sent to registered voters.
+| November 24 | The voting period ends at 11:59 pm PDT
+| November 25 | The election winners announced
 
 [Community Election Self-Nomination Form](https://forms.gle/kanWZDrpT3dT79gD9)
 
@@ -114,10 +114,10 @@ About 10 months after the previous cycle, a committee of Election Officials will
 
 | Date | Action |
 | :--- | :--- |
-| November 18 | The GB-appointed TAC representative period starts. An email is sent to all GB members informing them of the vote, the results from the community election, and to look for a separate email with the ballot.|
-| November 23 | Send an email reminder to GB members.
-| December 1 | The voting period ends at 11:59 pm PST
-| December 2 | The GB-appointed TAC representatives announced
+| November 25 | The GB-appointed TAC representative period starts. An email is sent to all GB members informing them of the vote, the results from the community election, and to look for a separate email with the ballot.|
+| December 1 | Send an email reminder to GB members.
+| December 8 | The voting period ends at 11:59 pm PST
+| December 15 | The GB-appointed TAC representatives announced
 
  **New members seated: January 1**
 
