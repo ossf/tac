@@ -110,7 +110,7 @@ SIGs can be created and managed without formal approval from the TAC. The follow
 | Python Hardening       | https://github.com/ossf/wg-best-practices-os-developers/tree/main/docs/Secure-Coding-Guide-for-Python | Best Practices WG | TBD | TBD |
 | Security Baseline      | https://github.com/ossf/security-baseline              | Best Practices WG            | TBD | TBD |
 | SBOM Everywhere        | https://github.com/ossf/sbom-everywhere                | Security Tooling WG          | TBD | TBD |
-| OSS Fuzzing            | https://github.com/ossf/wg-security-tooling?tab=readme-ov-file#oss-fuzzing-sig | Security Tooling WG | TBD TBD |
+| OSS Fuzzing            | https://github.com/ossf/wg-security-tooling?tab=readme-ov-file#oss-fuzzing-sig | Security Tooling WG | TBD | TBD |
 
 ### Overview Diagrams
 
