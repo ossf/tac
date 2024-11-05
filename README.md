@@ -100,7 +100,7 @@ The following Technical Initiatives have been approved by the TAC. You may learn
 
 SIGs can be created and managed without formal approval from the TAC. The following is for information purpose only.
 
-| Name                       | Repository/Home Page | Notes                                                                                                 | Governing Org | Status     |
+| Name                       | Repository/Home Page | Governing Org                                                                                                 | Notes | Status     |
 | ---------------------- | ---------------------------------------- | ----------------------------------------------------------------------------------------------------- | -------------- |---------- |
 | CVD Guides             | https://github.com/ossf/oss-vulnerability-guide        | Vulnerability Disclosures WG | TBD | TBD |
 | OpenVEX                | https://github.com/ossf/OpenVEX                        | Vulnerability Disclosures WG | TBD | TBD |
