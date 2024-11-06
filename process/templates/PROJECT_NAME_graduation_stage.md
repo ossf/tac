@@ -41,7 +41,11 @@ When applicable, projects must have completed a security audit through a third p
 
 ### Security Baseline
 
-The project must meet the "[Security Baseline - To Become Graduated](https://github.com/ossf/tac/blob/main/process/security_baseline.md#security-baseline---to-become-graduated)" requirements.
+The project must meet all applicable Security Baseline requirements:
+ * [Security Baseline - Once Sandbox](https://github.com/ossf/tac/blob/main/process/security_baseline.md#security-baseline---once-sandbox)
+ * [Security Baseline - To Become Incubating](https://github.com/ossf/tac/blob/main/process/security_baseline.md#security-baseline---to-become-incubating)
+ * [Security Baseline - Once incubating](https://github.com/ossf/tac/blob/main/process/security_baseline.md#security-baseline---once-incubating)
+ * [Security Baseline - To Become Graduated](https://github.com/ossf/tac/blob/main/process/security_baseline.md#security-baseline---to-become-graduated)
 
 ### Project References
 The project must provide a list of existing resources with links to the repository, website, a roadmap, contributing guide, demos and walkthroughs, and any other material to showcase the existing breadth, maturity, and direction of the project.
