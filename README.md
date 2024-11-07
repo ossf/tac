@@ -51,38 +51,37 @@ The following Technical Initiatives have been approved by the TAC. You may learn
 
 | Name                         | Repository                                              | Notes                                                                                                  | Status     |
 | ---------------------------- | ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | ---------- |
-| Vulnerability Disclosures      | https://github.com/ossf/wg-vulnerability-disclosures    | [Meeting Notes](https://github.com/ossf/wg-vulnerability-disclosures/tree/main/docs/meeting-notes)     | [Graduated](process/wg-lifecycle-documents/Vuln_Disc_wg_graduation_stage.md) |
+| Vulnerability Disclosures      | https://github.com/ossf/wg-vulnerability-disclosures    | [Meeting Notes](https://docs.google.com/document/d/1AXkapzjZ-SxwcBN7rZeSstkzdapd3sbzfHDxz6A59Ic/edit)     | [Graduated](process/wg-lifecycle-documents/Vuln_Disc_wg_graduation_stage.md) |
 | Security Tooling               | https://github.com/ossf/wg-security-tooling             | [Meeting Notes](https://docs.google.com/document/d/1bFpHEbbEUf2rWiYXQY7cGg1HrmI9TqwaD8U_3Hi9A8I/edit) | Incubating |
-| Security Best Practices        | https://github.com/ossf/wg-best-practices-os-developers | [Meeting Notes](https://github.com/ossf/wg-best-practices-os-developers/blob/main/meeting-minutes.md)  | [Graduated](process/wg-lifecycle-documents/BEST_practices_wg_graduation_stage.md)  |
-| Metrics & Metadata             | https://github.com/ossf/wg-metrics-and-metadata         | [Meeting Notes](https://docs.google.com/document/d/14_ILDhSK3ymKqUTQeQBRgJKgfiy_ePoGZIe8s7p3K5E/edit)  | Incubating |
-| Securing Critical Projects     | https://github.com/ossf/wg-securing-critical-projects   | [Meeting Notes](https://docs.google.com/document/d/1GFslP6elYCx27TUitdigDr1gsOItYkL0Vq7hTB9y4Lo/edit)  | [Incubating](process/wg-lifecycle-documents/securing_critical_projects_incubating_stage.md) |
-| Supply Chain Integrity         | https://github.com/ossf/wg-supply-chain-integrity       | [Meeting Notes](https://docs.google.com/document/d/1xPs2sSbH3I9Ich7OyLOzl85oJshnK8Q6WoAgREE5-zA/edit)  | Incubating |
-| Securing Software Repositories | https://github.com/ossf/wg-securing-software-repos      | [Meeting Notes](https://docs.google.com/document/d/1-f6m442MHg9hktrbcp-4sM9GbZC3HLTpZPpxMXjMCp4/edit)  | [Graduated](process/wg-lifecycle-documents/Securing_software_repositories_graduation_stage.md) |
-| End Users                      | https://github.com/ossf/wg-endusers                     | [Meeting Notes](https://docs.google.com/document/d/1abI65H4pF5y8YtA2_TuDBAaI47v9mTfpr5mwVvccX_I/edit)  | Incubating |
-| Diversity, Equity, & Inclusion | https://github.com/ossf/wg-dei                          | [Meeting Notes](https://docs.google.com/document/d/1Ba_NJWWlsbTn2kVoBFpnMFMmdez9yJrHayocaxKkjaY/edit)  | Incubating |
+| Security Best Practices        | https://github.com/ossf/wg-best-practices-os-developers | [Meeting Notes](https://docs.google.com/document/d/1JY8FREBPCUUFpuv7-4B9EjeS2MLDpel0dbG5DFWrTns/edit)  | [Graduated](process/wg-lifecycle-documents/BEST_practices_wg_graduation_stage.md)  |
+| Securing Critical Projects     | https://github.com/ossf/wg-securing-critical-projects   | [Meeting Notes](https://docs.google.com/document/d/1j_efLVDXGoKgfHHZbJtpBxd_Gso1ghHBdK3NfEVc15o/edit)  | [Incubating](process/wg-lifecycle-documents/securing_critical_projects_incubating_stage.md) |
+| Supply Chain Integrity         | https://github.com/ossf/wg-supply-chain-integrity       | [Meeting Notes](https://docs.google.com/document/d/1moVFPn5pLi-uGs840_YBCrwdpHajU0ptFmlL4F9GryQ/edit)  | Incubating |
+| Securing Software Repositories | https://github.com/ossf/wg-securing-software-repos      | [Meeting Notes](https://docs.google.com/document/d/1HzA4M4toiExUYQAkuLqimy4EuuunHagUQ7rZKJDb1Os/edit)  | [Graduated](process/wg-lifecycle-documents/Securing_software_repositories_graduation_stage.md) |
+| Diversity, Equity, & Inclusion | https://github.com/ossf/wg-dei                          | [Meeting Notes](https://docs.google.com/document/d/1zGTOJdFVIMnixT3EFQ6_bbQ0iy7f4Z4TxhX9A5VY9TM/edit)  | Incubating |
 | AI/ML Security                 | https://github.com/ossf/ai-ml-security                  | [Meeting Notes](https://docs.google.com/document/d/1YNP-XJ9jpTjM6ekKOBgHH8-avAws2DVKeCpn858siiQ/edit)  | Incubating |
 
 ### Projects
 
 | Name                       | Repository/Home Page | Notes                                                                                                 | Sponsoring Org | Status     |
 | ---------------------- | ---------------------------------------- | ----------------------------------------------------------------------------------------------------- | -------------- |---------- |
-| Allstar                | https://github.com/ossf/allstar                  | [Meeting Notes](https://docs.google.com/document/d/1b6d3CVJLsl7YnTE7ZaZQHdkdYIvuOQ8rzAmvVdypOWM/edit?usp=sharing) | Securing Critical Projects WG               | TBD        |
 | Best Practices Badge   | https://github.com/coreinfrastructure/best-practices-badge | [Mailing list](https://lists.coreinfrastructure.org/mailman/listinfo/cii-badges) | Best Practices WG   | TBD        |
 | Bomctl   | https://github.com/bomctl/bomctl | [Meeting Notes](https://docs.google.com/document/d/1QAKJZmjlN_Ji4qrwUn-iJdW84dc3JPKapIX450tAVzQ/edit?usp=sharing) | Security Tooling WG   | [Sandbox](process/project-lifecycle-documents/bomctl_sandbox_stage.md)        |
 | Criticality Score      | https://github.com/ossf/criticality_score        | [Meeting Notes](https://docs.google.com/document/d/1GFslP6elYCx27TUitdigDr1gsOItYkL0Vq7hTB9y4Lo/edit?usp=sharing) | Securing Critical Projects WG   | TBD        |
 | Fuzz Introspector      | https://github.com/ossf/fuzz-introspector        | [Meeting Notes](https://docs.google.com/document/d/1jzxhzIfkOMTagpeFWYoZpMKwHYeO4Gc7Eq5FcMFEw2c/edit?usp=sharing) | Security Tooling WG            | TBD        |
 | GUAC                   | https://guac.sh                  | [Meeting Notes](https://docs.google.com/document/d/1ImSlr_t3WNZ3zWqpmfqkw1mi6_nkv3enkQ7snWDomKA/edit)  | Supply Chain Integrity WG | [Incubating](process/project-lifecycle-documents/guac_incubating.md) |
 | gittuf | https://github.com/gittuf/gittuf | TBD | Supply Chain Integrity WG | [Sandbox](process/project-lifecycle-documents/gittuf_sandbox_stage.md) |
+| OpenSSF Scorecard | https://github.com/ossf/scorecard                | [Meeting Notes](https://docs.google.com/document/d/1b6d3CVJLsl7YnTE7ZaZQHdkdYIvuOQ8rzAmvVdypOWM/edit?usp=sharing) | Best Practices WG | [Incubating](/process/project-lifecycle-documents/openssf_scorecard_incubating_stage.md) |
+| OpenSSF Scorecard — Allstar | https://github.com/ossf/allstar | [Meeting Notes](https://docs.google.com/document/d/1b6d3CVJLsl7YnTE7ZaZQHdkdYIvuOQ8rzAmvVdypOWM/edit?usp=sharing) | Best Practices WG |  |
 | OpenVEX | https://github.com/openvex | [Meeting Notes](https://docs.google.com/document/d/1C-L0JDx5O35TjXb6dcyL6ioc5xWUCkdR5kEbZ1uVQto/edit) | Vulnerability Disclosures WG | [Sandbox](process/project-lifecycle-documents/openvex_for_sandbox_stage.md) |
 | OSV Schema             | https://github.com/ossf/osv-schema               | [Meeting Notes](https://docs.google.com/document/d/1jzqhW9SK9QRA39fQz0RiAkvpRWB0xztt1TAFJEseTlA/edit?usp=sharing) | Vulnerability Disclosures WG   | TBD        |
-| Model signing          | TBD (to be created) | [Meeting Notes](https://docs.google.com/document/d/18oAsfhfKJurH-YTUFe520CAZS3lkORX1WnZmBv4Llkc/edit)  | AI/ML Security WG | [Sandbox](process/project-lifecycle-documents/model_signing_sandbox_stage.md) |
+| Minder                 | https://github.com/mindersec/minder         | New project for inclusion                                                                                         | Security Tooling WG            | [Sandbox](process/project-lifecycle-documents/minder_sandbox_stage.md) |
+| Model signing          | https://github.com/sigstore/model-transparency/blob/main/README.model_signing.md | [Meeting Notes](https://docs.google.com/document/d/18oAsfhfKJurH-YTUFe520CAZS3lkORX1WnZmBv4Llkc/edit)  | AI/ML Security WG | [Sandbox](process/project-lifecycle-documents/model_signing_sandbox_stage.md) |
 | Package Analysis       | https://github.com/ossf/package-analysis         | [Meeting Notes](https://docs.google.com/document/d/1GFslP6elYCx27TUitdigDr1gsOItYkL0Vq7hTB9y4Lo/edit) | Securing Critical Projects WG   | TBD        |
 | Package Feeds          | https://github.com/ossf/package-feeds            | [Meeting Notes](https://docs.google.com/document/d/1GFslP6elYCx27TUitdigDr1gsOItYkL0Vq7hTB9y4Lo/edit) | Securing Critical Projects WG   | TBD        |
-| Protobom | http://github.com/bom-squad/protobom | [Meeting Notes](https://docs.google.com/document/d/1bz2BBImzSnLRiBLrA5GehQ0ckW3Vs7Gmtt8R-Olm0QY/edit)  | Security Tooling WG | [Sandbox](process/project-lifecycle-documents/protobom_sandbox_stage.md) |
+| Protobom | https://github.com/protobom/protobom | [Meeting Notes](https://docs.google.com/document/d/1bz2BBImzSnLRiBLrA5GehQ0ckW3Vs7Gmtt8R-Olm0QY/edit)  | Security Tooling WG | [Sandbox](process/project-lifecycle-documents/protobom_sandbox_stage.md) |
 | Repository Service for TUF | https://github.com/repository-service-tuf/repository-service-tuf |  [Meeting Notes](https://docs.google.com/document/d/13a_AtFpPK9WO4PlAN6ciD-G1jiBU3gEDtRD1OUinUFY/edit)  | Securing Software Repositories WG | [Incubating](process/project-lifecycle-documents/repository_service_for_tuf_incubation_stage.md) |
 | S2C2F                  | https://github.com/ossf/s2c2f                    | [Meeting Notes](https://docs.google.com/document/d/10Q_VOvKsGaYJoK-5yJY4868mTkYZjEo-6xV6ghYS84k/edit#heading=h.1tv8gumsrtbf) | Supply Chain Integrity WG  | [Incubating](process/project-lifecycle-documents/s2c2f_incubation_stage.md)      |
 | SBOMit                 | https://github.com/sbomit                        | [Meeting Notes](https://docs.google.com/document/d/1-nHXMqvWNzgOxAq08O8Wu2BTHz0U60yBoAklrJAMaRc/edit?usp=sharing) | Security Tooling WG             | [Sandbox](process/project-lifecycle-documents/SBOMit_sandbox_stage.md)    |
-| Scorecard              | https://github.com/ossf/scorecard                | [Meeting Notes](https://docs.google.com/document/d/1b6d3CVJLsl7YnTE7ZaZQHdkdYIvuOQ8rzAmvVdypOWM/edit?usp=sharing) | Best Practices WG               | TBD        |
 | Security Insights Spec | https://github.com/ossf/security-insights-spec   | [Meeting Notes](https://docs.google.com/document/d/14_ILDhSK3ymKqUTQeQBRgJKgfiy_ePoGZIe8s7p3K5E/edit?usp=sharing) | Metrics & Metadata WG           | TBD        |
 | Security Metrics       | https://github.com/ossf/Project-Security-Metrics | [Meeting Notes](https://docs.google.com/document/d/14_ILDhSK3ymKqUTQeQBRgJKgfiy_ePoGZIe8s7p3K5E/edit#heading=h.apj7ueyomk4r) | Metrics & Metadata WG | Archived        |
 | Sigstore               | https://github.com/sigstore                      | [Meeting Notes](https://docs.google.com/document/d/1bsl-Y0KulSD7O_nTekad1sAKOVRb80wyGb-Q5x-zdg0/edit) | OpenSSF TAC    | [Graduated](process/project-lifecycle-documents/sigstore_graduated_stage.md)        |
@@ -97,12 +96,21 @@ The following Technical Initiatives have been approved by the TAC. You may learn
 | Core Toolchain Infrastructure | https://git.coretoolchain.dev/     | TBD   | TBD    |
 | Alpha Omega                  | https://github.com/ossf/alpha-omega | TBD   | TBD    |
 
-### Special Interest Groups (SIGs) - *To Be Completed*
+### Special Interest Groups (SIGs)
 
 SIGs can be created and managed without formal approval from the TAC. The following is for information purpose only.
 
-| Name                       | Repository/Home Page | Notes                                                                                                 | Governing Org | Status     |
+| Name                       | Repository/Home Page | Governing Org                                                                                                 | Notes | Status     |
 | ---------------------- | ---------------------------------------- | ----------------------------------------------------------------------------------------------------- | -------------- |---------- |
+| CVD Guides             | https://github.com/ossf/oss-vulnerability-guide        | Vulnerability Disclosures WG | TBD | TBD |
+| OpenVEX                | https://github.com/ossf/OpenVEX                        | Vulnerability Disclosures WG | TBD | TBD |
+| Education              | https://github.com/ossf/education                      | Best Practices WG            | TBD | TBD |
+| Memory Safety          | https://github.com/ossf/Memory-Safety                  | Best Practices WG            | TBD | TBD |
+| C/C++ Compiler Options | https://github.com/ossf/wg-best-practices-os-developers/tree/main/docs/Compiler-Hardening-Guides | Best Practices WG | TBD | TBD |
+| Python Hardening       | https://github.com/ossf/wg-best-practices-os-developers/tree/main/docs/Secure-Coding-Guide-for-Python | Best Practices WG | TBD | TBD |
+| Security Baseline      | https://github.com/ossf/security-baseline              | Best Practices WG            | TBD | TBD |
+| SBOM Everywhere        | https://github.com/ossf/sbom-everywhere                | Security Tooling WG          | TBD | TBD |
+| OSS Fuzzing            | https://github.com/ossf/wg-security-tooling?tab=readme-ov-file#oss-fuzzing-sig | Security Tooling WG | TBD | TBD |
 
 ### Overview Diagrams
 
