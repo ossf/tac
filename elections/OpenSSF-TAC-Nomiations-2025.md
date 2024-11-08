@@ -106,7 +106,6 @@ Company:  Ericsson
    Serving on the TAC and leveraging the experience gained through my involvement in the community, I’d like to work towards two goals: i) growing the technical community by strengthening our efforts to address the practical needs open source developers and project maintainers, and ii) fostering the development of methods and tools which help organizations to achieve compliance to upcoming cyber security regulation.
    </td>
   </tr>
- </tr>
     <tr>
    <td>Michael Scovetta
    </td>
