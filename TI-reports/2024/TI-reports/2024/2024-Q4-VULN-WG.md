@@ -25,7 +25,7 @@ The Vulnerability Disclosure Working group is officially a [Graduated-level](htt
 ### Leads	
 - WG - Madison Oliver (Github) & CRob (OpenSSF)
 - OpenVEX - Puerco (Stacklock)
-- OSV - Adrew Pollock (Google)
+- OSV - Oliver Chang (Google)
 
 ## Activity
 ### General Working Group Activities
