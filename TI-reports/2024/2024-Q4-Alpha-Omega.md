@@ -74,13 +74,6 @@ We continue to hold monthly public meetings (on the OpenSSF community calendar).
 
 Our 2024 Annual Report will be published in early January 2025.
 
-Some key opportunities to engage:
-
-* Our next monthly report is due out around July 5th.
-* Our next roundtable (for grant recipients and selected guests) will be held on July 25th.
-* Our next public meeting will be held on August 7th.
-* We'll have a roundtable at Open Source Summit EU in September and are planning to attend the LF Member Summit.
-
 ### Questions/Issues for the TAC
 
 No, but as always, we're eager for substantive discussion with TAC and others.
