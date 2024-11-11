@@ -10,7 +10,7 @@ The Vulnerability Disclosure Working group is officially a [Graduated-level](htt
 
 
 ### Key Resources
-- Coordinatd Vulnerability Disclosure (CVD) Guides [link](https://github.com/ossf/oss-vulnerability-guide)
+- Coordinated Vulnerability Disclosure (CVD) Guides [link](https://github.com/ossf/oss-vulnerability-guide)
 - Tabletop Exercise Resources [link](https://github.com/ossf/wg-vulnerability-disclosures/tree/main/docs/TTX)
 - Open Source Vulnerability (OSV) schema) [link](https://github.com/ossf/osv-schema)
 - OpenVEX schema & tools [link](https://github.com/ossf/OpenVEX)
