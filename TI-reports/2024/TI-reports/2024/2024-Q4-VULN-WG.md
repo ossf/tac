@@ -12,7 +12,7 @@ The Vulnerability Disclosure Working group is officially a [Graduated-level](htt
 ### Key Resources
 - Coordinated Vulnerability Disclosure (CVD) Guides [link](https://github.com/ossf/oss-vulnerability-guide)
 - Tabletop Exercise Resources [link](https://github.com/ossf/wg-vulnerability-disclosures/tree/main/docs/TTX)
-- Open Source Vulnerability (OSV) schema) [link](https://github.com/ossf/osv-schema)
+- Open Source Vulnerability (OSV) schema [link](https://github.com/ossf/osv-schema)
 - OpenVEX schema & tools [link](https://github.com/ossf/OpenVEX)
 - Guide for Open Source Projects to become a CNA [link](https://github.com/ossf/wg-vulnerability-disclosures/blob/main/docs/guides/becoming-a-cna-as-an-open-source-org-or-project.md)
 - SIREN Mailing List [link](https://github.com/ossf/wg-vulnerability-disclosures/blob/main/docs/SIREN/siren-FAQ.md)
