@@ -36,7 +36,7 @@ The Vulnerability Disclosure Working group is officially a [Graduated-level](htt
 
 ### CVD Guides
 #### Purpose
-- Best practices guides forcused on assorted OSS personas explaining how to have more effective coorindated vulnerability disclosure processes.
+- Best practices guides focused on assorted OSS personas explaining how to have more effective coordinated vulnerability disclosure processes.
 #### Current Status
 - nothing at this time
 #### Up Next
