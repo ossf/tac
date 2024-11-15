@@ -1,5 +1,6 @@
 # OpenSSF TAC Changelog
 
+* 2024-11-07: Add security baseline reqs to project lifecycle templates
 * 2024-10-22: Add TAC decision type for TI quarterly updates [#402](https://github.com/ossf/tac/pull/402)
 * 2024-08-20: Label Security Metric project as archived in README
 * 2024-08-15: Updated TI-Gives+Gets.md to clarify Logo entitlement based upon lifecycle stage vs. stage Badge usage [#373](https://github.com/ossf/tac/pull/373)
