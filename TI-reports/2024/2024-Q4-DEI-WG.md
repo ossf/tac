@@ -6,12 +6,12 @@ Chairs: [Marcela Melara](https://github.com/marcelamelara), [Yesenia Yser](https
 
 The DEI WG continues our mission to increase representation and strengthen
 the overall effectiveness of the cybersecurity workforce. The WG continues to
-see relatively low regular attendance in meetings, we are seeing increased
-engagement on Slack.
+see relatively low regular attendance in meetings (5 attendees on avg),
+we are seeing increased engagement on Slack.
 
 Over the past quarter, we've made progress in these areas:
 
-* Our monthly Community Office Hours have been regularly attracting X+ attendees.
+* Our monthly Community Office Hours have been regularly attracting 10+ attendees (on average).
 * Our meeting and Office Hours recordings are available on YouTube, improving access.
 
 ## Community Office Hours
@@ -44,6 +44,9 @@ We are planning one more Community Office Hour before the end of 2024
 continuing our theme of newcomer-oriented topics:
 
 * Dec 5: How to Grow Your Brand
+
+We are also in the process of [documenting Office Hour recaps](https://github.com/ossf/wg-dei/pull/9)
+to enhance our YouTube videos and/or be submitted as blog posts.
 
 Looking ahead to 2025, we plan to continue our series in January with
 a discussion on neurodiversity in OSS.
