@@ -13,6 +13,7 @@ Over the past quarter, we've made progress in these areas:
 
 * Our monthly Community Office Hours have been regularly attracting 10+ attendees (on average).
 * Our meeting and Office Hours recordings are available on YouTube, improving access.
+* We held a panel discussion at the Grace Hopper Conference '24.
 
 ## Community Office Hours
 
@@ -54,6 +55,52 @@ a discussion on neurodiversity in OSS.
 ### Questions/Issues for the TAC
 
 We welcome topic and speaker suggestions for the upcoming year!
+
+## Panel Discussions at Major Conferences
+
+### Purpose
+
+Members of the OpenSSF DEI WG community host panel discussions at major
+industry conferences to raise awareness about the WG and to engage with
+folks beyond the OpenSSF. A primary goal of the discussions is for
+panelists to share their experiences and advice for newcomers to the
+OSS and cybersecurity space.
+
+### Current Status
+
+Our most recent panel discussion, titled "Discover yourself through
+open source software security" was presented at the [Grace Hopper
+Conference 2024](https://ghc.anitab.org/session-catalog/?search=open%20source#/session/1717218936084001YJhG)
+in October. This session aimed to empower, educate, and inspire,
+providing attendees with actionable insights to thrive in open source
+communities.
+
+#### Summary
+
+Panelists: Tabatha DiDomenico, Glenda Gracia, Annika Peterson,
+Yesenia Yser.
+
+Moderator: Chujiao Ma
+
+The panel of open source advocates discussed each panelist's unique
+experiences of engaging with open-source projects, the challenges
+they faced, the milestones they achieved, and their substantial
+contributions to enhancing security in open-source software. The
+panelists also shared how their contributions have helped grow
+their skills and careers.
+
+The panelists represented industry organizations, participants in
+The Linux Foundation mentorship program, as well as contributors
+to open source via their daily role or in the volunteer space.
+Originally, the panel was set to be in person, however, the panel
+was moved into a virtual space due to Hurricane Milton,
+making it impossible for most panelists to travel.
+
+### Up Next
+
+Our panel discussions in 2024 have been well-received, so we intend
+to continue presenting the WG's activities at major industry
+conferences in 2025.
 
 ## 2025 Goals
 
