@@ -26,7 +26,7 @@ communities.
 
 ### Current Status
 
-Since July, our Community Office Hours series has focsed on topics especially
+Since July, our Community Office Hours series has focused on topics especially
 relevant to newcomers to OSS and the cybersecurity industry:
 
 * July 25: Getting Started in OSS and Cybersecurity (recording TBA)
@@ -66,7 +66,7 @@ tech tip they would like to share with the OpenSSF and beyond.
 While we had initially intended to begin this activity in August, the WG has
 decided to delay this activity to 2025 due to a number of factors.
 
-* **Mentorship**: Ahead of sumer 2025, the WG is seeking collaboration with
+* **Mentorship**: Ahead of summer 2025, the WG is seeking collaboration with
 other OpenSSF TIs to enroll in the [LFX mentorship program](https://lfx.linuxfoundation.org/tools/mentorship/). This will expose new and future
 contributors to OpenSSF efforts while also advancing our efforts. As part of
 this activity, the WG will likely also apply for funds to sponsor these
