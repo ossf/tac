@@ -10,12 +10,12 @@ The Vulnerability Disclosure Working group is officially a [Graduated-level](htt
 
 
 ### Key Resources
-- Coordinated Vulnerability Disclosure (CVD) Guides [link](https://github.com/ossf/oss-vulnerability-guide)
-- Tabletop Exercise Resources [link](https://github.com/ossf/wg-vulnerability-disclosures/tree/main/docs/TTX)
-- Open Source Vulnerability (OSV) schema [link](https://github.com/ossf/osv-schema)
-- OpenVEX schema & tools [link](https://github.com/ossf/OpenVEX)
-- Guide for Open Source Projects to become a CNA [link](https://github.com/ossf/wg-vulnerability-disclosures/blob/main/docs/guides/becoming-a-cna-as-an-open-source-org-or-project.md)
-- SIREN Mailing List [link](https://github.com/ossf/wg-vulnerability-disclosures/blob/main/docs/SIREN/siren-FAQ.md)
+- [Coordinated Vulnerability Disclosure (CVD) Guides](https://github.com/ossf/oss-vulnerability-guide)
+- [Tabletop Exercise Resources](https://github.com/ossf/wg-vulnerability-disclosures/tree/main/docs/TTX)
+- [Open Source Vulnerability (OSV) schema](https://github.com/ossf/osv-schema)
+- [OpenVEX schema & tools](https://github.com/ossf/OpenVEX)
+- [Guide for Open Source Projects to become a CNA](https://github.com/ossf/wg-vulnerability-disclosures/blob/main/docs/guides/becoming-a-cna-as-an-open-source-org-or-project.md)
+- [SIREN Mailing List](https://github.com/ossf/wg-vulnerability-disclosures/blob/main/docs/SIREN/siren-FAQ.md)
 
 ### Sub-groups
 - OpenVEX SIG - [link](https://github.com/ossf/OpenVEX)
