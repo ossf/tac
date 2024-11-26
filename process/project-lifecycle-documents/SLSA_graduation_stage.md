@@ -24,7 +24,7 @@ The project must be able to show adoption by multiple parties, which could be pr
 
 ### Release cadence
 The project must be able to show a consistent release cadence.
-  * "link to releases documentation"
+  * https://github.com/slsa-framework/slsa/tags
 
 ### Governance
 Projects must have documented project governance and be able to demonstrate that governance in action.
