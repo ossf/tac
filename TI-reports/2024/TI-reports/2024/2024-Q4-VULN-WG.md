@@ -18,7 +18,7 @@ The Vulnerability Disclosure Working group is officially a [Graduated-level](htt
 - [SIREN Mailing List](https://github.com/ossf/wg-vulnerability-disclosures/blob/main/docs/SIREN/siren-FAQ.md)
 
 ### Sub-groups
-- OpenVEX SIG - [link](https://github.com/ossf/OpenVEX)
+- [OpenVEX SIG](https://github.com/ossf/OpenVEX)
 
  
   
