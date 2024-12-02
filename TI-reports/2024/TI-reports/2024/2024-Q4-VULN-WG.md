@@ -54,7 +54,7 @@ The Vulnerability Disclosure Working group is officially a [Graduated-level](htt
 #### Purpose
 - A group dedicated to the transparent sharing of vulnerability data through open formats, like VEX, so that participatants throughout the open source software supply chain have clear signals and better understanding of the impact of security vulnerabilities to the software and components they produce, depend upon, consumer, and deliver.
 #### Current Status
--
+- No updates at this time
 #### Up Next
 -  
 
@@ -62,7 +62,7 @@ The Vulnerability Disclosure Working group is officially a [Graduated-level](htt
 #### Purpose
 - The OSV schema provides a human and machine readable data format to describe vulnerabilities in a way that precisely maps to open source package versions or commit hashes.
 #### Current Status
--
+- No Updates at this time
 #### Up Next
 -
 
