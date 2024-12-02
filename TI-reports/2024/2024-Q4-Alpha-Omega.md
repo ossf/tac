@@ -26,7 +26,7 @@ In addition, we can offer the following recent updates:
   discussing next steps, and will share details when we're able to.
 
 * **Engagement**: We recently expanded our engagement with Node.js to cover OpenJS, started an engagement with
-  Trail of Bits of improve PyPI's project-level lifecycle functionality, and kicked off a new type of engagement ("Beach Cleaning")
+  Trail of Bits to improve PyPI's project-level lifecycle functionality, and kicked off a new type of engagement ("Beach Cleaning")
   with Apache Airflow and its 700+ dependencies. We also renewed funding for the ClangBuiltLinux project, and kicked
   off work to bring Content Security Policy (CSP) to Jenkins, which will better protect Jenkins infrastructure from vulnerable plugins.
   Details about each of these engagement are available in our GitHub repository.
