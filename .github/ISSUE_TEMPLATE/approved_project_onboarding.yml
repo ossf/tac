@@ -1,0 +1,103 @@
+name: Approved Project Onboarding
+description: Onboarding of an approve OpenSSF Project
+title: "[Proposed Project]: <project name>"
+labels: "proposed-project"
+body:
+  - type: markdown
+    attributes:
+      value:
+        Please fill out the information below, to complete the project formation.
+
+  - type: input
+    id: approval_pr
+    attributes:
+      label: Approval Pull Request
+      description: Please provide the link to the merged approval PR
+      placeholder: PR Link
+    validations:
+      required: true
+  
+  - type: input
+    id: project-common-name
+    attributes:
+      label: Project Common Name
+      description: What is the common name of your project?
+      placeholder: Awesome Project
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Please provide a description of your project.
+    validations:
+      required: true
+
+  - type: textarea
+    id: mission-statement
+    attributes:
+      label: Mission Statement
+      description:  The mission statement should be a single sentence statement that begins with the words "The mission of the project is to..." and is followed by the primary purpose of the project or primary goal of the project.
+      placeholder: The mission of the project is to...
+    validations:
+      required: true
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      description: Select the category for your project.
+      options:
+        - Sandbox
+        - Incubating
+        - Graduating
+    validations:
+      required: true
+
+  - type: input
+    id: parent-project
+    attributes:
+      label: Parent Project / Working Group
+      description: What is the parent project or working group for this project?
+      placeholder: Example Working Group
+    validations:
+      required: true
+
+  - type: input
+    id: website
+    attributes:
+      label: Primary Website/Domain
+      description: What is the primary website or domain for this project?
+      placeholder: https://example.com
+
+  - type: input
+    id: repository-url
+    attributes:
+      label: Repository URL
+      description: What is the URL of the project's repository?
+      placeholder: https://github.com/example/project
+    validations:
+      required: true
+
+     - type: input
+    id: expected-announcement-date
+    attributes:
+      label: Expected Announcement Date
+      description: What is the expected announcement date for this project?
+   validations:
+      required: true
+
+  - type: dropdown
+    id: license
+    attributes:
+      label: Primary Open Source License
+      description: Select the primary open source license for your project.
+      options:
+        - Apache-2.0
+        - BSD-3-Clause
+        - MIT
+        - Other
+        - TBD / NA
+    validations:
+      required: true
