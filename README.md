@@ -59,6 +59,7 @@ The following Technical Initiatives have been approved by the TAC. You may learn
 | Securing Software Repositories | https://github.com/ossf/wg-securing-software-repos      | [Meeting Notes](https://docs.google.com/document/d/1HzA4M4toiExUYQAkuLqimy4EuuunHagUQ7rZKJDb1Os/edit)  | [Graduated](process/wg-lifecycle-documents/Securing_software_repositories_graduation_stage.md) |
 | Diversity, Equity, & Inclusion | https://github.com/ossf/wg-dei                          | [Meeting Notes](https://docs.google.com/document/d/1zGTOJdFVIMnixT3EFQ6_bbQ0iy7f4Z4TxhX9A5VY9TM/edit)  | Incubating |
 | AI/ML Security                 | https://github.com/ossf/ai-ml-security                  | [Meeting Notes](https://docs.google.com/document/d/1YNP-XJ9jpTjM6ekKOBgHH8-avAws2DVKeCpn858siiQ/edit)  | [Incubating](process/wg-lifecycle-documents/ai_ml_incubating_stage.md) |
+| Global Cyber Policy            | https://github.com/ossf/wg-globalcyberpolicy            | [Meeting Notes](https://drive.google.com/drive/folders/1FfWXtQTQe1XAOX0R_QaNamyGgKGLRaKW)              | [Sandbox](process/wg-lifecycle-documents/Global_Cyber_Policy_WG_sandbox_stage.md) |
 
 ### Projects
 
