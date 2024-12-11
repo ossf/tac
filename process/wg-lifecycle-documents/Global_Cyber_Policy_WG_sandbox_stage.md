@@ -10,6 +10,7 @@ The WG must have a minimum of 3 interested contributors from two different organ
   * Georg Kunz, Ericsson, [gkunz](https://github.com/gkunz)
   * Christian "fukami" Horchert, OpenSSF-LF, [ ]( )
   * Mirko Boehm, LF-Europe, [ ]( )
+  * Mike Bursell, CCC, [ ]( )
 
 
 ### Mission of the Working Group
@@ -35,7 +36,13 @@ The WG should provide a list of existing resources with links to the repository,
 
 | Reference           | URL |
 |---------------------|-----|
-| Repo                |  pending  - https://github.com/ossf/wg-globalcyberpolicy/ |
+| Repo                | https://github.com/ossf/wg-globalcyberpolicy/ |
 | Website             |  n/a at this time   |
 | Security.md         |  will use OSSF template once repo is created  |
-| Other               |     |
+| Mailing List        |  https://lists.openssf.org/g/openssf-wg-globalcyberpolicy |
+| GDrive              | https://drive.google.com/drive/folders/1FfWXtQTQe1XAOX0R_QaNamyGgKGLRaKW  |
+| Slack Channel       | #wg-globalcyberpolicy |
+| SIG mailing lists   | CRA Readiness+Awareness - https://lists.openssf.org/g/openssf-sig-cra-readiness |
+| SIG mailing lists   | CRA Tooling+Process+Formats - https://lists.openssf.org/g/openssf-sig-cra-tooling |
+| SIG mailing lists   | CRA Spec Standardization - https://lists.openssf.org/g/openssf-sig-cra-standards  |
+    |
