@@ -45,4 +45,3 @@ The WG should provide a list of existing resources with links to the repository,
 | SIG mailing lists   | CRA Readiness+Awareness - https://lists.openssf.org/g/openssf-sig-cra-readiness |
 | SIG mailing lists   | CRA Tooling+Process+Formats - https://lists.openssf.org/g/openssf-sig-cra-tooling |
 | SIG mailing lists   | CRA Spec Standardization - https://lists.openssf.org/g/openssf-sig-cra-standards  |
-    |
