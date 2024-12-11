@@ -18,7 +18,7 @@ The OpenSSF Labs provide OSS developers several benefits:
 facilitates cross-organization or -vendor collaboration.
 * The lowest barrier to starting brand new projects.
 * A dedicated GitHub repository, if starting a lab from scratch.
-* A streamlined transition into the [Sandbox] stage of the OpenSSF [project
+* A streamlined transition into the [Sandbox stage] of the OpenSSF [project
 lifecycle].
 
 ## Project Responsibilities
@@ -38,16 +38,18 @@ project.
 
 The TAC will periodically check on the activity of labs. Labs that have been
 inactive for an extended period (6+ months), or are explicitly suspended by
-the maintainers, will be marked as "archived" in GitHub.
+the maintainers, will be moved into the [Archived
+stage](templates/LAB_NAME_archived_stage.md).
 
-Archived labs are not actively maintained and read-only, and can be reactivated
-if there is interest in resuming work on a project.
+Archived lab repositories are not actively maintained and will be marked as
+"archived" (read-only) on GitHub. They can be reactivated if there is interest
+in resuming work on a project.
 
 ## New Lab Proposal Process
 
-1. Fork the <TBD> repo.
+1. Fork the `<TBD>` repo.
 
-2. Fill out the [proposal template](templates/LAB_NAME_lab.md)
+2. Fill out the [proposal template](templates/LAB_NAME_lab_stage.md)
    and save it into the `labs` subdirectory under the name of your lab,
    such as `coolnewproject_lab.md`.
    <br/>
@@ -82,7 +84,7 @@ if there is interest in resuming work on a project.
    automatically. You can also add it manually as part of your commit
    log message or add it afterwards with `git commit --amend -s`.
 
-5. Submit a Pull Request to the <TBD> repo.
+5. Submit a Pull Request to the `<TBD>` repo.
 
 The [OpenSSF TAC] will then review your proposal. Like sponsors, TAC members may
 but are not required to participate in ongoing work like contributing or
