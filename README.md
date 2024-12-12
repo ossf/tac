@@ -51,15 +51,16 @@ The following Technical Initiatives have been approved by the TAC. You may learn
 
 | Name                         | Repository                                              | Notes                                                                                                  | Status     |
 | ---------------------------- | ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | ---------- |
-| Vulnerability Disclosures      | https://github.com/ossf/wg-vulnerability-disclosures    | [Meeting Notes](https://docs.google.com/document/d/1AXkapzjZ-SxwcBN7rZeSstkzdapd3sbzfHDxz6A59Ic/edit)     | [Graduated](process/wg-lifecycle-documents/Vuln_Disc_wg_graduation_stage.md) |
-| Security Tooling               | https://github.com/ossf/wg-security-tooling             | [Meeting Notes](https://docs.google.com/document/d/1bFpHEbbEUf2rWiYXQY7cGg1HrmI9TqwaD8U_3Hi9A8I/edit) | Incubating |
-| Security Best Practices        | https://github.com/ossf/wg-best-practices-os-developers | [Meeting Notes](https://docs.google.com/document/d/1JY8FREBPCUUFpuv7-4B9EjeS2MLDpel0dbG5DFWrTns/edit)  | [Graduated](process/wg-lifecycle-documents/BEST_practices_wg_graduation_stage.md)  |
-| Securing Critical Projects     | https://github.com/ossf/wg-securing-critical-projects   | [Meeting Notes](https://docs.google.com/document/d/1j_efLVDXGoKgfHHZbJtpBxd_Gso1ghHBdK3NfEVc15o/edit)  | [Incubating](process/wg-lifecycle-documents/securing_critical_projects_incubating_stage.md) |
-| Supply Chain Integrity         | https://github.com/ossf/wg-supply-chain-integrity       | [Meeting Notes](https://docs.google.com/document/d/1moVFPn5pLi-uGs840_YBCrwdpHajU0ptFmlL4F9GryQ/edit)  | Incubating |
-| Securing Software Repositories | https://github.com/ossf/wg-securing-software-repos      | [Meeting Notes](https://docs.google.com/document/d/1HzA4M4toiExUYQAkuLqimy4EuuunHagUQ7rZKJDb1Os/edit)  | [Graduated](process/wg-lifecycle-documents/Securing_software_repositories_graduation_stage.md) |
-| Diversity, Equity, & Inclusion | https://github.com/ossf/wg-dei                          | [Meeting Notes](https://docs.google.com/document/d/1zGTOJdFVIMnixT3EFQ6_bbQ0iy7f4Z4TxhX9A5VY9TM/edit)  | Incubating |
 | AI/ML Security                 | https://github.com/ossf/ai-ml-security                  | [Meeting Notes](https://docs.google.com/document/d/1YNP-XJ9jpTjM6ekKOBgHH8-avAws2DVKeCpn858siiQ/edit)  | [Incubating](process/wg-lifecycle-documents/ai_ml_incubating_stage.md) |
+| Diversity, Equity, & Inclusion | https://github.com/ossf/wg-dei                          | [Meeting Notes](https://docs.google.com/document/d/1zGTOJdFVIMnixT3EFQ6_bbQ0iy7f4Z4TxhX9A5VY9TM/edit)  | Incubating |
 | Global Cyber Policy            | https://github.com/ossf/wg-globalcyberpolicy            | [Meeting Notes](https://drive.google.com/drive/folders/1FfWXtQTQe1XAOX0R_QaNamyGgKGLRaKW)              | [Sandbox](process/wg-lifecycle-documents/Global_Cyber_Policy_WG_sandbox_stage.md) |
+| Securing Critical Projects     | https://github.com/ossf/wg-securing-critical-projects   | [Meeting Notes](https://docs.google.com/document/d/1j_efLVDXGoKgfHHZbJtpBxd_Gso1ghHBdK3NfEVc15o/edit)  | [Incubating](process/wg-lifecycle-documents/securing_critical_projects_incubating_stage.md) |
+| Securing Software Repositories | https://github.com/ossf/wg-securing-software-repos      | [Meeting Notes](https://docs.google.com/document/d/1HzA4M4toiExUYQAkuLqimy4EuuunHagUQ7rZKJDb1Os/edit)  | [Graduated](process/wg-lifecycle-documents/securing_software_repositories_graduation_stage.md) |
+| Security Best Practices        | https://github.com/ossf/wg-best-practices-os-developers | [Meeting Notes](https://docs.google.com/document/d/1JY8FREBPCUUFpuv7-4B9EjeS2MLDpel0dbG5DFWrTns/edit)  | [Graduated](process/wg-lifecycle-documents/BEST_practices_wg_graduation_stage.md)  |
+| Security Tooling               | https://github.com/ossf/wg-security-tooling             | [Meeting Notes](https://docs.google.com/document/d/1bFpHEbbEUf2rWiYXQY7cGg1HrmI9TqwaD8U_3Hi9A8I/edit) | Incubating |
+| Supply Chain Integrity         | https://github.com/ossf/wg-supply-chain-integrity       | [Meeting Notes](https://docs.google.com/document/d/1moVFPn5pLi-uGs840_YBCrwdpHajU0ptFmlL4F9GryQ/edit)  | Incubating |
+| Vulnerability Disclosures      | https://github.com/ossf/wg-vulnerability-disclosures    | [Meeting Notes](https://docs.google.com/document/d/1AXkapzjZ-SxwcBN7rZeSstkzdapd3sbzfHDxz6A59Ic/edit)     | [Graduated](process/wg-lifecycle-documents/Vuln_Disc_wg_graduation_stage.md) |
+
 
 ### Projects
 
