@@ -1,0 +1,162 @@
+name: Proposed Project
+description: Propose a new project for the OpenSSF
+title: "[Proposed Project]: <project name>"
+labels: ["proposed-project"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for your interest in proposing a project to the OpenSSF. 
+        Please fill out the information below, and we will be in touch to discuss your proposal.
+
+  - type: input
+    id: project-common-name
+    attributes:
+      label: Project Common Name
+      description: What is the common name of your project?
+      placeholder: Awesome Project
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Please provide a description of your project.
+    validations:
+      required: true
+
+  - type: textarea
+    id: mission-statement
+    attributes:
+      label: Mission Statement
+      description:  The mission statement should be a single sentence statement that begins with the words "The mission of the project is to..." and is followed by the primary purpose of the project or primary goal of the project.
+      placeholder: The mission of the project is to...
+    validations:
+      required: true
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      description: Select the category for your project.
+      options:
+        - Sandbox
+        - Incubating
+        - Graduating
+    validations:
+      required: true
+
+  - type: input
+    id: parent-project
+    attributes:
+      label: Parent Project / Working Group
+      description: What is the parent project or working group for this project?
+      placeholder: Example Working Group
+    validations:
+      required: true
+
+  - type: input
+    id: website
+    attributes:
+      label: Primary Website/Domain
+      description: What is the primary website or domain for this project?
+      placeholder: https://example.com
+
+  - type: input
+    id: repository-url
+    attributes:
+      label: Repository URL
+      description: What is the URL of the project's repository?
+      placeholder: https://github.com/example/project
+    validations:
+      required: true
+
+  - type: dropdown
+    id: technology-sector
+    attributes:
+      label: Technology Sector
+      description: Select the technology sector for your project.
+      options:
+        - AI, ML, Data & Analytics
+        - Blockchain
+        - Cloud, Containers & Virtualization
+        - Cross-Technology
+        - DevOps, CI/CD & Site Reliability
+        - IoT & Embedded
+        - Linux Kernel
+        - Networking & Edge
+        - Open Hardware
+        - Open Source & Compliance Best Practices
+        - Privacy & Security
+        - Quantum Computing
+        - Safety-Critical Systems
+        - Storage
+        - System Administration
+        - System Engineering
+        - Visual Effects
+        - Web & Application Development
+    validations:
+      required: true
+
+  - type: dropdown
+    id: industry-sector
+    attributes:
+      label: Industry Sector
+      description: Select the industry sector for your project.
+      options:
+        - Automotive
+        - Consumer Electronics
+        - Cross-Industry
+        - Energy & Climate
+        - Financial Services
+        - Health Care
+        - Information Technology
+        - Manufacturing
+        - Materials
+        - Motion Pictures
+        - Non-profit Organizations
+        - Pharmaceuticals
+        - Professional Services
+        - Public Health & Disaster Response
+        - Telecommunications
+    validations:
+      required: true
+
+  - type: dropdown
+    id: technical-activity-type
+    attributes:
+      label: Technical Activity Type
+      description: Select the technical activity type for your project.
+      options:
+        - Community Initiative
+        - Open Data
+        - Open Governance Network
+        - Open Hardware
+        - Open Source Software
+        - Open Standard / Specification
+        - Peer Network
+    validations:
+      required: true
+
+  - type: input
+    id: expected-announcement-date
+    attributes:
+      label: Expected Announcement Date
+      description: What is the expected announcement date for this project?
+   validations:
+      required: true
+
+  - type: dropdown
+    id: license
+    attributes:
+      label: Primary Open Source License
+      description: Select the primary open source license for your project.
+      options:
+        - Apache-2.0
+        - BSD-3-Clause
+        - MIT
+        - Other
+        - TBD / NA
+    validations:
+      required: true
