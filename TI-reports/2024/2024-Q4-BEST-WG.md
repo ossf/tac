@@ -109,7 +109,8 @@ The group continues to be active and is working on several simultaneous projects
 
 #### Up next
 
-- TODO
+- Microsoft MSVC guidance planned for 2025 (tracked in [BEST Issue 150](https://github.com/ossf/wg-best-practices-os-developers/issues/150))
+- Plan outreach activities for 2025, possibly talks aimed at C++ conferences.  
 
 
 ### EDU.SIG
