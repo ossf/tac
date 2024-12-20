@@ -105,7 +105,7 @@ The group continues to be active and is working on several simultaneous projects
 
 #### Current Status
 
-- TODO
+- Continued revision, updates, & enhancement, e.g., keeping the compiler options hardening guide up-to-date with upstream options additions and changes in GCC and Clang/LLVM and addressing feedback from Linux distribution communities.
 
 #### Up next
 
