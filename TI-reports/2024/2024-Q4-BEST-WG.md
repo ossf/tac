@@ -196,7 +196,7 @@ Materials will be maximally accessible and easy to consume for all learners.
 
 #### Purpose
 
-- TODO
+- Develop security best practice and guidelines specifically aimed at web developers.
 
 #### Current Status
 
