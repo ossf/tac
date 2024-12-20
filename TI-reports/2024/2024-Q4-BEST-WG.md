@@ -35,7 +35,7 @@ The group continues to be active and is working on several simultaneous projects
 - Scorecard - [link](https://github.com/ossf/scorecard)
 - Best Practices Badge and Developing Secure Software (LFD121) course - [link](https://github.com/ossf/secure-sw-dev-fundamentals)
 - Security Baseline - [link](https://github.com/ossf/security-baseline)
-
+- Web (with SWAG) - [link](https://github.com/w3c-cg/swag/)
 
 ### Leads
 
