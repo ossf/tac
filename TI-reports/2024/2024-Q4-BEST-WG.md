@@ -40,7 +40,7 @@ The group continues to be active and is working on several simultaneous projects
 ### Leads
 
 - WG - Avishay Balter & Georg Kunz  
-- Best Practices Badge and SecDev course - David Wheeler
+- OpenSSF Best Practices Badge and Developing Secure Software (LFD121) course - David A. Wheeler
 - Compiler Hardening Guides - Thomas Nyman & Georg Kunz
 - EDU SIG - CRob & Dave Russo
 - Memory Safety SIG - Nell Shamrell-Harrignton & Avishay Balter
