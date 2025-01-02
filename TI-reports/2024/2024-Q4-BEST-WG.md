@@ -190,7 +190,7 @@ Materials will be maximally accessible and easy to consume for all learners.
 
 #### Current Status
 
-- TODO
+- Wrapping up the final review/polish process for the 2025 release
 
 #### Up Next
 
