@@ -82,7 +82,7 @@ The group continues to be active and is working on several simultaneous projects
 
 #### Up Next
 
-- TODO
+- Continue to maintain content.
 
 
 ### Concise Guides
