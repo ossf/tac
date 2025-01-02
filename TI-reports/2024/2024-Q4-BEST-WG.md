@@ -194,7 +194,8 @@ Materials will be maximally accessible and easy to consume for all learners.
 
 #### Up Next
 
-- TODO
+- A few open PRs on the baseline criteria definitions are currently pending prior to release of the 2025 version
+- Integration into automated validation tools has already begun, in preparation for the official release
 
 ### Web Developer Security Guide
 
