@@ -125,7 +125,8 @@ Materials will be maximally accessible and easy to consume for all learners.
 
 #### Current Status
 
-- TODO
+- As noted above, LFD121 enrollment in 2024 was 9,361 and we completed all top-tier labs for it.
+- Draft course for managers developed, reviewed by LF Education, and their comments have been incorporated.
 
 #### Up Next
 
