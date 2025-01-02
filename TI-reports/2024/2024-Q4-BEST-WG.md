@@ -130,7 +130,7 @@ Materials will be maximally accessible and easy to consume for all learners.
 
 #### Up Next
 
-- TODO
+- Complete the manager's course and have it posted.
 
 
 ### Memory Safety SIG
