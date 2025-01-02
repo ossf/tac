@@ -200,11 +200,11 @@ Materials will be maximally accessible and easy to consume for all learners.
 
 #### Current Status
 
-- We started the W3C SWAG group earlier this year and we've been holding weekly calls. The calls are minuted here: https://github.com/w3c-cg/swag/tree/main/meetings. We've so far produced an early draft security guidelines doc for web developers https://github.com/w3c-cg/swag/blob/main/docs/security_guidelines.md and we have another work item which is a guidelines doc for library developers. I've presented this work to the OpenJS Foundation security coord group as well to socialize it widely. We anticipate starting work on the libraries doc after the new year and as well continue to develop the web developer guide. Both documents will be at the level of detail of the "concise guide" document. We also held a special call where some Google security folks came to talk about tooling they are building around CSP and Trusted Types. Those talks will be posted shortly.
+- We started the W3C SWAG group earlier this year and we've been holding weekly calls. The calls are minuted here: https://github.com/w3c-cg/swag/tree/main/meetings. We've so far produced an early draft security guidelines doc for web developers https://github.com/w3c-cg/swag/blob/main/docs/security_guidelines.md and we have another work item which is a guidelines doc for library developers. I've presented this work to the OpenJS Foundation security coord group as well to socialize it widely.
 
 #### Up Next
 
-- TODO
+- We anticipate starting work on the libraries doc after the new year and as well continue to develop the web developer guide. Both documents will be at the level of detail of the "concise guide" document. We also held a special call where some Google security folks came to talk about tooling they are building around CSP and Trusted Types. Those talks will be posted shortly.
   
 
 ### Questions/Issues for the TAC
