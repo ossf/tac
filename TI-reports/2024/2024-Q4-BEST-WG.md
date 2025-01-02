@@ -60,7 +60,8 @@ The group continues to be active and is working on several simultaneous projects
 
 #### Current Status
 
-- TODO
+- As of 2024-12-31 there were 7,851 OSS projects pursuing an OpenSSF Best Practices badge, with 1,585 projects achieving at least a passing level badge.
+- Many housekeeping updates were done, including updating Rails 7.0 -> 7.1 -> 7.2 -> 8.0, Font Awesome, papertrail. These required code changes, such as how secrets and icons are managed. It also required unexpected changes such as switching past papertrail records from YAML to the jsonb PostgreSQL data format. We added the use of Solid Queue to use a database for jobs, so that when the system is restarted the jobs for cleaning the CDN cache are retained and eventually completed.
 
 - #### Up Next
 
