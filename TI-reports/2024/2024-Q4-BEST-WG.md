@@ -76,7 +76,9 @@ The group continues to be active and is working on several simultaneous projects
 
 #### Current Status
 
-- TODO
+- Our total 2024 enrollments for our "Developing Secure Software" course (LFD121) is 9,361. That was a dramatic increase from 2023 enrollments in LFD121, which was 6,658, and far exceeded our goal of 7,990.
+- Added labs for *all* of the "top tier" sections. These labs require no software installation; users just use their browsers. They also provide hints for those who are stuck.
+- Made various improvements, e.g., explained what open source software is, added various "story time" real-world examples from CrowdStrike and Meta, 
 
 #### Up Next
 
