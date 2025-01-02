@@ -65,7 +65,7 @@ The group continues to be active and is working on several simultaneous projects
 
 - #### Up Next
 
-- TODO
+- Investigate potential use of the best practices badge with baseline. Both have a set of leveled criteria for OSS projects. However, baseline has a different set of requirements, and at the time of writing tends to assume OSS projects have many developers (most OSS projects have 1 developer), so exactly how this will work is to be determined.
 
 
 ### Developing Secure Software Fundamentals Course (LFD121)
