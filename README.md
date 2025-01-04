@@ -17,7 +17,7 @@ If you need support in any part of the process, please email [operations@openssf
 
 ## Meetings
 
-The TAC [meetings minutes](https://docs.google.com/document/d/1-zrtagRnPd75TDT1zRxrtxE9SpMIBJdPmaolaw4woQA/) are online and appear on the [OpenSSF Community Calendar](https://calendar.google.com/calendar?cid=czYzdm9lZmhwNWk5cGZsdGI1cTY3bmdwZXNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ).
+The TAC [meetings minutes](https://docs.google.com/document/d/1EieWyhKntZ7BzaZS97-BOybfMTUT4sZ72ViXq8QyYWs) are online and appear on the [OpenSSF Community Calendar](https://calendar.google.com/calendar?cid=czYzdm9lZmhwNWk5cGZsdGI1cTY3bmdwZXNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ).
 
 Meetings are also recorded and posted to the [OpenSSF YouTube channel](https://www.youtube.com/channel/UCUdhiXNEBEayowJXY_v7AXQ/).
 
