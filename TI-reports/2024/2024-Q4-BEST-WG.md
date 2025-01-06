@@ -141,7 +141,9 @@ Materials will be maximally accessible and easy to consume for all learners.
 
 #### Current Status
 
-- TODO
+- Defined the SIG's focus and terminology.
+- Collaborated with ecosystem SMEs to compile tailored memory safety best practices for both memory-safe-by-default and non-memory-safe-by-default languages.
+- Drafted the The Memory Safety Continuum document that aims to guide developers to becoming more memory safe through iterative process.
 
 #### Up Next
 
