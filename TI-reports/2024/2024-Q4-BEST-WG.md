@@ -147,7 +147,8 @@ Materials will be maximally accessible and easy to consume for all learners.
 
 #### Up Next
 
-- TODO
+- Release the Memory Safety Continuum document
+- Focus on interoperability and interfacing between memory safe by default and non-memory safe by default languages in software.
 
 
 ### Python Hardening Guide
