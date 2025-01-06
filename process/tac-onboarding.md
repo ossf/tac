@@ -18,7 +18,7 @@ Per the [OpenSSF charter][charter] 5c:
 >
 > v. facilitating crowdfunding opportunities in support of OpenSSF Technical Initiatives;
 >
-> vi. annually electing a chairperson to preside over meetings, set the agenda for meetings, ensure meeting minutes are taken, and who will also serve on the Governing Board as the TAC’s representative (the “TAC Representative”); and
+> vi. annually electing a chairperson to preside over meetings, set the agenda for meetings, ensure meeting minutes are taken, and who will also serve on the Governing Board as the TAC's representative (the "TAC Representative"); and
 >
 > vii. coordinating such other technical community matters related to the success of Technical Initiatives and the mission of the OpenSSF
 
@@ -45,7 +45,7 @@ Occasionally, you will need support from OpenSSF staff.
 
 Here are the best ways to reach them:
 
-- Slack: [#openssf-operations](https://openssf.slack.com/archives/C05BETTLHEE), [#tac_members-openssf_staff](https://openssf.slack.com/archives/C06D9AVUVD3)
+- Slack: [#openssf-operations](https://openssf.slack.com/archives/C05BETTLHEE), [#tac_members-openssf_staff](https://openssf.slack.com/archives/C06D9AVUVD3) (private)
 - Mailing list: [operations@openssf.org](mailto:operations@openssf.org)
 
 ## Bio
@@ -57,12 +57,13 @@ When you're ready, submit the bio to [OpenSSF staff](#openssf-staff).
 
 ## Communication
 
-The OpenSSF TAC uses a few different mediums to coordinate work and communicate with the wider OpenSSF community.
+The OpenSSF TAC uses a few different mediums to coordinate work and communicate with the wider OpenSSF community. There are private communication channels available if needed, but please default to public communication whenever possible, even for mundane day-to-day topics. This ensures the TAC is operating as transparently as possible for the OpenSSF community.
 
 You should ensure you join or attain membership for each of them.
 
 - Mailing lists
   - [openssf-tac@lists.openssf.org](https://lists.openssf.org/g/openssf-tac)
+  - [openssf-tac-private@lists.openssf.org](https://lists.openssf.org/g/openssf-tac-private) (private)
 - Slack channels
   - [#general](https://openssf.slack.com/archives/C019M98JSHK) — general topics
   - [#openssf-operations](https://openssf.slack.com/archives/C05BETTLHEE) — OpenSSF staff support
