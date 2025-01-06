@@ -137,7 +137,7 @@ Materials will be maximally accessible and easy to consume for all learners.
 
 #### Purpose
 
-- The Memory Safety SIG is a group working within the OpenSSF's Best Practices Working Group formed to advance and deliver upon The OpenSSF's Mobilization Plan - Stream 4.
+- The Memory Safety SIG is a group working within the OpenSSF's Best Practices Working Group formed to understand and reduce memory safety vulnerabilities in OSS.
 
 #### Current Status
 
