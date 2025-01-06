@@ -85,37 +85,6 @@ The group continues to be active and is working on several simultaneous projects
 - Continue to maintain content.
 
 
-### Concise Guides
-
-#### Purpose
-
-- Artifacts that consolidate BEST practices in OSS software development and management techniques
-
-#### Current Status
-
-- TODO
-
-#### Up Next
-
-- TODO
-
-
-### Compiler Hardening Guides
-
-#### Purpose
-
-- Help C and C++ developers and those who compile C/C++ code, e.g., package maintainers, ensure that produced application binaries (libraries and executables) are equipped with security mechanisms provided by compilers against potential attacks and/or misbehavior.
-
-#### Current Status
-
-- Continued revision, updates, & enhancement, e.g., keeping the compiler options hardening guide up-to-date with upstream options additions and changes in GCC and Clang/LLVM and addressing feedback from Linux distribution communities.
-
-#### Up next
-
-- Microsoft MSVC guidance planned for 2025 (tracked in [BEST Issue 150](https://github.com/ossf/wg-best-practices-os-developers/issues/150))
-- Plan outreach activities for 2025, possibly talks aimed at C++ conferences.  
-
-
 ### EDU.SIG
 
 #### Purpose
@@ -131,6 +100,60 @@ Materials will be maximally accessible and easy to consume for all learners.
 #### Up Next
 
 - Complete the manager's course and have it posted.
+
+
+### Concise Guides
+
+#### Purpose
+
+- Artifacts that consolidate BEST practices in OSS software development and management techniques
+
+#### Current Status
+
+- Guides under active development:
+  - [C/C++ Compiler Option Hardening](#cc-compiler-option-hardening-guide)
+  - [Python Secure Coding Guide](#python-secure-coding-guide)
+
+#### Up Next
+
+- See status updates of respective guides
+
+
+### C/C++ Compiler Option Hardening Guide
+
+#### Purpose
+
+- Help C and C++ developers and those who compile C/C++ code, e.g., package maintainers, ensure that produced application binaries (libraries and executables) are equipped with security mechanisms provided by compilers against potential attacks and/or misbehavior.
+
+#### Current Status
+
+- Continued revision, updates, & enhancement, e.g., keeping the compiler options hardening guide up-to-date with upstream options additions and changes in GCC and Clang/LLVM and addressing feedback from Linux distribution communities.
+
+#### Up next
+
+- Microsoft MSVC guidance planned for 2025 (tracked in [BEST Issue 150](https://github.com/ossf/wg-best-practices-os-developers/issues/150))
+- Plan outreach activities for 2025, possibly talks aimed at C++ conferences.  
+
+
+### Python Secure Coding Guide
+
+#### Purpose
+
+- Help Python developers to create more secure code by explaining vulnerable and non-vulnerable coding patterns based on the CWE framework and rules.
+- Besides a description of each coding pattern, the guide includes executable code examples for each rule, which allow for an in-depth understanding of each pattern.
+
+#### Current Status
+
+- The group is working on adding more content for a broad range of CWE rules. The status is being tracked in issue [531](https://github.com/ossf/wg-best-practices-os-developers/issues/531).
+- Dave and Bart gave a lightning talk at SOSS Community Day EU and demoed the ongoing work at the OpenSSF booth at Open Source Summit EU 2024.
+
+#### Up Next
+
+- We want to further grow the community by raising more awareness, for instance by publishing a blog post.
+- We are inviting all interested Python coders to review the current content and/or pick a new CWE rule from [531](https://github.com/ossf/wg-best-practices-os-developers/issues/531) and contribute content.
+
+
+
 
 
 ### Memory Safety SIG
@@ -151,22 +174,7 @@ Materials will be maximally accessible and easy to consume for all learners.
 - Focus on interoperability and interfacing between memory safe by default and non-memory safe by default languages in software.
 
 
-### Python Hardening Guide
 
-#### Purpose
-
-- Help Python developers to create more secure code by explaining vulnerable and non-vulnerable coding patterns based on the CWE framework and rules.
-- Besides a description of each coding pattern, the guide includes executable code examples for each rule, which allow for an in-depth understanding of each pattern.
-
-#### Current Status
-
-- The group is working on adding more content for a broad range of CWE rules. The status is being tracked in issue [531](https://github.com/ossf/wg-best-practices-os-developers/issues/531).
-- Dave and Bart gave a lightning talk at SOSS Community Day EU and demoed the ongoing work at the OpenSSF booth at Open Source Summit EU 2024.
-
-#### Up Next
-
-- We want to further grow the community by raising more awareness, for instance by publishing a blog post.
-- We are inviting all interested Python coders to review the current content and/or pick a new CWE rule from [531](https://github.com/ossf/wg-best-practices-os-developers/issues/531) and contribute content.
 
 
 ### Scorecard
@@ -223,8 +231,7 @@ Materials will be maximally accessible and easy to consume for all learners.
 
 ## Additional Information
 
-<mark>_Optional: Please provide any additional information that you feel would be useful for TAC to be aware._
-</mark>
+- We expect close collaboration between the Best Practices WG and the newly created [Global Cyber Policy WG](https://github.com/ossf/wg-globalcyberpolicy).
 
 
 ## Previous Updates
