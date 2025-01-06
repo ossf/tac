@@ -32,7 +32,7 @@ The group continues to be active and is working on several simultaneous projects
 - EDU.SIG - [link](https://github.com/ossf/education/)
 - Memory Safety SIG - [link](https://github.com/ossf/Memory-Safety)
 - OpenSSF Best Practices Badge - [link](https://www.bestpractices.dev/)
-- Scorecard - [link](https://github.com/ossf/scorecard)
+- OpenSSF Scorecard - [link](https://github.com/ossf/scorecard)
 - Best Practices Badge and Developing Secure Software (LFD121) course - [link](https://github.com/ossf/secure-sw-dev-fundamentals)
 - Security Baseline - [link](https://github.com/ossf/security-baseline)
 - Web (with SWAG) - [link](https://github.com/w3c-cg/swag/)
@@ -45,7 +45,7 @@ The group continues to be active and is working on several simultaneous projects
 - EDU SIG - CRob & Dave Russo
 - Memory Safety SIG - Nell Shamrell-Harrignton & Avishay Balter
 - Python Hardening Guide - Helge Wehder & Georg Kunz
-- Scorecard - Laurent Simon & Stephen Augustus
+- OpenSSF Scorecard - Stephen Augustus, Raghav Kaul, Jeff Mendoza, Spencer Schrock
 - Security Baseline - Eddie Knight
 - WebDev Sec BP - Daniel Appelquist
 
@@ -177,20 +177,26 @@ Materials will be maximally accessible and easy to consume for all learners.
 
 
 
-### Scorecard
+### OpenSSF Scorecard
 
 #### Purpose
 
-- To help open source maintainers improve their security best practices and to help open source consumers judge whether their dependencies are safe.
-- Scorecard is an automated tool that assesses a number of important heuristics ("checks") associated with software security and assigns each check a score of 0-10.
+- Automate analysis and trust decisions on the security posture of open source projects.
+- Use this data to proactively improve the security posture of the critical projects the world depends on.
 
 #### Current Status
 
-- TODO
+- Became an OpenSSF Incubating project
+- Community-led contributions for NuGet, Erlang, and Azure DevOps support
 
 #### Up Next
 
-- TODO
+- Make OpenSSF Scorecard (and its GitHub Action) easier to run on groups of repositories
+- Build contributor base
+- Work towards project graduation
+- Request TI funding for security audit
+- Refine project release cadence
+- Align with forthcoming OpenSSF persona work
 
 
 ### Security Baseline
