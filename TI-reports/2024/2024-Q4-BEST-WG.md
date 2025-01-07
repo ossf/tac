@@ -233,7 +233,7 @@ Materials will be maximally accessible and easy to consume for all learners.
 
 ### Questions/Issues for the TAC
 
-- TODO
+- none (for the moment)
 
 ## Additional Information
 
