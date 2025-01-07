@@ -172,7 +172,7 @@ Materials will be maximally accessible and easy to consume for all learners.
 
 - Release the Memory Safety Continuum document
 - Focus on interoperability and interfacing between memory safe by default and non-memory safe by default languages in software.
-
+- Implement and merge the first pass for the [Memory Safety Scorecard probe](https://github.com/ossf/Memory-Safety/issues/33)
 
 
 
