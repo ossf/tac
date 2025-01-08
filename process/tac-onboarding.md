@@ -31,14 +31,6 @@ By design, this onboarding document contains limited information to set expectat
 
 It covers details on topics such as how we make decisions, technical initiative lifecycles, and the funding process.
 
-## Open questions
-
-- Are there private mailing lists?
-- Are there additional access requirements not accounted for in this document?
-- What are our moderation responsibilities and privileges (GitHub, mailing lists, Zoom)?
-- How do we manage rescheduling the TAC meeting to accommodate timezones and/or new member obligations?
-- Explicitly, what are the responsibilities of the TAC Chair and Vice Chair?
-
 ## OpenSSF staff
 
 Occasionally, you will need support from OpenSSF staff.
