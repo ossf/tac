@@ -1,5 +1,5 @@
 name: Approved Project Onboarding
-description: Onboarding of an approve OpenSSF Project
+description: Onboarding of an approved OpenSSF Project
 title: "[Proposed Project]: <project name>"
 labels: "proposed-project"
 body:
