@@ -2,9 +2,9 @@
 
 The OpenSSF Technical Advisory Council (TAC) is a body comprised of 9 individuals that are either elected for a 2 year term or appointed by the governing board for a 1 year term.  
 
- !! ADD link to TAC election process !!
+The election and appointment processes are described in a [separate document](/elections/tac-and-scir-election-process.md).
 
-The TAC has a chairperson and vice-chairperson that are elected by the TAC members annually and are responsible for organizing and coordinating the TAC to conduct the technical management and oversight of the foundation's Technical Initiatives.  The TAC chair acts as a standing voting member of the Governance Committee (GC), and the vice-chair acting as their alternate/delegate.  A second TAC member, as determined by the TAC, is also included as a voting member of the GC. 
+The TAC has a [chairperson and vice-chairperson](./tac-member-R&Rs.md#tac-chair) that are elected by the TAC members annually and are responsible for coordinating the work of the TAC.
 
 Broadly, there are three main methods that the TAC will use to make decisions and ensure those decisions are appropriately documented:
 

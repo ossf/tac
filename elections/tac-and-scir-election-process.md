@@ -73,7 +73,15 @@ The Governing Board will appoint three people from the list of TAC and SCIR Nomi
 
 ## TAC Chair and Vice Chair Election
 
-After the results are announced the TAC members will elect a Chair and a Vice Chair with 1 week for nominations and 1 week for votes. Results may be announced when all votes are cast. The candidate with the most votes will serve as Chair and the second as Vice Chair. The Chair may however choose to swap seat with the Vice Chair if agreed by the Vice Chair.
+After the results of the community elections and Governing Board appointments are announced, the TAC members will elect a [Chair and a Vice Chair](/process/tac-member-R&Rs.md#tac-chair).
+
+The TAC Chair nomination period shall commence as soon as new TAC members are seated (typically, at the beginning of the year) and shall conclude at the end of the first TAC meeting of the year.
+
+OpenSSF staff will coordinate the election process and results will be announced soon after all votes have been cast.
+
+The candidate with the most votes will serve as Chair and the candidate receiving the second-most votes will serve as Vice Chair.
+
+***The Chair may instead choose to serve as the Vice Chair, if agreed to by the newly-selected Vice Chair.***
 
 
 ## Standard Nomination, Election, and Appointment Timeline
