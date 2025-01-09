@@ -1,5 +1,7 @@
 # OpenSSF TAC Changelog
 
+* 2025-01-08: Add initial onboarding document for incoming TAC members [#429](https://github.com/ossf/tac/pull/429)
+* 2024-12-11: Added global cyber policy to sandbox working groups
 * 2024-11-07: Add security baseline reqs to project lifecycle templates
 * 2024-10-22: Add TAC decision type for TI quarterly updates [#402](https://github.com/ossf/tac/pull/402)
 * 2024-08-20: Label Security Metric project as archived in README

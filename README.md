@@ -17,25 +17,25 @@ If you need support in any part of the process, please email [operations@openssf
 
 ## Meetings
 
-The TAC [meetings minutes](https://docs.google.com/document/d/1-zrtagRnPd75TDT1zRxrtxE9SpMIBJdPmaolaw4woQA/) are online and appear on the [OpenSSF Community Calendar](https://calendar.google.com/calendar?cid=czYzdm9lZmhwNWk5cGZsdGI1cTY3bmdwZXNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ).
+The TAC [meetings minutes](https://docs.google.com/document/d/1EieWyhKntZ7BzaZS97-BOybfMTUT4sZ72ViXq8QyYWs) are online and appear on the [OpenSSF Community Calendar](https://calendar.google.com/calendar?cid=czYzdm9lZmhwNWk5cGZsdGI1cTY3bmdwZXNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ).
 
 Meetings are also recorded and posted to the [OpenSSF YouTube channel](https://www.youtube.com/channel/UCUdhiXNEBEayowJXY_v7AXQ/).
-
 
 ## TAC Members
 
 | Name             | Position | Email                          | Organization | Term                      |
 | ---------------- | :--------: | ------------------------------ | ------------ | --------------------------|
 | Arnaud J Le&nbsp;Hors | Vice Chair | lehors@us.ibm.com              | IBM          | January 2024 - December 2025 |
-| Bob Callaway     |  | bcallaway@google.com           | Google       | January 2024 - December 2024\*  |
-| Dan Appelquist   |  | dan@torgo.com                  | Samsung         | January 2024 - December 2024 |
-| Michael Lieberman|  | mike@kusari.dev                | Kusari       | January 2024 - December 2024 |
-| Zach Steindler   | Chair | steiza@github.com         | GitHub       | January 2024 - December 2024 |
+| Bob Callaway     |  | bcallaway@google.com           | Google       | January 2024 - December 2026 |
+| Michael Lieberman|  | mike@kusari.dev                | Kusari       | January 2024 - December 2026 |
+| Zach Steindler   | Chair | steiza@github.com         | GitHub       | January 2024 - December 2026 |
 | Marcela Melara   |  | marcela.melara@intel.com       | Intel        | January 2024 - December 2025 |
-| Sarah Evans      |  | sarah.evans@dell.com           | Dell         | January 2024 - December 2024\* |
 | Jautau "Jay" White || jaywhite@microsoft.com         | Microsoft    | January 2024 - December 2025 |
+| Stephen Augustus | | openssf@auggie.dev | Independent | January 2025 - December 2025\* |
+| Georg Kunz | | georg.kunz@ericsson.com | Ericsson | January 2025 - December 2025\* |
+| Michael Scovetta | | michael.scovetta@microsoft.com | Microsoft | January 2025 - December 2025\* |
 
-NOTE: \* marked entries denote OpenSSF Governing Board appointed members, others are community elected. There is currently 1 vacant Governing Board appointed seat.
+*NOTE: `*`-marked entries denote TAC members appointed by the OpenSSF Governing Board; all other members are community-elected.*
 
 ## Charter
 
@@ -51,14 +51,16 @@ The following Technical Initiatives have been approved by the TAC. You may learn
 
 | Name                         | Repository                                              | Notes                                                                                                  | Status     |
 | ---------------------------- | ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | ---------- |
-| Vulnerability Disclosures      | https://github.com/ossf/wg-vulnerability-disclosures    | [Meeting Notes](https://docs.google.com/document/d/1AXkapzjZ-SxwcBN7rZeSstkzdapd3sbzfHDxz6A59Ic/edit)     | [Graduated](process/wg-lifecycle-documents/Vuln_Disc_wg_graduation_stage.md) |
-| Security Tooling               | https://github.com/ossf/wg-security-tooling             | [Meeting Notes](https://docs.google.com/document/d/1bFpHEbbEUf2rWiYXQY7cGg1HrmI9TqwaD8U_3Hi9A8I/edit) | Incubating |
-| Security Best Practices        | https://github.com/ossf/wg-best-practices-os-developers | [Meeting Notes](https://docs.google.com/document/d/1JY8FREBPCUUFpuv7-4B9EjeS2MLDpel0dbG5DFWrTns/edit)  | [Graduated](process/wg-lifecycle-documents/BEST_practices_wg_graduation_stage.md)  |
-| Securing Critical Projects     | https://github.com/ossf/wg-securing-critical-projects   | [Meeting Notes](https://docs.google.com/document/d/1j_efLVDXGoKgfHHZbJtpBxd_Gso1ghHBdK3NfEVc15o/edit)  | [Incubating](process/wg-lifecycle-documents/securing_critical_projects_incubating_stage.md) |
-| Supply Chain Integrity         | https://github.com/ossf/wg-supply-chain-integrity       | [Meeting Notes](https://docs.google.com/document/d/1moVFPn5pLi-uGs840_YBCrwdpHajU0ptFmlL4F9GryQ/edit)  | Incubating |
-| Securing Software Repositories | https://github.com/ossf/wg-securing-software-repos      | [Meeting Notes](https://docs.google.com/document/d/1HzA4M4toiExUYQAkuLqimy4EuuunHagUQ7rZKJDb1Os/edit)  | [Graduated](process/wg-lifecycle-documents/Securing_software_repositories_graduation_stage.md) |
-| Diversity, Equity, & Inclusion | https://github.com/ossf/wg-dei                          | [Meeting Notes](https://docs.google.com/document/d/1zGTOJdFVIMnixT3EFQ6_bbQ0iy7f4Z4TxhX9A5VY9TM/edit)  | Incubating |
 | AI/ML Security                 | https://github.com/ossf/ai-ml-security                  | [Meeting Notes](https://docs.google.com/document/d/1YNP-XJ9jpTjM6ekKOBgHH8-avAws2DVKeCpn858siiQ/edit)  | [Incubating](process/wg-lifecycle-documents/ai_ml_incubating_stage.md) |
+| Diversity, Equity, & Inclusion | https://github.com/ossf/wg-dei                          | [Meeting Notes](https://docs.google.com/document/d/1zGTOJdFVIMnixT3EFQ6_bbQ0iy7f4Z4TxhX9A5VY9TM/edit)  | Incubating |
+| Global Cyber Policy            | https://github.com/ossf/wg-globalcyberpolicy            | [Meeting Notes](https://drive.google.com/drive/folders/1FfWXtQTQe1XAOX0R_QaNamyGgKGLRaKW)              | [Sandbox](process/wg-lifecycle-documents/Global_Cyber_Policy_WG_sandbox_stage.md) |
+| Securing Critical Projects     | https://github.com/ossf/wg-securing-critical-projects   | [Meeting Notes](https://docs.google.com/document/d/1j_efLVDXGoKgfHHZbJtpBxd_Gso1ghHBdK3NfEVc15o/edit)  | [Incubating](process/wg-lifecycle-documents/securing_critical_projects_incubating_stage.md) |
+| Securing Software Repositories | https://github.com/ossf/wg-securing-software-repos      | [Meeting Notes](https://docs.google.com/document/d/1HzA4M4toiExUYQAkuLqimy4EuuunHagUQ7rZKJDb1Os/edit)  | [Graduated](process/wg-lifecycle-documents/securing_software_repositories_graduation_stage.md) |
+| Security Best Practices        | https://github.com/ossf/wg-best-practices-os-developers | [Meeting Notes](https://docs.google.com/document/d/1JY8FREBPCUUFpuv7-4B9EjeS2MLDpel0dbG5DFWrTns/edit)  | [Graduated](process/wg-lifecycle-documents/BEST_practices_wg_graduation_stage.md)  |
+| Security Tooling               | https://github.com/ossf/wg-security-tooling             | [Meeting Notes](https://docs.google.com/document/d/1bFpHEbbEUf2rWiYXQY7cGg1HrmI9TqwaD8U_3Hi9A8I/edit) | Incubating |
+| Supply Chain Integrity         | https://github.com/ossf/wg-supply-chain-integrity       | [Meeting Notes](https://docs.google.com/document/d/1moVFPn5pLi-uGs840_YBCrwdpHajU0ptFmlL4F9GryQ/edit)  | Incubating |
+| Vulnerability Disclosures      | https://github.com/ossf/wg-vulnerability-disclosures    | [Meeting Notes](https://docs.google.com/document/d/1AXkapzjZ-SxwcBN7rZeSstkzdapd3sbzfHDxz6A59Ic/edit)     | [Graduated](process/wg-lifecycle-documents/Vuln_Disc_wg_graduation_stage.md) |
+
 
 ### Projects
 
