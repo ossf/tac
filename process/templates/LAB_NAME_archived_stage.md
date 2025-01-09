@@ -4,4 +4,4 @@
 The maintainers of the lab may decide to conclude/suspend their work, or
 the lab may become inactive over time.
 
-  * "description of why this project should be archived"
+  * "description of why this lab should be archived"

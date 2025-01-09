@@ -21,7 +21,7 @@ facilitates cross-organization or -vendor collaboration.
 * A streamlined transition into the [Sandbox stage] of the OpenSSF [project
 lifecycle].
 
-## Project Responsibilities
+## Lab Responsibilities
 
 Developers of OpenSSF labs are responsible for:
 
@@ -29,7 +29,7 @@ Developers of OpenSSF labs are responsible for:
 * Ensuring all commits are properly signed-off to avoid issues related to [DCO].
 * Notifying the TAC if the lab needs to be suspended or archived.
 
-Labs projects are also highly encouraged to engage with the [existing
+Labs are also highly encouraged to engage with the [existing
 Technical Initiatives] (working groups, projects or SIGs) in OpenSSF to build
 their community and find a potential pathway towards acceptance as an OpenSSF
 project.
@@ -43,7 +43,7 @@ stage](templates/LAB_NAME_archived_stage.md).
 
 Archived lab repositories are not actively maintained and will be marked as
 "archived" (read-only) on GitHub. They can be reactivated if there is interest
-in resuming work on a project.
+in resuming work on a lab.
 
 ## New Lab Proposal Process
 
@@ -51,7 +51,7 @@ in resuming work on a project.
 
 2. Fill out the [proposal template](templates/LAB_NAME_lab_stage.md)
    and save it into the `labs` subdirectory under the name of your lab,
-   such as `coolnewproject_lab.md`.
+   such as `coolnewlab.md`.
    <br/>
 > [!TIP]
 > It is expected that your lab repository on GitHub will have the same
@@ -66,12 +66,12 @@ in resuming work on a project.
    To find sponsors:
      1. use your connections to existing projects and ask maintainers,
      2. engage with [existing Technical Initiatives] (working groups, projects
-	    or SIGs) with affinities to the proposed lab and pitch the project in
+	    or SIGs) with affinities to the proposed lab and pitch it in
 		their meetings or [Slack channels](https://slack.openssf.org/). It's
 		good to have the template already filled out when you reach out.
    <br>
 > [!IMPORTANT]
-> Lab sponsors may but are not required to actively participate in
+> Lab sponsors may, but are not required to, actively participate in
 > the lab once the proposal has been reviewed and accepted.
 
 4. Commit your changes with proper sign-off. This means that your commit
@@ -86,8 +86,8 @@ in resuming work on a project.
 
 5. Submit a Pull Request to the `<TBD>` repo.
 
-The [OpenSSF TAC] will then review your proposal. Like sponsors, TAC members may
-but are not required to participate in ongoing work like contributing or
+The [OpenSSF TAC] will then review your proposal. Like sponsors, TAC members may,
+but are not required to, participate in ongoing work like contributing or
 reviewing code in the lab.
 
 ### Transferring an existing repository
@@ -97,7 +97,7 @@ start a new lab in. If you have an existing GitHub repo you would like to
 bring to your proposed lab, you have the option to request for that
 repo to be transferred into the <TBD GH org> instead.
 
-However, we require that every commit in the existing repo to br
+However, we require that every commit in the existing repo to bring is
 signed-off so there are no issues related to [DCO].
 If that is not the case, you will need to transfer your existing code by
 squashing all of your commits into a single first commit made against
@@ -113,7 +113,7 @@ All OpenSSF community members must adhere to the
 [Code of Conduct](https://openssf.org/community/code-of-conduct/).
 
 [DCO]: https://developercertificate.org/
-[existing TIs]: https://github.com/ossf/tac/blob/main/README.md#technical-initiatives
+[existing Technical Initiatives]: https://github.com/ossf/tac/blob/main/README.md#technical-initiatives
 [new lab proposal]: #new-lab-proposal-process
 [OpenSSF mission]: https://openssf.org/about/
 [OpenSSF TAC]: https://github.com/ossf/tac/blob/main/README.md#tac-members
