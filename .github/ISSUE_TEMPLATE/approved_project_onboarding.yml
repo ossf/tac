@@ -83,10 +83,8 @@ body:
      - type: input
     id: expected-announcement-date
     attributes:
-      label: Expected Announcement Date
+      label: Expected Announcement Date (If Known)
       description: What is the expected announcement date for this project?
-   validations:
-      required: true
 
   - type: dropdown
     id: license
@@ -95,9 +93,7 @@ body:
       description: Select the primary open source license for your project.
       options:
         - Apache-2.0
-        - BSD-3-Clause
         - MIT
-        - Other
-        - TBD / NA
+        - Community Data License Agreement
     validations:
       required: true
