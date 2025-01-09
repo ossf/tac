@@ -26,9 +26,9 @@ Meetings are also recorded and posted to the [OpenSSF YouTube channel](https://w
 | Name             | Position | Email                          | Organization | Term                      |
 | ---------------- | :--------: | ------------------------------ | ------------ | --------------------------|
 | Arnaud J Le&nbsp;Hors | Vice Chair | lehors@us.ibm.com              | IBM          | January 2024 - December 2025 |
-| Bob Callaway     |  | bcallaway@google.com           | Google       | January 2024 - December 2026 |
-| Michael Lieberman|  | mike@kusari.dev                | Kusari       | January 2024 - December 2026 |
-| Zach Steindler   | Chair | steiza@github.com         | GitHub       | January 2024 - December 2026 |
+| Bob Callaway     |  | bcallaway@google.com           | Google       | January 2025 - December 2026 |
+| Michael Lieberman|  | mike@kusari.dev                | Kusari       | January 2025 - December 2026 |
+| Zach Steindler   | Chair | steiza@github.com         | GitHub       | January 2025 - December 2026 |
 | Marcela Melara   |  | marcela.melara@intel.com       | Intel        | January 2024 - December 2025 |
 | Jautau "Jay" White || jaywhite@microsoft.com         | Microsoft    | January 2024 - December 2025 |
 | Stephen Augustus | | openssf@auggie.dev | Independent | January 2025 - December 2025\* |
