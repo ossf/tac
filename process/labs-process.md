@@ -1,12 +1,8 @@
 # OpenSSF Labs
 
-<!-- What other names might we consider instead of "OpenSSF Labs"? -->
-
 The OpenSSF Labs provide a space for open source projects that are in the
 earliest stages of their lifecycle to experiment, foster collaboration, and grow
 their community prior to transitioning into the OpenSSF [project lifecycle].
-
-<!-- Right now, the focus is on Projects, but should we consider broadening the labs to any type of TI? -->
 
 OpenSSF Labs follow a similar model to Hyperledger Labs.
 
@@ -26,7 +22,8 @@ lifecycle].
 Developers of OpenSSF labs are responsible for:
 
 * Submitting a [new lab proposal] for review by the [OpenSSF TAC].
-* Ensuring all commits are properly signed-off to avoid issues related to [DCO].
+* Ensuring all commits are properly signed-off to avoid issues related to
+  Developer Certificate of Origin ([DCO]).
 * Notifying the TAC if the lab needs to be suspended or archived.
 
 Labs are also highly encouraged to engage with the [existing
@@ -86,8 +83,8 @@ in resuming work on a lab.
 
 5. Submit a Pull Request to the `<TBD>` repo.
 
-The [OpenSSF TAC] will then review your proposal. Like sponsors, TAC members may,
-but are not required to, participate in ongoing work like contributing or
+The [OpenSSF TAC] will then review your proposal. Like sponsors, TAC members
+may, but are not required to, participate in ongoing work like contributing or
 reviewing code in the lab.
 
 ### Transferring an existing repository
@@ -103,9 +100,32 @@ If that is not the case, you will need to transfer your existing code by
 squashing all of your commits into a single first commit made against
 your new lab repo with your sign-off.
 
+**Note**: A full intellectual property (IP) and legal review is not needed
+for OpenSSF Labs, but will be required if the lab seeks to transition to
+[Sandbox stage].
+
 ### License requirement
 
-<!-- This is something that other Labs require of the projects they host. What, if any requirements should we include here? -->
+OpenSSF Labs must use one of the following licenses as required in section 4a
+of the [OpenSSF charter](https://openssf.org/about/charter/):
+
+#### Software source code
+
+(1) Apache License, Version 2.0, available at [https://www.apache.org/licenses/LICENSE- 2.0](https://www.apache.org/licenses/LICENSE- 2.0); or
+
+(2) MIT License available at [https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)
+
+#### Data
+
+Any of the Community Data License Agreements, available at [https://www.cdla.io](https://www.cdla.io)
+
+#### Specifications
+
+Community Specification License, Version 1.0, available at [https://github.com/CommunitySpecification/1.0](https://github.com/CommunitySpecification/1.0)
+
+#### All other Documentation
+
+(1) Creative Commons Attribution 4.0 International License, available at [https://creative commons.org/licenses/by/4.0/](https://creative commons.org/licenses/by/4.0/)
 
 ## Code of Conduct
 
