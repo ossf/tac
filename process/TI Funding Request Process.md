@@ -1,6 +1,6 @@
 This process details how an eligible OpenSSF Technical Initiative (TI) can apply for funding.
 
-> [!IMPORTAT]
+> [!IMPORTANT]
 > Please review the "Qualifying for funding" section carefully
 
 ## Qualifying for funding
@@ -20,7 +20,7 @@ This process details how an eligible OpenSSF Technical Initiative (TI) can apply
 
 ## Example funding requests
 
-> [!IMPORTAT]
+> [!IMPORTANT]
 > These examples may use previous processes; please review the "Process to apply for funding" section above for the current process
 
 Here are some example funding requests that were approved, and we'd like to see more of in the future:
