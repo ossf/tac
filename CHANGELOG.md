@@ -1,5 +1,6 @@
 # OpenSSF TAC Changelog
 
+* 2025-01-13: Adding 2025 funding schedule and listing out example successful funding requests [#435](https://github.com/ossf/tac/pull/435)
 * 2025-01-08: Add initial onboarding document for incoming TAC members [#429](https://github.com/ossf/tac/pull/429)
 * 2024-12-11: Added global cyber policy to sandbox working groups
 * 2024-11-07: Add security baseline reqs to project lifecycle templates
