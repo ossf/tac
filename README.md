@@ -59,7 +59,7 @@ The following Technical Initiatives have been approved by the TAC. You may learn
 | Security Best Practices        | [GitHub](https://github.com/ossf/wg-best-practices-os-developers) | [Meeting Notes](https://docs.google.com/document/d/1u1gJMtOz-P5Z71B-vKKigzTbIDIS-bUNgNIcfnW4r-k/edit)  | David A. Wheeler | [Graduated](process/wg-lifecycle-documents/BEST_practices_wg_graduation_stage.md)  |
 | Security Tooling               | [GitHub](https://github.com/ossf/wg-security-tooling) | [Meeting Notes](https://docs.google.com/document/d/190urQjwvE6DsjZ3Z1vBbNEXsJ--ccC8xHmbe_fYKRHA/edit) | Jeff Diecks | Incubating |
 | Supply Chain Integrity         | [GitHub](https://github.com/ossf/wg-supply-chain-integrity)  | [Meeting Notes](https://docs.google.com/document/d/1moVFPn5pLi-uGs840_YBCrwdpHajU0ptFmlL4F9GryQ/edit)  | Kris Borchers | Incubating |
-| Vulnerability Disclosures      | [GitHub](https://github.com/ossf/wg-vulnerability-disclosures)  | [Meeting Notes](https://docs.google.com/document/d/1TdxiFofLOfpHUEQILlKq7qkjSsRXVab0uApSDJ8c5rI/edit)     | [Graduated](process/wg-lifecycle-documents/Vuln_Disc_wg_graduation_stage.md) |
+| Vulnerability Disclosures      | [GitHub](https://github.com/ossf/wg-vulnerability-disclosures)  | [Meeting Notes](https://docs.google.com/document/d/1TdxiFofLOfpHUEQILlKq7qkjSsRXVab0uApSDJ8c5rI/edit)  | Jeff Diecks | [Graduated](process/wg-lifecycle-documents/Vuln_Disc_wg_graduation_stage.md) |
 
 
 ### Projects
