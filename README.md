@@ -31,7 +31,7 @@ Meetings are also recorded and posted to the [OpenSSF YouTube channel](https://w
 | Zach Steindler   | Chair | steiza@github.com         | GitHub       | January 2025 - December 2026 |
 | Marcela Melara   |  | marcela.melara@intel.com       | Intel        | January 2024 - December 2025 |
 | Jautau "Jay" White || jaywhite@microsoft.com         | Microsoft    | January 2024 - December 2025 |
-| Stephen Augustus | | openssf@auggie.dev | Independent | January 2025 - December 2025\* |
+| Stephen Augustus | | openssf@auggie.dev | Bloomberg L.P. | January 2025 - December 2025\* |
 | Georg Kunz | | georg.kunz@ericsson.com | Ericsson | January 2025 - December 2025\* |
 | Michael Scovetta | | michael.scovetta@microsoft.com | Microsoft | January 2025 - December 2025\* |
 
