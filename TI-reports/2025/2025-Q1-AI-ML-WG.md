@@ -33,11 +33,11 @@ None
 
 Serve as a central place to collate any recommendation for using AI securely ("security for AI") and using AI to improve security of other products ("AI for security").
 
-The model signing project aims to create a cryptographic signing specification for AI models, taking into account difficulties that arise when trying to protect the integrity of large blobs.
+The model signing project aims to create a cryptographic signing specification for AI models, taking into account difficulties that arise when trying to protect the integrity of large blobs. This specification will be part of the library developed at https://github.com/sigstore/model-transparency and a full version of the specification will be included with the first stable release.
 
 ### Current Status
 
-We are on the final stretches towards a 1.0 release with stable API, clearer documentation and potential users in mind. The aim is to have these users prototype integrations of model signing and together we can quickly iterate and build an even more secure ML supply chain.
+We are on the final stretches towards a 1.0 release of the library with stable API, clearer documentation and potential users in mind. The aim is to have these users prototype integrations of model signing and together we can quickly iterate and build an even more secure ML supply chain.
 
 The library is currently being tested internally at Google and Nvidia and several companies in the ML ecosystem (Kaggle, HuggingFace, Cohere) have also been contacted to explore collaborations and integrations. Dell and RedHat have also mentioned interest in testing the library in one community call.
 
