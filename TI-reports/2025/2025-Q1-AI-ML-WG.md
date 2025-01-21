@@ -1,4 +1,4 @@
-# 2024 Q3 AI/ML WG and model signing project
+# 2025 Q1 AI/ML WG and model signing project
 
 ## Overview
 
