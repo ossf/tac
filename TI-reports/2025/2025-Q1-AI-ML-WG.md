@@ -14,7 +14,7 @@ We aim for the WG to be the central place to collect all information regarding M
 
 The AI/ML working group now has incubating status.
 
-We have updated the list of interlocks with other working groups in the AI security space. We have started some work on a taxonomy of all these groups and what areas we can collaborate on, what updates we can give/receive, what areas we can work on.  This helps in identifiying gaps and prevent duplication and dillution/fracturing of communities.
+We have updated the list of [interlocks with other working groups in the AI security space](https://docs.google.com/spreadsheets/d/1XOzf0LwksHnVeAcgQ7qMAmQAhlHV2iEf4ICvUwOaOfo/edit?gid=0#gid=0). We have started some work on a taxonomy of all these groups and what areas we can collaborate on, what updates we can give/receive, what areas we can work on.  This helps in identifiying gaps and prevent duplication and dillution/fracturing of communities.
 
 There is ongoing work on [mapping AI development lifecycle on the MLSecOps diagram from Ericsson](https://github.com/ossf/ai-ml-security/issues/16). Goal is to create an LLMSecOps version as one of the technical outputs of this group in this year.
 
