@@ -42,7 +42,6 @@ This section is primarily derived from [OpenSSF charter][charter] 5c, vi:
 - Set the agenda for meetings
 - Ensure meeting minutes are taken
 - Coordinate the TAC to conduct technical management and oversight of OpenSSF Technical Initiatives
-- Organize the selection of a TAC member to serve on the OpenSSF [Governance Committee][gov-comm], *in addition to the TAC Chair's membership*
 - Give TAC updates to the Governing Board as requested, including committees of the Governing Board
 
 ### Vice Chair
