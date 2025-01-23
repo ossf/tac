@@ -75,9 +75,9 @@ The Governing Board will appoint three people from the list of TAC and SCIR Nomi
 
 After the results of the community elections and Governing Board appointments are announced, the TAC members will elect a [Chair and a Vice Chair](/process/tac-member-R&Rs.md#tac-chair).
 
-The TAC Chair nomination period shall commence as soon as new TAC members are seated (typically, at the beginning of the year) and shall conclude at the end of the first TAC meeting of the year.
+The TAC Chair nomination period shall commence as soon as new TAC members are elected (typically, around the beginning of the year) and shall conclude at the end of the first TAC meeting of the year.
 
-OpenSSF staff will coordinate the election process and results will be announced soon after all votes have been cast.
+The voting period is 1 week, starting immediately after the conclusion of the nomination period. OpenSSF staff will coordinate the election process and results will be announced soon after all votes have been cast.
 
 The candidate with the most votes will serve as Chair and the candidate receiving the second-most votes will serve as Vice Chair.
 
