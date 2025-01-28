@@ -24,15 +24,15 @@ When contributing to OpenSSF any existing material for the new WG to work on, th
 #### TAC Sponsor
 TAC sponsor agrees to attend WG meetings regularly, although they are not required to have a formal role in WG.
   * "name of TAC sponsor"
-  * [Crob](https://github.com/SecurityCRob) (The Linux Foundation)
+  * [Marcela Melara](https://github.com/marcelamelara) (Intel)
 
 ### List of regular contributors
 The WG must have a minimum of 5 contributors from at least 3 different organizations attending regularly.
   * "name, affiliation, GitHub ID"
 
-1. [Marcela Melara](https://github.com/marcelamelara) (Intel)
-2. [Yesenia Yser](https://github.com/Cyber-JiuJiteria) (Microsoft) 
-3. [Jay White](https://github.com/camaleon2016) (Microsoft)
+1. [Ijeoma Onquka](https://github.com/Ijeoma-Onwuka) (Scandium)
+2. [Prince Oforh Asiedu](https://github.com/PrinceAsiedu)(Contributor)
+3. [John Kjell](https://github.com/jkjell) (TestifySec)
 4. [Crob](https://github.com/SecurityCRob) (The Linux Foundation)
 5. [Parris Lucas](https://github.com/GrooveCS) (Open Studio Labs)
 
