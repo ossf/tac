@@ -17,7 +17,7 @@ Improve security of software repositories by providing a forum for discussion, a
 
 ### Current Status
 
-- [Posting for technical writer](https://jobs.smartrecruiters.com/LinuxFoundation/744000038830864-openssf-securing-repositories-working-group-technical-writer) to write package yanking guidnace is live
+- [Posting for technical writer](https://jobs.smartrecruiters.com/LinuxFoundation/744000038830864-openssf-securing-repositories-working-group-technical-writer) to write package yanking guidance is live
 - Letter of support to Python Software Foundation's grant request to US National Science Foundation on detecting, flagging, and quarantining malware
 - Meetings continue every other week, with async discussions in the Slack channel
 
