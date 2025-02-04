@@ -19,7 +19,7 @@ Improve security of software repositories by providing a forum for discussion, a
 
 - [Central now performs Sigstore Signature Validation](https://central.sonatype.org/news/20250128_sigstore_signature_validation_via_portal/)
 - [Posting for technical writer](https://jobs.smartrecruiters.com/LinuxFoundation/744000038830864-openssf-securing-repositories-working-group-technical-writer) to write package yanking guidance is live
-- Letter of support to Python Software Foundation's grant request to US National Science Foundation on detecting, flagging, and quarantining malware
+- Submitted letter of support to Python Software Foundation's grant request to US National Science Foundation on detecting, flagging, and quarantining malware
 - Meetings continue every other week, with async discussions in the Slack channel
 
 ### Up Next
@@ -45,7 +45,7 @@ Provide a service to protect repository index from tampering by distributing the
 
 ### Up Next
 
-- [Security audit with OSTIF](https://github.com/ossf/tac/issues/379)
+- [Security audit with OSTIF](https://github.com/ossf/tac/issues/379) started Feb 3rd 2025
 
 ### Questions/Issues for the TAC
 
