@@ -13,7 +13,7 @@
 
 ### Purpose
 
-Improve security of software repositories by providing a forum for discussion, a maturity model for security roadmaps, and guidance for individual security capabilities.
+Improve security of software repositories by providing a forum for discussion, a maturity model for security roadmaps, and guidance for individual security capabilities. These conversations, roadmaps, and guidance help ecosystems learn from each other, which accelerates the deployment of security capabilities.
 
 ### Current Status
 
