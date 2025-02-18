@@ -65,41 +65,40 @@ folks beyond the OpenSSF. A primary goal of the discussions is for
 panelists to share their experiences and advice for newcomers to the
 OSS and cybersecurity space.
 
-### Current Status
+### Upcoming Panel Discussions
 
-Our most recent panel discussion, titled "Discover yourself through
-open source software security" was presented at the [Grace Hopper
-Conference 2024](https://ghc.anitab.org/session-catalog/?search=open%20source#/session/1717218936084001YJhG)
-in October. This session aimed to empower, educate, and inspire,
-providing attendees with actionable insights to thrive in open source
-communities.
+We are looking forward to our panel discussion, titled 
+"Finding Your Open Source Mentor: Strategies for Success" at OSSNA '25 
+in June. Our goal for this panel discussion is to inspire and educate 
+the audience as a range of OSS professionals share their experiences with 
+mentoring from the perspective of both the mentee and the mentor.
 
 #### Summary
 
-Panelists: Tabatha DiDomenico, Glenda Gracia, Annika Peterson,
-Yesenia Yser.
+Panelists: Ijeoma Onwuka, Santiago Torres-Arias, Kairo de Araujo, Marcela Melara
 
-Moderator: Chujiao Ma
+Moderator: Yesenia Yser
 
-The panel of open source advocates discussed each panelist's unique
-experiences of engaging with open-source projects, the challenges
-they faced, the milestones they achieved, and their substantial
-contributions to enhancing security in open-source software. The
-panelists also shared how their contributions have helped grow
-their skills and careers.
+Description: Navigating the open-source ecosystem can be intimidating, but 
+the right mentor can accelerate your growth and impact. In this panel, 
+experienced contributors, maintainers, and community leaders will share 
+practical strategies for finding and building relationships with mentors 
+in open source. We’ll discuss how to approach potential mentors, engage 
+meaningfully in communities, and leverage mentorship opportunities from 
+foundations and organizations. Whether you’re new to open source or looking 
+to take your contributions to the next level, this session will provide actionable 
+insights to help you connect with the right people and thrive.
 
-The panelists represented industry organizations, participants in
-The Linux Foundation mentorship program, as well as contributors
-to open source via their daily role or in the volunteer space.
-Originally, the panel was set to be in person, however, the panel
-was moved into a virtual space due to Hurricane Milton,
-making it impossible for most panelists to travel.
-
-### Up Next
-
-Our panel discussions in 2024 have been well-received, so we intend
-to continue presenting the WG's activities at major industry
-conferences in 2025, beginning iht OSSNA '25. We plane to submit the CFP for this in short time.
+Mentoring is an important approach for gaining experience in a field 
+and to improve leadership skills. Our goal for this panel discussion 
+is to inspire and educate the audience as a range of OSS professionals 
+share their experiences with mentoring from the perspective of both the 
+mentee and the mentor. The panel will highlight common misconceptions about
+mentoring and provide guidance to potential mentees and mentors for how to 
+make the most of mentorship. We hope this discussion will empower newcomers 
+or underrepresented individuals in OSS to seek out mentoring opportunities, 
+and encourage more experienced professionals to become mentors, thus helping 
+to foster a more welcoming and collaborative OSS community.
 
 ## 2025 Goals
 
