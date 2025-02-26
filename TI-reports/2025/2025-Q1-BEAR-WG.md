@@ -14,10 +14,10 @@ Over the past quarter, we've made progress in these areas:
 * Committed to our social action mission we have rebranded the DEI WG to Belonging, Empowerment, Allyship, and Representation (BEAR) WG 
 * Our monthly Community Office Hours have been regularly attracting 10+ attendees (on average).
 * Our meeting and Office Hours recordings are available on YouTube, improving access.
-* We are in the planning process for a panel discussion at OSSNA '25.
+* We have submitted a proposal for a panel discussion on mentoring at OSS NA '25.
 * We have submitted TI Finding Request for [LFX Mentorship Projects (summer cycle '25)](https://github.com/ossf/tac/issues/451)
 * We are working through setting up what we call BEAR Hour. Details are still being worked through
-* SUbmitted Incubation Stage application which is still being updated. ( Name change is required on the application)
+* Submitted Incubation Stage application which is still being updated. ( Name change is required on the application)
 
 ## Community Office Hours
 
@@ -36,13 +36,13 @@ relevant to newcomers to OSS and the cybersecurity industry:
 
 * Dec 5, 2024: [Standing out in the job market with your brand](https://youtu.be/smx2xnEuIFI?si=lEYsqUyq7-qVtxGk)
     - Speakers: Lexi Butler, Yesenia Yser
-* Jan 23: [Navigating OSS with Neurodiversity](TBD)
-    - Speakers: John Kjell, Jonathan Leitschuh Moderator: Marcela Melara
+* Jan 30: [Navigating OSS with Neurodiversity](https://www.youtube.com/watch?v=uOqoyLORzB4)
+    - Speakers: John Kjell, Jonathan Leitschuh, Moderator: Yesenia Yser
 
 ### Up Next
 
-We are planning one more Community Office Hour before the end of 2024
-continuing our theme of newcomer-oriented topics:
+In 2025, we are planning our Community Office Hours around the theme of
+community-oriented topics:
 
 * Feb	Celebrating Black Excellence in OSS
 * Mar	Mental Health Matters
@@ -75,7 +75,7 @@ mentoring from the perspective of both the mentee and the mentor.
 
 #### Summary
 
-Panelists: Ijeoma Onwuka, Santiago Torres-Arias, Kairo de Araujo, Marcela Melara
+Panelists: Ijeoma Onwuka, Santiago Torres-Arias, Kairo de Araujo
 
 Moderator: Yesenia Yser
 
@@ -127,7 +127,7 @@ as part of their lifecycle requirements.
 
 ### Questions/Issues for the TAC
 
-The BEAR WG intends to drive these activities, but need's the TAC's help in
+The BEAR WG intends to drive these activities, but needs the TAC's help in
 engaging other TIs in our mentorship and contributing guidelines activities.
 
 At this point, can the TAC continue to assist with outreach to stakeholders of a few
