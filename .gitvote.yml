@@ -1,7 +1,7 @@
 profiles:
   default:
     duration: 6w
-    pass_threshold: 70
+    pass_threshold: 55
     periodic_status_check: "1 week"
     allowed_voters:
       teams:
