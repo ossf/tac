@@ -4,7 +4,9 @@
 
 We kick off the year with a few engineering efforts and continued adoption of Sigstore by package registries. RubyGems added
 [support for attestations](https://www.ruby-lang.org/en/news/2024/12/25/ruby-3-4-0-released/#:~:text=Add%20%2D%2D-,attestation,-option%20to%20gem)
-late last year, and [support for provenance](https://github.com/bazelbuild/bazel-central-registry/discussions/2721) in Bazel Central Registry
+late last year,
+Maven Central [announced support](https://central.sonatype.org/news/20250128_sigstore_signature_validation_via_portal/) for Sigstore bundles,
+and [support for provenance](https://github.com/bazelbuild/bazel-central-registry/discussions/2721) in Bazel Central Registry
 is under development.
 
 ## Rekor v2 - Tile-backed transparency log
