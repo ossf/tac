@@ -26,7 +26,7 @@ Tooling workstream has [need something more...]
 
 ## Standards SIG
 
-Standards workstream is still getting up to speed. One area of focus will be promoting Baseline as a potential "standard" that can help the ecosystem comply with the CRA.
+Standards workstream is still getting up to speed. One area of focus will be promoting Baseline as a potential "standard" that can help the ecosystem comply with the CRA.  CRob+Jory+Wheeler will be presenting an opinioned list of possible specs within the OpenSSF and LF to put forth for consideration for ETSI & CEN/CENALC during the 1April2025 call.
 
 ## Questions/Issues for the TAC
 
