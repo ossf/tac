@@ -3,6 +3,7 @@
 ## Overview
 
 GitHub repo: https://github.com/ossf/wg-globalcyberpolicy/
+
 Minutes doc: https://docs.google.com/document/d/1iAplSQheMgemdMnEw74uPj3oi_6rLLbFFXhg4svqIDo/edit?tab=t.0#heading=h.9m0zi4b0wnne 
 
 This group has been formed in January 2025. The scope of the group is to provide a forum for our members and the broarder community to collaborate on Global Cybersecurity-related legislation, frameworks, and standards which facilitate conformance to regulatory requirements by open source projects and their consumers. We have been holidng bi-weekly calls. We have agreed [our charter](https://github.com/ossf/wg-globalcyberpolicy/blob/main/CHARTER.md) and formed 3 SIGs - Awareness, Tooling and Standards. The group is focusing most of its attention on the European Cyber Resilience Act (CRA). We also have drafted a [liaisons list](https://github.com/ossf/wg-globalcyberpolicy/blob/main/governance/external-liaisons.md) which is a list of external organizations we feel we need to liaise with.
