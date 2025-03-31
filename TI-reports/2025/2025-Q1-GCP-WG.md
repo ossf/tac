@@ -36,6 +36,8 @@ Standards workstream is still getting up to speed. One area of focus will be pro
 
 ## Additional Information
 
+Security Insights spec recently [incorporated](https://github.com/ossf/security-insights-spec/pull/117#pullrequestreview-2728878937) `steward` as a field in their schema. This is in response to an [issue](https://github.com/ossf/security-insights-spec/issues/106) we raised about how a project can specify its steward, which in turn came out of a discussion in the working group about whether we need a `steward.md`. file. So this might be one way - maybe our recommended way? - for a project to indicate its steward.
+
 Blog Posts:
 * [Linux Foundation Europe and OpenSSF Launch Initiative to Prepare Maintainers, Manufacturers, and Open Source Stewards for Global Cybersecurity Legislation
 ](https://openssf.org/press-release/2025/01/31/linux-foundation-europe-and-openssf-launch-initiative-to-prepare-maintainers-manufacturers-and-open-source-stewards-for-global-cybersecurity-legislation/)
