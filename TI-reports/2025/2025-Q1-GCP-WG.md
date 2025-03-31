@@ -8,6 +8,8 @@ Minutes doc: https://docs.google.com/document/d/1iAplSQheMgemdMnEw74uPj3oi_6rLLb
 
 This group has been formed in January 2025. The scope of the group is to provide a forum for our members and the broarder community to collaborate on Global Cybersecurity-related legislation, frameworks, and standards which facilitate conformance to regulatory requirements by open source projects and their consumers. We have been holidng bi-weekly calls. We have agreed [our charter](https://github.com/ossf/wg-globalcyberpolicy/blob/main/CHARTER.md) and formed 3 SIGs - Awareness, Tooling and Standards. The group is focusing most of its attention on the European Cyber Resilience Act (CRA). We also have drafted a [liaisons list](https://github.com/ossf/wg-globalcyberpolicy/blob/main/governance/external-liaisons.md) which is a list of external organizations we feel we need to liaise with.
 
+We have two working group co-leads: [Daniel Appelquist | Samsung](https://github.com/torgo) and [Mike Bursell | Confidential Compute Consortium](https://github.com/MikeCamel)
+
 We are also exploring folding in the "CRA tech bi-weekly" call into the remit of this group.
 
 We have spent a fair amount of time refining the charter, in particular the wording around how we open up the group as much as possible while also making it clear who gets to vote when and if a vote is required.
