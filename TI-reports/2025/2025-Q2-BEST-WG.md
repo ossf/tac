@@ -131,7 +131,7 @@ The group continues to be active and is working on several simultaneous projects
 
 ### Current Status
 
-* Released the Memory Safety Continuum document:   
+* Released the [Memory Safety Continuum](https://github.com/ossf/Memory-Safety/blob/main/docs/memory-safety-continuum/memory-safety-continuum.md) document
 * Scorecard release of memory safety check (unsafe block check)
 
 ### Up Next
@@ -170,13 +170,13 @@ The group continues to be active and is working on several simultaneous projects
 
 ### Current Status
 
-* Security Baseline has been released.  
+* [Security Baseline](https://openssf.org/projects/osps-baseline/) has been [released](https://baseline.openssf.org/versions/2025-02-25) ([blog post](https://openssf.org/press-release/2025/02/25/openssf-announces-initial-release-of-the-open-source-project-security-baseline/)).
 * Collaboration with pilot projects, but more feedback from other projects alway welcome.  
 * A (prototype) tool for scanning GitHub repositories against Baseline requirements has been implemented. Discussion with Scorecard and all other tools related to Baseline regarding future evolution and collaboration is ongoing.
 
 ### Up Next
 
-* Lots of presentations about Baseline scheduled to create awareness and solicit feedback.  
+* Lots of presentations (e.g., Kubecon, VulnCon) about Baseline scheduled to create awareness and solicit feedback.
 * Baseline will be part of the next CNCF Security Slam.
 
 ## Web Developer Security Guide
