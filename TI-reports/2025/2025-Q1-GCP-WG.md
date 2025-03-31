@@ -47,7 +47,7 @@ Minutes available here: [SIG Minutes Document](https://docs.google.com/document/
 
 ## Questions/Issues for the TAC
 
-[none at this time?]
+None at this time.
 
 ## Additional Information
 
