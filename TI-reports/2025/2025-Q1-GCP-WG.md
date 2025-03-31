@@ -51,6 +51,6 @@ None at this time.
 
 ## Additional Information
 
-Security Insights spec recently [incorporated](https://github.com/ossf/security-insights-spec/pull/117#pullrequestreview-2728878937) `steward` as a field in their schema. This is in response to an [issue](https://github.com/ossf/security-insights-spec/issues/106) we raised about how a project can specify its steward, which in turn came out of a [discussion](https://github.com/ossf/wg-globalcyberpolicy/issues/43) in this working group about whether we need a `steward.md` file. So this might be one way - maybe our recommended way? - for a project to indicate its steward.
+Security Insights spec recently [incorporated](https://github.com/ossf/security-insights-spec/pull/117#pullrequestreview-2728878937) `steward` as a field in their schema. This is in response to an [issue](https://github.com/ossf/security-insights-spec/issues/106) we raised about how a project can specify its steward, which in turn came out of a [discussion](https://github.com/ossf/wg-globalcyberpolicy/issues/43) in this working group about whether we need a `steward.md` file so that projects can indicate what organization is playing a "stewardship" role for them, which has a specific meaning under the CRA. This also showcases how this group seeks to work with other groups.
 
 
