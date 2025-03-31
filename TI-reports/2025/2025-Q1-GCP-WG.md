@@ -31,6 +31,7 @@ The Standards work stream is progressing. Currently we have one lead [[Tobias](h
 The SIGs mission was defined as: 
 
 > The OpenSSF Global Cyber Policy WG - Standardisation SIG’s mission is to align regulatory (e.g., the EU CRA) compliance strategies & standards across open-source participants to ensure clarity, consistency, and industry-wide adoption and coordination. Participants include stewards, projects, and maintainers.
+
 To meet that objective, we will likely start developing an index of curated Minutes, Resources, and References from OpenSSF, Eclipse, and OpenJS, as a "Google for CRA."
 
 Initially, the SIG will promote "Baseline" as a potential standard for CRA compliance. CRob, Jory Burson and Wheeler will present recommended OpenSSF and LF specifications for ETSI and CEN/CENELEC consideration during the April 1, 2025 call.
