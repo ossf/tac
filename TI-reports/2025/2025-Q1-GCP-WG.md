@@ -42,5 +42,4 @@ Blog Posts:
 * [What Will My Business Need to do for the CRA?](https://openssf.org/blog/2025/03/24/what-will-my-business-need-to-do-for-the-eu-cra/)
 * [Does the EU CRA affect my business?](https://openssf.org/blog/2025/02/20/does-the-eu-cra-affect-my-business/)
 * [OpenSSF Policy Summit DC 2025 Recap](https://openssf.org/blog/2025/03/14/openssf-policy-summit-dc-2025-recap/)
-</mark>
 
