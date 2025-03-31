@@ -39,7 +39,7 @@ Standards workstream is still getting up to speed. One area of focus will be pro
 Blog Posts:
 * [Linux Foundation Europe and OpenSSF Launch Initiative to Prepare Maintainers, Manufacturers, and Open Source Stewards for Global Cybersecurity Legislation
 ](https://openssf.org/press-release/2025/01/31/linux-foundation-europe-and-openssf-launch-initiative-to-prepare-maintainers-manufacturers-and-open-source-stewards-for-global-cybersecurity-legislation/)
-* [What Will My Business Need to do for the CRA?]()https://openssf.org/blog/2025/03/24/what-will-my-business-need-to-do-for-the-eu-cra/)
+* [What Will My Business Need to do for the CRA?](https://openssf.org/blog/2025/03/24/what-will-my-business-need-to-do-for-the-eu-cra/)
 * [Does the EU CRA affect my business?](https://openssf.org/blog/2025/02/20/does-the-eu-cra-affect-my-business/)
 * [OpenSSF Policy Summit DC 2025 Recap](https://openssf.org/blog/2025/03/14/openssf-policy-summit-dc-2025-recap/)
 </mark>
