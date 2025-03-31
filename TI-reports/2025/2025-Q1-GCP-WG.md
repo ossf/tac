@@ -12,7 +12,7 @@ We have two working group co-leads: [Daniel Appelquist | Samsung](https://github
 
 We are also exploring folding in the "CRA tech bi-weekly" call into the remit of this group.
 
-We have spent a fair amount of time refining the charter, in particular the wording around how we open up the group as much as possible while also making it clear who gets to vote when and if a vote is required.
+Since forming, we have spent a fair amount of time refining the charter, in particular the wording around how we open up the group as much as possible while also making it clear who gets to vote when and if a vote is required.
 
 We now have a schedule of calls for our SIGs and have started to take minutes in our main minutes doc. We are operating in a similar mode to the Best Practices Working group, with our SIGs reporting into the main working group call. 
 
