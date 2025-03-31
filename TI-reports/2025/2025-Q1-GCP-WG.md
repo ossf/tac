@@ -19,7 +19,7 @@ We held a special session at LF Member Summit which is also minuted in our minut
 
 ## Awareness SIG
 
-The awareness SIG is the furthest along. It's led by Megan Knight from Arm. The scope is activities that drive awareness of the work of this group and of the regulatory landscape in general. The SIG has been marshalling blog posts, upcoming conference schedule, as well as the CRA introductory course.
+The awareness SIG is the furthest along. It's led by [Megan Knight](https://github.com/businesscasualkesha), Arm. The scope is activities that drive awareness of the work of this group and of the regulatory landscape in general. The SIG has been marshalling blog posts, upcoming conference schedule, as well as the CRA introductory course.
 
 ## Tooling SIG
 
