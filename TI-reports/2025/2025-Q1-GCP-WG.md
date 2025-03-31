@@ -24,7 +24,7 @@ The awareness SIG is the furthest along. It's led by Megan Knight from Arm. The 
 
 ## Tooling SIG
 
-Tooling workstream has [need something more...]
+The Tooling SIG has is still in start-up mode. However we have one lead, [Puerco](https://github.com/puerco), and we're looking for a co-lead. The scope is to coordinate work on relevant tooling and processes. What tools already exist out there that can help maintainers, stewards and manufacturers? What additional features do we need from existing tools?
 
 ## Standards SIG
 
