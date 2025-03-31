@@ -21,6 +21,13 @@ We held a special session at LF Member Summit which is also minuted in our minut
 
 The awareness SIG is the furthest along. It's led by [Megan Knight](https://github.com/businesscasualkesha), Arm. The scope is activities that drive awareness of the work of this group and of the regulatory landscape in general. The SIG has been marshalling blog posts, upcoming conference schedule, as well as the CRA introductory course.
 
+Blog Posts:
+* [Linux Foundation Europe and OpenSSF Launch Initiative to Prepare Maintainers, Manufacturers, and Open Source Stewards for Global Cybersecurity Legislation
+](https://openssf.org/press-release/2025/01/31/linux-foundation-europe-and-openssf-launch-initiative-to-prepare-maintainers-manufacturers-and-open-source-stewards-for-global-cybersecurity-legislation/)
+* [What Will My Business Need to do for the CRA?](https://openssf.org/blog/2025/03/24/what-will-my-business-need-to-do-for-the-eu-cra/)
+* [Does the EU CRA affect my business?](https://openssf.org/blog/2025/02/20/does-the-eu-cra-affect-my-business/)
+* [OpenSSF Policy Summit DC 2025 Recap](https://openssf.org/blog/2025/03/14/openssf-policy-summit-dc-2025-recap/)
+
 ## Tooling SIG
 
 The Tooling SIG has is still in start-up mode. However we have one lead, [Puerco](https://github.com/puerco), and we're looking for a co-lead. The scope is to coordinate work on relevant tooling and processes. What tools already exist out there that can help maintainers, stewards and manufacturers? What additional features do we need from existing tools?
@@ -46,10 +53,4 @@ Minutes available here: [SIG Minutes Document](https://docs.google.com/document/
 
 Security Insights spec recently [incorporated](https://github.com/ossf/security-insights-spec/pull/117#pullrequestreview-2728878937) `steward` as a field in their schema. This is in response to an [issue](https://github.com/ossf/security-insights-spec/issues/106) we raised about how a project can specify its steward, which in turn came out of a [discussion](https://github.com/ossf/wg-globalcyberpolicy/issues/43) in this working group about whether we need a `steward.md` file. So this might be one way - maybe our recommended way? - for a project to indicate its steward.
 
-Blog Posts:
-* [Linux Foundation Europe and OpenSSF Launch Initiative to Prepare Maintainers, Manufacturers, and Open Source Stewards for Global Cybersecurity Legislation
-](https://openssf.org/press-release/2025/01/31/linux-foundation-europe-and-openssf-launch-initiative-to-prepare-maintainers-manufacturers-and-open-source-stewards-for-global-cybersecurity-legislation/)
-* [What Will My Business Need to do for the CRA?](https://openssf.org/blog/2025/03/24/what-will-my-business-need-to-do-for-the-eu-cra/)
-* [Does the EU CRA affect my business?](https://openssf.org/blog/2025/02/20/does-the-eu-cra-affect-my-business/)
-* [OpenSSF Policy Summit DC 2025 Recap](https://openssf.org/blog/2025/03/14/openssf-policy-summit-dc-2025-recap/)
 
