@@ -6,6 +6,9 @@ labels:
   - administration
   - For Review
   - TI Funding Request
+assignees: 
+  - Naomi-Wash
+  - kj-powell
 body:
   - type: markdown
     attributes:
