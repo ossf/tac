@@ -34,7 +34,7 @@ The Tooling SIG has is still in start-up mode. However we have one lead, [Puerco
 
 ## Standards SIG
 
-The Standards work stream is progressing. Currently we have one lead [[Tobias](https://github.com/0xAverageUser)](https://github.com/0xAverageUser), we are actively seeking a co-lead.
+The Standards work stream is progressing. Currently we have one lead [Tobias](https://github.com/0xAverageUser)](https://github.com/0xAverageUser), we are actively seeking a co-lead.
 The SIGs mission was defined as: 
 
 > The OpenSSF Global Cyber Policy WG - Standardisation SIG’s mission is to align regulatory (e.g., the EU CRA) compliance strategies & standards across open-source participants to ensure clarity, consistency, and industry-wide adoption and coordination. Participants include stewards, projects, and maintainers.
