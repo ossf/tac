@@ -156,7 +156,6 @@ The group continues to be active and is working on several simultaneous projects
 * Make OpenSSF Scorecard (and its GitHub Action) easier to run on groups of repositories  
 * Build contributor base  
 * Work towards project graduation  
-* Request TI funding for security audit  
 * Refine project release cadence  
 * Align with forthcoming OpenSSF persona work
 
@@ -171,13 +170,13 @@ The group continues to be active and is working on several simultaneous projects
 ### Current Status
 
 * [Security Baseline](https://openssf.org/projects/osps-baseline/) has been [released](https://baseline.openssf.org/versions/2025-02-25) ([blog post](https://openssf.org/press-release/2025/02/25/openssf-announces-initial-release-of-the-open-source-project-security-baseline/)).
-* Collaboration with pilot projects, but more feedback from other projects alway welcome.  
-* A (prototype) tool for scanning GitHub repositories against Baseline requirements has been implemented. Discussion with Scorecard and all other tools related to Baseline regarding future evolution and collaboration is ongoing.
+* Collaboration with pilot projects, e.g., OpenSSF and CNCF projects ([CNCF Security Slam](https://kccnceu2025.sched.com/type/Experiences/Security+Slam)), but more feedback from other projects always welcome.
+* A (prototype) tool for scanning GitHub repositories against Baseline requirements has been implemented. The scanner will move to an OpenSSF repo soon. Discussion with Scorecard and all other tools related to Baseline regarding future evolution and collaboration is ongoing.
 
 ### Up Next
 
 * Lots of presentations (e.g., Kubecon, VulnCon) about Baseline scheduled to create awareness and solicit feedback.
-* Baseline will be part of the next CNCF Security Slam.
+* Baseline will be part of the next [CNCF Security Slam](https://kccnceu2025.sched.com/type/Experiences/Security+Slam).
 
 ## Web Developer Security Guide
 
