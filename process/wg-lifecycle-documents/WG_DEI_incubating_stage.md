@@ -63,5 +63,5 @@ WG must have defined Contributor Guide
 | Contributing guide    |  https://github.com/ossf/wg-bear/blob/main/CONTRIBUTING.md   |
 | Security.md           |  https://github.com/ossf/wg-bear/blob/main/SECURITY.md   |
 | code-of-conduct.md    |  https://github.com/ossf/wg-bear/blob/main/code-of-conduct.md   |
-| roadmap.md.           |  https://github.com/ossf/wg-bear/blob/main/Roadmap.md |
+| roadmap.md           |  https://github.com/ossf/wg-bear/blob/main/Roadmap.md |
 | Other                 |     |
