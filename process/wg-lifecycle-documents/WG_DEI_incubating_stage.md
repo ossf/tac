@@ -3,7 +3,7 @@
 ### List WG Chair(s) and or Vice Chair
 The WG must have a minimum of 1 Chair
   * "name, affiliation, GitHub ID"
-#### Core Team
+#### Co-Chairs
 1. [Marcela Melara](https://github.com/marcelamelara) (Intel)
 2. [Yesenia Yser](https://github.com/Cyber-JiuJiteria) (Microsoft) 
 3. [Jay White](https://github.com/camaleon2016) (Microsoft)
@@ -30,7 +30,7 @@ TAC sponsor agrees to attend WG meetings regularly, although they are not requir
 The WG must have a minimum of 5 contributors from at least 3 different organizations attending regularly.
   * "name, affiliation, GitHub ID"
 
-1. [Ijeoma Onquka](https://github.com/Ijeoma-Onwuka) (Scandium)
+1. [Ijeoma Onwuka](https://github.com/Ijeoma-Onwuka) (Scandium)
 2. [Prince Oforh Asiedu](https://github.com/PrinceAsiedu)(Contributor)
 3. [John Kjell](https://github.com/jkjell) (TestifySec)
 4. [Crob](https://github.com/SecurityCRob) (The Linux Foundation)
@@ -58,8 +58,8 @@ WG must have defined Contributor Guide
 |-----------------------|-----|
 | Repo                  |  https://github.com/ossf/wg-dei   |
 | Meeting Agenda        |  https://docs.google.com/document/d/17j8uN_radgNcY4G8u1Ua8FN__lUL4TeUN0gb-D2TrZ4/edit?tab=t.0#heading=h.9m0zi4b0wnne   |
-| OSSF Calendar Entry   |  https://github.com/ossf/wg-dei  |
-| Website               |  https://zoom-lfx.platform.linuxfoundation.org/meeting/98853031629?password=a356aa22-ab31-4e2e-a8a0-9ecb45af84bd   |
+| OSSF Calendar Entry   | https://zoom-lfx.platform.linuxfoundation.org/meeting/98853031629?password=a356aa22-ab31-4e2e-a8a0-9ecb45af84bd |
+| Website               |  https://github.com/ossf/wg-dei |
 | Contributing guide    |  https://github.com/ossf/wg-dei/blob/main/CONTRIBUTING.md   |
 | Security.md           |  https://github.com/ossf/wg-dei/blob/main/SECURITY.md   |
 | code-of-conduct.md    |  https://github.com/ossf/wg-dei/blob/main/code-of-conduct.md   |
