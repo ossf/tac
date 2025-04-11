@@ -22,7 +22,7 @@ ORBIT: Open Resources for Baselines, Interoperability, and Tooling
 - Jay Flowers, Red Hat, [jflowers](https://github.com/jflowers)
 - Jenn Power, Red Hat, [jpower432](https://github.com/jpower432)
 - Evan Anderson, Staklok, [evankanderson](https://github.com/evankanderson)
-- Travis Truman, Samsara, [trumant](https://github.com/trumant)
+- Travis Truman, Independent, [trumant](https://github.com/trumant)
 
 ## Mission of the Working Group
 
