@@ -35,7 +35,7 @@ Recognizing the generous support provided to-date by their respecive homes, but 
 
 - [Open Source Project Security Baseline](https://github.com/ossf/security-baseline)
 - [Open Source Project Security Assessments](https://github.com/ossf/security-assessments)
-- [Security Insights](https://github.com/ossf/security-insights)
+- [Security Insights](https://github.com/ossf/security-insights-spec)
 - [SI Tooling](https://github.com/ossf/si-tooling)
 
 Following formation and initial stabilization, the WG will additionally seek to facilitate contribution to OpenSSF of additional resources which have streamlined development and/or adoption of the aforementioned resources. This includes logical models, schemas, libraries, and control validation/enforcement tooling.
