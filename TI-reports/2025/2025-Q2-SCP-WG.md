@@ -24,7 +24,7 @@ can provide them with support.
 
 ### Current Status
 
-- Investigation of Census 3 data
+- Investigation of [Census 3](https://www.linuxfoundation.org/research/census-iii) data
 
 ### Up Next
 
