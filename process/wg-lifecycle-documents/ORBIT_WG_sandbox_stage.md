@@ -13,7 +13,7 @@ ORBIT: Open Resources for Baselines, Interoperability, and Tooling
 - John Kjell, ControlPlane, [jkjell](https://github.com/jkjell)
 - Sarah Evans, Dell, [sevansdell](https://github.com/sevansdell)
 - Jason Meridth, GitHub, [jmeridth](https://github.com/jmeridth)
-- Adolfo Veytia Garcia, Independent, [puerco](https://github.com/puerco)
+- Adolfo García Veytia, Carabiner Systems, [puerco](https://github.com/puerco)
 - Satya Pavan Kalyan Vemula, Independent [vpavankalyan](https://github.comvpavankalyan)
 - Ben Cotton, Kusari, [funnelfiasco](https://github.com/funnelfiasco)
 - Michael Lieberman, Kusari, [mlieberman85](https://github.com/mlieberman85)
