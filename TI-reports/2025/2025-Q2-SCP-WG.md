@@ -50,7 +50,7 @@ None
 
 ### Current Status
 
-- Github enumerator has stopped working. Investagating
+- Github enumerator has stopped working. Investigating
 - Scoring running with a manual list
 - Updates 1 to 2 times a month
 - Tracking 500,000 projects
