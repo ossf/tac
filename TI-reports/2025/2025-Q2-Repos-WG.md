@@ -27,6 +27,10 @@ Improve security of software repositories by providing a forum for discussion, a
 
 - Project kickoff: "UI/UX support for attestations on software repos"
 - Continue supporting landing security capabilities in software repositories!
+- Publish more guidance from community-suggested topics, like:
+  - Handling pre-compiled binaries vs arbitrary code execution at install-time 
+  - How to shut down a package repository that is no longer being maintained
+  - Architecture choices and trade-offs for a new package repository being written from scratch
 
 ### Questions/Issues for the TAC
 
