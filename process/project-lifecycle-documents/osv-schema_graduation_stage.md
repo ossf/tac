@@ -34,7 +34,7 @@ The OSV Schema is currently exported by:
 - [Malicious Packages Repository](https://github.com/ossf/malicious-packages)
 - [Mageia Advisories](https://advisories.mageia.org/)
 - [OSS-Fuzz](https://github.com/google/oss-fuzz-vulns)
-- [OSV.dev maintained converters](https://github.com/google/osv.dev#current-data-sources) (Debian, Alpine, NVD)
+- [OSV.dev maintained converters](https://google.github.io/osv.dev/data/#converted-data) (Debian, Alpine, NVD)
 - [PyPI Advisory Database](https://github.com/pypa/advisory-database)
 - [Python Software Foundation Database](https://github.com/psf/advisory-database)
 - [RConsortium Advisory Database](https://github.com/RConsortium/r-advisory-database)
