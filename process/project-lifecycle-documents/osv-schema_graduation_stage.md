@@ -6,7 +6,10 @@
 ### List of project maintainers
 The project must have maintainers with a minimum of five different contributors from three different organizational affiliations.
   * Oliver Chang, Google, @oliverchang
-  * Andrew Pollock, Google, @andrewpollock
+  * Andrew Pollock, Independent, @andrewpollock
+  * Madison Oliver, GitHub, @taladrane
+  * Jason Shepherd, Red Hat, @jasinner
+  * Christopher 'CRob' Robinson, OpenSSF, @SecurityCRob 
 
 OSV Schema has had 62 contributors from 18 different organizations.
 
