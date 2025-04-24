@@ -62,11 +62,11 @@ Implements, practices, and refines mature software development and release pract
   * "link to policy for (or describe here) software development and release practices"
 
 Projects should harden their build systems in accordance with the SLSA Framework
-  * "link to policy for (or describe here) hardened build system"
+  * N/A this is a specification, no build artifiacts are delivered.
 
 ### Security audit
 When applicable, projects must have completed a security audit through a third party and addressed audit findings and recommendations.
-  * "link to results of security audit"
+  * N/A this is a specification, no security audit required.
 
 ### Security Baseline
 
