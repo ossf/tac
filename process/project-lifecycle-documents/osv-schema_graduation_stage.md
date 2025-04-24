@@ -43,7 +43,6 @@ The OSV Schema is currently exported by:
 - [Rust Advisory Database](https://github.com/RustSec/advisory-db)
 - [SUSE](https://www.suse.com/support/security/)
 - [Ubuntu](https://github.com/canonical/ubuntu-security-notices/)
-- [VMWare Photon OS](https://github.com/vmware/photon/wiki/Security-Advisories) (unofficial)
 
 ### Release cadence
 The project must be able to show a consistent release cadence.
