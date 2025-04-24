@@ -13,8 +13,6 @@ The project must have maintainers with a minimum of five different contributors 
 
 OSV Schema has had 62 contributors from 18 different organizations.
 
-Note: need to add a CONTRIBUTING.md doc to the project repo.
-
 ### Mission of the project
 The project must be aligned with the OpenSSF mission and either be a novel approach for existing areas, address an unfulfilled need, or be code needed to deliver OpenSSF WG work. It is preferred that extensions of existing OpenSSF projects collaborate with the existing project rather than seek a new project.
   * The mission of OSV is to develop a standard interchange format for describing vulnerabilities in open source packages.
