@@ -22,6 +22,7 @@ Improve security of software repositories by providing a forum for discussion, a
 - [Rubygems now supports publishing attestations](https://github.com/rubygems/rubygems/pull/8239)
 - npm is working on trusted publishing for release "this summer" and our [Trusted Publishing guide](https://repos.openssf.org/trusted-publishers-for-all-package-repositories) has been helpful
 - Meetings continue every other week, with async discussions in the Slack channel
+- Repository Service for TUF (RSTUF) has announced 1.0.0 release candidates
 
 ### Up Next
 
@@ -31,6 +32,7 @@ Improve security of software repositories by providing a forum for discussion, a
   - Handling pre-compiled binaries vs arbitrary code execution at install-time 
   - How to shut down a package repository that is no longer being maintained
   - Architecture choices and trade-offs for a new package repository being written from scratch
+- RSTUF 1.0.0 final releases planned for this summer
 
 ### Questions/Issues for the TAC
 
