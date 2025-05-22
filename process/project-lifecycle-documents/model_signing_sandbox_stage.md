@@ -4,10 +4,15 @@
 
 The project has 4 maintainers from 3 different organizations:
 
-*  Laurent Simon, Google, @laurentsimon
-*  Daniel Major, NVidia,
-*  Eoin Wickens, HiddenLayer, @EWickens
 *  Mihai Maruseac, Google, @mihaimaruseac
+*  Daniel Major, NVidia, @major-security
+*  Eoin Wickens, HiddenLayer, @EWickens
+
+#### Emeritus maintainers
+
+We recognize the efforts of maintainers that have started the project but have since moved on towards other projects.
+
+*  Laurent Simon, Google, @laurentsimon
 
 ### Mission of the project
 
@@ -96,10 +101,8 @@ The project should provide a list of existing resources with links to the reposi
 
 | Reference          | URL |
 |--------------------|-----|
-| Main Repository    | TODO |
+| Main Repository    | https://github.com/sigstore/model-transparency |
 | Meeting Agenda     | https://docs.google.com/document/d/18oAsfhfKJurH-YTUFe520CAZS3lkORX1WnZmBv4Llkc/edit#heading=h.etrsjlz02gla |
-| Contributing guide | TODO |
-| Security.md        | TODO |
-| Roadmap            | TODO |
-| Demos              | TODO |
-| Other              | TODO |
+| Contributing guide | https://github.com/sigstore/model-transparency/blob/main/CONTRIBUTING.md |
+| Security.md        | https://github.com/sigstore/model-transparency?tab=security-ov-file |
+| Demos              | https://github.com/sigstore/model-transparency/blob/main/docs/demo.ipynb |
