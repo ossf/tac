@@ -72,7 +72,7 @@ The following Technical Initiatives have been approved by the TAC. You may learn
 | Criticality Score      | [GitHub](https://github.com/ossf/criticality_score)        |  | Securing Critical Projects WG   | TBD        |
 | Fuzz Introspector      | [GitHub](https://github.com/ossf/fuzz-introspector)        |  | Security Tooling WG            | TBD        |
 | GUAC                   | [GitHub](https://github.com/guacsec/guac)                  | https://guac.sh | Supply Chain Integrity WG | [Incubating](process/project-lifecycle-documents/guac_incubating.md) |
-| gittuf | [GitHub](https://github.com/gittuf/gittuf) | https://gittuf.dev/ | Supply Chain Integrity WG | [Sandbox](process/project-lifecycle-documents/gittuf_sandbox_stage.md) |
+| gittuf | [GitHub](https://github.com/gittuf/gittuf) | https://gittuf.dev/ | Supply Chain Integrity WG | [Incubating](process/project-lifecycle-documents/gittuf_incubating_stage.md) |
 | OpenSSF Scorecard | [GitHub](https://github.com/ossf/scorecard)                | https://securityscorecards.dev/ | Best Practices WG | [Incubating](/process/project-lifecycle-documents/openssf_scorecard_incubating_stage.md) |
 | OpenVEX | [GitHub](https://github.com/openvex) |  | Vulnerability Disclosures WG | [Sandbox](process/project-lifecycle-documents/openvex_for_sandbox_stage.md) |
 | OSV Schema             | [GitHub](https://github.com/ossf/osv-schema)               | https://ossf.github.io/osv-schema/ | Vulnerability Disclosures WG   | TBD        |
