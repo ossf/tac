@@ -51,7 +51,7 @@ Minutes available here: [SIG Minutes Document](https://docs.google.com/document/
 
 ## Tooling SIG
 
-The Tooling SIG has is still in start-up mode. However we have one lead, [Puerco](https://github.com/puerco), and we're still looking for a co-lead. The scope is to coordinate work on relevant tooling and processes. What tools already exist out there that can help maintainers, stewards and manufacturers? What additional features do we need from existing tools?
+The Tooling SIG is still in start-up mode. However we have one lead, [Puerco](https://github.com/puerco), and we're still looking for a co-lead. The scope is to coordinate work on relevant tooling and processes. What tools already exist out there that can help maintainers, stewards and manufacturers? What additional features do we need from existing tools?
 
 ## Questions/Issues for the TAC
 
