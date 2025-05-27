@@ -39,9 +39,13 @@ The SIGs mission was defined as:
 
 > The OpenSSF Global Cyber Policy WG - Standardisation SIG’s mission is to align regulatory (e.g., the EU CRA) compliance strategies & standards across open-source participants to ensure clarity, consistency, and industry-wide adoption and coordination.
 
-We have been monitoring work happening in various standards groups related to CRA compliance (Eclipse, ISO, ETSI, FINOS, CEN/CENELEC) and providing a forum for OpenSSF members to share and coordinate their activities in these standards.
+We have been monitoring work happening in various standards groups related to CRA compliance (Eclipse, ISO, ETSI, FINOS, CEN/CENELEC, with "Ambassadors" for each of these within the SIG) and providing a forum for OpenSSF members to share and coordinate their activities in these standards.
 
 The SIG is currently working on a Standards Survey for OpenSSF members to determine what standards are highes priority.
+
+Created a directory of SIG-supported standardization bodies & contact paths.
+
+Working on: mapping baseline spec to CRA security requirements, CRA call-for-evidence (outline in progress), publushing a post oin CRA-Baseline matrix, draft proposal to advance Baseline as "Horizontal Security Specification".
 
 Minutes available here: [SIG Minutes Document](https://docs.google.com/document/d/1XjE5VYdyIdH32T94ZQIj0Hf5btRiKG58z3jSInY77wA/view?tab=t.0).
 
