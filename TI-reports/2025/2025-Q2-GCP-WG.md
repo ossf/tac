@@ -26,6 +26,8 @@ Since our last report, we have helped to launch the successful [Free LF Training
 
 The awareness SIG is led by [Megan Knight](https://github.com/businesscasualkesha) of Arm. The scope is activities that drive awareness of the work of this group and of the regulatory landscape in general. The SIG has been marshalling blog posts, upcoming conference schedule, as well as the CRA introductory course. The Awareness SIG minutes are kept in the [main working group minutes document](https://docs.google.com/document/d/1iAplSQheMgemdMnEw74uPj3oi_6rLLbFFXhg4svqIDo/edit). The group is working on a CRA glossary.
 
+Awareness sig has setup a project board for monthly content calendar organization (a work in progress to add issues but the monthly themes are visible): https://github.com/orgs/ossf/projects/33
+
 Blog Posts and other activities:
 * Tech talk on April 24: https://openssf.org/blog/2025/04/14/tech-talk-preview-strengthening-open-source-through-security-standards-and-global-policy/
 * Group co-chair Dan Appelquist presented on OpenSSF Baseline at Ospology Amsterdam event
