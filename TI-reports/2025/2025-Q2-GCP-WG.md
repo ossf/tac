@@ -41,7 +41,7 @@ The SIGs mission was defined as:
 
 We have been monitoring work happening in various standards groups related to CRA compliance (Eclipse, ISO, ETSI, FINOS, CEN/CENELEC, with "Ambassadors" for each of these within the SIG) and providing a forum for OpenSSF members to share and coordinate their activities in these standards.
 
-The SIG is currently working on a Standards Survey for OpenSSF members to determine what standards are highes priority.
+The SIG is currently working on a Standards Survey for OpenSSF members to determine what standards are highest priority.
 
 Created a directory of SIG-supported standardization bodies & contact paths.
 
