@@ -20,7 +20,7 @@ We are working on a [consise guide to the CRA](https://docs.google.com/document/
 
 We are also working on a response to the EU CRA act consultation: https://github.com/ossf/wg-globalcyberpolicy/issues/47
 
-Since our last report, we have helped to launch the successful [Free LF Training on CRA(https://openssf.org/press-release/2025/04/29/openssf-launches-free-course-to-prepare-developers-for-the-eu-cyber-resilience-act/) by providing feedback and input. ~3000 enrollments so far.  
+Since our last report, we have helped to launch the successful [Free LF Training on CRA](https://openssf.org/press-release/2025/04/29/openssf-launches-free-course-to-prepare-developers-for-the-eu-cyber-resilience-act/) by providing feedback and input. ~3000 enrollments so far.  
 
 ## Awareness SIG
 
