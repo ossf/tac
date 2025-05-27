@@ -14,7 +14,7 @@ We have folded the "CRA tech bi-weekly" call into the remit of this group - and 
 
 We have a regular schedule of calls for our Awareness and Standards SIGs and have started to take minutes in our main minutes doc. The Tooling sig is still a work in progress. We are operating in a similar mode to the Best Practices Working group, with our SIGs reporting into the main working group call.  We have well attended meetings. Our general working group call, besides being a place where SIGs report, also serves as a venue to work on general deliverables and to drive awareness with group members of related activities. 
 
-We plan to hold a special session at LF Open Source Summit Europe. (Details tba)
+We plan to hold a special session at LF Open Source Summit North America. (Details tba)
 
 We are working on a [consise guide to the CRA](https://docs.google.com/document/d/1Kjq7B8SMySs0OTd76p0wro-fAvIsbG3y5GnNeTzjTQg/edit?tab=t.0#heading=h.i4ci2t7a406t) to go along with the other OpenSSF concise guides.
 
