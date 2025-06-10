@@ -25,7 +25,7 @@ The project must be aligned with the OpenSSF mission and either be a novel appro
 
 * Gemara, currently named "Simplified Compliance Infrastructure (SCI)", is a collection of schema describing data interchange formats for security and compliance activities and a Golang module for producing and consuming data conforming to these formats. The project's mission is to serve as a unifying, integration format between tools and applications that operate in the security and compliance space. SCI is currently used to model the catalog of compliance controls in the OSPS Baseline and in the FINOS Common Cloud Controls and is expected to be adopted by additional tools like darn/darnit, oscal-tempest, etc.
 
-**_NOTE: due to a naming collision with the existing OpenSSF Supply Chain Integrity WG, if this project is granted Sandbox phase status, it will be renamed._**
+**_NOTE: due to a naming collision with the existing OpenSSF Supply Chain Integrity WG, if this project is granted Sandbox phase status, it will be renamed Gemara._**
 
 ### IP policy and licensing due diligence
 
