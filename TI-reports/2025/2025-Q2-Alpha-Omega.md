@@ -2,21 +2,27 @@
 
 ## Overview
 
-Alpha-Omega enters 2025 with renewed funding from Google and Amazon, a healthy pipeline of potential engagements, and updated OKRs to guide and focus on our investments. We're thankful to have such an engaging security community around us and we're looking forward to seeing their accomplishments this year.
+Alpha-Omega is fully funded for 2025, with each stakeholder renewing their commitment to our mission - thank you to Amazon, Google, Microsoft, and to our newest (and first!) general member, Citi. We continue to have a healthy pipeline of potential engagements and are thankful for the terrific community that supports and drives our mission.
+
+We recently approved funding for a RubyGems infrastructure hardening, porting [Capslock](https://github.com/google/capslock) to Rust, and implementing trusted publishing for Rust Crates. We're reviewing a handful of proposals for additional funding.
+
+We continue to meet and iterate on the concept of the Open Source Corps of Security Engineers and will be focusing more on package manager sustainability work in the second half of this calendar year.
 
 ## Recent Events / News / Blogs / Etc.
 
-* [What's in the SOSS? Podcast #21 – Alpha-Omega's Michael Winser and Catalyzing Sustainable Improvements in Open Source Security](https://openssf.org/podcast/2024/12/10/whats-in-the-soss-podcast-21-alpha-omegas-michael-winser-and-catalyzing-sustainable-improvements-in-open-source-security/) (CRob, Michael Winser [Alpha-Omega])
-* FOSDEM: [How FreeBSD security audits have improved our security culture](https://fosdem.org/2025/schedule/event/fosdem-2025-6152-how-freebsd-security-audits-have-improved-our-security-culture/) (Pierre Pronchery [FreeBSD], Michael Winser [Alpha-Omega])
-* FOSDEM: [Funding FOSS together: Combining public and private efforts](https://fosdem.org/2025/schedule/event/fosdem-2025-5279-funding-foss-together-combining-public-and-private-efforts/) (Mirko Swillus [Sovereign Tech Fund], Michael Winser [Alpha-Omega])
-* FOSDEM: [Airflow Beach Cleaning - Securing Supply Chain](https://fosdem.org/2025/schedule/event/fosdem-2025-4594-airflow-beach-cleaning-securing-supply-chain/) (Jarek Potiuk [Apache], Munawar Hafiz [OpenRefactory], Michael Winser [Alpha-Omega])
-* [An Overview of Cyber Security Funding for Open Source Software](https://arxiv.org/pdf/2412.05887) (Jukka Ruohonen, Gaurav Choudharya, Adam Alami [University of Southern Denmark]
+* [Strengthening Rust Security with Alpha-Omega: A Progress Update](https://alpha-omega.dev/blog/strengthening-rust-security-with-alpha-omega-a-progress-update/)
+* [Reviewing another year of security partnership between the PSF & Alpha-Omega (Sponsor: Alpha-Omega)](https://www.youtube.com/watch?v=ZbHzU72r3mY)
+* [Airflow Beach Cleaning - Supply Chain Security with Community in Mind](https://www.youtube.com/watch?v=BXkrkneY2-g)
+* [The OpenJS Foundation is now a CVE Numbering Authority (CNA)](https://openjsf.org/blog/openjs-foundation-cna)
+* [OpenJS Security Update: March–April 2025](https://openjsf.org/blog/openjs-security-update-marchapril-25)
+* [Sneak peek: A new ASN.1 API for Python](https://blog.trailofbits.com/2025/04/18/sneak-peek-a-new-asn.1-api-for-python/)
+* [LLMs can't stop making up software dependencies and sabotaging everything](https://www.theregister.com/2025/04/12/ai_code_suggestions_sabotage_supply_chain/)
 
 ## Upcoming Events
 
-* UN
-* Open Source Summit
-* Alpha-Omega Public Meeting - April 2, 2025 -- **please join us!**
+* We're partnering with [Soverign Tech Agency](https://www.sovereign.tech/) to run an all-day Maintain-a-thon at [UN Open Source Week](https://www.un.org/digital-emerging-technologies/content/open-source-week-2025)
+* Alpha-Omega Q2 Roundtable Open Source Summit North America
+* Alpha-Omega Public Meeting - July 2, 2025 -- **please join us - it's on the OpenSSF public calendar**
 
 ## Objectives & Key Results
 
@@ -24,14 +30,14 @@ Alpha-Omega enters 2025 with renewed funding from Google and Amazon, a healthy p
 |-|-|
 | **KR1.1**: Fund security improvements and initiatives for at least ten critical open source organizations by the end of 2025. | On Target |
 | **KR 1.2**: For each engagement, confirm progress toward improved security outcomes, evidenced through initial and/or follow-on assessments, monthly reporting, and periodic check-ins. | In Progress |
-| **KR 1.3**: Drive the organizations we work with to obtain security funding from at least one organization other than Alpha-Omega, targeting 33% by the end of 2025. | Started |
+| **KR 1.3**: Drive the organizations we work with to obtain security funding from at least one organization other than Alpha-Omega, targeting 33% by the end of 2025. | In Progress |
 | **KR 1.4**: Organize quarterly roundtables for at least 5 major ecosystems  to share information, build connections, and collaborate, resulting in at least one new project or joint publication started in 2025. | Started |
-| **KR1.5**: Scaling adoption, consumption, value of OSS Security projects, Getting to sustainability tipping points. | In Progress |
+| **KR1.5**: Scaling adoption, consumption, value of OSS Security projects, getting to sustainability tipping points. | In Progress |
 |-|-|
 | **Objective #2: The top 10,000 open source projects are free of critical security vulnerabilities** | |
 | **KR2.1**: Create and collect open data sets of security-related data for open source projects to make the development of scaled security tooling easier and to make the results more consistent. | Started |
-| **KR2.2**: Expand the "beach cleaning" approach to at least 3 new projects and develop tooling and playbooks to make it easier and cheaper to do for any project | Not Started |
-| **KR2.3**:  Create an open source "Corps of Engineers" group of security expert engineers who can work within and across their communities to provide security guidance to smaller projects in times of crisis. | Started |
+| **KR2.2**: Expand the "beach cleaning" approach to at least 3 new projects and develop tooling and playbooks to make it easier and cheaper to do for any project | Started |
+| **KR2.3**:  Create an open source "Corps of Engineers" group of security expert engineers who can work within and across their communities to provide security guidance to smaller projects in times of crisis. | In Progress |
 |-|-|
 | **Objective #3: Enhance Alpha-Omega's effectiveness in innovation, experimentation, and marketing** | |
 | **KR3.1**: By the end of 2025, run three experiments to explore new strategies for reducing security risk within the open source ecosystems, share the results/ learnings, using them to refine our overall strategy and objectives for 2026. | Not Started |
@@ -43,11 +49,11 @@ Alpha-Omega enters 2025 with renewed funding from Google and Amazon, a healthy p
 | **KR4.2**: Receive at least $5 million in renewed funding in 2025. | Completed |
 | **KR4.3**: For each partner engagement, at least 70% of the objectives defined within the respective agreement are met within the defined time period. | In Progress |
 | **KR4.4**: Develop and deliver quarterly reports. Increase engagement/interest across stakeholders, grant recipients, and other target orgs. | On Target |
-| **KR4.5**: Jointly fund 3-5 engagements in partnership with other organizations (e.g. Sovereign Tech Agency). | Started |
+| **KR4.5**: Jointly fund 3-5 engagements in partnership with other organizations (e.g. Sovereign Tech Agency). | In Progress |
 
 ## Reporting
 
-We published our [annual report](https://alpha-omega.dev/wp-content/uploads/sites/22/2025/01/Alpha-Omega-Annual-Report-2024_012925.pdf) and [impact/outcomes report](https://alpha-omega.dev/wp-content/uploads/sites/22/2025/01/Alpha-Omega-GranteeReport-2024_012925.pdf) in January 2025. One change for this year is that we're moving to quarterly reports instead of [monthly](https://alpha-omega.dev/resources/reports/) -- our Q1 report will be out in the next few weeks.
+Our next quarterly report will be published next month at [monthly](https://alpha-omega.dev/resources/reports/).
 
 ### Questions/Issues for the TAC
 
