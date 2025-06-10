@@ -92,3 +92,22 @@ opportunities to clarify our client specification.
 
 The community will be experimenting with PQC algorithms to measure the performance
 and operational costs. We'll be publishing more blog posts based on our experimentation.
+
+## OSSF TI Funded Monitoring
+
+Through the sponsorship of the [OpenSSF TI fund](https://github.com/ossf/tac/issues/470), the commmunity
+will be productionizing the Rekor transparency log monitor.
+
+### Purpose
+
+The ability to monitor a transparency log is one of Sigstore's primary benefits over traditional signing schemes.
+An ecosystem that uses transparency logs must provide tooling to simplify and encourage monitoring.
+A signature present in an unaudited log adds little value, rather the value comes from the discoverability of the signature by its creator.
+
+### Current Status
+
+We've just had our kick off with Trail of Bits, who will be implementing the work.
+
+### Next Steps
+
+1) Review and modernization of the current tool and its APIs, 2) completion of open feature requests and issues, and 3) preparation for a major 1.0 release. 
