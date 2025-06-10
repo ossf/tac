@@ -23,7 +23,7 @@ Most projects will report to an existing OpenSSF Working Group, although in some
 
 The project must be aligned with the OpenSSF mission and either be a novel approach for existing areas, address an unfulfilled need, or be initial code needed for OpenSSF WG work. It is preferred that extensions of existing OpenSSF projects collaborate with the existing project rather than seek a new project.
 
-* Gemara (current name) is a collection of schema describing data interchange formats for security and compliance activities and a Golang module for producing and consuming data conforming to these formats. The project's mission is to serve as a unifying, integration format between tools and applications that operate in the security and compliance space. SCI is currently used to model the catalog of compliance controls in the OSPS Baseline and in the FINOS Common Cloud Controls and is expected to be adopted by additional tools like darn/darnit, oscal-tempest, etc.
+* Gemara, currently named "Simplified Compliance Infrastructure (SCI)", is a collection of schema describing data interchange formats for security and compliance activities and a Golang module for producing and consuming data conforming to these formats. The project's mission is to serve as a unifying, integration format between tools and applications that operate in the security and compliance space. SCI is currently used to model the catalog of compliance controls in the OSPS Baseline and in the FINOS Common Cloud Controls and is expected to be adopted by additional tools like darn/darnit, oscal-tempest, etc.
 
 **_NOTE: due to a naming collision with the existing OpenSSF Supply Chain Integrity WG, if this project is granted Sandbox phase status, it will be renamed._**
 
