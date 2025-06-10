@@ -20,7 +20,7 @@ We continue to meet and iterate on the concept of the Open Source Corps of Secur
 
 ## Upcoming Events
 
-* We're partnering with [Soverign Tech Agency](https://www.sovereign.tech/) to run an all-day Maintain-a-thon at [UN Open Source Week](https://www.un.org/digital-emerging-technologies/content/open-source-week-2025)
+* We're partnering with [Sovereign Tech Agency](https://www.sovereign.tech/) to run an all-day Maintain-a-thon at [UN Open Source Week](https://www.un.org/digital-emerging-technologies/content/open-source-week-2025)
 * Alpha-Omega Q2 Roundtable Open Source Summit North America
 * Alpha-Omega Public Meeting - July 2, 2025 -- **please join us - it's on the OpenSSF public calendar**
 
