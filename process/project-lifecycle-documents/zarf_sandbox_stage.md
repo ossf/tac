@@ -2,9 +2,9 @@
 
 ### List of project maintainers
 The project must have a minimum of three maintainers with a minimum of two different organizational affiliations.
-  * Sarah Christoff, Defense Unicorns, @sscristoff-du
+  * Kit Patella, Defense Unicorns, @mkcp
   * Austin Abro, Defense Unicorns, @AustinAbro321
-  * Lucas Rodriguez, Defense Unicorns, @lucasrod16
+  * Brandt Keller, Defense Unicorns, @brandtkeller
   * Danny Gershman, Radius Method, @dgershman
 
 ### Sponsor
@@ -56,10 +56,10 @@ The project should provide a list of existing resources with links to the reposi
 
 | Reference           | URL                                                                                                |
 |---------------------|----------------------------------------------------------------------------------------------------|
-| Repo                | https://github.com/defenseunicorns/zarf                                                            |
+| Repo                | https://github.com/zarf-dev/zarf                                                            |
 | Website             | https://zarf.dev                                                                                   |
-| Contributing guide  | https://github.com/defenseunicorns/zarf/blob/main/.github/CONTRIBUTING.md                          |
-| Security.md         | https://github.com/defenseunicorns/zarf/blob/main/.github/SECURITY.md                              |
+| Contributing guide  | https://github.com/zarf-dev/zarf/blob/main/CONTRIBUTING.md                          |
+| Security.md         | https://github.com/zarf-dev/zarf/blob/main/.github/SECURITY.md                              |
 | Roadmap             | https://docs.zarf.dev/docs/roadmap                                                                 |
-| Demos               | https://youtu.be/CBJ3HYV4UoU?si=g2Hx76Zil_kGxdan, https://youtu.be/zur-TjemtcA?si=krcJjBcWncrT4V03 |
+| Demos               | https://www.youtube.com/@Zarf-dev, https://youtu.be/CBJ3HYV4UoU?si=g2Hx76Zil_kGxdan, https://youtu.be/zur-TjemtcA?si=krcJjBcWncrT4V03 |
 | Other               | [System76 podcast](https://pca.st/dztuzwe3)                                                        |
