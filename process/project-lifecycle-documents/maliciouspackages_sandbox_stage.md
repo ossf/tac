@@ -2,8 +2,6 @@
 
 ### List of project maintainers
 
-Per [project documents](https://github.com/openbao/openbao/blob/main/MAINTAINERS.md):
-
 - Paul McCarty, SourceCodeRED, @6mile
 - Caleb Brown, Google, @calebbrown
 - Jeff Mendoza, Kusari, @jeffmendoza
