@@ -4,14 +4,14 @@
 
 ### **Sub-groups**
 
-* Guides \- [link](https://github.com/ossf/wg-best-practices-os-developers/tree/main/docs)  
-* EDU.SIG \- [link](https://github.com/ossf/education/)  
-* Memory Safety SIG \- [link](https://github.com/ossf/Memory-Safety)  
-* OpenSSF Best Practices Badge \- [link](https://www.bestpractices.dev/)  
-* OpenSSF Scorecard \- [link](https://github.com/ossf/scorecard)  
-* Best Practices Badge and Developing Secure Software (LFD121) course \- [link](https://github.com/ossf/secure-sw-dev-fundamentals)  
-* Security Baseline \- [link](https://github.com/ossf/security-baseline)  
-* Web (with SWAG) \- [link](https://github.com/w3c-cg/swag/)
+* [Guides](https://github.com/ossf/wg-best-practices-os-developers/tree/main/docs)  
+* [EDU.SIG](https://github.com/ossf/education/)  
+* [Memory Safety SIG](https://github.com/ossf/Memory-Safety)  
+* OpenSSF Best Practices Badge](https://www.bestpractices.dev/)  
+* [OpenSSF Scorecard](https://github.com/ossf/scorecard)  
+* [Best Practices Badge and Developing Secure Software (LFD121) course](https://github.com/ossf/secure-sw-dev-fundamentals)  
+* [Security Baseline](https://github.com/ossf/security-baseline)  
+* [Web (with SWAG)](https://github.com/w3c-cg/swag/)
 
 ## **Activity**
 
