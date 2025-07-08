@@ -7,7 +7,7 @@
 * [Guides](https://github.com/ossf/wg-best-practices-os-developers/tree/main/docs)  
 * [EDU.SIG](https://github.com/ossf/education/)  
 * [Memory Safety SIG](https://github.com/ossf/Memory-Safety)  
-* OpenSSF Best Practices Badge](https://www.bestpractices.dev/)  
+* [OpenSSF Best Practices Badge](https://www.bestpractices.dev/)  
 * [OpenSSF Scorecard](https://github.com/ossf/scorecard)  
 * [Best Practices Badge and Developing Secure Software (LFD121) course](https://github.com/ossf/secure-sw-dev-fundamentals)  
 * [Security Baseline](https://github.com/ossf/security-baseline)  
