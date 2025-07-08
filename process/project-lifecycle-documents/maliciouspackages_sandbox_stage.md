@@ -13,14 +13,14 @@ The OpenSSF Malicious Packages project aims to establish and maintain a comprehe
 ### IP policy and licensing due diligence
 
 When contributing an existing Project to the OpenSSF, the contribution must undergo license and IP due diligence by the Linux Foundation (LF).
-  * "yes / no / not applicable. If yes, provide a link to the corresponding GitHub issue."
+  * not applicable
 
 ### Project References
 
 | Reference           | URL |
 |---------------------|-----|
 | Repo                | https://github.com/ossf/malicious-packages|
-| Website             | TBD |
+| Website             | https://github.com/ossf/malicious-packages|
 | Contributing guide  | https://github.com/ossf/malicious-packages/blob/main/CONTRIBUTING.md |
 | Security.md         | https://github.com/ossf/malicious-packages/blob/main/SECURITY.md |
 | Roadmap             | TBD |
