@@ -84,7 +84,7 @@ Signatures generated from the model signing project are already present for
 models on NVIDIA's model hub. We are also experimenting with signing models on
 Kaggle -- this is 90% done, currently under a feature flag, but demo-able.
 
-Regarding model signing, we also had a presentation from Prudue about generating
+Regarding model signing, we also had a presentation from Purdue about generating
 model signatures directly on GPU and validating them on GPU at the user's site.
 
 ### Up Next
