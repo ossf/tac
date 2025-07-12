@@ -19,8 +19,8 @@ When contributing an existing Project to the OpenSSF, the contribution must unde
 
 | Reference           | URL |
 |---------------------|-----|
-| Repo                | https://github.com/ossf/malicious-packages|
-| Website             | https://github.com/ossf/malicious-packages|
+| Repo                | https://github.com/ossf/malicious-packages |
+| Website             | https://github.com/ossf/malicious-packages |
 | Contributing guide  | https://github.com/ossf/malicious-packages/blob/main/CONTRIBUTING.md |
 | Security.md         | https://github.com/ossf/malicious-packages/blob/main/SECURITY.md |
 | Roadmap             | TBD |
