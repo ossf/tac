@@ -105,7 +105,7 @@ with various companies (HuggingFace, Cohere, Dell, RedHat), directly or via
 CoSAI. We have given demos at OSS NA, devconf.cz and academic conferences.
 
 The model signing project is also looking at incorporating signatures generated
-on GPUs. We are also looking at merging with the work from the Atlas project
+on GPUs. We are also looking at merging with the work from the [Atlas project](https://sched.co/21A0r)
 from Intel.
 
 ## Questions/Issues for the TAC
