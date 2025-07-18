@@ -44,7 +44,7 @@ Engage with any community efforts that relate to the OSPS Baseline, especially w
 
 Several tooling efforts are currently underway, including one community tool currently deployed into production by LFX Insights.
 
-The WG has issued a call for proposals to anyone who would like their integrations to be highlighted on a web page that is anticipated to be created soon with the support of OpenSSF staff.
+The ORBIT WG has issued a call for proposals to anyone who would like their integrations to be highlighted on a web page that is anticipated to be created soon with the support of OpenSSF staff.
 
 ### Up Next for Baseline Tooling Support
 
