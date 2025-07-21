@@ -89,7 +89,7 @@ The SIG has identified a need for the following, but work is not yet underway:
 
 ### Questions/Issues for the TAC regarding OSPS Assessments SIG
 
-The ORBIT WG would like to highlight that a complete CRA response **must** include both a Baseline guidance for how software projects are run, and Assessment guidance to help projects improve how they design their systems and write their code. Prior to the full enforcement of the CRA, both OSPS-A and OSPS-B will need to be generally available for projects overseen by stewards.
+The ORBIT WG would like to highlight that a complete CRA response **must** include both a Baseline guidance for how software projects are run, and Assessment guidance to help projects improve how they design their systems and write their code. Prior to the full enforcement of the CRA, both OSPS Assessments and OSPS Baseline will need to be generally available for projects overseen by stewards.
 
 ## Security Insights SIG
 
