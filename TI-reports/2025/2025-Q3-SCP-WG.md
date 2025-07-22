@@ -52,7 +52,7 @@ can provide them with support.
 ### Current Status
 
 - Run not working regularly, but get a successful run here and there
-- Working through quota issues
+- Working through quota issues: Proposed new features were looking to use GitHub Search API, which has low limits. Looking into GraphQL API as an alternative.
 
 ### Up Next
 
