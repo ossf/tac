@@ -53,7 +53,7 @@ Projects must have documented project governance and be able to demonstrate that
   * https://github.com/ossf/osv-schema/blob/main/CHARTER.md
 
 Have a defined and documented roadmap and annual goals for the project
-  * "link to roadmap and goals"
+  * https://github.com/ossf/osv-schema/projects?query=is%3Aopen
 
 Project has met at least 4 times over a period of at least 2 months since becoming incubating
   * The project has a standing agenda item in the Vulnerability Disclosures Working Group meetings. [Meeting Notes](https://docs.google.com/document/d/1TdxiFofLOfpHUEQILlKq7qkjSsRXVab0uApSDJ8c5rI/edit?tab=t.0)
