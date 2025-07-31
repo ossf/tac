@@ -20,7 +20,7 @@ The project has [11 maintaners](https://github.com/stacklok/minder/blob/main/MAI
 
 Most projects will report to an existing OpenSSF Working Group, although in some cases a project may report directly to the TAC. The project commits to providing quarterly updates on progress to the group they report to.
 
-  * [Security Tooling WG](https://github.com/ossf/wg-security-tooling)
+  * [ORBIT WG](https://github.com/ossf/wg-orbit)
 
 ### Mission of the project
 
@@ -46,11 +46,11 @@ The project should provide a list of existing resources with links to the reposi
 
 | Reference           | URL |
 |---------------------|-----|
-| Repo                | https://github.com/stacklok/minder |
-| Website             | https://minder-docs.stacklok.dev |
-| Contributing guide  | https://github.com/stacklok/minder/blob/main/CONTRIBUTING.md |
-| Security.md         | https://github.com/stacklok/minder/blob/main/SECURITY.md |
-| Roadmap             | https://minder-docs.stacklok.dev/about/roadmap |
+| Repo                | https://github.com/mindersec/minder |
+| Website             | https://mindersec.dev/ (splash page) and https://mindersec.github.io |
+| Contributing guide  | https://github.com/mindersec/minder/blob/main/CONTRIBUTING.md |
+| Security.md         | https://github.com/mindersec/minder/blob/main/SECURITY.md |
+| Roadmap             | https://mindersec.github.io/about/roadmap |
 | Demos               | https://www.youtube.com/watch?v=WniqzgNHjJQ (a little dated) |
-| Discord Community   | https://discord.com/channels/1184987096302239844/1185287949240242258 |
+| OpenSSF Slack       | [#minder](https://openssf.slack.com/archives/C07SP9RSM2L) |
 | Other               |     |
