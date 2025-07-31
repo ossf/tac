@@ -17,7 +17,8 @@ The OpenSSF Malicious Packages project aims to establish and maintain a comprehe
 ### IP policy and licensing due diligence
 
 When contributing an existing Project to the OpenSSF, the contribution must undergo license and IP due diligence by the Linux Foundation (LF).
-  * not applicable
+
+RE: @steiza Not applicable in the sense that this project has already been operating in the OpenSSF as part of the Securing Critical Projects WG, but the project does have software (as most OpenSSF projects do!) which is licensed under Apache 2.0.
 
 ### Project References
 
