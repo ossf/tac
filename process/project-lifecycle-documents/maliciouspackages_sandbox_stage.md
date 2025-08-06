@@ -8,7 +8,7 @@
 
 ### Sponsor
 
-  * "Securing Critical Projects Working Group"
+  * Securing Critical Projects Working Group
 
 ### Mission of the project
 
