@@ -29,5 +29,5 @@ RE: @steiza Not applicable in the sense that this project has already been opera
 | Contributing guide  | https://github.com/ossf/malicious-packages/blob/main/CONTRIBUTING.md |
 | Security.md         | https://github.com/ossf/malicious-packages/blob/main/SECURITY.md |
 | Roadmap             | TBD |
-| Demos               | n/a |
+| Demos               | N/A |
 | Other               | TBD |
