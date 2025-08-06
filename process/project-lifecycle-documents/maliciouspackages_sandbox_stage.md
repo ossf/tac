@@ -12,7 +12,7 @@
 
 ### Mission of the project
 
-The OpenSSF Malicious Packages project aims to establish and maintain a comprehensive, high-quality, open-source database of reports documenting malicious packages published on open-source package repositories. By collecting, verifying, and sharing these reports in a standardized Open Source Vulnerability (OSV) format, we strive to protect the open-source community from increasingly prevalent threats such as typosquatting, dependency confusion, and account takeovers. Our work provides critical data for the security community to improve detection capabilities and develop better defenses against new open-source malware. Through collaboration with security researchers, package maintainers, and ecosystem stakeholders, we seek to enhance the integrity and security of the open-source supply chain for the benefit of all users.
+The OpenSSF Malicious Packages project aims to establish and maintain a comprehensive, high-quality, open source database of reports documenting malicious packages published on open source package repositories. By collecting, verifying, and sharing these reports in a standardized Open Source Vulnerability (OSV) format, we strive to protect the open source community from increasingly prevalent threats such as typosquatting, dependency confusion, and account takeovers. Our work provides critical data for the security community to improve detection capabilities and develop better defenses against new open source malware. Through collaboration with security researchers, package maintainers, and ecosystem stakeholders, we seek to enhance the integrity and security of the open source supply chain for the benefit of all users.
 
 ### IP policy and licensing due diligence
 
