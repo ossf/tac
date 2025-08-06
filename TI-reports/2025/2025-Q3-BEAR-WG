@@ -1,0 +1,97 @@
+**Q3 TAC 2025 BEAR WG updates**
+
+Q2 Link: https://github.com/ossf/tac/blob/main/TI-reports/2025/2025-Q2-BEAR-WG.md
+
+2025 Q3 BEAR WG
+Chairs: Marcela Melara, Yesenia Yser and Jay White
+
+**Overview**
+
+The BEAR WG continues our mission to increase representation and strengthen the overall effectiveness of the cybersecurity workforce. The WG continues to see relatively low regular attendance in meetings (5 attendees on avg), we are seeing increased engagement on Slack.
+
+Over the past quarter, we've made progress in these areas:
+
+- Our monthly Community Office Hours are no longer attracting as many attendees.
+
+- Our meeting and Office Hours recordings are available on YouTube, improving accessibility.
+
+- Started discussions about OpenSSF sponsorship and participation in OSCAFEST or AfricaCyberFest in 2026.
+
+- The LFX Mentorship Projects (summer cycle '25) is two months in with the 4 mentorships with the RSTUF and GITTUF.
+
+- Sal and Ejiro wrote a 3-pt series blog called “From Beginner to Builder: Understanding OpenSSF Community and Working Groups“- blog and YouTube link; first blog is to be published the week of August 4.
+
+- During the Open Source Summit NA, BEAR held a time and slide show at the booth.
+
+- We started to collect Tip of the Months and will be reaching out to the working group for quotes and links for the specific projects.
+
+**Community Office Hours**
+
+**Purpose**
+
+Our Community Office Hours are a monthly event in which a panel of industry experts discuss a specific topic relevant to the WG's mission. Each month, we aim to host diverse speakers that represent different underrepresented groups, elevating different voices and connecting different communities.
+
+**Current Status**
+
+The first few quarters, we hoped to host Office Hours that were a bit more community and culture oriented. Unfortunately, due to dwindling attendance, we decided to pivot back to topics that are especially relevant to newcomers to OSS and the cybersecurity industry, while also sharing the voices and journey of our community:
+
+- June 26: In-person lunch at OSS NA ‘25
+
+- July 31: Making Your First Contributions to OpenSSF, Open Source, and Cybersecurity
+    - Speakers: Sal Kimmich, Ejiro Oghenekome, Moderator: Yesenia Yser
+
+**Up Next**
+
+In the remainder of Q3 and into Q4 2025, we are planning the following Community Office Hours:
+
+- August 28: LFX Summer ‘25 Mentorship Lighting Talks
+
+- Sept 25: How do I manage an OSS project? (PM focused)
+
+- Oct 23: Securing the AI Future with next generation contributors
+
+We have stopped documenting Office Hour recaps to enhance our YouTube videos and/or be submitted as blog posts.
+
+**Summer Mentorships for RSTUF and GITTUF**
+
+**Purpose**
+
+A core goal of the OpenSSF BEAR working group (WG) is to empower underrepresented individuals seeking opportunities in the cybersecurity workforce. Combining our powers with OpenSSF and Linux Foundation (LFX) mentorship program as a sponsor, the BEAR WG has partnered with RSTUF and GITTUF projects for the Summer 2025 OpenSSF Mentorship program.
+
+**Current Status**
+
+- Mentorship in progress until August 22, with evaluations for pay out on July 3 and Aug 31.
+
+- Mentorship lighting talks to showcase their projects on August 23 during the BEAR office hours.
+
+- Targeting to request funds for the Spring cycle for the next iteration of mentorship. Mentorship March 1-May 31 (dates may vary)
+
+**Panel Discussions at Major Conferences**
+
+**Purpose**
+
+Members of the OpenSSF BEAR WG community host panel discussions at major industry conferences to raise awareness about the WG and to engage with folks beyond the OpenSSF. A primary goal of the discussions is for panelists to share their experiences and advice for newcomers to the OSS and cybersecurity space.
+
+**Upcoming CFP Submissions in Discussion**
+
+We were unsuccessful in our CFP submissions for Grace Hopper and Kubecon. We did spend time at Open source summit North America at the booth and chatting with folks about BEAR. We had a BEAR table during the OpenSSF day luncheon. The team is reviewing CFP submissions for 2026.
+
+We have also started discussions about OpenSSF sponsorship and participation in OSCAFEST or AfricaCyberFest in 2026. The WG plans to prepare CFP submission at one or both of these conferences as well.
+
+*Creating more spaces*
+
+While we've gotten positive feedback about the current meetings the BEAR WG hosts, we've gotten feedback about certain other spaces our community would like to have available to them. In the coming months, we hope to begin hosting OpenSSF Welcome Calls, BEAR Hour and establish more community-specific Slack channels.
+
+*Welcome Calls*
+
+The discussions about creating Welcome Calls are ongoing with members of the DevRel community, so that we can make it easier for newcomers to navigate and find a good entry point into a WG / project. OpenSSF Welcome Calls would give new community members an overview of the ongoing OpenSSF initiatives and describe ways to get involved. We are hoping to collaborate with the DevRel community on this effort.
+
+As a preliminary effort, Ejiro Oghenekome and Sal Kimmich are writing a series of blog posts with the goal of demystifying OpenSSF WGs and SIGs, providing guidance for newcomers, and information about free online courses provided by OpenSSF. The first blog post in the series titled “From Beginner to Builder: Understanding OpenSSF Community and Working Groups” is planned to be published the week of Aug 4.
+
+*Tips of the Month*
+
+We have started to craft out the tips of the month. We are hoping to collaborate with Marketing and other OSS projects to provide contributor quotes and links to drive further contributions to the projects.
+
+**Questions/Issues for the TAC**
+
+For our BEAR office hours, we welcome suggestions on topics and speakers for the remainder of the year! As well as your continuous support and event sharing of the BEAR working group activities.
