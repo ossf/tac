@@ -45,7 +45,7 @@
 
 #### **Up Next**
 
-* Initial research into the c[reation of a  "OSS Newbie" class & materials](https://github.com/ossf/education/issues/72)  
+* Initial research into the [creation of a  "OSS Newbie" class & materials](https://github.com/ossf/education/issues/72)  
 * Initial research into a course on [“Doing Risk Assessments per the ENISA framework” course \#83](https://github.com/ossf/education/issues/83) 
 
 ### **Concise Guides**
