@@ -10,7 +10,7 @@ This group has been formed in January 2025, after the Linux Foundation workshop 
 
 The group has produced deliverable documents, acted as an outreach vehicle, and also served as a venue to discuss and share information between community members regarding the regulatory landscape and its impacts on indistry and the OSS ecosystem.
 
-We have two working group co-leads: [Daniel Appelquist | Samsung](https://github.com/torgo) and [Mike Bursell | Confidential Compute Consortium](https://github.com/MikeCamel) with support from [Crob](https://github.com/SecurityCRob), [Jeff Diecks](https://github.com/GeauxJD) and [Madalin Neag](https://github.com/madalinnneag) from OpenSSF staff. Madalin has joined since our last report.
+We have two working group co-leads: [Daniel Appelquist | Samsung](https://github.com/torgo) and [Mike Bursell | Confidential Compute Consortium](https://github.com/MikeCamel) with support from [Crob](https://github.com/SecurityCRob), [Jeff Diecks](https://github.com/GeauxJD) and [Madalin Neag](https://github.com/madalinnneag) from OpenSSF staff. Madalin has joined since our last report. Mike Bursell is due to step down as co-chair by the end of October, so we are actively looking for another co-chair.
 
 We also operate the "EU CRA Monthly Tech Talk" (née the "CRA Tech Bi-weekly"), the agenda of which is managed by the Awareness SIG.
 
