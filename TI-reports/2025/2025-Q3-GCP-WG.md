@@ -49,9 +49,9 @@ Activities and Publications:
 
 The Standards work stream is progressing. Since joining the team, Madalin has taken over leadership of this SIG.
 
-The SIGs mission was defined as: 
+The SIG's mission has been to coodinate between stakeholders regarding engagement in Standards work related to cybersecurity policy. This is complicated by the fact that many of these standards organizations have a different approach to confidentiality than the OpenSSF. The discussion of this group have helped to guide the engagement of OpenSSF staff within some of these efforts.
 
-The SIG produced a Standards Survey for OpenSSF members to determine what standards are highest priority. The results of this survey were discussed in our main working group [call on 7-21](https://docs.google.com/document/d/1iAplSQheMgemdMnEw74uPj3oi_6rLLbFFXhg4svqIDo/edit?tab=t.0) and indicated high priority for certain vertical standards such as hypervisors, opratine systems and identity management systems. This info has helped to prioritize the work of this group.
+The SIG produced a Standards Survey for OpenSSF members to determine what standards are highest priority. The results of this survey were discussed in our main working group [call on 7-21](https://docs.google.com/document/d/1iAplSQheMgemdMnEw74uPj3oi_6rLLbFFXhg4svqIDo/edit?tab=t.0) and indicated high priority for certain vertical standards such as hypervisors, opratine systems and identity management systems. This info has helped to prioritize the work of this group. 
 
 Minutes available here: [SIG Minutes Document](https://docs.google.com/document/d/1XjE5VYdyIdH32T94ZQIj0Hf5btRiKG58z3jSInY77wA/view?tab=t.0).
 
