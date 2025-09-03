@@ -101,6 +101,7 @@ About 10 months after the previous cycle, a committee of Election Officials will
 - Election of the Chair and Vice Chair - 2 weeks
 
 ### 2025 Election Timeline
+
 **Term starts January 1, 2026.**
 
 **Community Self-Nomination & Security Community Individual Representative (SCIR) Election Timeline**
