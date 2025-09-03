@@ -106,12 +106,12 @@ About 10 months after the previous cycle, a committee of Election Officials will
 
 | Date | Action |
 | :--- | :--- |
-| October 14 | Self-Nomination and Voter registration period starts. Send call for nominees and eligible voters in email and on Slack.|
-| November 6 | Self-Nomination and Voter registration period ends, 11:59 pm PDT
-| November 7 - November 8 | Validation Period of nominee submissions
-| November 11 | Slate of respective nominees and ballot or link to an electronic voting system sent to registered voters.
-| November 24 | The voting period ends at 11:59 pm PDT
-| November 25 | The election winners announced
+| September 29 | Self-Nomination and Voter registration period starts. Send call for nominees and eligible voters in email and on Slack.
+| October 22 | Self-Nomination and Voter registration period ends, 11:59 pm PDT
+| October 23 - October 24 | Validation Period of nominee submissions
+| October 30 | Slate of respective nominees and ballot or link to an electronic voting system sent to registered voters.
+| November 9 | The voting period ends at 11:59 pm PDT
+| November 10 | The election winners announced
 
 [Community Election Self-Nomination Form](https://forms.gle/kanWZDrpT3dT79gD9)
 
@@ -122,15 +122,17 @@ About 10 months after the previous cycle, a committee of Election Officials will
 
 | Date | Action |
 | :--- | :--- |
-| November 25 | The GB-appointed TAC representative period starts. An email is sent to all GB members informing them of the vote, the results from the community election, and to look for a separate email with the ballot.|
+| November 10 | Call for nominations; notive given to GB Members and include results from the community election.
+| November 23 | End nomination period, 11:59 PM PST.
+| November 24 | The slate of respective nominees and ballot or link to an electronic voting system sent to governing board primary voting representatives.
 | December 1 | Send an email reminder to GB members.
-| December 8 | The voting period ends at 11:59 pm PST
-| December 15 | The GB-appointed TAC representatives announced
+| December 7 | The voting period ends at 11:59 PM PST.
+| December 8 | The GB-appointed TAC representatives announced.
 
  **New members seated: January 1**
 
 
 ## Voter Registration form
 
-The electorate can request a ballot by filling out this [Google Form](https://forms.gle/2FofZgurk8GzZb7h7).
+The electorate can request a ballot by filling out this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLScpX1Fdlvcj_9JwYVzQlDQrgHfXWSd8v9ruc2ZKmrfq4Yf5lQ/viewform?usp=dialog).
 
