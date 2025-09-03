@@ -100,7 +100,8 @@ About 10 months after the previous cycle, a committee of Election Officials will
 - Announcement of results - Day after the conclusion of the Appointment Period
 - Election of the Chair and Vice Chair - 2 weeks
 
-### 2025 Timeline
+### 2025 Election Timeline
+**Term starts January 1, 2026.**
 
 **Community Self-Nomination & Security Community Individual Representative (SCIR) Election Timeline**
 
@@ -109,7 +110,7 @@ About 10 months after the previous cycle, a committee of Election Officials will
 | September 29 | Self-Nomination and Voter registration period starts. Send call for nominees and eligible voters in email and on Slack.
 | October 22 | Self-Nomination and Voter registration period ends, 11:59 pm PDT
 | October 23 - October 24 | Validation Period of nominee submissions
-| October 30 | Slate of respective nominees and ballot or link to an electronic voting system sent to registered voters.
+| October 27 | Slate of respective nominees and ballot or link to an electronic voting system sent to registered voters.
 | November 9 | The voting period ends at 11:59 pm PDT
 | November 10 | The election winners announced
 
