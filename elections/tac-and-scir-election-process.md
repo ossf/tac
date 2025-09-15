@@ -115,9 +115,9 @@ About 10 months after the previous cycle, a committee of Election Officials will
 | November 9 | The voting period ends at 11:59 pm PDT
 | November 10 | The election winners announced
 
-[Community Election Self-Nomination Form](https://forms.gle/kanWZDrpT3dT79gD9)
+[Community Election Self-Nomination Form]
 
-[SCIR Self-Nomination Form](https://forms.gle/2wzS6hgXQoiTxXKn9)
+[SCIR Self-Nomination Form]
 
 
 **Governing Board Appointed Seat Timeline**
@@ -136,5 +136,5 @@ About 10 months after the previous cycle, a committee of Election Officials will
 
 ## Voter Registration form
 
-The electorate can request a ballot by filling out this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLScpX1Fdlvcj_9JwYVzQlDQrgHfXWSd8v9ruc2ZKmrfq4Yf5lQ/viewform?usp=dialog).
+The electorate can request a ballot by filling out this [Google Form].
 
