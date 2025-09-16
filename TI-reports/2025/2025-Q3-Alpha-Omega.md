@@ -14,7 +14,7 @@ Alpha-Omega continues to actively support sustainability conversations; our next
 
 Alpha-Omega recently approved funding a series of security audits (6 major, 20 [rapid](https://newsroom.eclipse.org/eclipse-newsletter/2025/april/raising-security-bar-eclipse-foundation-rapid-security-reviews)) of popular open source projects through [OSTIF](https://ostif.org).
 
-Alpha-Omega recently approved project funding for the Eclipse Foundation to improve the security posture of OpenVSX (code audit, alignment with OpenSSF baseline and SLA build track L3, incident response process and playbooks).
+Alpha-Omega recently approved project funding for the Eclipse Foundation to improve the security posture of OpenVSX (code audit, alignment with OpenSSF baseline and SLSA build track L3, incident response process and playbooks).
 
 We recently approved a grant to [ecosyste.ms](https://ecosyste.ms) to enable API authentication, limits, and metrics; contributor onboarding guidance, and a governance / sustainability plan.
 
