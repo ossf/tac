@@ -2,7 +2,14 @@
 
 ## Overview
 
+
 ## Recent Events / News / Blogs / Etc.
+
+* [Member Spotlight: AWS - Funding Open Source Security Empowerment](https://alpha-omega.dev/blog/member-spotlight-aws-funding-open-source-security-empowerment/), Henri Yadenll, AWS
+* [OSTIF 2025 Alpha-Omega Partnership Updates and Roadmap](https://alpha-omega.dev/blog/ostif-2025-alpha-omega-partnership-updates-and-roadmap/), Helen Woeste, OSTIF
+* [Unmasking Phantom Dependencies with Software Bill-of-Materials as Ecosystem-Neutral Metadata](https://alpha-omega.dev/wp-content/uploads/sites/22/2025/08/Python-White-Paper-for-AO-3.pdf) (Seth Larson, Python Software Foundation)
+
+Alpha-Omega Q3 Update: Will be published later this month at [alpha-omega.dev/resources/reports/](https://alpha-omega.dev/resources/reports/).
 
 ## Upcoming Events
 
