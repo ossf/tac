@@ -124,7 +124,7 @@ About 10 months after the previous cycle, a committee of Election Officials will
 
 | Date | Action |
 | :--- | :--- |
-| November 10 | Call for nominations; notive given to GB Members and include results from the community election.
+| November 10 | Call for nominations; notice given to GB Members and include results from the community election.
 | November 23 | End nomination period, 11:59 PM PST.
 | November 24 | The slate of respective nominees and ballot or link to an electronic voting system sent to governing board primary voting representatives.
 | December 1 | Send an email reminder to GB members.
