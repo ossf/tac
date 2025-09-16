@@ -22,7 +22,7 @@ In July 2025, we approved funding through OpenRefactory to build out VEX automat
 
 ## Recent Events / News / Blogs / Etc.
 
-* [Member Spotlight: AWS - Funding Open Source Security Empowerment](https://alpha-omega.dev/blog/member-spotlight-aws-funding-open-source-security-empowerment/), Henri Yadenll, AWS
+* [Member Spotlight: AWS - Funding Open Source Security Empowerment](https://alpha-omega.dev/blog/member-spotlight-aws-funding-open-source-security-empowerment/), Henri Yandell, AWS
 * [OSTIF 2025 Alpha-Omega Partnership Updates and Roadmap](https://alpha-omega.dev/blog/ostif-2025-alpha-omega-partnership-updates-and-roadmap/), Helen Woeste, OSTIF
 * [Preventing Domain Resurrection Attacks](https://blog.pypi.org/posts/2025-08-18-preventing-domain-resurrections/) (Mike Fiedler, Python Software Foundation)
 * [Unmasking Phantom Dependencies with Software Bill-of-Materials as Ecosystem-Neutral Metadata](https://alpha-omega.dev/wp-content/uploads/sites/22/2025/08/Python-White-Paper-for-AO-3.pdf) (Seth Larson, Python Software Foundation)
