@@ -24,8 +24,11 @@ In July 2025, we approved funding through OpenRefactory to build out VEX automat
 
 * [Member Spotlight: AWS - Funding Open Source Security Empowerment](https://alpha-omega.dev/blog/member-spotlight-aws-funding-open-source-security-empowerment/), Henri Yadenll, AWS
 * [OSTIF 2025 Alpha-Omega Partnership Updates and Roadmap](https://alpha-omega.dev/blog/ostif-2025-alpha-omega-partnership-updates-and-roadmap/), Helen Woeste, OSTIF
+* [Preventing Domain Resurrection Attacks](https://blog.pypi.org/posts/2025-08-18-preventing-domain-resurrections/) (Mike Fiedler, Python Software Foundation)
 * [Unmasking Phantom Dependencies with Software Bill-of-Materials as Ecosystem-Neutral Metadata](https://alpha-omega.dev/wp-content/uploads/sites/22/2025/08/Python-White-Paper-for-AO-3.pdf) (Seth Larson, Python Software Foundation)
 * [Funding Security in Open Source: Insights From FreeBSD's Audit Journey](https://www.youtube.com/watch?v=B7_0aKMs6zs) (Deb Goodkin, FreeBSD Foundation; Michael Winser, Alpha-Omega)
+* [Reviewing another year of security partnership between the PSF & Alpha-Omega](https://www.youtube.com/watch?v=ZbHzU72r3mY) (Seth Michael Larson, Python Software Foundation; Michael Winser, Alpha-Omega)
+
 Alpha-Omega Q3 Update: Will be published later this month at [alpha-omega.dev/resources/reports/](https://alpha-omega.dev/resources/reports/).
 
 ## Upcoming Events
@@ -45,7 +48,7 @@ Alpha-Omega Q3 Update: Will be published later this month at [alpha-omega.dev/re
 |-|-|
 | **Objective #2: The top 10,000 open source projects are free of critical security vulnerabilities** | |
 | **KR2.1**: Create and collect open data sets of security-related data for open source projects to make the development of scaled security tooling easier and to make the results more consistent. | Started |
-| **KR2.2**: Expand the "beach cleaning" approach to at least 3 new projects and develop tooling and playbooks to make it easier and cheaper to do for any project | Started |
+| **KR2.2**: Expand the "beach cleaning" approach to at least 3 new projects and develop tooling and playbooks to make it easier and cheaper to do for any project | In Progress |
 | **KR2.3**:  Create an open source "Corps of Engineers" group of security expert engineers who can work within and across their communities to provide security guidance to smaller projects in times of crisis. | In Progress |
 |-|-|
 | **Objective #3: Enhance Alpha-Omega's effectiveness in innovation, experimentation, and marketing** | |
