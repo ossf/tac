@@ -2,13 +2,30 @@
 
 ## Overview
 
+Alpha-Omega continues to fund critical open source projects and ecosystems, with terrific participation and "lean in" from our stakeholders, partners, and friends.
+
+Alpha-Omega held an Open Source Metadata roundtable in Amsterdam with representatives from ecosystem.ms, CHAOSS, Bitergia, AboutCode, Eclipse Foundation, Sovereign Tech Agency, Sonatype, CNCF and more; the goal was to get these different organizations talking with one another about the value and promise leveraging shared metadata across multiple ecosystems to make better security decisions.
+
+The [UN Open Source Week hackathon](https://www.sovereign.tech/news/un-open-source-week-2025) that we jointly hosted with Sovereign Tech Agency was immensely successful, driving key conversations "unconference"-style with maintainers and key players around the world.
+
+Alpha-Omega continues to actively support sustainability conversations; our next roundtable (later this month) will focus on this topic.
+
+### Recent Grants
+
+Alpha-Omega recently approved funding a series of security audits (6 major, 20 [rapid](https://newsroom.eclipse.org/eclipse-newsletter/2025/april/raising-security-bar-eclipse-foundation-rapid-security-reviews)) of popular open source projects through [OSTIF](https://ostif.org).
+
+Alpha-Omega recently approved project funding for the Eclipse Foundation to improve the security posture of OpenVSX (code audit, alignment with OpenSSF baseline and SLA build track L3, incident response process and playbooks).
+
+We recently approved a grant to [ecosyste.ms](https://ecosyste.ms) to enable API authentication, limits, and metrics; contributor onboarding guidance, and a governance / sustainability plan.
+
+In July 2025, we approved funding through OpenRefactory to build out VEX automation tooling, with Apache Airflow as an engaged partner.
 
 ## Recent Events / News / Blogs / Etc.
 
 * [Member Spotlight: AWS - Funding Open Source Security Empowerment](https://alpha-omega.dev/blog/member-spotlight-aws-funding-open-source-security-empowerment/), Henri Yadenll, AWS
 * [OSTIF 2025 Alpha-Omega Partnership Updates and Roadmap](https://alpha-omega.dev/blog/ostif-2025-alpha-omega-partnership-updates-and-roadmap/), Helen Woeste, OSTIF
 * [Unmasking Phantom Dependencies with Software Bill-of-Materials as Ecosystem-Neutral Metadata](https://alpha-omega.dev/wp-content/uploads/sites/22/2025/08/Python-White-Paper-for-AO-3.pdf) (Seth Larson, Python Software Foundation)
-
+* [Funding Security in Open Source: Insights From FreeBSD's Audit Journey](https://www.youtube.com/watch?v=B7_0aKMs6zs) (Deb Goodkin, FreeBSD Foundation; Michael Winser, Alpha-Omega)
 Alpha-Omega Q3 Update: Will be published later this month at [alpha-omega.dev/resources/reports/](https://alpha-omega.dev/resources/reports/).
 
 ## Upcoming Events
