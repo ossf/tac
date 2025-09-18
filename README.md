@@ -83,7 +83,7 @@ The following Technical Initiatives have been approved by the TAC. You may learn
 | Repository Service for TUF | [GitHub](https://github.com/repository-service-tuf/repository-service-tuf) | https://repository-service-tuf.readthedocs.io/ | Securing Software Repositories WG | [Incubating](process/project-lifecycle-documents/repository_service_for_tuf_incubation_stage.md) |
 | S2C2F                  | [GitHub](https://github.com/ossf/s2c2f)                    |  | Supply Chain Integrity WG  | [Incubating](process/project-lifecycle-documents/s2c2f_incubation_stage.md)      |
 | SBOMit                 | [GitHub](https://github.com/sbomit)                |  | Security Tooling WG             | [Sandbox](process/project-lifecycle-documents/SBOMit_sandbox_stage.md)    |
-| Security Insights Spec | [GitHub](https://github.com/ossf/security-insights-spec)   |  | Supply Chain Integrity WG           | TBD        |
+| Security Insights Spec | [GitHub](https://github.com/ossf/security-insights-spec)   |  | ORBIT WG     | TBD        |
 | Sigstore               | [GitHub](https://github.com/sigstore)                      | https://www.sigstore.dev/ | OpenSSF TAC    | [Graduated](process/project-lifecycle-documents/sigstore_graduated_stage.md)        |
 | SLSA                   | [GitHub](https://github.com/slsa-framework/slsa) | https://slsa.dev/ | Supply Chain Integrity WG   | TBD        |
 | Zarf          | [GitHub](https://github.com/zarf-dev/zarf) | https://zarf.dev/ | Supply Chain Integrity WG   | [Sandbox](process/project-lifecycle-documents/zarf_sandbox_stage.md)       |
@@ -107,7 +107,7 @@ SIGs can be created and managed without formal approval from the TAC. The follow
 | Memory Safety          | https://github.com/ossf/Memory-Safety                  | Best Practices WG            |
 | C/C++ Compiler Options | https://github.com/ossf/wg-best-practices-os-developers/tree/main/docs/Compiler-Hardening-Guides | Best Practices WG |
 | Python Hardening       | https://github.com/ossf/wg-best-practices-os-developers/tree/main/docs/Secure-Coding-Guide-for-Python | Best Practices WG |
-| Security Baseline      | https://github.com/ossf/security-baseline              | Best Practices WG            |
+| Security Baseline      | https://github.com/ossf/security-baseline              | ORBIT WG                     |
 | SBOM Everywhere        | https://github.com/ossf/sbom-everywhere                | Security Tooling WG          |
 | OSS Fuzzing            | https://github.com/ossf/wg-security-tooling?tab=readme-ov-file#oss-fuzzing-sig | Security Tooling WG |
 
