@@ -38,7 +38,8 @@ A pragmatic supply chain security framework covering key functional areas, and p
 * **Dependency Track**:  
   * Draft [SLSA Dependency Track](https://slsa.dev/spec/draft/dependency-track) published to slsa.dev on June 25th and presented in OpenSSF Community Day in Denver, CO  
 * **Build Environment Track:**  
-  * No update this period
+  * We are [re-working the threat model](https://github.com/slsa-framework/slsa/pull/1479) based on feedback on our first PR.
+  * We have started to look at [building a demo](https://github.com/slsa-framework/attested-build-environments-demo) for the first few levels of the track.
 
 ### Up Next
 
@@ -47,7 +48,8 @@ A pragmatic supply chain security framework covering key functional areas, and p
 * **Dependencies** Track  
   * Preparing Dependency Track for inclusion in an upcoming Release Candidate version of SLSA by defining detailed requirements for Producing Artifacts and Verifying Artifacts    
 * **Attested Build Environment** Track  
-  *  No update this period  
+  * Release the Track's threat model as part of the draft spec
+  * Complete the implementation of an L1 and L2 PoC.
 * Once SLSA 1.2 is finalized, we are planning to change the repository structure and build pipeline of the slsa.dev website to be able to leverage git branches to manage the different versions of the specification.
 
 ### Questions/Issues for the TAC
