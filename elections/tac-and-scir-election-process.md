@@ -139,4 +139,4 @@ About 10 months after the previous cycle, a committee of Election Officials will
 
 ## Voter Registration form
 
-The electorate can request a ballot by filling out this **[Google Form](https://docs.google.com/forms/d/e/1FAIpQLScpX1Fdlvcj_9JwYVzQlDQrgHfXWSd8v9ruc2ZKmrfq4Yf5lQ/viewform?usp=dialog).**
+The electorate can request a ballot by filling out this **[Google Form](https://docs.google.com/forms/d/e/1FAIpQLScpX1Fdlvcj_9JwYVzQlDQrgHfXWSd8v9ruc2ZKmrfq4Yf5lQ/viewform).**
