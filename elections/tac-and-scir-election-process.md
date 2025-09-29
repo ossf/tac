@@ -68,7 +68,12 @@ Questions related to the nomination and/or election process should be directed t
 
 ## Appointment Process
 
-The Governing Board will appoint three people pulling from the list of TAC and SCIR Nominees excluding those who got elected and those they nominate. The Governing Board will be provided with the results of the election from the community so that they can ensure appropriate diversity of the TAC during their vote.
+The Governing Board will appoint three (3) seats on the Technical Advisory Council. These individuals will be selected from the following nominee categories:
+
+- TAC and SCIR nominees for the current election who were _not_ elected
+- individuals from [OpenSSF member organizations](https://openssf.org/about/members/) that are nominated by Governing Board representatives 
+
+The Governing Board will be provided with the results of the election from the community so that they can ensure appropriate diversity of the TAC during their vote.
 
 
 ## TAC Chair and Vice Chair Election
