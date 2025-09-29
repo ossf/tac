@@ -120,7 +120,7 @@ About 10 months after the previous cycle, a committee of Election Officials will
 | November 9 | The voting period ends at 11:59 pm PDT
 | November 11 | The election winners announced
 
-**[Community Election Self-Nomination Form](https://docs.google.com/forms/d/e/1FAIpQLScNzK_8bApE7mIvTZpFuP00Lmc6syQkPGe-JYGekp37DSswtQ/viewform?usp=dialog)**
+**[Community Election Self-Nomination Form](https://docs.google.com/forms/d/e/1FAIpQLScNzK_8bApE7mIvTZpFuP00Lmc6syQkPGe-JYGekp37DSswtQ/viewform)**
 
 **[SCIR Self-Nomination Form](https://docs.google.com/forms/d/e/1FAIpQLSe-9A1I0LM2BJA5_TOGADxUapvAdzgZHsF7IwnURqEZJJigaQ/viewform?usp=dialog)**
 
