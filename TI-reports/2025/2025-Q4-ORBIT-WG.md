@@ -8,6 +8,8 @@ The OSPS Baseline and Security Insights are both preparing for a upcoming major 
 
 Across all SIGs, common needs have been identified for contributor recruitment, improved end-user documentation with real-world examples, and a stronger web presence to guide adopters.
 
+## OSPS Baseline SIG
+
 ### Current Status of OSPS Baseline SIG
 
 Development on a second release of the control catalog is currently underway, proposed for Q4 2025. See "Up Next" for more details.
@@ -72,9 +74,6 @@ The SIG has identified a need for the following, but work is not yet underway:
 - Creation of regulatory compiance assessment recommendations
 - Creation of third-party audit assessment recommendations
 
-### Notes for the TAC regarding OSPS Assessments SIG
-
-The ORBIT WG would like to highlight that a complete CRA response **must** include both a Baseline guidance for how software projects are run, and Assessment guidance to help projects improve how they design their systems and write their code. Prior to the full enforcement of the CRA, both OSPS Assessments and OSPS Baseline will need to be generally available for projects overseen by stewards.
 
 ## Security Insights SIG
 
