@@ -44,7 +44,7 @@ can provide them with support.
 ### Current Status
 
 - Run not working regularly, but get a successful run here and there
-- Looing to see how could be used in LFX insights
+- Looking to see how could be used in LFX insights
 
 ### Up Next
 
