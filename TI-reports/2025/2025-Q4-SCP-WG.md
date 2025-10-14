@@ -90,6 +90,7 @@ These public reports help protect the open source community, and provide a data 
 - Regular submissions and activity
 - Split from Package Analysis, now own project. Project docs updated
 - Working on basic site for viewing JSON stats
+- Adding support for malicious git repositories
 
 ### Up Next
 
