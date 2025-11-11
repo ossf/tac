@@ -2,12 +2,12 @@ profiles:
   default:
     duration: 2w
     pass_threshold: 55
-    periodic_status_check: "1 week"
+    periodic_status_check: "4 days"
     allowed_voters:
       teams:
         - tac
       exclude_team_maintainers: true
-    close_on_passing: true
+    close_on_passing: false
     announcements:
       discussions:
         category: announcements
