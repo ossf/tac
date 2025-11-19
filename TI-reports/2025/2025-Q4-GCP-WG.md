@@ -6,31 +6,31 @@
 * Minutes doc: https://docs.google.com/document/d/1iAplSQheMgemdMnEw74uPj3oi_6rLLbFFXhg4svqIDo/edit
 * Charter: https://github.com/ossf/wg-globalcyberpolicy/blob/main/CHARTER.md
 
-This group has been formed in January 2025, after the Linux Foundation workshop on "Stewards and Manufacturers" in Amsterdam in December 2024. The shape of this group is very much based on consensus of that workshop. The scope of the group is to provide a forum for our members and the broader community to collaborate on Global Cybersecurity-related legislation, frameworks, and standards which facilitate conformance to regulatory requirements by open source projects and their consumers. We have been holding bi-weekly calls. We have 2 active SIGs - Awareness and Standards. The group is focusing most of its attention on the European Cyber Resilience Act (CRA) with some time put aside to monitor activities in other jurisdictions. We also have drafted a [liaisons list](https://github.com/ossf/wg-globalcyberpolicy/blob/main/governance/external-liaisons.md) which is a list of external organizations we feel we need to liaise with.
+This group has been formed in January 2025, after the Linux Foundation workshop on "Stewards and Manufacturers" in Amsterdam in December 2024 and is based on the consensus output of that workshop. The scope of the group is to provide a forum for our members and the broader community to collaborate on Global Cybersecurity-related legislation, frameworks, and standards which facilitate conformance to regulatory requirements by open source projects and their consumers. We have been holding bi-weekly calls. We have 2 active SIGs - Awareness and Standards. The group is focusing most of its attention on the European Cyber Resilience Act (CRA) with some time put aside to monitor activities in other jurisdictions. We also have drafted a [liaisons list](https://github.com/ossf/wg-globalcyberpolicy/blob/main/governance/external-liaisons.md) which is a list of external organizations we feel we need to liaise with, with a special emphasis on the [Eclipse ORC working group](https://github.com/orcwg/), to minimize overlap.
 
-The group has produced deliverable documents, acted as an outreach vehicle, and also served as a venue to discuss and share information between community members regarding the regulatory landscape and its impacts on industry and the OSS ecosystem.
+In 2025, the group  produced deliverable documents, acted as an outreach vehicle, and also served as a venue to discuss and share information between community members regarding the regulatory landscape and its impacts on industry and the OSS ecosystem.
 
-We have two working group co-leads: [Daniel Appelquist | Samsung](https://github.com/torgo) and [Mike Bursell | Confidential Compute Consortium](https://github.com/MikeCamel) with support from [Crob](https://github.com/SecurityCRob), [Jeff Diecks](https://github.com/GeauxJD) and [Madalin Neag](https://github.com/madalinnneag) from OpenSSF staff. Madalin has joined since our last report. Mike Bursell is due to step down as co-chair by the end of October, so we are actively looking for another co-chair.
+Last month, the group ran some workshop sessions at the LF Europe Roadshow event in Ghent and subsequent policy summit in Brussels to refine its scope and deliverables for the coming year.
 
-We also operate the "EU CRA Monthly Tech Talk" (née the "CRA Tech Bi-weekly"), the agenda of which is managed by the Awareness SIG.
+We have two working group co-leads: [Daniel Appelquist | Samsung](https://github.com/torgo) and [Roman Zhukov | Red Hat](https://github.com/rozhukov). In October, [Mike Bursell | Confidential Compute Consortium](https://github.com/MikeCamel) stepped down as co-chair, after helping to organize and facilitate the workshop in Ghent. The group thanks Mike for all his work and contributions, and welcomes Roman as new co-chair.  [Megan Knight | Arm](https://github.com/businesscasualkesha) chairs the Awareness SIG. In addition, we have support from [Crob](https://github.com/SecurityCRob), [Jeff Diecks](https://github.com/GeauxJD) and [Madalin Neag](https://github.com/madalinnneag) from OpenSSF staff.
 
-We have a regular schedule of calls for our Awareness and Standards SIGs and have started to take minutes in our main minutes doc.  We have put the Tooling SIG on the back burner due to lack of energy at this time, as well as the fact that many of the goals of this SIG are actually being progressed in the ORBIT working group. We are operating in a similar mode to the Best Practices Working group, with our SIGs reporting into the main working group call.  We have well attended meetings. Our general working group call, besides being a place where SIGs report, also serves as a venue to work on general deliverables and to drive awareness with group members of related activities. 
+We also operate the "EU CRA Monthly Tech Talk", the agenda of which is managed by the Awareness SIG.
 
-Last week, we held a special f2f hybrid meeting of the working group at Open Source Summit Europe. The focus on this meeting was to hear from two different organizations about their CRA readiness work and plans. We heard from Nokia and Balena, two very different companies. The results are minuted [in our regular minutes doc](https://docs.google.com/document/d/1iAplSQheMgemdMnEw74uPj3oi_6rLLbFFXhg4svqIDo/edit?tab=t.0). We also discussed the recent call for comments from CISA on [their 2025 Minimum SBOM elements](https://www.cisa.gov/resources-tools/resources/2025-minimum-elements-software-bill-materials-sbom).
-
-We have helped to launch the successful [Free LF Training on CRA](https://openssf.org/press-release/2025/04/29/openssf-launches-free-course-to-prepare-developers-for-the-eu-cyber-resilience-act/) by providing feedback and input. ~3000 enrollments so far.  
+We have a regular schedule of calls for our Awareness and Standards SIGs and take minutes in our main minutes doc. Although we initially envisioned a tooling SIG, it turned out that mny of the activities proposed for this are actually being progressed in the ORBIT working group, so we maintain active discussion with ORBIT. Our SIGs report into the main working group call.  We have had well attended meetings this year. Our general working group call, besides being a place where SIGs report, also serves as a venue to work on general deliverables and to drive awareness with group members of related activities. 
 
 Since our last report:
 
-* We have produced a [CRA Brief Guide for OSS Developers](https://best.openssf.org/CRA-Brief-Guide-for-OSS-Developers) to go along with the other OpenSSF concise guides. Also [blogged here](https://openssf.org/blog/2025/07/15/new-cyber-resilience-act-cra-brief-guide-for-oss-developers/).
+* The [Free LF Training on CRA](https://openssf.org/press-release/2025/04/29/openssf-launches-free-course-to-prepare-developers-for-the-eu-cyber-resilience-act/), which the group helped to shape, has had over 5657 enrollments. 
 
-* We submitted a response to the EU CRA act consultation: https://github.com/ossf/wg-globalcyberpolicy/issues/47
+* We held sessions in Ghent and Brussels - see [OpenSSF Blog Post](https://openssf.org/blog/2025/11/17/recap-open-source-security-week-in-belgium-highlights-from-ghent-to-brussels/) for details.
 
-* We have started work on ideas around specifying a "compliance" file for OSS repos - that would include information about stewardship as well as additional info: https://github.com/ossf/wg-globalcyberpolicy/issues/69
+* We collaborated with others in a successful [proposal for a FOSDEM dev room](https://lists.fosdem.org/pipermail/fosdem/2025q4/003697.html) covering "CRA in practice".
 
-* We are inputting into work led by Crob on stewardship guidance for the LF.
+* We continued work on specifying a "compliance" file for OSS repos - that would include information about stewardship as well as additional info: https://github.com/ossf/wg-globalcyberpolicy/issues/69
 
-Members of this group will be attending the [upcoming LF Europe "Policy-focused" roadshow event](https://events.linuxfoundation.org/lf-europe-roadshow-regulation/). 
+* We have helped to shape work by OpenSSF staff on Stewardship recommendations for LF Projects, e.g. https://github.com/ossf/wg-globalcyberpolicy/pull/77.
+
+* The co-chairs of the group and the [upcoming LF Europe "Policy-focused" roadshow event](https://events.linuxfoundation.org/lf-europe-roadshow-regulation/). 
 
 ## Awareness SIG
 
@@ -47,7 +47,7 @@ Activities and Publications:
 
 ## Standards SIG
 
-The Standards work stream is progressing. Since joining the team, Madalin has taken over leadership of this SIG.
+The Standards SIG is led by [Madalin Neag](https://github.com/madalinnneag). 
 
 The SIG's mission has been to coordinate between stakeholders regarding engagement in Standards work related to cybersecurity policy. This is complicated by the fact that many of these standards organizations have a different approach to confidentiality than the OpenSSF. The discussions of this group have helped to guide the engagement of OpenSSF staff within some of these efforts.
 
