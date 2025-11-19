@@ -26,7 +26,7 @@ Since our last report:
 
 * We collaborated with others in a successful [proposal for a FOSDEM dev room](https://lists.fosdem.org/pipermail/fosdem/2025q4/003697.html) covering "CRA in practice".
 
-* We continued work on specifying a "compliance" file for OSS repos - that would include information about stewardship as well as additional info: https://github.com/ossf/wg-globalcyberpolicy/issues/69
+* We continued work on specifying a "compliance" file for OSS repos - that would include information about stewardship as well as additional info: https://github.com/ossf/wg-globalcyberpolicy/issues/69. It's already referenced as a "good practice" by the CRA Voluntary Security Attestation Project (Eclipse ORC WG)
 
 * We have helped to shape work by OpenSSF staff on Stewardship recommendations for LF Projects, e.g. https://github.com/ossf/wg-globalcyberpolicy/pull/77.
 
