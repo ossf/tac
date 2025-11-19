@@ -30,7 +30,6 @@ Since our last report:
 
 * We have helped to shape work by OpenSSF staff on Stewardship recommendations for LF Projects, e.g. https://github.com/ossf/wg-globalcyberpolicy/pull/77.
 
-* The co-chairs of the group and the [upcoming LF Europe "Policy-focused" roadshow event](https://events.linuxfoundation.org/lf-europe-roadshow-regulation/). 
 
 ## Awareness SIG
 
