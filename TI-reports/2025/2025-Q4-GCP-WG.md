@@ -43,7 +43,7 @@ Activities and Publications:
 * Tech Talk on Risk Assessment
 * Tech Talk on "What makes you commercial" in the CRA
 * Tech Talk o the Brief Guide, as well as [Blog Post on Brief Guide](https://openssf.org/blog/2025/07/15/new-cyber-resilience-act-cra-brief-guide-for-oss-developers/)
-
+* Many talks referencing Global Cyber Policy WG and encouraging contributions at events like OS Summits, KubeCons and many others around the world.
 ## Standards SIG
 
 The Standards SIG is led by [Madalin Neag](https://github.com/madalinnneag). 
