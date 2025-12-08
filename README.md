@@ -98,7 +98,7 @@ The following Technical Initiatives have been approved by the TAC. You may learn
 
 ### Special Interest Groups (SIGs)
 
-SIGs can be created and managed without formal approval from the TAC. The following is for information purpose only.
+SIGs can be created and managed without formal approval from the TAC. The following is for informational purposes only.
 
 | Name                       | Repository/Home Page | Governing Org                 |
 | -------------------------- | -------------------- | ----------------------------- |
