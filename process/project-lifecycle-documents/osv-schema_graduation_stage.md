@@ -83,7 +83,7 @@ The project must provide a list of existing resources with links to the reposito
 |-----------------------|-----|
 | Repo                  | https://github.com/ossf/osv-schema |
 | Website               | https://ossf.github.io/osv-schema/ |
-| Contributing guide    |     |
+| Contributing guide    | https://github.com/ossf/osv-schema/blob/main/CONTRIBUTING.md |
 | Security.md           | https://github.com/ossf/osv-schema?tab=security-ov-file#readme |
 | Roadmap               |     |
 | Demos                 |     |
