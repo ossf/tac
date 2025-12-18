@@ -59,7 +59,7 @@ Project has met at least 4 times over a period of at least 2 months since becomi
   * The project has a standing agenda item in the Vulnerability Disclosures Working Group meetings. [Meeting Notes](https://docs.google.com/document/d/1TdxiFofLOfpHUEQILlKq7qkjSsRXVab0uApSDJ8c5rI/edit?tab=t.0)
 
 Implements, practices, and refines mature software development and release practices, such as adherence to semantic versioning, and having a declared policy for stable releases and backported fixes.
-  * "link to policy for (or describe here) software development and release practices"
+  * https://github.com/ossf/osv-schema/blob/main/RELEASING.md
 
 Projects should harden their build systems in accordance with the SLSA Framework
   * N/A this is a specification, no build artifiacts are delivered.
