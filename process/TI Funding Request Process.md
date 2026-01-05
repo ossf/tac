@@ -44,6 +44,33 @@ Here are some example funding requests that were approved, and we'd like to see 
 ## Review cycles
 
 ### Cycle 1
+ - Request submission deadline: Friday, February 13, 2026
+ - TAC review period: Friday, February 13 - Friday, February 27, 2026
+ - TAC recommendation announced: No later than February 27, 2026
+
+### Cycle 2
+ - Request submission deadline: Friday, April 17, 2026
+ - TAC review period: Friday, April 17 - Friday, May 1, 2026
+ - TAC recommendation announced: No later than May 1, 2026
+
+### Cycle 3
+ - Request submission deadline: Friday, June 19, 2026
+ - TAC review period: Friday, June 19 - Thursday (sic), July 2, 2026
+ - TAC recommendation announced: No later than July 2, 2026
+
+### Cycle 4
+ - Request submission deadline: Friday, August 14, 2026
+ - TAC review period: Friday, August 14 - Friday, August 28, 2026
+ - TAC recommendation announced: No later than August 28, 2026
+
+### Cycle 5
+ - Request submission deadline: Friday, October 16, 2026
+ - TAC review period: Friday, October 16 - Friday, October 30, 2026
+ - TAC recommendation announced: No later than October 30, 2026
+
+## Past review cycles (2025)
+
+### Cycle 1
  - Request submission deadline: Friday, February 14, 2025
  - TAC review period: Friday, February 14 - Friday, February 28, 2025
  - TAC recommendation announced: No later than February 28, 2025
