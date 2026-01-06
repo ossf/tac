@@ -16,7 +16,7 @@ This process details how an eligible OpenSSF Technical Initiative (TI) can apply
   2. Applying TI should [fill out funding application](https://github.com/ossf/tac/issues/new?template=funding_application.yml)
   3. TAC will review funding applications with the criteria listed in "TAC review" section below according to the schedule listed in the "Review cycles" section below
   4. TAC Chair (or delegate) notifies the OpenSSF General Manager (or delegate) to determine which proposals will be funded based on the availability of funds. Funding beyond the delegated authority of the OpenSSF General Manager will need approval of the Budget and Finance Committee, and/or Governing Board. OpenSSF Staff will distribute funds.
-  5. TAC, OpenSSF General Manager, or delegate will review funding initiative status on milestones. If a funding initiative has more than one milestone, funds may be disbursed after each milestone is achieved (funding initiatives asking for more funds should most likely have more milestones for fund releasing). If the milestone is reached, the TAC, OpenSSF General Manager, or delegate agree that Staff should disburse funds for additional milestones.
+  5. TAC, OpenSSF General Manager, or delegate will review funding initiative status on milestones. If a funding initiative has more than one milestone, funds may be disbursed after each milestone is achieved (funding initiatives asking for more funds should most likely have more milestones for fund releasing). If the milestone is reached, the TAC, OpenSSF General Manager, or delegate agree that the funding initiative is eligible for funding of subsequent milestones, subject to achieving these milestones.
 
 ## Example funding requests
 
