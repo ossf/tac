@@ -16,7 +16,7 @@ This process details how an eligible OpenSSF Technical Initiative (TI) can apply
   2. Applying TI should [fill out funding application](https://github.com/ossf/tac/issues/new?template=funding_application.yml)
   3. TAC will review funding applications with the criteria listed in "TAC review" section below according to the schedule listed in the "Review cycles" section below
   4. TAC Chair (or delegate) notifies the OpenSSF General Manager (or delegate) to determine which proposals will be funded based on the availability of funds. Funding beyond the delegated authority of the OpenSSF General Manager will need approval of the Budget and Finance Committee, and/or Governing Board. OpenSSF Staff will distribute funds.
-  5. TAC, OpenSSF General Manager, or delegate will review funding initiative status on milestones. If a funding initiative has more than one milestone, funds may be dispersed after each milestone is achieved (funding initiatives asking for more funds should most likely have more milestones for fund releasing). If the milestone is reached, the TAC, OpenSSF General Manager, or delegate agree that Staff should disperse funds for additional milestones(s).
+  5. TAC, OpenSSF General Manager, or delegate will review funding initiative status on milestones. If a funding initiative has more than one milestone, funds may be disbursed after each milestone is achieved (funding initiatives asking for more funds should most likely have more milestones for fund releasing). If the milestone is reached, the TAC, OpenSSF General Manager, or delegate agree that the funding initiative is eligible for funding of subsequent milestones, subject to achieving these milestones.
 
 ## Example funding requests
 
@@ -39,9 +39,40 @@ Here are some example funding requests that were approved, and we'd like to see 
   - Does the requester(s) have an accepted [TI lifecycle phase](/process) in good standing?
       - Does the requested amount align with the lifecycle stage the TI is at?
    - Final decision is open discussion and a majority consensus vote.
-   - TAC moves approved requests forward and recommends to the OpenSSF General Manager and the Governance Committee for dispensation.
+   - TAC moves approved requests forward and recommends to the OpenSSF General Manager and the Governance Committee for disbursement.
 
 ## Review cycles
+
+### Cycle 1
+ - Request submission deadline: Friday, February 13, 2026
+ - TAC review period: Friday, February 13 - Friday, February 27, 2026
+ - TAC recommendation announced: No later than February 27, 2026
+
+### Cycle 2
+ - Request submission deadline: Friday, April 17, 2026
+ - TAC review period: Friday, April 17 - Friday, May 1, 2026
+ - TAC recommendation announced: No later than May 1, 2026
+
+### Cycle 3
+
+> [!IMPORTANT]
+> Note that due to holidays, this cycle has dates landing on Thursdays instead of Fridays
+
+ - Request submission deadline: Thursday, June 18, 2026
+ - TAC review period: Thursday, June 18 - Thursday, July 2, 2026
+ - TAC recommendation announced: No later than July 2, 2026
+
+### Cycle 4
+ - Request submission deadline: Friday, August 14, 2026
+ - TAC review period: Friday, August 14 - Friday, August 28, 2026
+ - TAC recommendation announced: No later than August 28, 2026
+
+### Cycle 5
+ - Request submission deadline: Friday, October 16, 2026
+ - TAC review period: Friday, October 16 - Friday, October 30, 2026
+ - TAC recommendation announced: No later than October 30, 2026
+
+## Past review cycles (2025)
 
 ### Cycle 1
  - Request submission deadline: Friday, February 14, 2025
