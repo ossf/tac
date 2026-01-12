@@ -19,8 +19,11 @@
 
 ### Up Next
 
-### Questions/Issues for the TAC
+### Funding requests
 
+<mark>Are you considering applying for any [funding requests](https://github.com/ossf/tac/blob/main/process/TI%20Funding%20Request%20Process.md)?</mark>
+
+### Questions/Issues for the TAC
 
 ## Additional Information
 
