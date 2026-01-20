@@ -7,8 +7,8 @@ The group continues to be active and is working on several simultaneous projects
 ### **Sub-groups**
 
 * [Educational Guides](https://github.com/ossf/wg-best-practices-os-developers/tree/main/docs)
-  * [C/C++ Compiler Option Hardening](https://github.com/ossf/tac/diffs/0?base_sha=eed2ae23a0d8a2e5b18d9bcdeeb7fa40b75ac241&branch=87769be64cb25d5808e856910370771544fbe4e6&commentable=true&head_user=gkunz&name=87769be64cb25d5808e856910370771544fbe4e6&pull_number=423&qualified_name=87769be64cb25d5808e856910370771544fbe4e6&sha1=eed2ae23a0d8a2e5b18d9bcdeeb7fa40b75ac241&sha2=87769be64cb25d5808e856910370771544fbe4e6&short_path=409950f&unchanged=expanded&w=false#cc-compiler-option-hardening-guide)
-  * [Python Secure Coding Guide](https://github.com/ossf/tac/diffs/0?base_sha=eed2ae23a0d8a2e5b18d9bcdeeb7fa40b75ac241&branch=87769be64cb25d5808e856910370771544fbe4e6&commentable=true&head_user=gkunz&name=87769be64cb25d5808e856910370771544fbe4e6&pull_number=423&qualified_name=87769be64cb25d5808e856910370771544fbe4e6&sha1=eed2ae23a0d8a2e5b18d9bcdeeb7fa40b75ac241&sha2=87769be64cb25d5808e856910370771544fbe4e6&short_path=409950f&unchanged=expanded&w=false#python-secure-coding-guide)
+  * [C/C++ Compiler Option Hardening](https://github.com/ossf/wg-best-practices-os-developers/tree/main/docs/Compiler-Hardening-Guides)
+  * [Python Secure Coding Guide](https://github.com/ossf/wg-best-practices-os-developers/tree/main/docs/Secure-Coding-Guide-for-Python)
 * [EDU.SIG](https://github.com/ossf/education/)
 * [Memory Safety SIG](https://github.com/ossf/Memory-Safety)
 * [OpenSSF Best Practices Badge](https://www.bestpractices.dev/)
@@ -65,8 +65,8 @@ The group continues to be active and is working on several simultaneous projects
 Overview of guides:
 
 * Guides under active development:
-  * [C/C++ Compiler Option Hardening](https://github.com/ossf/tac/diffs/0?base_sha=eed2ae23a0d8a2e5b18d9bcdeeb7fa40b75ac241&branch=87769be64cb25d5808e856910370771544fbe4e6&commentable=true&head_user=gkunz&name=87769be64cb25d5808e856910370771544fbe4e6&pull_number=423&qualified_name=87769be64cb25d5808e856910370771544fbe4e6&sha1=eed2ae23a0d8a2e5b18d9bcdeeb7fa40b75ac241&sha2=87769be64cb25d5808e856910370771544fbe4e6&short_path=409950f&unchanged=expanded&w=false#cc-compiler-option-hardening-guide)
-  * [Python Secure Coding Guide](https://github.com/ossf/tac/diffs/0?base_sha=eed2ae23a0d8a2e5b18d9bcdeeb7fa40b75ac241&branch=87769be64cb25d5808e856910370771544fbe4e6&commentable=true&head_user=gkunz&name=87769be64cb25d5808e856910370771544fbe4e6&pull_number=423&qualified_name=87769be64cb25d5808e856910370771544fbe4e6&sha1=eed2ae23a0d8a2e5b18d9bcdeeb7fa40b75ac241&sha2=87769be64cb25d5808e856910370771544fbe4e6&short_path=409950f&unchanged=expanded&w=false#python-secure-coding-guide)
+  * [C/C++ Compiler Option Hardening](https://github.com/ossf/wg-best-practices-os-developers/tree/main/docs/Compiler-Hardening-Guides)
+  * [Python Secure Coding Guide](https://github.com/ossf/wg-best-practices-os-developers/tree/main/docs/Secure-Coding-Guide-for-Python)
 * Completed Guides (under maintenance)
   * [Security Focused Guide for AI Code Assistant Instructions](https://best.openssf.org/Security-Focused-Guide-for-AI-Code-Assistant-Instructions)
   * [Concise Guide for Developing More Secure Software](https://best.openssf.org/Concise-Guide-for-Developing-More-Secure-Software)
