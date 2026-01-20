@@ -16,7 +16,7 @@ We have two working group co-leads: [Daniel Appelquist | Samsung](https://github
 
 We also operate the "EU CRA Monthly Tech Talk", the agenda of which is managed by the Awareness SIG.
 
-We have a regular schedule of calls for our Awareness and Standards SIGs and take minutes in our main minutes doc. Although we initially envisioned a tooling SIG, it turned out that mny of the activities proposed for this are actually being progressed in the ORBIT working group, so we maintain active discussion with ORBIT. Our SIGs report into the main working group call.  We have had well attended meetings this year. Our general working group call, besides being a place where SIGs report, also serves as a venue to work on general deliverables and to drive awareness with group members of related activities. 
+We have a regular schedule of calls for our Awareness and Standards SIGs and take minutes in our main minutes doc. Although we initially envisioned a tooling SIG, it turned out that many of the activities proposed for this are actually being progressed in the ORBIT working group, so we maintain active discussion with ORBIT. Our SIGs report into the main working group call.  We have had well attended meetings this year. Our general working group call, besides being a place where SIGs report, also serves as a venue to work on general deliverables and to drive awareness with group members of related activities. 
 
 Since our last report:
 
