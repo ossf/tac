@@ -108,6 +108,8 @@ Note: Our bundled benchmark repository is still under AIxCC competition organize
 
 ### Roadmap
 
+1/12/26 Roadmap Presentation to CRS SIG meeting: https://docs.google.com/presentation/d/1R9XAF6VOVimdlXL346CnNrMkOzJFVyFhJF9lrYtHnZI/edit?slide=id.g3b67cb90a0c_0_0#slide=id.g3b67cb90a0c_0_0
+
 1. **Infrastructure Hardening**
    - Add SECURITY.md and vulnerability reporting process
    - Create comprehensive CONTRIBUTING.md
