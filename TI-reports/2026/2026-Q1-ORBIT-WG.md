@@ -22,6 +22,10 @@ The SIG has identified a need for the following, but work is not yet underway:
 
 - Specific examples of real-world implementations of certain control requirements (particularly on documentation/process)
 
+### Funding requests
+
+None at this time.
+
 ## ORBIT Tooling SIG
 
 ### Purpose of ORBIT Tooling SIG
@@ -37,6 +41,10 @@ Engage with any community efforts that relate to the OSPS Baseline, especially w
 ### Up Next for ORBIT Tooling SIG
 
 The WG steering committee has approved a comprehensive proposal to restructure this SIG into "ORBIT Launchpad," charter pending, with a focus on coordinating end-user feedback to WG maintainers.
+
+### Funding requests
+
+None at this time.
 
 ## OSPS Assessments SIG
 
@@ -62,6 +70,10 @@ The SIG has identified a need for the following, but work is not yet underway:
 - Creation of regulatory compiance assessment recommendations
 - Creation of third-party audit assessment recommendations
 
+### Funding requests
+
+None at this time.
+
 ## Security Insights SIG
 
 https://github.com/ossf/security-insights
@@ -84,6 +96,10 @@ A major version was not released this year. `v2.2.0` was released in January to 
 ### Up Next for Security Insights SIG
 
 - Business as usual, responding to community feedback on GitHub issues and in ORBIT community calls
+
+### Funding requests
+
+None at this time.
 
 ## Gemara
 
@@ -120,3 +136,7 @@ The project has identified a need for the following, but work is not yet underwa
 - Stabilization of schemas for Layer 3 (Policy) and Layer 5 (Evaluation).
 - Completion of schemas for the last two layers - Layer 6 (Enforcement) and Layer 7 (Audit)
 - A comprehensive set of project tutorials
+
+### Funding requests
+
+None at this time.
