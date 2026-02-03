@@ -5,8 +5,7 @@
 - Only activity under Malicious Packages project. Criticality score continues to run.
 - Just 1-2 Meetings since last update
 - Jeff interested in facilitating (OpenSSF Group Redesign & Alignment Proposal)[https://github.com/ossf/tac/issues/551]
-
-[2025-Q4 Update](https://github.com/ossf/tac/pull/535)
+- [2025-Q4 Update](https://github.com/ossf/tac/pull/535)
 
 ## Identifying Critical Projects
 
@@ -28,6 +27,14 @@ can provide them with support.
 
 ### Up Next
 
+-
+
+### Funding requests
+
+- 
+
+### Questions/Issues for the TAC
+
 - 
 
 ## Criticality Score
@@ -44,10 +51,19 @@ can provide them with support.
 
 ### Current Status
 
+- No changes, but continues to run and generate updated scores.
 - Funding under question
 - Further scale down the cluster to determine lowest running costs.
 
 ### Up Next
+
+- 
+
+### Funding requests
+
+- Potentially. Waiting to see how Scorecard plays out, as this would be similar (ongoing funding).
+
+### Questions/Issues for the TAC
 
 - 
 
@@ -75,6 +91,14 @@ providing researchers with data about the ecosystem.
 - No major updates
 - Continues to be used for discovering Malicious Packages.
 
+### Funding requests
+
+- 
+
+### Questions/Issues for the TAC
+
+- 
+
 ## Malicious Packages
 
 ### Purpose
@@ -99,3 +123,15 @@ These public reports help protect the open source community, and provide a data 
 ### Up Next
 
 - Promotion/outreach
+
+### Funding requests
+
+- 
+
+### Questions/Issues for the TAC
+
+- 
+
+## Additional Information
+
+-
