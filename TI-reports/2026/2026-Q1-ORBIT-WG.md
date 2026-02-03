@@ -2,7 +2,7 @@
 
 ## Overview
 
-
+The ORBIT working group continues to grow, with an upcoming major release of the Gemara project and the formalization of end-user engagement structures through the recently approved ORBIT Launchpad initiative.
 
 ## OSPS Baseline SIG
 
