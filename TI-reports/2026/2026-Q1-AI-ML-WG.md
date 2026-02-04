@@ -6,7 +6,7 @@ We are situated at the intersection of security and AI/ML and we continue in
 our mission to support both using AI to improve security of software, and
 adding security practices to AI development processes.
 
-There are similar AI related groups, both under Linux Foundation and other
+There are similar AI related groups, both under The Linux Foundation and other
 groups, with new ones starting up and old ones ramping down. The other mission
 this working group has is to be the central place to get updates from all
 other relevant AI related groups.
@@ -14,13 +14,13 @@ other relevant AI related groups.
 In the last quarter we:
 
 - created a course on secure development with AI
-- launched two new releases of `model-signing`
+- released two new versions of `model-signing`
 - ramped up 2 new SIGs for AI/ML supply chain security
 - created a SIG for securing the agentic workflow
 - created a SIG to adopt the AIxCC competition software, working for a unified
-  plaftorm to use AI to secure the OSS ecosystem
+  platform to use AI to secure the OSS ecosystem
 - adapted an existing SIG to the realities of using AI for vulnerability
-  research and needs of OSS maintainers
+  research and the needs of OSS maintainers
 - restarted the model signing project meetings
 
 ## WG and SIG updates
@@ -48,7 +48,7 @@ We launched `model-signing` 1.1.0 and 1.1.1. Together, these releases:
 - as well as a few bug fixes and usability improvements
 
 Over the quarter model signing was adopted by IBM and Cohere, as part of the
-work with [Coallition for Secure AI](https://www.coalitionforsecureai.org/) to
+work with [Coalition for Secure AI](https://www.coalitionforsecureai.org/) to
 publish
 [a whitepaper on model signing](https://github.com/cosai-oasis/ws1-supply-chain/blob/main/signing-ml-artifacts.md).
 The whitepaper tackles the differences between signing traditional software
