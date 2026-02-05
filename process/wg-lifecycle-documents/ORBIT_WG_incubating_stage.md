@@ -6,8 +6,8 @@ The WG must have a minimum of 1 Chair
   
 #### Co-Chairs
 1. [Eddie Knight](https://github.com/eddie-knight) (Sonatype)
-1. [Jenn Power](https://github.com/funnelfiasco) (Kusari) 
-1. [Ben Cotton](https://github.com/jpower432) (Red Hat)
+1. [Ben Cotton](https://github.com/funnelfiasco) (Kusari) 
+1. [Jenn Power](https://github.com/jpower432) (Red Hat)
 1. [Travis Truman](https://github.com/trumant) (CVS Health)
 1. [John Kjell](https://github.com/jkjell) (ControlPlane)
 
