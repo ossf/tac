@@ -86,7 +86,7 @@ The following Technical Initiatives have been approved by the TAC. You may learn
 | SBOMit                 | [GitHub](https://github.com/sbomit)                |  | Security Tooling WG             | [Sandbox](process/project-lifecycle-documents/SBOMit_sandbox_stage.md)    |
 | Security Insights Spec | [GitHub](https://github.com/ossf/security-insights-spec)   |  | ORBIT WG     | TBD        |
 | Sigstore               | [GitHub](https://github.com/sigstore)                      | https://www.sigstore.dev/ | OpenSSF TAC    | [Graduated](process/project-lifecycle-documents/sigstore_graduated_stage.md)        |
-| SLSA                   | [GitHub](https://github.com/slsa-framework/slsa) | https://slsa.dev/ | Supply Chain Integrity WG   | TBD        |
+| SLSA                   | [GitHub](https://github.com/slsa-framework/slsa) | https://slsa.dev/ | Supply Chain Integrity WG   | [Graduated](process/project-lifecycle-documents/SLSA_graduation_stage.md)        |
 | Zarf          | [GitHub](https://github.com/zarf-dev/zarf) | https://zarf.dev/ | Supply Chain Integrity WG   | [Sandbox](process/project-lifecycle-documents/zarf_sandbox_stage.md)       |
 
 ### OpenSSF affiliated projects
