@@ -79,6 +79,7 @@ The following Technical Initiatives have been approved by the TAC. You may learn
 | Malicious Packages     | [GitHub](https://github.com/ossf/malicious-packages)       |  | Securing Critical Projects WG             | [Sandbox](process/project-lifecycle-documents/maliciouspackages_sandbox_stage.md)
 | Minder                 | [GitHub](https://github.com/mindersec/minder)         | https://mindersec.dev/ | ORBIT WG            | [Sandbox](process/project-lifecycle-documents/minder_sandbox_stage.md) |
 | Model signing          | [GitHub](https://github.com/sigstore/model-transparency/blob/main/README.model_signing.md) |  | AI/ML Security WG | [Sandbox](process/project-lifecycle-documents/model_signing_sandbox_stage.md) |
+| SAFE-Framework         | [GitHub](https://github.com/SAFE-MCP/safe-mcp) |  | AI/ML Security WG | [Sandbox](process/project-lifecycle-documents/safe_framework_sandbox_stage.md) |
 | Package Analysis       | [GitHub](https://github.com/ossf/package-analysis)         |  | Securing Critical Projects WG   | TBD        |
 | Protobom | [GitHub](https://github.com/protobom/protobom) |  | Security Tooling WG | [Sandbox](process/project-lifecycle-documents/protobom_sandbox_stage.md) |
 | Repository Service for TUF | [GitHub](https://github.com/repository-service-tuf/repository-service-tuf) | https://repository-service-tuf.readthedocs.io/ | Securing Software Repositories WG | [Incubating](process/project-lifecycle-documents/repository_service_for_tuf_incubation_stage.md) |
