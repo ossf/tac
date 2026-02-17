@@ -72,6 +72,5 @@ WG must have defined Contributor Guide
 | OSSF Calendar Entry   | https://zoom-lfx.platform.linuxfoundation.org/meeting/93627442621?password=73db7cce-059e-420b-ab29-eabdcbcedf8b |
 | Website               |  https://openssf.org/groups/orbit/ |
 | Contributing guide    |  https://github.com/ossf/wg-orbit/blob/main/CONTRIBUTING.md   |
-| Security.md           |  https://github.com/ossf/wg-orbit/blob/main/SECURITY.md   |
 | code-of-conduct.md    | https://openssf.org/community/code-of-conduct/ |
 | Other                 |     |
