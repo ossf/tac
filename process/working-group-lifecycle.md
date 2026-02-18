@@ -4,7 +4,7 @@ Working Groups are under the governance of the Technical Advisory Committee (TAC
 
 Contributors interested in starting a new WG are encouraged to first review the existing WGs and projects. It is very likely that an existing WG could be extended to cover the new topic. If this is the case, please bring your time and energy into that existing working group. Your contributions are very welcome!
 
-However, if no existing effort covers the topic feel free to make use of the existing WG meetings, mailing lists, and/or Slack channels to solicit support for a new WG.
+However, if no existing effort covers the topic feel free to make use of the existing WG meetings, mailing lists, and/or Slack channels to solicit support for a new WG. WGs must align with and contribute to the [Mission, Vision, Values, Strategy, and Roadmap (MVVSR)](https://openssf.org/about/) of the OpenSSF.
 
 Please note that running a WG successfully requires an extended effort. Be prepared to commit at least several hours per week for a year or more.
 
