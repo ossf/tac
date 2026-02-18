@@ -17,8 +17,8 @@ SIG has defined group governance
 ### SIG References
 The SIG should provide a list of existing resources with links to the repository, and if available, website, a roadmap, demos and walkthroughs, and any other material to showcase the existing breadth, maturity, and direction of the SIG.
 
- Reference           | URL |
-|---------------------|-----|
+ Reference              | URL |
+|-----------------------|-----|
 | Repo                  |     |
 | Meeting Agenda        |     |
 | OSSF Calendar Entry   |     |
