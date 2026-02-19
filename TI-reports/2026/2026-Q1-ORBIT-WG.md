@@ -8,7 +8,7 @@ The ORBIT working group continues to grow, with an upcoming major release of the
 
 ### Current Status of OSPS Baseline SIG
 
-Development on a second release of the control catalog is currently underway, proposed for Q4 2025. See "Up Next" for more details.
+Development on a new release of the control catalog is currently underway, proposed for Q1 2026.
 
 ### Up Next for OSPS Baseline SIG
 
