@@ -11,6 +11,15 @@ The project must have a minimum of three maintainers with a minimum of two diffe
 The project must be aligned with the OpenSSF mission and either be a novel approach for existing areas, address an unfulfilled need, or be code needed to deliver OpenSSF WG work. It is preferred that extensions of existing OpenSSF projects collaborate with the existing project rather than seek a new project.
   * "description of the project mission"
 
+### Alignment with the OpenSSF MVSSR
+The mission of the Project must be aligned with the [Mission, Vision, Values, Strategy, and Roadmap (MVVSR)](https://openssf.org/about/) of the OpenSSF. Please indicate to which of the three strategies and four pillars of the OpenSSF the Project contributes to.
+
+Strategies: *i) Catalyst for Change*, *ii) Educate and Empower the Modern Developer*, *iii) Ecosystem Leader*
+  * "describe which strategy(ies) the Project contribute(s) to"
+
+Pillars: *i) Programs & Projects, ii) Education, iii) Public Policy, iv) Community & Events*
+  * "describe which pillar(s) the Project contribute(s) to"
+
 ### Project adoption
 The project should be able to show adoption by multiple parties and the adoption's value to the open source community and/or end users (may include adoption of beta/early versions).
   * "description of adoption"
