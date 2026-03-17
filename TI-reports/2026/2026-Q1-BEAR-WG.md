@@ -8,7 +8,7 @@ The BEAR WG continues our mission to increase representation and strengthen the 
 
 Over the past quarter, we've made progress in these areas:
 * We hosted two Welcome calls - OpenSSF & its ecosystem in January and AI/ML working group on Feb 26. The January welcome call has been used for new members that have introduced themselves in the general channel as a starting point for their journey.
-* Part [three](https://openssf.org/blog/2025/12/12/from-beginner-to-builder-free-openssf-and-linux-foundation-education-courses/) of the 3-pt series blog has been released. Written by Sal Kimmich and Ejiro Oghenekome called “From Beginner to Builder:Your First Code Contribution“ 
+* Part [three](https://openssf.org/blog/2025/12/12/from-beginner-to-builder-free-openssf-and-linux-foundation-education-courses/) of the 3-pt series blog has been released. Written by Sal Kimmich and Ejiro Oghenekome called "From Beginner to Builder: Your First Code Contribution"
 * Based on the efforts of our welcome call (shown above) and the Beginner to Contributor blogs, we began noticing more folks are referring to these resources when someone mentions on the general channel that they are new.
 * OSSAfrica is officially a SIG under the BEAR working group!
 * Wrote an OpenSSF guest blog post highlighting OSSAfrica’s formation, vision and mission ([link](https://openssf.org/blog/2026/01/22/strengthening-open-source-security-through-community-introducing-ossafrica/))
@@ -103,7 +103,7 @@ We are not planning to submit any funding requests to the TAC in Q2. We thank th
 
 ## Questions/Issues for the TAC
 
-For our BEAR office hours, we welcome suggestions on topics and speakers for next year, guidance and advice for the Open Source & Security Africa group,  as well as your continuous support and event sharing of the BEAR working group activities.
+For our BEAR Welcome Calls, we welcome suggestions on topics and speakers for next year, guidance and advice for the Open Source & Security Africa group,  as well as your continuous support and event sharing of the BEAR working group activities.
 
 ## Additional Information
 
