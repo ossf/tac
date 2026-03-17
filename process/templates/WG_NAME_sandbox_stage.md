@@ -5,8 +5,17 @@ The WG must have a minimum of 3 interested contributors from two different organ
   * "name, affiliation, GitHub ID"
 
 ### Mission of the Working Group
-The WG must be aligned with the OpenSSF mission and address an unfulfilled need. It is preferred that topics falling with the scope of existing OpenSSF WGs are addressed within the existing wG rather than seek a new WG.
+The WG must be aligned with the OpenSSF mission and address an unfulfilled need. It is preferred that topics falling with the scope of existing OpenSSF WGs are addressed within an existing WG rather than seek a new WG.
   * "description of the WG mission"
+
+### Alignment with the OpenSSF MVSSR
+The mission of the WG must be aligned with the [Mission, Vision, Values, Strategy, and Roadmap (MVVSR)](https://openssf.org/about/) of the OpenSSF. Please indicate to which of the three strategies and four pillars of the OpenSSF the WG is contributing to.
+
+Strategies: *i) Catalyst for Change*, *ii) Educate and Empower the Modern Developer*, *iii) Ecosystem Leader*
+  * "describe which strategy(ies) the WG contribute(s) to"
+
+Pillars: *i) Programs & Projects, ii) Education, iii) Public Policy, iv) Community & Events*
+  * "describe which pillar(s) the WG contribute(s) to"
 
 ### IP policy and licensing due diligence
 When contributing to OpenSSF any existing material for the new WG to work on, the contribution must undergo license and IP due diligence by the Linux Foundation (LF).
@@ -23,5 +32,5 @@ The WG should provide a list of existing resources with links to the repository,
 |---------------------|-----|
 | Repo                |     |
 | Website             |     |
-| Security.md    |     |
+| Security.md         |     |
 | Other               |     |
