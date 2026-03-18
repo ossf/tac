@@ -48,5 +48,11 @@ This section is primarily derived from [OpenSSF charter][charter] 5c, vi:
 
 The TAC Vice Chair shares responsibilities with the Chair and serves as the Chair's alternate for [additional designated roles](#additional-chair-roles), unless otherwise specified by the TAC or GB.
 
+## TAC Member Leaves of Absence
+
+- In the event that a TAC member needs to temporarily step away from TAC responsibilities, for example due to family or health matters, the TAC supports a temporary leave of absence. The member should inform the TAC ahead of the absence, if possible.
+- During a member's leave of abscence, TAC votes are calculated from a percentage of the non-absent membership until the absent member returns.
+- If the leave of absence extends to a significant portion of the TAC member's term (determined at the TAC's discretion), the absent TAC member should inform the TAC and is expected to resign their seat to allow for a new member election.
+
 [charter]: https://openssf.org/about/charter/
 [gov-comm]: https://github.com/ossf/Governance-Committee
