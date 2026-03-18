@@ -8,7 +8,7 @@
 * 2024-10-22: Add TAC decision type for TI quarterly updates [#402](https://github.com/ossf/tac/pull/402)
 * 2024-08-20: Label Security Metric project as archived in README
 * 2024-08-15: Updated TI-Gives+Gets.md to clarify Logo entitlement based upon lifecycle stage vs. stage Badge usage [#373](https://github.com/ossf/tac/pull/373)
-* 2024-07-24: Added security baseline to incubating project responsibilities and graduated project entry requirements in project-lifecycle.md for for incubating projects [#363](https://github.com/ossf/tac/pull/363)
+* 2024-07-24: Added security baseline to incubating project responsibilities and graduated project entry requirements in project-lifecycle.md for incubating projects [#363](https://github.com/ossf/tac/pull/363)
 * 2024-07-24: Added security baseline to graduated project responsibilities in project-lifecycle.md for graduated projects  [#364](https://github.com/ossf/tac/pull/364)
 * 2024-07-12: Update project-lifecycle.md for sandbox to include security baseline [#355](https://github.com/ossf/tac/pull/355)
 * 2024-06-27: Add clarity regarding SIG and projects (PR [#348](https://github.com/ossf/tac/pull/348))
