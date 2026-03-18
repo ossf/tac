@@ -18,6 +18,7 @@
 - Be available and responsive to leaders of “adjacent” initiatives (i.e. Alpha/Omega, GNU Toolchain) for early and often changes in strategy, roadmap, and press releases, etc
 
 - TAC and Technical Initiative meetings shall be open, public meetings. For special circumstances, the TAC may hold meetings limited to the TAC voting representatives, invited guests, and LF staff
+
 - Time commitment: average 5+ hours per week
 - Must inform the TAC if unable to continue fulfilling committed Technical Initiative sponsor role, so that a new sponsor can be identified and transitioned into the role.
 
@@ -47,6 +48,12 @@ This section is primarily derived from [OpenSSF charter][charter] 5c, vi:
 ### Vice Chair
 
 The TAC Vice Chair shares responsibilities with the Chair and serves as the Chair's alternate for [additional designated roles](#additional-chair-roles), unless otherwise specified by the TAC or GB.
+
+## TAC Member Leaves of Absence
+
+- In the event that a TAC member needs to temporarily step away from TAC responsibilities, for example due to family or health matters, the TAC supports a temporary leave of abscence. The member should inform the TAC ahead of the absence, if possible.
+- During a member's leave of abscence, the TAC votes are calculated from a percentage of the non-absent membership until the absent member returns.
+- If the leave of abscence extends to a significant portion of the TAC member's term (determined at the TAC's discretion and in), the absent TAC member should inform the TAC and is expected to resign their seat.
 
 [charter]: https://openssf.org/about/charter/
 [gov-comm]: https://github.com/ossf/Governance-Committee
