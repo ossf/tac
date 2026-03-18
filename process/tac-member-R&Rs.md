@@ -53,7 +53,7 @@ The TAC Vice Chair shares responsibilities with the Chair and serves as the Chai
 
 - In the event that a TAC member needs to temporarily step away from TAC responsibilities, for example due to family or health matters, the TAC supports a temporary leave of abscence. The member should inform the TAC ahead of the absence, if possible.
 - During a member's leave of abscence, the TAC votes are calculated from a percentage of the non-absent membership until the absent member returns.
-- If the leave of abscence extends to a significant portion of the TAC member's term (determined at the TAC's discretion and in), the absent TAC member should inform the TAC and is expected to resign their seat.
+- If the leave of abscence extends to a significant portion of the TAC member's term (determined at the TAC's discretion and in), the absent TAC member should inform the TAC and is expected to resign their seat to allow for a new member election.
 
 [charter]: https://openssf.org/about/charter/
 [gov-comm]: https://github.com/ossf/Governance-Committee
