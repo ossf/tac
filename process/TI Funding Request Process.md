@@ -21,7 +21,7 @@ To add transparency to the funding process and help set expectations, the TAC ha
 | Graduated | Up to $150,000 |
 
 > [!NOTE]
-> These amounts are **guidelines and not strict limits**. The TAC retains discretion to approve amounts above or below these levels based on the specific request, available budget, and overall funding priorities. These guidelines are **per-TI, per-year** - for example, each individual sandbox TI may apply for up to $30,000 per year. They are intended to add transparency and create an additional incentive for TIs to progress through the lifecycle stages.
+> These amounts are **guidelines and not strict limits**. The TAC retains discretion to approve amounts above or below these levels based on the specific request, available budget, and overall funding priorities. These guidelines are total sums **per-TI, per-year** - for example, each individual sandbox TI may apply for multiple funding rounds up to a total sum of $30,000 per year. They are intended to add transparency and create an additional incentive for TIs to progress through the lifecycle stages.
 
 ## Process to apply for funding
 
