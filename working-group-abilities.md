@@ -18,7 +18,7 @@ When in doubt, reach out to the TAC with any questions!
 ## Repositories
 
 We expect that working groups will need to create repositories for code, tools, and other projects.
-These should be created in the [ossf](github.com/ossf) organization where possible to simplify
+These should be created in the [ossf](https://github.com/ossf) organization where possible to simplify
 management.
 
 Working groups can also request new organizations where necessary - reach out to the TAC for

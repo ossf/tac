@@ -67,7 +67,7 @@ All requirements of Sandbox must be fulfilled. PR filed to promote TI to Incubat
  * With additional TAC or WG approval, may fundraise for dedicated project funds, coordinated by the OpenSSF.
  * Receives support with vulnerability disclosure from the OpenSSF (Vulnerability Disclosure WG).
  * May post project updates and tutorials to the OpenSSF blog.
- * Recieves higer priority for OpenSSF staff support than Incubating, less than Graduated.
+ * Receives higher priority for OpenSSF staff support than Incubating, less than Graduated.
  * May apply for up to $70,000 in TI funding per year (see [TI Funding Request Process](/process/TI%20Funding%20Request%20Process.md))
 
 ## Graduated level Gives & Gets
