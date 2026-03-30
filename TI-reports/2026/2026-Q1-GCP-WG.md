@@ -40,7 +40,7 @@ Since our last report, we held two tech talks:
 
 ## Awareness SIG
 
-The awareness SIG is led by [Megan Knight](https://github.com/businesscasualkesha) of Arm. The scope is activities that drive awareness of the work of this group and of the regulatory landscape in general. The SIG has been marshalling blog posts, upcoming conference schedule, as well as the CRA introductory course. The Awareness SIG minutes are kept in the [main working group minutes document](https://docs.google.com/document/d/1iAplSQheMgemdMnEw74uPj3oi_6rLLbFFXhg4svqIDo/edit). 
+The awareness SIG is led by [Megan Knight](https://github.com/businesscasualkesha) of Arm. The scope is activities that drive awareness of the work of this group and of the regulatory landscape in general. The SIG has been marshalling blog posts and the upcoming conference schedule. The Awareness SIG minutes are kept in the [main working group minutes document](https://docs.google.com/document/d/1iAplSQheMgemdMnEw74uPj3oi_6rLLbFFXhg4svqIDo/edit). 
 
 Activities and Publications: [pending]
 * On 2026-02-25, Linux Foundation Member Summit, "CRA: Ask Us Anything" was led by Christopher "CRob" Robinson and David A. Wheeler; "Security through Education: Meeting AI, CRA, and Supply Chain Challenges in Software Development" was presented by David A. Wheeler
