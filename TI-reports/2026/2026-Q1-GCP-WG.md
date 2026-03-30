@@ -16,7 +16,7 @@ We also operate the "EU CRA Monthly Tech Talk", the agenda of which is managed b
 
 We have a regular schedule of calls for our Awareness and Standards SIGs and take minutes in our main minutes doc.
 
-This quarter, we have participated in the discussions that led to the formation of the [ORBIT Launchpad](https://github.com/ossf/orbit-launchpad) effort. As noted in their charter, we see the Cyber Polict working group as a key stakeholder and partner for ORBIT Launchpad. This work has subsumed the work that we initially conceived of as a "Tooling" SIG in our own working group.
+This quarter, we have participated in the discussions that led to the formation of the [ORBIT Launchpad](https://github.com/ossf/orbit-launchpad) effort. As noted in their charter, we see the Cyber Policy working group as a key stakeholder and partner for ORBIT Launchpad. This work has subsumed the work that we initially conceived of as a "Tooling" SIG in our own working group.
 
 Our general working group call, besides being a place where SIGs report, also serves as a venue to work on general deliverables and to drive awareness with group members of related activities. 
 
