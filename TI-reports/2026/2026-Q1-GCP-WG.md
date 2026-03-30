@@ -25,7 +25,7 @@ Since our last report, we held two tech talks:
 * one where Launchpad SIG was presented. [Recording is available here](https://zoom.us/rec/share/X5PE2JoOyLac15HXB-0eGm9avCPSrRuwfmZD7Uy2QCwq5mYkAqla--O6_fD7eYcr.AL_bBxDGeZD8SejU) and the slides are [available here](https://drive.google.com/file/d/17b-dUihdJJ-i6URvY6mqLWKLq4Cata8B/view?usp=sharing)
 * one where we discussed our approach for stewardship and the documents that our community has developed. [Recording here](https://zoom.us/rec/play/vu7ETuGu10UZt3TUlZDNT597n8j8tEds1kFOjxOuLQimwYxHRf4nCcYFFbo54N_9qFOb4NfQdiIHR4fG.Br30pNufDbHGCo6P?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fzoom.us%2Frec%2Fshare%2FuiUTy3JAmVUI_CGYQFLXjhpeCUbsDrwb3J55n_IzFyBbKqSfuEyZ3yWi_ZUscVIz.qW8ITyi-A9YBLTvp)
 
-* We collaborated with others in a successful [CRA In Pracitce](https://fosdem.org/2026/schedule/track/cra-in-practice/) dev room at FOSDEM.
+* We collaborated with others in a successful [CRA In Practice](https://fosdem.org/2026/schedule/track/cra-in-practice/) dev room at FOSDEM.
 
 
 * We have updated the page at https://policy.openssf.org
