@@ -41,6 +41,7 @@ Since our last report:
 The awareness SIG is led by [Megan Knight](https://github.com/businesscasualkesha) of Arm. The scope is activities that drive awareness of the work of this group and of the regulatory landscape in general. The SIG has been marshalling blog posts, upcoming conference schedule, as well as the CRA introductory course. The Awareness SIG minutes are kept in the [main working group minutes document](https://docs.google.com/document/d/1iAplSQheMgemdMnEw74uPj3oi_6rLLbFFXhg4svqIDo/edit). 
 
 Activities and Publications: [pending]
+* On 2026-02-25, Linux Foundation Member Summit, "CRA: Ask Us Anything" was led by Christopher "CRob" Robinson and David A. Wheeler; "Security through Education: Meeting AI, CRA, and Supply Chain Challenges in Software Development" was presented by David A. Wheeler
 
 ## Standards SIG
 
@@ -52,6 +53,7 @@ Last year, the SIG produced a Standards Survey for OpenSSF members to determine 
 
 The SIG's main work this year has been on raising awareness of relevant standards efforts, disseminating information to members about these efforts, and highligting when public consultations are open / helping members partiicpate in these consulitations.
 
+We are developing [Comments to the draft  Communication on Commission guidance on the application of the CRA](https://docs.google.com/spreadsheets/d/1UNVJ5o3snT1oV_bqLWSmlBYm1DCvysQJcwvBszPjzes/edit)
 Minutes available here: [SIG Minutes Document](https://docs.google.com/document/d/1XjE5VYdyIdH32T94ZQIj0Hf5btRiKG58z3jSInY77wA/view?tab=t.0).
 
 ## Questions/Issues for the TAC
