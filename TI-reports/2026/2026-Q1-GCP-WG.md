@@ -27,7 +27,6 @@ Since our last report, we held two tech talks:
 
 * We collaborated with others in a successful [CRA In Pracitce](https://fosdem.org/2026/schedule/track/cra-in-practice/) dev room at FOSDEM.
 
-* We continued work on specifying a "compliance" file for OSS repos - that would include information about stewardship as well as additional info: https://github.com/ossf/wg-globalcyberpolicy/issues/69. It's already referenced as a "good practice" by the CRA Voluntary Security Attestation Project (Eclipse ORC WG)
 
 * We have updated the page at https://policy.openssf.org
 
