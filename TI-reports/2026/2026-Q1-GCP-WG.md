@@ -10,7 +10,7 @@ This group has celebrated its 1st year of operation, having been been formed in 
 
 In late 2025, the group ran some workshop sessions at the LF Europe Roadshow event in Ghent and subsequent policy summit in Brussels to refine its scope and deliverables for 2026. For example, we added an emphasis on case studies and producing guidelines that would be useful to "manufacturers."
 
-We have two working group co-leads: [Daniel Appelquist | Samsung](https://github.com/torgo) and [Roman Zhukov | Red Hat](https://github.com/rozhukov). [Megan Knight | Arm](https://github.com/businesscasualkesha) chairs the Awareness SIG and [Madalin Neag](https://github.com/madalinnneag) from OpenSSF staff chairs the Standards SIG. In addition, we have support from [Jeff Diecks](https://github.com/GeauxJD], [Crob](https://github.com/SecurityCRob) and [David A. Wheeler](https://github.com/david-a-wheeler).
+We have two working group co-leads: [Daniel Appelquist | Samsung](https://github.com/torgo) and [Roman Zhukov | Red Hat](https://github.com/rozhukov). [Megan Knight | Arm](https://github.com/businesscasualkesha) chairs the Awareness SIG and [Madalin Neag](https://github.com/madalinnneag) from OpenSSF staff chairs the Standards SIG. In addition, we have support from [Jeff Diecks](https://github.com/GeauxJD), [Crob](https://github.com/SecurityCRob) and [David A. Wheeler](https://github.com/david-a-wheeler).
 
 We also operate the "EU CRA Monthly Tech Talk".
 
