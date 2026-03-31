@@ -1,5 +1,6 @@
 # OpenSSF TAC Changelog
 
+* 2026-03-31: Add TAC member leave of absence policy and expectations
 * 2026-03-18: Add leveled TI funding guidelines by lifecycle stage ([#547](https://github.com/ossf/tac/issues/547))
 * 2025-01-23: Simplify docs around Chair election, roles, and responsibilities [#432](https://github.com/ossf/tac/pull/432)
 * 2025-01-13: Adding 2025 funding schedule and listing out example successful funding requests [#435](https://github.com/ossf/tac/pull/435)
