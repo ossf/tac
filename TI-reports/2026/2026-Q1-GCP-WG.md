@@ -14,7 +14,9 @@ We have two working group co-leads: [Daniel Appelquist | Samsung](https://github
 
 We also operate the "EU CRA Monthly Tech Talk".
 
-We have a regular schedule of calls for our Awareness and Standards SIGs and take minutes in our main minutes doc.
+We have a regular schedule of calls for our Awareness and Standards SIGs and take minutes in the following minutes docs:
+* Main WG/Awareness SIG: https://docs.google.com/document/d/1iAplSQheMgemdMnEw74uPj3oi_6rLLbFFXhg4svqIDo/edit?tab=t.0
+* Standards SIG: https://docs.google.com/document/d/1XjE5VYdyIdH32T94ZQIj0Hf5btRiKG58z3jSInY77wA/edit?tab=t.0
 
 This quarter, we have participated in the discussions that led to the formation of the [ORBIT Launchpad](https://github.com/ossf/orbit-launchpad) effort. As noted in their charter, we see the Cyber Policy working group as a key stakeholder and partner for ORBIT Launchpad. This work has subsumed the work that we initially conceived of as a "Tooling" SIG in our own working group.
 
