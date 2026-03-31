@@ -32,7 +32,8 @@ Also note that benefits may actually vary based on resources and funds availabil
  * Gets a ["sandbox" badge](https://github.com/ossf/tac/blob/main/files/images/OpenSSF_StagesBadges_sandbox.svg) that is shared amongst all OpenSSF sandbox TIs.
  * Communication & Collaboration - OpenSSF mailing list, OpenSSF Slack channel, OpenSSF GitHub, OpenSSF Calendaring / Recording,  OpenSSF Social Media & External Engagement Support
  * Governance & Administration - TI Charter Development & Review, TI Technical Steering Committee Setup, TI IP & License Review, TI Operations & Maintenance, Technical Support
-* Best effort OpenSSF staff support
+ * Best effort OpenSSF staff support
+ * May apply for up to $30,000 in TI funding per year (see [TI Funding Request Process](/process/TI%20Funding%20Request%20Process.md))
 
 ## Incubating level Gives & Gets
 
@@ -67,6 +68,7 @@ All requirements of Sandbox must be fulfilled. PR filed to promote TI to Incubat
  * Receives support with vulnerability disclosure from the OpenSSF (Vulnerability Disclosure WG).
  * May post project updates and tutorials to the OpenSSF blog.
  * Receives higher priority for OpenSSF staff support than Incubating, less than Graduated.
+ * May apply for up to $70,000 in TI funding per year (see [TI Funding Request Process](/process/TI%20Funding%20Request%20Process.md))
 
 ## Graduated level Gives & Gets
 
@@ -100,3 +102,4 @@ All requirements of Incubating must be fulfilled and additionally:
  * May request consideration to get Contract Developers
  * Requests for one time funding needs to include: Tech writer, Graphic designer, Security audit, Event support, Outreach, Dashboard/reports, Recognition awards, Infrastructure support for software projects (like special build, QA) (will have ongoing operational expense),  Cloud hosting (will have ongoing operational expense)
  * Highest priority for OpenSSF staff support
+ * May apply for up to $150,000 in TI funding per year (see [TI Funding Request Process](/process/TI%20Funding%20Request%20Process.md))

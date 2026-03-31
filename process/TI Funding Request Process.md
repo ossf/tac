@@ -10,6 +10,19 @@ This process details how an eligible OpenSSF Technical Initiative (TI) can apply
 - Depending on the lifecycle phase of your TI, you may already qualify for things like a logo, stickers, or other swag; see [TI Gives and Gets](/process/TI-Gives%2BGets.md)
   - Contact OpenSSF staff about items in [TI Gives and Gets](/process/TI-Gives%2BGets.md); you do not need to follow this process
 
+## Funding guidelines by lifecycle stage
+
+To add transparency to the funding process and help set expectations, the TAC has established the following per-TI annual funding guidelines based on lifecycle stage:
+
+| Lifecycle Stage | Per-TI Annual Funding Guideline |
+|---|---|
+| Sandbox | Up to $30,000 |
+| Incubating | Up to $70,000 |
+| Graduated | Up to $150,000 |
+
+> [!NOTE]
+> These amounts are **guidelines and not strict limits**. The TAC retains discretion to approve amounts above or below these levels based on the specific request, available budget, and overall funding priorities. These guidelines are total sums **per-TI, per-year** - for example, each individual sandbox TI may apply for multiple funding rounds up to a total sum of $30,000 per year. They are intended to add transparency and create an additional incentive for TIs to progress through the lifecycle stages.
+
 ## Process to apply for funding
 
   1. Review "Qualifying for funding" section above.
@@ -37,7 +50,7 @@ Here are some example funding requests that were approved, and we'd like to see 
   - Is this request in line with the [TAC Technical Vision](/technical-vision.md)?
   - Is this request in line with the OpenSSF [Mission, Vision, Values, and Strategy](https://openssf.org/about/)?
   - Does the requester(s) have an accepted [TI lifecycle phase](/process) in good standing?
-      - Does the requested amount align with the lifecycle stage the TI is at?
+      - Does the requested amount align with the lifecycle stage the TI is at? (See [Funding guidelines by lifecycle stage](#funding-guidelines-by-lifecycle-stage) above)
    - Final decision is open discussion and a majority consensus vote.
    - TAC moves approved requests forward and recommends to the OpenSSF General Manager and the Governance Committee for disbursement.
 
