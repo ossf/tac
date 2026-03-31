@@ -47,6 +47,16 @@ Activities and Publications: [pending]
 
 ## Standards SIG
 
+The Standards SIG is led by [Madalin Neag](https://github.com/madalinnneag).
+
+The mission of the Standardization SIG has been to coordinate stakeholder engagement on cybersecurity standards related to policy, with a focus on raising awareness of standards development activities connected to the CRA. The SIG has also monitored complementary standards initiatives and policy developments to ensure members maintain visibility into the evolving regulatory and standardization landscape.
+
+The group has supported the involvement of OpenSSF members and staff in standards activities by serving as a coordination forum to guide engagement strategies across European Standards Organizations (ESOs) and other SDOs, particularly where confidentiality practices differ from those typically used in open source communities. Through this coordination, OpenSSF representatives have enabled participation by sharing knowledge and updates, advocating for open source values, and coordinating community-level feedback on key deliverables, including the [CEN](https://www.cencenelec.eu/about-cen/) horizontal standards (such as PT1 and PT3 - see [standards map](https://policy.openssf.org/CRA/standards.html) for detail).
+
+A core component of the SIG’s work has been facilitating community’s participation in public consultations related to cybersecurity standards and policy. The group has raised awareness of consultation opportunities, shared relevant information, and coordinated the consolidation of feedback so that responses reflect the collective expertise of the OpenSSF community.
+
+The SIG has also acted as an information-sharing platform on related policy developments, standards initiatives, funding opportunities, and key steps for CRA implementation, including updates on delegated and implementing acts, guidance materials, roadmaps, and developments from relevant European institutions and authorities.
+
 The Standards SIG is led by [Madalin Neag](https://github.com/madalinnneag). 
 
 The SIG's mission has been to coordinate between stakeholders regarding engagement in Standards work related to cybersecurity policy. This is complicated by the fact that many of these standards organizations have a different approach to confidentiality than the OpenSSF. The discussions of this group have helped to guide the engagement of OpenSSF staff within some of these efforts.
