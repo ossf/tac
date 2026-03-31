@@ -61,7 +61,7 @@ The Standards SIG is led by [Madalin Neag](https://github.com/madalinnneag).
 
 The SIG's mission has been to coordinate between stakeholders regarding engagement in Standards work related to cybersecurity policy. This is complicated by the fact that many of these standards organizations have a different approach to confidentiality than the OpenSSF. The discussions of this group have helped to guide the engagement of OpenSSF staff within some of these efforts.
 
-Last year, the SIG produced a Standards Survey for OpenSSF members to determine what standards are highest priority. The results of this survey were discussed in our main working group [call on 7-21](https://docs.google.com/document/d/1iAplSQheMgemdMnEw74uPj3oi_6rLLbFFXhg4svqIDo/edit?tab=t.0) and indicated high priority for certain vertical standards such as hypervisors, operating systems and identity management systems. This info has helped to prioritize the work of this group. 
+Last year, the SIG produced a Standards Survey for OpenSSF members to determine what standards are highest priority. This info helped to prioritize the initial work of this group. The SIG has gone on to expand its area of focus in accordance with participants' priorities.
 
 The SIG's main work this year has been on raising awareness of relevant standards efforts, disseminating information to members about these efforts, and highligting when public consultations are open / helping members partiicpate in these consulitations.
 
