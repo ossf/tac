@@ -8,7 +8,7 @@
 
 ### Sponsor
 
-  * Securing Critical Projects Working Group
+  * Securing Software Repositories Working Group
 
 ### Mission of the project
 
