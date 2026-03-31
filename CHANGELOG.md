@@ -1,6 +1,7 @@
 # OpenSSF TAC Changelog
 
-* 2026-03-17: Add TAC member leave of absence policy and expectations
+* 2026-03-31: Add TAC member leave of absence policy and expectations
+* 2026-03-18: Add leveled TI funding guidelines by lifecycle stage ([#547](https://github.com/ossf/tac/issues/547))
 * 2025-01-23: Simplify docs around Chair election, roles, and responsibilities [#432](https://github.com/ossf/tac/pull/432)
 * 2025-01-13: Adding 2025 funding schedule and listing out example successful funding requests [#435](https://github.com/ossf/tac/pull/435)
 * 2025-01-08: Add initial onboarding document for incoming TAC members [#429](https://github.com/ossf/tac/pull/429)
@@ -9,7 +10,7 @@
 * 2024-10-22: Add TAC decision type for TI quarterly updates [#402](https://github.com/ossf/tac/pull/402)
 * 2024-08-20: Label Security Metric project as archived in README
 * 2024-08-15: Updated TI-Gives+Gets.md to clarify Logo entitlement based upon lifecycle stage vs. stage Badge usage [#373](https://github.com/ossf/tac/pull/373)
-* 2024-07-24: Added security baseline to incubating project responsibilities and graduated project entry requirements in project-lifecycle.md for for incubating projects [#363](https://github.com/ossf/tac/pull/363)
+* 2024-07-24: Added security baseline to incubating project responsibilities and graduated project entry requirements in project-lifecycle.md for incubating projects [#363](https://github.com/ossf/tac/pull/363)
 * 2024-07-24: Added security baseline to graduated project responsibilities in project-lifecycle.md for graduated projects  [#364](https://github.com/ossf/tac/pull/364)
 * 2024-07-12: Update project-lifecycle.md for sandbox to include security baseline [#355](https://github.com/ossf/tac/pull/355)
 * 2024-06-27: Add clarity regarding SIG and projects (PR [#348](https://github.com/ossf/tac/pull/348))
