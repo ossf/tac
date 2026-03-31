@@ -47,6 +47,6 @@ We are not planning any additional funding requests at this time.
 
 Updates for existing funding requests:
 
-* [Log monitoring website](https://github.com/ossf/tac/issues/536) - Funds have been fully spent, work is underway following the timeline in the funding request
+* [Log monitoring website](https://github.com/ossf/tac/issues/536) - Funds have been fully allocated with monthly invoicing, work is underway following the timeline in the funding request
 * [Rust client audit](https://github.com/ossf/tac/issues/574) - We are actively searching for a vendor to complete this work and should have an update shortly
 
