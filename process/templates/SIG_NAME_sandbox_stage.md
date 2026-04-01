@@ -1,8 +1,16 @@
 ## Creation of a new Special Interest Group (SIG) at Sandbox stage
 
 ### Proposed focus, intent, goals, and/or deliverables
-
   * Link to relevant documentation.
+
+### Alignment with the OpenSSF MVSSR
+The SIG must be aligned with the [Mission, Vision, Values, Strategy, and Roadmap (MVVSR)](https://openssf.org/about/) of the OpenSSF. Please indicate to which of the three strategies and four pillars of the OpenSSF the SIG contributes to.
+
+Strategies: *i) Catalyst for Change*, *ii) Educate and Empower the Modern Developer*, *iii) Ecosystem Leader*
+  * "describe which strategy(ies) the SIG contribute(s) to"
+
+Pillars: *i) Programs & Projects, ii) Education, iii) Public Policy, iv) Community & Events*
+  * "describe which pillar(s) the SIG contribute(s) to"
 
 ### List SIG Lead(s)
 The SIG must have a minimum of 1 Lead

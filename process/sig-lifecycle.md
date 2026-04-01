@@ -1,6 +1,6 @@
 # Special Interest Group (SIG) Life Cycle
 
-Special Interest Groups are bound to achieving a very specific goal. These groups may be terminated upon completion of their designating tasking or continued for larger and ongoing efforts. The creation of a SIG must dictate the focus, intent, goals, and deliverable(s) as appropriate. SIGs may report to a WG or directly to the TAC as their governing body.
+Special Interest Groups are bound to achieving a very specific goal. These groups may be terminated upon completion of their designating tasking or continued for larger and ongoing efforts. The creation of a SIG must dictate the focus, intent, goals, and deliverable(s) as appropriate. SIGs must align with and contribute to the [Mission, Vision, Values, Strategy, and Roadmap (MVVSR)](https://openssf.org/about/) of the OpenSSF. SIGs may report to a WG or directly to the TAC as their governing body.
 
 It is expected that the primary output of a SIG is not software. If the primary output is software, the work should be organized as a [project](./project-lifecycle.md).
 

@@ -25,15 +25,15 @@ Meetings are also recorded and posted to the [OpenSSF YouTube channel](https://w
 
 | Name             | Position | Email                          | Organization | Term                      |
 | ---------------- | :--------: | ------------------------------ | ------------ | --------------------------|
-| Arnaud J Le&nbsp;Hors | | lehors@us.ibm.com              | IBM          | January 2024 - December 2025 |
-| Bob Callaway     | Vice Chair | bcallaway@google.com           | Google       | January 2025 - December 2026 |
+| Arnaud J Le&nbsp;Hors | | lehors@us.ibm.com              | IBM          | January 2026 - December 2027 |
+| Bob Callaway     | Vice Chair | bcallaway@google.com           | Google       | January 2026 - December 2026 |
 | Michael Lieberman|  | mike@kusari.dev                | Kusari       | January 2025 - December 2026 |
-| Zach Steindler   | Chair | steiza@github.com         | GitHub       | January 2025 - December 2026 |
-| Marcela Melara   |  | marcela.melara@intel.com       | Intel        | January 2024 - December 2025 |
-| Jautau "Jay" White || jaywhite@microsoft.com         | Microsoft    | January 2024 - December 2025 |
-| Stephen Augustus | | openssf@auggie.dev | Bloomberg L.P. | January 2025 - December 2025\* |
-| Georg Kunz | | georg.kunz@ericsson.com | Ericsson | January 2025 - December 2025\* |
-| Michael Scovetta | | michael.scovetta@microsoft.com | Microsoft | January 2025 - December 2025\* |
+| Zach Steindler   | Chair | steiza@github.com         | GitHub       | January 2026 - December 2026 |
+| Marcela Melara   |  | marcela.melara@intel.com       | Intel        | January 2026 - December 2027 |
+| Michael Scovetta | | michael.scovetta@microsoft.com | Microsoft | January 2026 - December 2027|
+| Stephen Augustus | | openssf@auggie.dev | Bloomberg L.P. | January 2026 - December 2026\* |
+| Georg Kunz | | georg.kunz@ericsson.com | Ericsson | January 2026 - December 2026\* |
+| Tracy Ragan| | tracy@deployhub.com | DeployHub | January 2026 - December 2026\* |
 
 *NOTE: `*`-marked entries denote TAC members appointed by the OpenSSF Governing Board; all other members are community-elected.*
 
@@ -55,7 +55,7 @@ The following Technical Initiatives have been approved by the TAC. You may learn
 | BEAR (Belonging, Empowerment, Allyship, and Representation) | [GitHub](https://github.com/ossf/wg-bear)         | [Meeting Notes](https://docs.google.com/document/d/17j8uN_radgNcY4G8u1Ua8FN__lUL4TeUN0gb-D2TrZ4/edit)  | Stacey Potter | [Incubating](process/wg-lifecycle-documents/WG_DEI_incubating_stage.md) |
 | Best Practices for Open Source Developers   | [GitHub](https://github.com/ossf/wg-best-practices-os-developers) | [Meeting Notes](https://docs.google.com/document/d/1u1gJMtOz-P5Z71B-vKKigzTbIDIS-bUNgNIcfnW4r-k/edit)  | Jeff Diecks | [Graduated](process/wg-lifecycle-documents/BEST_practices_wg_graduation_stage.md)  |
 | Global Cyber Policy            | [GitHub](https://github.com/ossf/wg-globalcyberpolicy) | [Meeting Notes](https://docs.google.com/document/d/1iAplSQheMgemdMnEw74uPj3oi_6rLLbFFXhg4svqIDo/edit) | Jeff Diecks & Kris Borchers | [Sandbox](process/wg-lifecycle-documents/Global_Cyber_Policy_WG_sandbox_stage.md) |
-| ORBIT (Open Resources for Baselines, Interoperability, and Tooling) | [GitHub](https://github.com/ossf/wg-orbit) | Meeting Notes | Jeff Diecks | [Sandbox](process/wg-lifecycle-documents/ORBIT_WG_sandbox_stage.md) |
+| ORBIT (Open Resources for Baselines, Interoperability, and Tooling) | [GitHub](https://github.com/ossf/wg-orbit) | [Meeting Notes](https://docs.google.com/document/d/1Hf-SsjYaAvY2Nk_jJ2-aHMqgBi1qg7oIj3PJWsCEe0U/edit?tab=t.0#heading=h.omyjy2x7t74i) | Jeff Diecks | [Sandbox](process/wg-lifecycle-documents/ORBIT_WG_sandbox_stage.md) |
 | Securing Critical Projects     | [GitHub](https://github.com/ossf/wg-securing-critical-projects) | [Meeting Notes](https://docs.google.com/document/d/1YkxOFs9x9YCtUfYeOG7Gy3OBX0cTDbZTEgOdvmEo6FE/edit) | Kris Borchers | [Incubating](process/wg-lifecycle-documents/securing_critical_projects_incubating_stage.md) |
 | Securing Software Repositories | [GitHub](https://github.com/ossf/wg-securing-software-repos)    | [Meeting Notes](https://docs.google.com/document/d/18Y8HxntL2RkcgqoFdhdLpj17e4MOSCdskP1IoDiuP1s/edit)  | Kris Borchers | [Graduated](process/wg-lifecycle-documents/securing_software_repositories_graduation_stage.md) |
 | Security Tooling               | [GitHub](https://github.com/ossf/wg-security-tooling) | [Meeting Notes](https://docs.google.com/document/d/190urQjwvE6DsjZ3Z1vBbNEXsJ--ccC8xHmbe_fYKRHA/edit) | Jeff Diecks | [Graduated](process/wg-lifecycle-documents/security_tooling_wg_graduation_stage.md) |
@@ -73,19 +73,21 @@ The following Technical Initiatives have been approved by the TAC. You may learn
 | Fuzz Introspector      | [GitHub](https://github.com/ossf/fuzz-introspector)        |  | Security Tooling WG            | TBD        |
 | GUAC                   | [GitHub](https://github.com/guacsec/guac)                  | https://guac.sh | Supply Chain Integrity WG | [Incubating](process/project-lifecycle-documents/guac_incubating.md) |
 | gittuf | [GitHub](https://github.com/gittuf/gittuf) | https://gittuf.dev/ | Supply Chain Integrity WG | [Incubating](process/project-lifecycle-documents/gittuf_incubating_stage.md) |
-| OpenSSF Scorecard | [GitHub](https://github.com/ossf/scorecard)                | https://securityscorecards.dev/ | Best Practices WG | [Incubating](/process/project-lifecycle-documents/openssf_scorecard_incubating_stage.md) |
+| OpenSSF Scorecard | [GitHub](https://github.com/ossf/scorecard)                | https://securityscorecards.dev/ | Best Practices WG | [Incubating](process/project-lifecycle-documents/openssf_scorecard_incubating_stage.md) |
 | OpenVEX | [GitHub](https://github.com/openvex) |  | Vulnerability Disclosures WG | [Sandbox](process/project-lifecycle-documents/openvex_for_sandbox_stage.md) |
 | OSV Schema             | [GitHub](https://github.com/ossf/osv-schema)               | https://ossf.github.io/osv-schema/ | Vulnerability Disclosures WG   | TBD        |
-| Minder                 | [GitHub](https://github.com/mindersec/minder)         |  | Security Tooling WG            | [Sandbox](process/project-lifecycle-documents/minder_sandbox_stage.md) |
+| Malicious Packages     | [GitHub](https://github.com/ossf/malicious-packages)       |  | Securing Critical Projects WG             | [Sandbox](process/project-lifecycle-documents/maliciouspackages_sandbox_stage.md) |
+| Minder                 | [GitHub](https://github.com/mindersec/minder)         | https://mindersec.dev/ | ORBIT WG            | [Sandbox](process/project-lifecycle-documents/minder_sandbox_stage.md) |
 | Model signing          | [GitHub](https://github.com/sigstore/model-transparency/blob/main/README.model_signing.md) |  | AI/ML Security WG | [Sandbox](process/project-lifecycle-documents/model_signing_sandbox_stage.md) |
+| SAFE-Framework         | [GitHub](https://github.com/SAFE-MCP/safe-mcp) |  | AI/ML Security WG | [Sandbox](process/project-lifecycle-documents/safe_framework_sandbox_stage.md) |
 | Package Analysis       | [GitHub](https://github.com/ossf/package-analysis)         |  | Securing Critical Projects WG   | TBD        |
 | Protobom | [GitHub](https://github.com/protobom/protobom) |  | Security Tooling WG | [Sandbox](process/project-lifecycle-documents/protobom_sandbox_stage.md) |
 | Repository Service for TUF | [GitHub](https://github.com/repository-service-tuf/repository-service-tuf) | https://repository-service-tuf.readthedocs.io/ | Securing Software Repositories WG | [Incubating](process/project-lifecycle-documents/repository_service_for_tuf_incubation_stage.md) |
 | S2C2F                  | [GitHub](https://github.com/ossf/s2c2f)                    |  | Supply Chain Integrity WG  | [Incubating](process/project-lifecycle-documents/s2c2f_incubation_stage.md)      |
 | SBOMit                 | [GitHub](https://github.com/sbomit)                |  | Security Tooling WG             | [Sandbox](process/project-lifecycle-documents/SBOMit_sandbox_stage.md)    |
-| Security Insights Spec | [GitHub](https://github.com/ossf/security-insights-spec)   |  | Supply Chain Integrity WG           | TBD        |
+| Security Insights Spec | [GitHub](https://github.com/ossf/security-insights-spec)   |  | ORBIT WG     | TBD        |
 | Sigstore               | [GitHub](https://github.com/sigstore)                      | https://www.sigstore.dev/ | OpenSSF TAC    | [Graduated](process/project-lifecycle-documents/sigstore_graduated_stage.md)        |
-| SLSA                   | [GitHub](https://github.com/slsa-framework/slsa) | https://slsa.dev/ | Supply Chain Integrity WG   | TBD        |
+| SLSA                   | [GitHub](https://github.com/slsa-framework/slsa) | https://slsa.dev/ | Supply Chain Integrity WG   | [Graduated](process/project-lifecycle-documents/SLSA_graduation_stage.md)        |
 | Zarf          | [GitHub](https://github.com/zarf-dev/zarf) | https://zarf.dev/ | Supply Chain Integrity WG   | [Sandbox](process/project-lifecycle-documents/zarf_sandbox_stage.md)       |
 
 ### OpenSSF affiliated projects
@@ -97,7 +99,7 @@ The following Technical Initiatives have been approved by the TAC. You may learn
 
 ### Special Interest Groups (SIGs)
 
-SIGs can be created and managed without formal approval from the TAC. The following is for information purpose only.
+SIGs can be created and managed without formal approval from the TAC. The following is for informational purposes only.
 
 | Name                       | Repository/Home Page | Governing Org                 |
 | -------------------------- | -------------------- | ----------------------------- |
@@ -107,7 +109,7 @@ SIGs can be created and managed without formal approval from the TAC. The follow
 | Memory Safety          | https://github.com/ossf/Memory-Safety                  | Best Practices WG            |
 | C/C++ Compiler Options | https://github.com/ossf/wg-best-practices-os-developers/tree/main/docs/Compiler-Hardening-Guides | Best Practices WG |
 | Python Hardening       | https://github.com/ossf/wg-best-practices-os-developers/tree/main/docs/Secure-Coding-Guide-for-Python | Best Practices WG |
-| Security Baseline      | https://github.com/ossf/security-baseline              | Best Practices WG            |
+| Security Baseline      | https://github.com/ossf/security-baseline              | ORBIT WG                     |
 | SBOM Everywhere        | https://github.com/ossf/sbom-everywhere                | Security Tooling WG          |
 | OSS Fuzzing            | https://github.com/ossf/wg-security-tooling?tab=readme-ov-file#oss-fuzzing-sig | Security Tooling WG |
 

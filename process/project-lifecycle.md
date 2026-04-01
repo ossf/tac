@@ -8,7 +8,7 @@ New [Projects](../organizational-structure-overview.md#definitions) to the OpenS
 
 ## Project Oversight
 
-Projects report either directly to the Technical Advisory Council (TAC) or to a specific Working Group (WG). When a Project reports into a specific WG, that WG can support the Project's progression and provide recommendations to the TAC. The overseeing group provides Projects advice on technical direction, and is a point of escalation or dispute resolution in technical disagreements. The overseeing group does not set the charter or operations for Projects, but ensures Projects operate in line with the [OpenSSF values.](https://openssf.org/about/values/) 
+Projects report either directly to the Technical Advisory Council (TAC) or to a specific Working Group (WG). When a Project reports into a specific WG, that WG can support the Project's progression and provide recommendations to the TAC. The overseeing group provides Projects advice on technical direction, and is a point of escalation or dispute resolution in technical disagreements. The overseeing group does not set the charter or operations for Projects, but ensures Projects operate in line with the [Mission, Vision, Values, Strategy, and Roadmap (MVVSR)](https://openssf.org/about/).
 
 <!-- TOC -->
 
