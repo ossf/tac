@@ -30,7 +30,7 @@ _Enter the Github IDs for the set of initial committers._
 _Provide the name of your sponsor, if you have one. A sponsor is optional, but
 the sponsor must be a maintainer of an active OpenSSF project, a WG or SIG chair, or a TAC member.
 
-Read about sponsors' duty in [Section 3, New labs proposal
+Read about sponsors' duty in [step 3, New labs proposal
 process](../labs-process.md#new-lab-proposal-process)._
 
 - https://github.com/<user_id> or <Name (email@example.org)>, <role> (e.g.,
@@ -38,7 +38,7 @@ process](../labs-process.md#new-lab-proposal-process)._
 
 ## Pre-existing repository
 
-_If you currently have a GitHub repository that you wish to transfer to the OpenSSF Labs organization, please provide a link here.
+_If you currently have a GitHub repository that you wish to transfer to the OpenSSF Labs organization, please provide a link here. Otherwise, leave this section blank.
 **NOTE: Please refer to the [Transferring an existing repo
 guidelines](../labs-process.md#transferring-an-existing-repo) for additional
 information on existing repositories.**_
