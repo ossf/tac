@@ -81,6 +81,7 @@ flowchart LR
        SI[Security Insights]
        SM[Security Metrics]
        MP[Malicious Packages]
+       PA[Package Analysis]
        Rstuf[Repository Service for TUF]
        Gittuf[gittuf]
        GUAC[GUAC]
@@ -89,7 +90,6 @@ flowchart LR
        Allstar[Allstar]
        Sigstore[sigstore]
        CS[Criticality Score]
-       PA[Package Analysis]
        PF[Package Feeds]
        FI[Fuzz Introspector]
        Protobom[protobom]
@@ -106,6 +106,7 @@ flowchart LR
     MM --> SI
     MM --> SM
     REP --> MP
+    REP --> PA
     REP --> Rstuf
     SCI --> Gittuf
     SCI --> GUAC
@@ -113,7 +114,6 @@ flowchart LR
     SCI --> SLSA
     SCP --> Allstar
     SCP --> CS
-    SCP --> PA
     SCP --> PF
     ST --> FI
     ST --> Protobom
