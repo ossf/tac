@@ -80,6 +80,7 @@ flowchart LR
        BPB[Best Practices Badge]
        SI[Security Insights]
        SM[Security Metrics]
+       MP[Malicious Packages]
        Rstuf[Repository Service for TUF]
        Gittuf[gittuf]
        GUAC[GUAC]
@@ -104,6 +105,7 @@ flowchart LR
     BP --> BPB
     MM --> SI
     MM --> SM
+    REP --> MP
     REP --> Rstuf
     SCI --> Gittuf
     SCI --> GUAC
