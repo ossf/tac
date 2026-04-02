@@ -81,6 +81,7 @@ flowchart LR
        SI[Security Insights]
        SM[Security Metrics]
        MP[Malicious Packages]
+       PA[Package Analysis]
        Rstuf[Repository Service for TUF]
        Gittuf[gittuf]
        GUAC[GUAC]
@@ -88,12 +89,11 @@ flowchart LR
        S2C2F
        Allstar[Allstar]
        Sigstore[sigstore]
-       CS[Criticality Score]
-       PA[Package Analysis]
        PF[Package Feeds]
        FI[Fuzz Introspector]
        Protobom[protobom]
        Sbomit[sbomit]
+       CS[Criticality Score]
        OpenVEX[OpenVEX]
        OSV[OSV Schema]
     end
@@ -106,18 +106,18 @@ flowchart LR
     MM --> SI
     MM --> SM
     REP --> MP
+    REP --> PA
     REP --> Rstuf
     SCI --> Gittuf
     SCI --> GUAC
     SCI --> S2C2F
     SCI --> SLSA
     SCP --> Allstar
-    SCP --> CS
-    SCP --> PA
     SCP --> PF
     ST --> FI
     ST --> Protobom
     ST --> Sbomit
+    VD --> CS
     VD --> OpenVEX
     VD --> OSV
 ```

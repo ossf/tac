@@ -69,7 +69,7 @@ The following Technical Initiatives have been approved by the TAC. You may learn
 | ---------------------- | ---------------------------------------- | ----------------------------------------------------------------------------------------------------- | -------------- |---------- |
 | Best Practices Badge   | [GitHub](https://github.com/coreinfrastructure/best-practices-badge) | https://www.bestpractices.dev/ | Best Practices WG   | TBD        |
 | Bomctl   | [GitHub](https://github.com/bomctl/bomctl) |  | Security Tooling WG   | [Sandbox](process/project-lifecycle-documents/bomctl_sandbox_stage.md)        |
-| Criticality Score      | [GitHub](https://github.com/ossf/criticality_score)        |  | Securing Critical Projects WG   | TBD        |
+| Criticality Score      | [GitHub](https://github.com/ossf/criticality_score)        |  | Vulnerability Disclosures WG   | TBD        |
 | Fuzz Introspector      | [GitHub](https://github.com/ossf/fuzz-introspector)        |  | Security Tooling WG            | TBD        |
 | GUAC                   | [GitHub](https://github.com/guacsec/guac)                  | https://guac.sh | Supply Chain Integrity WG | [Incubating](process/project-lifecycle-documents/guac_incubating.md) |
 | gittuf | [GitHub](https://github.com/gittuf/gittuf) | https://gittuf.dev/ | Supply Chain Integrity WG | [Incubating](process/project-lifecycle-documents/gittuf_incubating_stage.md) |
@@ -80,7 +80,7 @@ The following Technical Initiatives have been approved by the TAC. You may learn
 | Minder                 | [GitHub](https://github.com/mindersec/minder)         | https://mindersec.dev/ | ORBIT WG            | [Sandbox](process/project-lifecycle-documents/minder_sandbox_stage.md) |
 | Model signing          | [GitHub](https://github.com/sigstore/model-transparency/blob/main/README.model_signing.md) |  | AI/ML Security WG | [Sandbox](process/project-lifecycle-documents/model_signing_sandbox_stage.md) |
 | SAFE-Framework         | [GitHub](https://github.com/SAFE-MCP/safe-mcp) |  | AI/ML Security WG | [Sandbox](process/project-lifecycle-documents/safe_framework_sandbox_stage.md) |
-| Package Analysis       | [GitHub](https://github.com/ossf/package-analysis)         |  | Securing Critical Projects WG   | TBD        |
+| Package Analysis       | [GitHub](https://github.com/ossf/package-analysis)         |  | Securing Software Repositories WG   | TBD        |
 | Protobom | [GitHub](https://github.com/protobom/protobom) |  | Security Tooling WG | [Sandbox](process/project-lifecycle-documents/protobom_sandbox_stage.md) |
 | Repository Service for TUF | [GitHub](https://github.com/repository-service-tuf/repository-service-tuf) | https://repository-service-tuf.readthedocs.io/ | Securing Software Repositories WG | [Incubating](process/project-lifecycle-documents/repository_service_for_tuf_incubation_stage.md) |
 | S2C2F                  | [GitHub](https://github.com/ossf/s2c2f)                    |  | Supply Chain Integrity WG  | [Incubating](process/project-lifecycle-documents/s2c2f_incubation_stage.md)      |
