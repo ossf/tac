@@ -70,7 +70,6 @@ flowchart LR
         MM[Metrics & Metadata]
         REP[Securing Software Repos]
         SCI[Supply Chain Integrity]
-        SCP[Securing Critical Projects]
         ST[Security Tooling]
         VD[Vulnerability Disclosures]
     end
@@ -87,9 +86,7 @@ flowchart LR
        GUAC[GUAC]
        SLSA[SLSA]
        S2C2F
-       Allstar[Allstar]
        Sigstore[sigstore]
-       PF[Package Feeds]
        FI[Fuzz Introspector]
        Protobom[protobom]
        Sbomit[sbomit]
@@ -112,8 +109,6 @@ flowchart LR
     SCI --> GUAC
     SCI --> S2C2F
     SCI --> SLSA
-    SCP --> Allstar
-    SCP --> PF
     ST --> FI
     ST --> Protobom
     ST --> Sbomit

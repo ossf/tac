@@ -1,3 +1,5 @@
+# This Working Group is Archived as of April 2026
+
 ## Securing Critical Projects Working Group incubation application
 
 ### List WG Chair(s) and or Vice Chair
