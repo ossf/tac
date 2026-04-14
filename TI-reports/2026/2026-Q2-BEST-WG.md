@@ -68,17 +68,17 @@ The group continues to be active and is working on several simultaneous projects
 * Concise guide for upstream collaboration
 
 **Completed Guides (under maintenance)**
-C/C++ Compiler Annotation Guide
-C/C++ Compiler Option Hardening
-Security Focused Guide for AI Code Assistant Instructions
-Concise Guide for Developing More Secure Software
-Concise Guide for Evaluating Open Source Software
-npm Best Practices Guide
-Source Code Management Platform Configuration Best Practices Guide
-Correctly Using Regular Expressions for Secure Input Validation
-Simplifying Software Component Updates
-The Memory Safety Continuum
-Cyber Resilience Act (CRA) Brief Guide for Open Source Software (OSS) Developers
+* C/C++ Compiler Annotation Guide
+* C/C++ Compiler Option Hardening
+* Security Focused Guide for AI Code Assistant Instructions
+* Concise Guide for Developing More Secure Software
+* Concise Guide for Evaluating Open Source Software
+* npm Best Practices Guide
+* Source Code Management Platform Configuration Best Practices Guide
+* Correctly Using Regular Expressions for Secure Input Validation
+* Simplifying Software Component Updates
+* The Memory Safety Continuum
+* Cyber Resilience Act (CRA) Brief Guide for Open Source Software (OSS) Developers
 
 ## C/C++ Compiler Option Hardening Guide
 
