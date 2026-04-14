@@ -1,3 +1,6 @@
+# This Working Group is Archived as of April 2026
+Due to a decline in participation and activity in the working group outside of the ongoing project work, the decision was made to archive this working group and move its [active projects](../../../README.md#projects) to other working groups.
+
 ## Securing Critical Projects Working Group incubation application
 
 ### List WG Chair(s) and or Vice Chair
