@@ -64,8 +64,8 @@ The group continues to be active and is working on several simultaneous projects
 #### Overview of guides
 
 **Guides under active development:**
-Python Secure Coding Guide (finalizing)
-Concise guide for upstream collaboration
+* Python Secure Coding Guide (finalizing)
+* Concise guide for upstream collaboration
 
 **Completed Guides (under maintenance)**
 C/C++ Compiler Annotation Guide
