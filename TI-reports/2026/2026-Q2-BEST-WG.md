@@ -148,8 +148,8 @@ Besides a description of each coding pattern, the guide includes executable code
 ### Current Status
 
 * Published the SWAG security guidelines as a W3C Community Group draft report. Working on getting it at a stable URL.
-Closed the web developer survey and drafted a blog post with findings. Key insight: web devs are generalists with surprisingly high security feature adoption. Also contributed a fetch Metadata guide to MDN and reviewed session management docs.
-Reviewing the 400+ page ETSI draft on browser standards related to CRA; working on a threat modelling guide for web developers ([MDN PR #42980](https://github.com/mdn/content/pull/42980)).
+* Closed the web developer survey and drafted a blog post with findings. Key insight: web devs are generalists with surprisingly high security feature adoption. Also contributed a fetch Metadata guide to MDN and reviewed session management docs.
+* Reviewing the 400+ page ETSI draft on browser standards related to CRA; working on a threat modelling guide for web developers ([MDN PR #42980](https://github.com/mdn/content/pull/42980)).
 
 ### Up Next
 
