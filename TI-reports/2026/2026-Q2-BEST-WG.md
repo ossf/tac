@@ -6,16 +6,16 @@ The group continues to be active and is working on several simultaneous projects
 
 ### Sub-groups
 
-* Guides - [link](https://github.com/ossf/wg-best-practices-os-developers/tree/main/docs)
-  * C/C++ Compiler Option Hardening Guide - [link](https://best.openssf.org/Compiler-Hardening-Guides/Compiler-Options-Hardening-Guide-for-C-and-C++.html)
-  * Python Secure Coding Guide - [link](https://best.openssf.org/Secure-Coding-Guide-for-Python/)
-* EDU.SIG - [link](https://github.com/ossf/education/)  
-* Academic Connections SIG - [link](https://github.com/ossf/education/)
-* Memory Safety SIG - [link](https://github.com/ossf/Memory-Safety)  
-* OpenSSF Best Practices Badge - [link](https://www.bestpractices.dev/)  
-* OpenSSF Scorecard - [link](https://github.com/ossf/scorecard)  
-* Best Practices Badge and Developing Secure Software (LFD121) course - [link](https://github.com/ossf/secure-sw-dev-fundamentals)  
-* Web Developer Security Guide (in collaboration with W3C) - [link](https://github.com/w3c-cg/swag/)
+* [Guides](https://github.com/ossf/wg-best-practices-os-developers/tree/main/docs)
+  * [C/C++ Compiler Option Hardening Guide](https://best.openssf.org/Compiler-Hardening-Guides/Compiler-Options-Hardening-Guide-for-C-and-C++.html)
+  * [Python Secure Coding Guide](https://best.openssf.org/Secure-Coding-Guide-for-Python/)
+* [EDU.SIG](https://github.com/ossf/education/)  
+* [Academic Connections SIG](https://github.com/ossf/education/)
+* [Memory Safety SIG](https://github.com/ossf/Memory-Safety)  
+* [OpenSSF Best Practices Badge](https://www.bestpractices.dev/)  
+* [OpenSSF Scorecard](https://github.com/ossf/scorecard)  
+* [Best Practices Badge and Developing Secure Software (LFD121) course](https://github.com/ossf/secure-sw-dev-fundamentals)  
+* [Web Developer Security Guide (in collaboration with W3C)](https://github.com/w3c-cg/swag/)
 
 ## Best Practices Badge
 
