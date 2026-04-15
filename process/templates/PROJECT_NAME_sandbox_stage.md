@@ -1,12 +1,22 @@
 ## Application for creating a new project at Sandbox stage
 
 ### List of project maintainers
-The project must have a minimum of three maintainers with a minimum of two different organizational affiliations.
+The project must have a minimum of one maintainer; two or more is strongly encouraged. Projects entering with fewer than two maintainers must reach a minimum of two by their first bi-annual TAC update. Projects must have a minimum of three maintainers from two or more organizations to be eligible for Incubating.
   * "name, affiliation, GitHub ID"
 
+### Community growth plan
+If the project is entering Sandbox with fewer than three maintainers from two or more organizations, describe how the project intends to grow its maintainer base and organizational diversity during the Sandbox phase. See [Building an Open Source Community](../building-an-open-source-community.md) for guidance.
+  * "description of planned outreach, collaboration, or other steps to grow the maintainer base"
+
 ### Sponsor
-Most projects will report to an existing OpenSSF Working Group, although in some cases a project may report directly to the TAC. The project commits to providing quarterly updates on progress to the group they report to.
-  * "name of the group the project reports to: either a Working Group or the TAC"
+Projects must report to an existing OpenSSF Working Group. Projects that cannot identify a suitable WG should submit their proposal and request that the TAC help identify an appropriate WG home. The sponsor governs the project as a Technical Initiative within the WG and ensures regular readouts of project progress. The project commits to providing bi-annual updates on progress to the sponsoring WG.
+  * "name of the sponsoring Working Group"
+  * "name and GitHub ID of the sponsor (must be a member or lead of the sponsoring WG)"
+
+### GitHub organization
+The project's repository must be hosted under the [OpenSSF GitHub Enterprise Cloud instance](https://github.com/enterprises/openssf/organizations). Projects are not required to use the `ossf` GitHub organization; existing organizations may be moved under the OpenSSF Enterprise account.
+  * "link to project repository"
+  * "confirm the repository is, or will be, hosted under the OpenSSF GitHub Enterprise Cloud instance"
 
 ### Mission of the project
 The project must be aligned with the OpenSSF mission and either be a novel approach for existing areas, address an unfulfilled need, or be initial code needed for OpenSSF WG work. It is preferred that extensions of existing OpenSSF projects collaborate with the existing project rather than seek a new project.
