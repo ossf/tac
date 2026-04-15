@@ -1,15 +1,12 @@
 ## Working Group incubation application
 
 ### List WG Chair(s) and or Vice Chair
-The WG must have a minimum of 1 Chair
-  * "name, affiliation, GitHub ID"
   
 #### Co-Chairs
 1. [Eddie Knight](https://github.com/eddie-knight) (Sonatype)
 1. [Ben Cotton](https://github.com/funnelfiasco) (Kusari) 
 1. [Jenn Power](https://github.com/jpower432) (Red Hat)
-1. [Travis Truman](https://github.com/trumant) (CVS Health)
-1. [John Kjell](https://github.com/jkjell) (ControlPlane)
+1. [Nicole Bates](https://github.com/nikbat) (Microsoft)
 
 ### Working Group (WG) has met all Sandbox requirement
   * "link to sandbox PR if exists"
@@ -51,6 +48,18 @@ The WG must have a minimum of 5 contributors from at least 3 different organizat
 The WG must have a charter or mission statement for review by TAC
   * Link to the WG charter or mission statement defining its goals.
   * https://github.com/ossf/wg-orbit/blob/main/CHARTER.md
+
+### Alignment with the OpenSSF MVSSR
+The mission of the WG must be aligned with the [Mission, Vision, Values, Strategy, and Roadmap (MVVSR)](https://openssf.org/about/) of the OpenSSF. Please indicate to which of the three strategies and four pillars of the OpenSSF the WG is contributing to.
+
+Strategies: *i) Catalyst for Change*, *ii) Educate and Empower the Modern Developer*, *iii) Ecosystem Leader*
+  * **Catalyst for Change**: ORBIT develops interoperable baselines and specifications (e.g., the Open Source Project Security Baseline and the Security Insights Specification) that drive adoption of "secure by design/default" practices by defining clear, actionable security standards for open source projects.
+  * **Educate and Empower the Modern Developer**: Through initiatives like ORBIT Launchpad, the WG provides resources and guidance that help developers and maintainers understand and implement security baselines in their projects.
+  * **Ecosystem Leader**: ORBIT focuses on interoperability—standardizing how security-relevant data is identified, formatted, and shared across tools and ecosystems—positions the OpenSSF as a leader in cross-ecosystem security collaboration.
+
+Pillars: *i) Programs & Projects, ii) Education, iii) Public Policy, iv) Community & Events*
+  * **Programs & Projects**: ORBIT maintains several active technical initiatives including the Open Source Project Security Baseline, Security Insights Specification, Gemara, and ORBIT Launchpad, all focused on producing practical, reusable security artifacts.
+  * **Education**: The WG contributes educational resources through its specifications and Launchpad materials to help projects and end users alike.
 
 ### Governance
 WG must have documented, initial group governance.
