@@ -67,6 +67,7 @@ The following Technical Initiatives have been approved by the TAC. You may learn
 
 | Name                       | Repository | Website | Sponsoring Org | Status     |
 | ---------------------- | ---------------------------------------- | ----------------------------------------------------------------------------------------------------- | -------------- |---------- |
+| Agent Governance Toolkit | [GitHub](https://github.com/microsoft/agent-governance-toolkit) | https://github.com/microsoft/agent-governance-toolkit | AI/ML Security WG | [Sandbox](process/project-lifecycle-documents/agent_governance_toolkit_sandbox_stage.md) |
 | Best Practices Badge   | [GitHub](https://github.com/coreinfrastructure/best-practices-badge) | https://www.bestpractices.dev/ | Best Practices WG   | TBD        |
 | Bomctl   | [GitHub](https://github.com/bomctl/bomctl) |  | Security Tooling WG   | [Sandbox](process/project-lifecycle-documents/bomctl_sandbox_stage.md)        |
 | Criticality Score      | [GitHub](https://github.com/ossf/criticality_score)        |  | Vulnerability Disclosures WG   | TBD        |
