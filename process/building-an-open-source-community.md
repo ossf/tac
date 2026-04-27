@@ -5,7 +5,7 @@ In open source software the sustainability and growth of projects significantly 
 
 ## Importance of Maintainers from Multiple Organizations
 
-The OpenSSF sandbox requirement, **Projects must have a minimum of two maintainers with different organization affiliations**, was adopted for the following reasons:
+Multi-organizational maintainership is a requirement for projects to advance to the Incubating stage. Projects may enter the Sandbox with as few as one maintainer, but are expected to actively work toward building a diverse maintainer base. This expectation exists for the following reasons:
 
 
 ### Project resilience
