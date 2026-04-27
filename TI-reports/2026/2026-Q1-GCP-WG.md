@@ -65,7 +65,7 @@ The SIG's mission has been to coordinate between stakeholders regarding engageme
 
 The SIG's main work this year has been on raising awareness of relevant standards efforts, disseminating information to members about these efforts, and highligting when public consultations are open / helping members participate in these consultations.
 
-The SIG's main work this year has been on raising awareness of relevant standards efforts, disseminating information to members about these efforts, and highligting when public consultations are open / helping members partiicpate in these consulitations.
+The SIG's main work this year has been on raising awareness of relevant standards efforts, disseminating information to members about these efforts, and highligting when public consultations are open / helping members participate in these consultations.
 
 We are developing [Comments to the draft  Communication on Commission guidance on the application of the CRA](https://docs.google.com/spreadsheets/d/1UNVJ5o3snT1oV_bqLWSmlBYm1DCvysQJcwvBszPjzes/edit)
 Minutes available here: [SIG Minutes Document](https://docs.google.com/document/d/1XjE5VYdyIdH32T94ZQIj0Hf5btRiKG58z3jSInY77wA/view?tab=t.0).
