@@ -97,7 +97,7 @@ All contributors must:
 - **Understand and be able to explain** every meaningful change
 - Run tests and verification appropriate for the change
 - Keep PRs appropriately scoped; avoid large automated PRs unless coordinated with maintainers
-- Write human-readable commit messages explaining "what" and "why" — avoid AI-generated commit messages
+- Write commit messages that explain what the change does and why. AI-drafted commit messages are acceptable when the contributor has reviewed them and can stand by what they say, the same standard that applies to any AI-assisted content
 - **Do not use AI to respond to review comments** — reviewers expect to engage with the human author ([Kubernetes norms](https://www.k8s.dev/docs/guide/pull-requests/))
 
 ### Legal Obligations
