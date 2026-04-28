@@ -108,7 +108,7 @@ Adapted from the [ASF Generative Tooling Guidance](https://www.apache.org/legal/
 
 2. **No third-party copyrighted material**: AI-generated output does not contain copyrighted third-party code, or if it does, that code is compatible with the project's license. Contributors should review AI output for copied or closely adapted snippets and use code scanning tools where available.
 
-3. **Reasonable assurance**: Contributors have taken reasonable steps to verify the above — whether by reviewing tool terms, scanning output, or manually reviewing generated code. These conditions require diligence and attestation, not proof — the same model as DCO.
+3. **Reasonable assurance**: Contributors have taken reasonable steps to verify the above, whether by reviewing tool terms, scanning output, or manually reviewing generated code. These conditions ask for diligence and attestation, not proof. The framing is analogous to DCO, but the AI legal landscape (copyright in generated output, training-data provenance, derivative-work questions) is unsettled and lacks DCO's accumulated precedent and tested practice. Contributors and TIs should treat the analogy as a working framework rather than a settled equivalence.
 
 ### Recommendations
 
