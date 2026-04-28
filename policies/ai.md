@@ -45,18 +45,29 @@ These five principles govern how the OpenSSF approaches AI usage in its Technica
 
 ## Disclosure of AI Usage
 
-Contributors must disclose AI development tool usage when submitting pull requests to OpenSSF repositories. Disclosure is required whenever AI development tools were used at any point in producing the contribution — there is no minimum threshold.
+The OpenSSF treats AI development tools as part of a contributor's workflow, comparable to editors, linters, or language servers. Tool use itself is not something reviewers need flagged. Contributors are fully responsible for every contribution they submit (see [Contributor Responsibility for AI-Assisted Work](#contributor-responsibility-for-ai-assisted-work)), and the [Developer Certificate of Origin (DCO)](../dco.md) provides the formal accountability attestation. Within that framework, disclosure of AI tool use is **not** required by default.
+
+Disclosure **is** required in the two cases where the normal accountability assumption breaks down:
+
+1. **AI-autonomous contributions** (see [AI-Autonomous Contributions](#ai-autonomous-contributions)): the contribution lacks a human who directed the work and reviewed the specific output.
+2. **Unreviewed AI-produced content**: the contributor is submitting AI-produced content they have not meaningfully reviewed and cannot fully explain. For example, a large generated change the contributor is asking maintainers to evaluate without having walked through it themselves.
+
+In both cases, disclosure exists so reviewers know the standard accountability assumption does not hold for the contribution, and can adjust their review accordingly. Outside these two cases, AI tool use is treated as workflow and does not require disclosure.
 
 ### Rationale
 
-Transparency is foundational to open source collaboration. Disclosure enables maintainers to calibrate review effort, supports provenance tracking, and builds trust with the community. Required disclosure aligns the OpenSSF with emerging ecosystem norms — the majority of organizations surveyed in [RedMonk's 2026 analysis](https://redmonk.com/kholterhoff/2026/02/26/generative-ai-policy-landscape-in-open-source/) either require or recommend AI disclosure.
+Disclosure adds value when it tells reviewers something they need to act on. Whether a contributor used an AI tool while working on a contribution does not, on its own, change what reviewers are evaluating. The change still has to be correct, in scope, well-explained, and aligned with project standards. AI tool use is heterogeneous across contributors, and across the lifecycle of a single contribution (research, drafting, refactoring, testing, documentation). Tracking it adds noise without improving review, and works against the policy's own *Respect maintainer time* principle.
+
+What does change reviewers' work is whether a human is meaningfully behind the contribution. When a contribution is AI-autonomous, or when the contributor is forwarding AI-produced content they have not reviewed, the accountability frame the project relies on (DCO, contributor responsibility, ability to engage in review) is weaker. Those are the cases where reviewers benefit from explicit signal, and where this policy requires disclosure.
+
+This framing is consistent with the broader policy: the contributor owns the contribution, AI tool use does not reduce responsibility, and "the AI wrote it" is not a defense. It is also consistent with [RedMonk's 2026 analysis](https://redmonk.com/kholterhoff/2026/02/26/generative-ai-policy-landscape-in-open-source/) of disclosure norms across open source organizations, which describes disclosure as a mechanism for surfacing accountability concerns rather than as a tracking mechanism for tool use.
 
 ### Pull Request Disclosure
 
 Pull request templates should include at minimum:
 
 1. An attestation that the contributor has read and understood the project's contribution guidelines (`CONTRIBUTING.md`).
-2. A declaration of whether AI development tools were used in producing the contribution, and if so, a brief description of how (e.g., "code generation," "test scaffolding," "documentation drafting").
+2. An attestation that the contributor has reviewed the contribution and can explain its design and tradeoffs. If any AI-produced content in the contribution has not been meaningfully reviewed by the contributor, the PR description should say so and identify which parts, so reviewers can adjust their review accordingly.
 
 The detailed expectations around AI usage should live in `CONTRIBUTING.md`. The PR template captures the attestation; `CONTRIBUTING.md` holds the substance.
 
@@ -103,7 +114,7 @@ Adapted from the [ASF Generative Tooling Guidance](https://www.apache.org/legal/
 
 Examples of reasonable AI development tool uses include, but are not limited to: explaining existing code, generating boilerplate, improving grammar for non-native English speakers, brainstorming design alternatives, and scaffolding tests.
 
-When AI is used to transform or adapt existing code (rather than generating from scratch), contributors should note the source in the PR description alongside the AI disclosure.
+When existing code is used as the basis for a change (whether transformed by hand or via AI tooling), contributors should note the source in the PR description. This is a source-attribution and licensing concern and is independent of whether the contribution otherwise requires disclosure under the rules above.
 
 ## AI-Autonomous Contributions
 
