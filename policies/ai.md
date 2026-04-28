@@ -138,7 +138,7 @@ A human using an AI development tool to *draft* any of the above — and then re
 
 ### Exceptions
 
-**Existing GitHub Apps and bots** (e.g., Dependabot, Scorecard, CI bots) authorized through existing OpenSSF governance processes are not subject to this policy. They predate it and are governed by their own approval processes.
+**GitHub Apps and bots authorized through OpenSSF governance processes prior to the effective date of this policy** (e.g., Dependabot, Scorecard, CI bots) are not subject to this policy. They predate it and are governed by their own approval processes. Bots authorized on or after that date are subject to this policy and must satisfy its requirements through whatever autonomous-behavior pathway the policy provides.
 
 Individual TIs may define acceptable autonomous agent interactions in their `AGENTS.md` file, provided those interactions are scoped, documented, and have a responsible human owner. For example, a project might allow an agent to run CI checks and post structured results, as long as a maintainer owns the agent configuration.
 
