@@ -57,7 +57,7 @@ The OpenSSF Sandbox is the entry point for early stage Projects and has four goa
 
 * Projects must have a minimum of one maintainer; two or more maintainers is strongly encouraged. Projects with fewer than two maintainers at entry must reach a minimum of two maintainers by their first bi-annual TAC update (approximately six months); failure to demonstrate progress toward this goal is grounds for archival review. See [Building an Open Source Community](building-an-open-source-community.md) for guidance on growing a maintainer base.
 * Projects must be aligned with the OpenSSF mission _and_ either be a novel approach for existing areas or address an unfulfilled need. It is expected that the initial code or specification developed by an OpenSSF WG be kept within their repository and will not function as a Project in its own right. Should the initial WG code or specification grow and mature that it warrants its own Project status, then it is subject to Sandbox entry requirements. It is preferred that extensions of an existing OpenSSF project collaborate with the existing project rather than seek a new project.
-* Projects must seek a WG sponsor. Projects that cannot identify a suitable WG should reach out to the TAC for assistance in identifying one before submitting a proposal.
+* Projects must seek a sponsoring WG. Projects that cannot identify a suitable WG should reach out to the TAC for assistance in identifying one before submitting a proposal.
     * The sponsor must be a member or lead of the sponsoring WG
     * The sponsor governs the project as a Technical Initiative within the WG and ensures regular readouts of project progress to the overseeing group
     * The sponsor does not need to have a formal role in the Project, e.g., maintainer
