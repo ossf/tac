@@ -1,11 +1,11 @@
 # Building an Open Source Community
 
-In open source software the sustainability and growth of projects significantly depend on the diversity and engagement of their maintainer base. This document aims to underscore the importance of fostering a community with maintainers from multiple organizations, a prerequisite for joining the Open Source Security Foundation (OpenSSF). We will delve into the reasons why this diversity is critical, the benefits it brings, and provide actionable strategies to cultivate such a community.
+In open source software the sustainability and growth of projects significantly depend on the diversity and engagement of their maintainer base. This document aims to underscore the importance of fostering a community with maintainers from multiple organizations, a requirement for advancing to the Incubating stage in the OpenSSF [project lifecycle](project-lifecycle.md). We will delve into the reasons why this diversity is critical, the benefits it brings, and provide actionable strategies to cultivate such a community.
 
 
 ## Importance of Maintainers from Multiple Organizations
 
-The OpenSSF sandbox requirement, **Projects must have a minimum of two maintainers with different organization affiliations**, was adopted for the following reasons:
+Multi-organizational maintainership is a requirement for projects to advance to the Incubating stage. Projects may enter the Sandbox with as few as one maintainer, but are expected to actively work toward building a diverse maintainer base. This expectation exists for the following reasons:
 
 
 ### Project resilience
