@@ -99,9 +99,7 @@ All requirements of Sandbox must be fulfilled, plus:
 * Projects must have defined a contributor guide, which makes it clear how and when contributors should be given increasing responsibilities towards maintainership of the project. (Example guides: [Sigstore](https://github.com/sigstore/community/blob/main/MEMBERSHIP.md), [AllStar](https://github.com/ossf/allstar/blob/main/contributor-ladder.md))
 * Projects should be able to show adoption by multiple parties and adoption's value to the open source community and/or end users (may include adoption of beta/early versions) with the intent to showcase wide adoption by the project's consumers.
 * Projects must have documented, initial project governance.
-* If the project was granted an exception to report directly to the TAC, the TAC sponsor and Project should decide on continued TAC sponsor engagement going forward, or identify a WG that can take over sponsorship. Continued engagement may include, but is not limited to:
-    * Project may consult about Project direction with TAC sponsor as needed throughout Incubating stage.
-    * TAC sponsor should continue to monitor Project activities, though regular meeting attendance is optional.
+* **Transitional provision:** Projects that were accepted under prior rules with TAC-direct reporting should work with the TAC to identify a sponsoring WG. Until a sponsoring WG is identified, the TAC continues in the oversight role.
 * Meet the "[Security Baseline - To Become Incubating](https://github.com/ossf/tac/blob/308c777124a05f1903301400653f1a7a944bd7be/process/security_baseline.md#baseline---to-become-incubating)" requirements.
 
 #### Project Process: Sandbox to Incubation and direct entry to Incubation
@@ -146,7 +144,7 @@ All requirements of Incubating must be fulfilled, plus:
 * Projects must have documented project governance and be able to demonstrate that governance in action.
 * When applicable, projects must have completed a security audit through a third party and addressed audit findings and recommendations.
 * Projects meet the "[Security Baseline - To Become Graduated](https://github.com/ossf/tac/blob/main/process/security_baseline.md#security-baseline---to-become-graduated)" requirements.
-* If the project was granted an exception to report directly to the TAC, TAC sponsor monitoring and consultation become optional at Graduation; the project is encouraged to identify a WG home if one has since become appropriate.
+* **Transitional provision:** Projects that were accepted under prior rules with TAC-direct reporting should work with the TAC to identify a sponsoring WG. Until a sponsoring WG is identified, the TAC continues in the oversight role.
 
 #### Project Graduation Process: Incubating to Graduation
 
