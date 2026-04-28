@@ -29,7 +29,10 @@ In the last quarter we:
 - evolved and extended the SAFE MCP project to the Safe Agentic Framework,
   which now has a subproject on MCP and one on K8s
 - continued the engagement with CoSAI, SPDX, OWASP, and other working groups
-- delivered an OpenSSF Welcome Call (hosted by the BEAR WG) on the AI/ML Security WG ([recording](https://youtu.be/GGEIoi6XHi0?si=yPhfH0_qwFbczp0S))
+- delivered an OpenSSF Welcome Call (hosted by the BEAR WG) on the AI/ML Security WG
+  ([recording](https://youtu.be/GGEIoi6XHi0?si=yPhfH0_qwFbczp0S))
+- continued engagement with CoSAI on the Model Signing Maturity Levels
+  whitepaper
 
 ### The AI/ML working group
 
@@ -91,20 +94,23 @@ There is a collaboration opportunity between the end-to-end ML provenance SIG
 and cyberpolicy groups (OpenSSF Global Cyberpolicy and ORBIT), given EU CRA
 and other pieces of legislation that cover AI.
 
-The end-to-end ML provenance is also working on refactoring the Atlas code to
-merge with `model-signing` tooling, once we standardize on the new OMS spec
-and names.
+Another goal of the SIG is to integrate the Atlas CLI with the wider ML supply
+chain security efforts. The CLI is already compatible with OMS v1.0 and the
+SIG plans to donate the project to OpenSSF.
 
 ### The OSS Cyber Reasoning Systems (CRS) SIG and project
 
 Moving to the OSS Cyber Reasoning Systems, working group, the main update is
 that the OSS-CRS project [was approved](https://github.com/ossf/tac/pull/559)
 and is now being onboarded. The team behind the project also published a
-[paper on ArXiV](https://arxiv.org/abs/2603.08566), which pairs with another
-[paper](https://arxiv.org/abs/2604.01645) on using AI to find vulnerabilities
+[paper on ArXiV](https://arxiv.org/abs/2603.08566), which pairs with two other
+papers ([1](https://arxiv.org/abs/2604.01645),
+[2](https://arxiv.org/abs/2602.07666)) on using AI to find vulnerabilities
 at scale. There is also a blog post,
 ["More CPUs won't find more bugs"](https://team-atlanta.github.io/blog/post-sinkfuzz-glm/),
-on the same topic.
+on the same topic. Similarly, there is a
+[blog post](https://team-atlanta.github.io/blog/post-patch-2026-ensemble/) on
+ensembled patch techniques that are already integrated with OSS-CRS project.
 
 The OSS-CRS working group also proposed an
 [RFC](https://github.com/ossf/oss-crs/pull/59) for a standardized CRS
