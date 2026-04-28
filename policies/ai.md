@@ -140,7 +140,14 @@ A human using an AI development tool to *draft* any of the above — and then re
 
 **GitHub Apps and bots authorized through OpenSSF governance processes prior to the effective date of this policy** (e.g., Dependabot, Scorecard, CI bots) are not subject to this policy. They predate it and are governed by their own approval processes. Bots authorized on or after that date are subject to this policy and must satisfy its requirements through whatever autonomous-behavior pathway the policy provides.
 
-Individual TIs may define acceptable autonomous agent interactions in their `AGENTS.md` file, provided those interactions are scoped, documented, and have a responsible human owner. For example, a project might allow an agent to run CI checks and post structured results, as long as a maintainer owns the agent configuration.
+Individual TIs may permit specific autonomous agent behaviors in their repositories by documenting them in `AGENTS.md`. To be valid, a permitted behavior must:
+
+- Be scoped to specific actions, not open-ended autonomy. For example, "post a structured CI summary on PRs" is in scope; "act on PRs" is not.
+- Have a named maintainer owner accountable for the agent's outputs and for revoking access if the behavior becomes harmful.
+- Identify the agent's account or bot username so reviewers can recognize it in the contribution stream.
+- Be revocable by any maintainer if the behavior produces low-quality, off-target, or harmful output.
+
+Permitted autonomous behaviors do not waive DCO, contributor responsibility, or the maintainer's authority to close or revert outputs. A TI may not use this mechanism to permit categories of autonomous activity that this policy explicitly prohibits in the [Details](#details) section above.
 
 ## Maintainer Review of AI-Assisted Contributions
 
