@@ -29,6 +29,7 @@ In the last quarter we:
 - evolved and extended the SAFE MCP project to the Safe Agentic Framework,
   which now has a subproject on MCP and one on K8s
 - continued the engagement with CoSAI, SPDX, OWASP, and other working groups
+- delivered an OpenSSF Welcome Call (hosted by the BEAR WG) on the AI/ML Security WG ([recording](https://youtu.be/GGEIoi6XHi0?si=yPhfH0_qwFbczp0S))
 
 ### The AI/ML working group
 
