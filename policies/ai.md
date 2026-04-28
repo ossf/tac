@@ -243,6 +243,19 @@ For security-critical changes, maintainers should verify that AI-generated tests
 
 This policy establishes a permissive default for OpenSSF Technical Initiatives. Individual TIs may adopt stricter rules — up to and including a prohibition on AI-assisted contributions — if justified by the TI's risk profile.
 
+### Dimensions
+
+"Stricter" rules are rules that raise requirements along one or more of the following dimensions, without weakening any other dimension below this policy's defaults:
+
+- **Disclosure**: requiring disclosure of AI tool use beyond the cases this policy requires.
+- **Autonomous contributions**: prohibiting categories of autonomous activity, or applying tighter constraints to autonomous behaviors that would otherwise be permitted.
+- **Review process**: requiring additional review steps for AI-assisted contributions (e.g., two-maintainer approval, mandatory domain-expert sign-off for security-critical changes).
+- **Provenance**: requiring `Generated-by:` or other provenance trailers that this policy treats as optional.
+- **Scope of AI use**: prohibiting AI tool use in specific code areas (e.g., cryptography, authentication) or in the project as a whole.
+- **Verification**: requiring specific verification practices for AI-assisted output (e.g., mandatory code scanning for copied snippets, mandatory end-to-end test runs).
+
+Rules that weaken any dimension below this policy's defaults (for example, waiving DCO sign-off for AI-assisted commits, or accepting autonomous contributions this policy prohibits) are not "stricter" rules and may not be adopted at the TI level.
+
 ### Criteria
 
 Criteria that may justify stricter rules:
