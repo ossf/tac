@@ -1,7 +1,7 @@
 ## Application for creating a new project at Sandbox stage
 
 ### List of project maintainers
-The project must have a minimum of one maintainer; two or more is strongly encouraged. Projects entering with fewer than two maintainers must reach a minimum of two by their first bi-annual TAC update. Projects must have a minimum of three maintainers from two or more organizations to be eligible for Incubating.
+The project must have a minimum of one maintainer; two or more is strongly encouraged.
   * "name, affiliation, GitHub ID"
 
 ### Community growth plan
