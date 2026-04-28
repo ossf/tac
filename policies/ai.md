@@ -204,7 +204,7 @@ OpenSSF repos should follow the [AGENTS.md specification](https://agents.md/) fo
 - **No confidential information.** Do not include non-public architecture details, infrastructure references, or information that is not already public in the repo.
 - **Project-specific instructions.** Focus on contribution standards, testing requirements, coding conventions, and review expectations specific to the project.
 - **Keep it maintained.** An outdated `AGENTS.md` is worse than none — it will produce contributions that don't match current project expectations. Treat it as a living document alongside `CONTRIBUTING.md`.
-- **Maintainer-controlled.** `AGENTS.md` and other agent configuration files are maintained by project maintainers, not external contributors. Pull requests from external contributors that add or modify agent configuration files should not be accepted — this prevents tool-specific config sprawl and ensures agent instructions remain consistent with the project's contribution standards.
+- **Maintainer-controlled.** `AGENTS.md` and other agent configuration files are maintained by project maintainers. Pull requests from external contributors that modify agent configuration files require explicit maintainer review and approval. This prevents tool-specific config sprawl and keeps agent instructions consistent with the project's contribution standards, while still allowing good-faith fixes (typos, broken links, outdated commands) to be reviewed on their merits.
 
 For security-specific agent instructions, TIs should reference the [Security-Focused Guide for AI Code Assistant Instructions](https://best.openssf.org/Security-Focused-Guide-for-AI-Code-Assistant-Instructions) published by the OpenSSF Best Practices Working Group.
 
