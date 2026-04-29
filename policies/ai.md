@@ -88,7 +88,7 @@ Contributors are fully responsible for AI-assisted contributions. They must unde
 
 ### Rationale
 
-AI has lowered the cost of producing contributions but not the cost of reviewing them. Maintainers report that low-quality AI-generated submissions create significant triage burden. Holding contributors to the same standards regardless of tooling ensures review effort is respected and code quality is maintained.
+AI has lowered the cost of producing contributions but not the cost of reviewing them. Maintainers report that low-quality AI-generated submissions create significant triage burden. Holding contributors to the same standards regardless of tooling ensures review effort is respected and code, issue, and comment quality is maintained.
 
 ### Requirements
 
