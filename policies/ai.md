@@ -102,11 +102,11 @@ All contributors must:
 
 ### Legal Obligations
 
-Adapted from the [ASF Generative Tooling Guidance](https://www.apache.org/legal/generative-tooling.html), contributors using AI development tools must ensure:
+Contributors using AI development tools must ensure:
 
 1. **Tool terms compatibility**: The AI development tool's terms of service do not conflict with the project's open source license or the [Open Source Definition](https://opensource.org/osd). Most major tools grant users rights to generated output, but this varies by plan and terms of service. Contributors should verify.
 
-2. **No third-party copyrighted material**: AI-generated output does not contain copyrighted third-party code, or if it does, that code is compatible with the project's license. Contributors should review AI output for copied or closely adapted snippets and use code scanning tools where available.
+2. **No third-party copyrighted material**: AI-generated output does not contain copyrighted third-party code, or if it does, that code is compatible with the project's license. When pre-existing copyrighted materials are included in AI-generated output, contributors should confirm they have permission to use and modify those materials (such as an open source license or public domain declaration that complies with the project's licensing policies), provide notice and attribution of third-party rights, and include information about the applicable license terms with their contribution. Contributors should review AI output for copied or closely adapted snippets and use code scanning tools where available. Note: as the [Linux Foundation's Generative AI Policy](https://www.linuxfoundation.org/legal/generative-ai) acknowledges, reliably identifying third-party materials in AI-generated output remains a practical challenge with current tools.
 
 3. **Reasonable assurance**: Contributors have taken reasonable steps to verify the above, whether by reviewing tool terms, scanning output, or manually reviewing generated code. These conditions ask for diligence and attestation, not proof. The framing is analogous to DCO, but the AI legal landscape (copyright in generated output, training-data provenance, derivative-work questions) is unsettled and lacks DCO's accumulated precedent and tested practice. Contributors and TIs should treat the analogy as a working framework rather than a settled equivalence.
 
@@ -286,7 +286,7 @@ This policy will be reviewed on at least an annual basis. Reviews may also be tr
 ### Review Triggers
 
 - **Legal developments**: Court rulings or regulatory changes affecting AI-generated code, copyright, or licensing
-- **Foundation guidance changes**: Updates to AI contribution guidance by major foundations (ASF, Linux Foundation, CNCF, TODO Group)
+- **Foundation guidance changes**: Updates to AI contribution guidance by major foundations (Linux Foundation, CNCF, TODO Group, Apache Software Foundation)
 - **New AI capabilities**: Emergence of materially new AI development tool capabilities (e.g., fully autonomous agents, new interaction modes) that affect the assumptions in this policy
 - **Community incidents**: Significant incidents involving AI-generated contributions in any open source ecosystem that reveal gaps in current guidance
 - **TI feedback**: Patterns reported by OpenSSF TI maintainers that suggest this policy needs adjustment
@@ -297,9 +297,10 @@ Review outcomes are documented as updates to this policy document. Changes that 
 
 This policy draws from the following sources:
 
-- [Kubernetes contributor guide: pull requests](https://www.k8s.dev/docs/guide/pull-requests/) — Author responsibility, explainability, discouraging AI-generated commit messages, allowing closure of unreviewable PRs
+- [Linux Foundation: Generative AI Policy](https://www.linuxfoundation.org/legal/generative-ai) — Foundation-level guidance on AI-generated contributions, tool terms compliance, and third-party content attribution obligations
 - [Apache Software Foundation: Generative Tooling Guidance](https://www.apache.org/legal/generative-tooling.html) — Contributor obligations for AI-generated code (tool terms, third-party materials, reasonable assurance), `Generated-by:` trailer convention
 - [Kate Holterhoff / RedMonk: The Generative AI Policy Landscape in Open Source](https://redmonk.com/kholterhoff/2026/02/26/generative-ai-policy-landscape-in-open-source/) — Survey of 73 open source organizations' AI guidance; framework for stance, concern dimensions, and disclosure conventions
+- [Kubernetes contributor guide: pull requests](https://www.k8s.dev/docs/guide/pull-requests/) — Author responsibility, explainability, discouraging AI-generated commit messages, allowing closure of unreviewable PRs
 - [Probabl / scikit-learn maintainers: Maintaining Open Source in the Age of Gen AI](https://blog.probabl.ai/maintaining-open-source-age-of-gen-ai) — Maintainer burden, categories of problematic AI contributions, `AGENTS.md` as mitigation
 - [Scientific Python community: Community Considerations Around AI Contributions](https://blog.scientific-python.org/scientific-python/community-considerations-around-ai/) — Guidelines on transparency, responsibility, understanding, and authentic engagement
 - [AGENTS.md specification](https://agents.md/) — Standard format and placement for AI coding agent instructions
