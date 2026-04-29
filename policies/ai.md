@@ -143,7 +143,7 @@ A human using an AI development tool to *draft* any of the above — and then re
 Individual TIs may permit specific autonomous agent behaviors in their repositories by documenting them in `AGENTS.md`. To be valid, a permitted behavior must:
 
 - Be scoped to specific actions, not open-ended autonomy. For example, "post a structured CI summary on PRs" is in scope; "act on PRs" is not.
-- Have a named maintainer owner accountable for the agent's outputs and for revoking access if the behavior becomes harmful.
+- Have a named maintainer team (ideally, more than one person) accountable for the agent's outputs and for revoking access if the behavior becomes harmful
 - Identify the agent's account or bot username so reviewers can recognize it in the contribution stream.
 - Be revocable by any maintainer if the behavior produces low-quality, off-target, or harmful output.
 
