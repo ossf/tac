@@ -1,4 +1,4 @@
-# AI Usage in OpenSSF Technical Initiatives
+# AI Contribution Policy for OpenSSF Technical Initiatives
 
 This policy defines how the OpenSSF approaches the use of AI development tools in contributions to its Technical Initiatives (TIs). It covers AI-assisted and AI-autonomous contributions, disclosure expectations, maintainer review practices, and repository-level agent configuration.
 
