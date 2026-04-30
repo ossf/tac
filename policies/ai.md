@@ -253,6 +253,10 @@ For security-critical changes, maintainers should verify that AI-generated tests
 
 This policy establishes a permissive default for OpenSSF Technical Initiatives. Individual TIs may adopt stricter rules — up to and including a prohibition on AI-assisted contributions — if justified by the TI's risk profile.
 
+### Conformant Project-Specific Guidance
+
+TIs are encouraged to document how this policy applies to their project — including project-specific examples, contribution conventions, and operational guidance — in their own `CONTRIBUTING.md` or equivalent. Conformant project-specific guidance that does not raise requirements beyond this policy's defaults does not require TAC approval. Only exceptions that impose stricter rules (see below) require the approval process.
+
 ### Dimensions
 
 "Stricter" rules are rules that raise requirements along one or more of the following dimensions, without weakening any other dimension below this policy's defaults:
