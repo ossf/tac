@@ -73,10 +73,11 @@ The detailed expectations around AI usage should live in `CONTRIBUTING.md`. The 
 
 ### Commit Trailers
 
-For machine-parseable provenance tracking, two conventions exist in the ecosystem:
+For machine-parseable provenance tracking, three conventions exist in the ecosystem:
 
 - `Generated-by: <tool>` — Recommended by the [Apache Software Foundation](https://www.apache.org/legal/generative-tooling.html). This is a provenance marker indicating which tool was used. It does not imply authorship.
-- `Co-authored-by: <tool>` — Widely used in practice and rendered by GitHub's UI. However, this implies co-authorship, which raises unresolved questions about whether AI development tools can hold authorship or copyright.
+- `Co-authored-by: <tool>` — Widely used in practice and rendered by GitHub's UI. However, this implies co-authorship, which is inconsistent with established copyright law holding that copyright requires human creative activity — AI tools cannot hold authorship or copyright.
+- `Assisted-by: <agent>:<model_version> [tool1] [tool2]` — Emerging convention adopted by OpenSSF TIs including Sigstore and SLSA. Indicates AI assistance without implying authorship. Example: `Assisted-by: Claude:claude-4.5-sonnet`.
 
 There is no industry standard for AI commit attribution. Current behavior varies across tools: Claude Code and Aider both default to `Co-authored-by:` trailers; GitHub Copilot's coding agent co-authors commits with the developer who assigned the task; other tools (Cursor, Windsurf, OpenAI Codex) either add no attribution by default or do not document their behavior. No major AI coding agent currently defaults to `Generated-by:`.
 
