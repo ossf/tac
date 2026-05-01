@@ -20,7 +20,17 @@ As a secondary fit, the project also aligns with:
 
 ### Project History
 
-The Agent Governance Toolkit was created as a public open source project from day one. The first commit was pushed to github.com/microsoft/agent-governance-toolkit on March 2, 2026, under the MIT license. There was no prior internal or private repository. The project was conceived as open source and approved for public development by Microsoft CELA (Corporate, External, and Legal Affairs) before the first line of code was written.
+Development began in late January 2026 as a series of standalone open source repositories under the lead maintainer's personal GitHub account (@imran-siddique):
+
+- **Jan 26, 2026**: `agent-os` created (core policy engine and kernel)
+- **Feb 1, 2026**: `agent-mesh` and `agentmesh-api` created (inter-agent trust and identity)
+- **Feb 13, 2026**: `agent-sre` created (reliability engineering)
+- **Feb 15, 2026**: `agentmesh-integrations` created (framework adapters)
+- **Feb 20, 2026**: `agent-hypervisor` created (monitoring dashboard)
+- **Feb 21, 2026**: `agent-governance` created (consolidated governance package)
+- **Mar 2, 2026**: All components consolidated into `microsoft/agent-governance-toolkit` as a monorepo under the MIT license, approved by Microsoft CELA
+
+All predecessor repositories are now marked as deprecated with pointers to the microsoft org repo. There was no private or internal-only repository at any point; all development happened in public GitHub repos from the start.
 
 ### Mission of the project
 The project must be aligned with the OpenSSF mission and either be a novel approach for existing areas, address an unfulfilled need, or be initial code needed for OpenSSF WG work. It is preferred that extensions of existing OpenSSF projects collaborate with the existing project rather than seek a new project.
