@@ -2,13 +2,11 @@
 
 ### List of project maintainers
 The project must have a minimum of three maintainers with a minimum of two different organizational affiliations.
-  * Imran Siddique, Microsoft, @imran-siddique (466 commits, project creator and lead)
-  * Jack Batzner, Microsoft, @jackbatzner (31 commits, trusted contributor)
-  * @lawcontinue, Independent, (9 commits, external contributor)
-  * @kanish5, Independent, (8 commits, external contributor)
-  * @tomjwxf, Independent, (8 commits, external contributor)
+  * Imran Siddique, Microsoft, @imran-siddique (project creator and lead maintainer)
+  * Jack Batzner, Microsoft, @jackbatzner (maintainer, CI/CD and documentation infrastructure)
+  * Elton Carr, Microsoft, @eltoncarr-ms (maintainer, CI workflows and security tooling)
 
-Note: While the project originated at Microsoft, it has 20+ contributors from multiple organizations. We are actively working to formalize community maintainer roles to further diversify organizational affiliation as part of OpenSSF onboarding.
+**Not yet met**: All three current maintainers are Microsoft employees. The project has 20+ contributors from multiple organizations, and we are working to grow community maintainers with commit access from outside Microsoft. We are being transparent about this gap rather than listing contributors as maintainers when they do not yet have that role.
 
 ### Sponsor
 Most projects will report to an existing OpenSSF Working Group, although in some cases a project may report directly to the TAC. The project commits to providing quarterly updates on progress to the group they report to.
@@ -19,6 +17,10 @@ The Agent Governance Toolkit directly addresses the security challenges of AI ag
 As a secondary fit, the project also aligns with:
   * Supply Chain Integrity WG: The toolkit includes SBOM generation, Sigstore signing, build provenance attestation, and supply chain verification for AI agent deployments.
   * Security Tooling WG: The toolkit provides reusable security tools (pre-commit hooks, GitHub Actions, CI workflows) that can benefit the broader open source security ecosystem.
+
+### Project History
+
+The Agent Governance Toolkit was created as a public open source project from day one. The first commit was pushed to github.com/microsoft/agent-governance-toolkit on March 2, 2026, under the MIT license. There was no prior internal or private repository. The project was conceived as open source and approved for public development by Microsoft CELA (Corporate, External, and Legal Affairs) before the first line of code was written.
 
 ### Mission of the project
 The project must be aligned with the OpenSSF mission and either be a novel approach for existing areas, address an unfulfilled need, or be initial code needed for OpenSSF WG work. It is preferred that extensions of existing OpenSSF projects collaborate with the existing project rather than seek a new project.
@@ -55,7 +57,7 @@ We are committed to collaborating with existing OpenSSF projects rather than dup
 | Agent SRE | Reliability engineering: SLO engine, error budgets, chaos testing, progressive delivery, anomaly detection | 1,071+ |
 | Agent Compliance | Compliance framework: OWASP ASI mapping, regulatory frameworks (EU AI Act, ISO 42001, Singapore MGF, CSA ATF) | 200+ |
 
-Total: 9,500+ automated tests across all packages. Multi-language SDKs: Python, TypeScript, .NET, Rust, Go.
+Multi-language SDKs: Python, TypeScript, .NET, Rust, Go.
 
 **OWASP Agentic Security Initiative Top 10 Coverage:**
 
@@ -85,7 +87,7 @@ Strategies:
 
 Pillars:
 
-**i) Programs and Projects**: AGT is a production-grade open source project with 9,500+ tests, CI/CD automation, and multi-language SDKs. It provides reusable security tooling (GitHub Actions, pre-commit hooks, policy templates) that can benefit other OpenSSF projects and the broader community.
+**i) Programs and Projects**: AGT is an actively developed open source project with CI/CD automation and multi-language SDKs. It provides reusable security tooling (GitHub Actions, pre-commit hooks, policy templates) that can benefit other OpenSSF projects and the broader community.
 
 **ii) Education**: 45+ tutorials, comprehensive documentation, quickstart guides, and example integrations. The toolkit's tutorial structure follows a learning path from basic concepts to advanced production deployment patterns.
 
@@ -115,3 +117,10 @@ The project should provide a list of existing resources with links to the reposi
 | Threat Model        | https://github.com/microsoft/agent-governance-toolkit/blob/main/docs/THREAT_MODEL.md |
 | CHANGELOG           | https://github.com/microsoft/agent-governance-toolkit/blob/main/CHANGELOG.md |
 | Examples            | https://github.com/microsoft/agent-governance-toolkit/tree/main/examples |
+| Build Attestations  | GitHub Attestations tab on each release (via [actions/attest-build-provenance](https://github.com/actions/attest-build-provenance) v4) |
+| Python Signatures   | [Sigstore](https://github.com/sigstore/gh-action-sigstore-python) v3, `.sigstore` bundles published alongside PyPI packages |
+| Container Provenance | GitHub Attestations on container images (via publish-containers workflow) |
+
+### AI-Assisted Development Disclosure
+
+This project uses AI-assisted development tools (GitHub Copilot, Claude) for code generation, documentation, and test writing. All AI-generated code is reviewed by human maintainers before merge. The project's [CONTRIBUTING.md](https://github.com/microsoft/agent-governance-toolkit/blob/main/CONTRIBUTING.md) includes an AI contribution policy requiring disclosure of AI tool usage in pull requests, and the PR template includes attestation checkboxes for AI assistance.
