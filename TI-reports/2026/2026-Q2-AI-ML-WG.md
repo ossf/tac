@@ -98,10 +98,11 @@ Another goal of the SIG is to integrate the Atlas CLI with the wider ML supply
 chain security efforts. The CLI is already compatible with OMS v1.0 and the
 SIG plans to donate the project to OpenSSF.
 
-### The OSS Cyber Reasoning Systems (CRS) SIG and project
+### The OSS Cyber Reasoning Systems (CRS) project
 
-Moving to the OSS Cyber Reasoning Systems, working group, the main update is
-that the OSS-CRS project [was approved](https://github.com/ossf/tac/pull/559)
+Moving to the OSS Cyber Reasoning Systems (which started as a working group,
+but now converged to a project), the main update is that the move to the
+OSS-CRS project [was approved](https://github.com/ossf/tac/pull/559)
 and is now being onboarded. The team behind the project also published a
 [paper on ArXiV](https://arxiv.org/abs/2603.08566), which pairs with two other
 papers ([1](https://arxiv.org/abs/2604.01645),
@@ -112,7 +113,7 @@ on the same topic. Similarly, there is a
 [blog post](https://team-atlanta.github.io/blog/post-patch-2026-ensemble/) on
 ensembled patch techniques that are already integrated with OSS-CRS project.
 
-The OSS-CRS working group also proposed an
+The OSS-CRS group also proposed an
 [RFC](https://github.com/ossf/oss-crs/pull/59) for a standardized CRS
 interface that any cyber reasoning system can use, regardless of the
 underlying agent (model and harness).
@@ -121,13 +122,13 @@ The team has run the CRS implementation against OSS projects and identified
 some bugs which got patched. The plan is to integrate OSS-CRS within CI, to
 strengthen OSS projects.
 
-The OSS-CRS SIG has also worked with the vulnerabilities disclosure working
+The OSS-CRS group has also worked with the vulnerabilities disclosure working
 group on ways to handle
 [AI slop](https://github.com/ossf/wg-vulnerability-disclosures/issues/178).
 There is now
 [a dashboard for vulnerabilities introduced by vibe-coding](https://vibe-radar-ten.vercel.app/).
 
-The OSS-CRS-SIG has also worked on using AI and fuzzing to identify
+The OSS-CRS group has also worked on using AI and fuzzing to identify
 vulnerabilities in the Linux Kernel.
 
 Tackling maintainer anxiety (from e.g., 100 new vulnerability reports that
@@ -139,18 +140,18 @@ gain from OSS-CRS: removing the big inertia in solving vulnerabilities by
 surfacing them as soon as possible. There is some collaboration with
 Alpha-Omega to pilot building these tools on GitHub
 
-### The SAFE MCP SIG and project
+### The SAFE MCP project
 
 On the SAFE MCP front, the
 [Sandbox application for the SAFE Framework](https://github.com/ossf/tac/pull/561)
 was accepted. The project is rebranding as SAFE Agentic Framework, with
 SAFE-MCP and (the new) SAFE-K8s as sub-projects.
 
-There have been several whitepapers written by members of the SIG and people
-from the industry that build on top of SAFE MCP.
+There have been several whitepapers written by members of the project and
+people from the industry that build on top of SAFE MCP.
 
-The SIG collaborates with MITRE and NIST and aims to also cover A2A and other
-agentic AI projects.
+The project collaborates with MITRE and NIST and aims to also cover A2A and
+other agentic AI projects.
 
 ## Up Next
 
