@@ -5,8 +5,11 @@ The project must have a minimum of three maintainers with a minimum of two diffe
   * Imran Siddique, Microsoft, @imran-siddique (project creator and lead maintainer)
   * Jack Batzner, Microsoft, @jackbatzner (maintainer, CI/CD and documentation infrastructure)
   * Elton Carr, Microsoft, @eltoncarr-ms (maintainer, CI workflows and security tooling)
+  * Kevin Knapp, Aileron, @Knapp-Kevin (maintainer, governance and compliance)
+  * Andrew Rubinger, MythologIQ, @ALRubinger (maintainer, architecture and integrations)
+  * Miya Nisshar, Dayos, @miyanisshar (maintainer, SDK and developer experience)
 
-**Not yet met**: All three current maintainers are Microsoft employees. The project has 20+ contributors from multiple organizations, and we are working to grow community maintainers with commit access from outside Microsoft. We are being transparent about this gap rather than listing contributors as maintainers when they do not yet have that role.
+6 maintainers from 4 organizations (Microsoft, Aileron, MythologIQ, Dayos). See [MAINTAINERS.md](https://github.com/microsoft/agent-governance-toolkit/blob/main/MAINTAINERS.md) for full details.
 
 ### Sponsor
 Most projects will report to an existing OpenSSF Working Group, although in some cases a project may report directly to the TAC. The project commits to providing quarterly updates on progress to the group they report to.
@@ -101,7 +104,7 @@ Pillars:
 
 **ii) Education**: 45+ tutorials, comprehensive documentation, quickstart guides, and example integrations. The toolkit's tutorial structure follows a learning path from basic concepts to advanced production deployment patterns.
 
-**iv) Community and Events**: Active community engagement with 20+ contributors, GitHub Discussions, and integration proposals across the agent framework ecosystem. The project has been presented at standards body meetings and has active community contributions from multiple organizations.
+**iv) Community and Events**: Active community engagement with 76 contributors from multiple organizations, GitHub Discussions, and integration proposals across the agent framework ecosystem. The project has been presented at standards body meetings and has active community contributions from multiple organizations.
 
 ### IP policy and licensing due diligence
 When contributing an existing Project to the OpenSSF, the contribution must undergo license and IP due diligence by the Linux Foundation (LF).
@@ -119,9 +122,11 @@ The project should provide a list of existing resources with links to the reposi
 | Roadmap             | https://github.com/microsoft/agent-governance-toolkit/blob/main/docs/ROADMAP.md |
 | Demos               | https://github.com/microsoft/agent-governance-toolkit/tree/main/demo |
 | Tutorials           | https://github.com/microsoft/agent-governance-toolkit/tree/main/docs/tutorials (45+ tutorials) |
-| OpenSSF Badge       | https://www.bestpractices.dev/projects/12085 (99% passing) |
-| PyPI Packages       | https://pypi.org/project/agent-os-kernel/, https://pypi.org/project/agentmesh-platform/, https://pypi.org/project/agent-sre/, https://pypi.org/project/agent-runtime/, https://pypi.org/project/ai-agent-compliance/ |
-| npm Package         | https://www.npmjs.com/package/agentos-mcp-server |
+| OpenSSF Badge       | https://www.bestpractices.dev/projects/12085 (100% passing) |
+| PyPI Packages       | 42 packages, 214,000+ monthly downloads. Top packages: https://pypi.org/project/agent-os-kernel/, https://pypi.org/project/agentmesh-platform/, https://pypi.org/project/agent-governance-toolkit/ |
+| npm Packages        | 9 packages under @microsoft scope |
+| NuGet Packages      | 3 packages: Microsoft.AgentGovernance + 2 extensions (2,972 total downloads) |
+| Rust Crates         | 2 crates: agentmesh (1,031 downloads) + agent-governance |
 | OWASP Compliance    | https://github.com/microsoft/agent-governance-toolkit/blob/main/docs/OWASP-COMPLIANCE.md |
 | Architecture        | https://github.com/microsoft/agent-governance-toolkit/blob/main/docs/ARCHITECTURE.md |
 | Threat Model        | https://github.com/microsoft/agent-governance-toolkit/blob/main/docs/THREAT_MODEL.md |
@@ -130,6 +135,11 @@ The project should provide a list of existing resources with links to the reposi
 | Build Attestations  | GitHub Attestations tab on each release (via [actions/attest-build-provenance](https://github.com/actions/attest-build-provenance) v4) |
 | Python Signatures   | [Sigstore](https://github.com/sigstore/gh-action-sigstore-python) v3, `.sigstore` bundles published alongside PyPI packages |
 | Container Provenance | GitHub Attestations on container images (via publish-containers workflow) |
+| Governance Docs     | [GOVERNANCE.md](https://github.com/microsoft/agent-governance-toolkit/blob/main/GOVERNANCE.md), [CHARTER.md](https://github.com/microsoft/agent-governance-toolkit/blob/main/CHARTER.md), [MAINTAINERS.md](https://github.com/microsoft/agent-governance-toolkit/blob/main/MAINTAINERS.md), [RELEASE.md](https://github.com/microsoft/agent-governance-toolkit/blob/main/RELEASE.md) |
+| DCO Enforcement     | CI check on all PRs for Developer Certificate of Origin sign-off |
+| CI Workflows        | 33 workflows: CI, CodeQL, ClusterFuzzLite, Scorecard, Secret Scanning, DCO, weekly security audit |
+| Traffic (14-day)    | 52,949 clones, 23,129 page views (May 2026) |
+| GitHub Stats        | 1,433 stars, 273 forks, 76 contributors |
 
 ### AI-Assisted Development Disclosure
 
