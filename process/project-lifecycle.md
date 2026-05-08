@@ -8,7 +8,7 @@ New [Projects](../organizational-structure-overview.md#definitions) to the OpenS
 
 ## Project Oversight
 
-Projects report either directly to the Technical Advisory Council (TAC) or to a specific Working Group (WG). When a Project reports into a specific WG, that WG can support the Project's progression and provide recommendations to the TAC. The overseeing group provides Projects advice on technical direction, and is a point of escalation or dispute resolution in technical disagreements. The overseeing group does not set the charter or operations for Projects, but ensures Projects operate in line with the [Mission, Vision, Values, Strategy, and Roadmap (MVVSR)](https://openssf.org/about/).
+Projects report to a specific Working Group (WG), which supports the Project's progression and provides recommendations to the TAC. Projects that cannot identify a suitable WG should submit their proposal and request that the TAC help identify an appropriate WG home. The overseeing WG provides Projects advice on technical direction, and is a point of escalation or dispute resolution in technical disagreements. The overseeing WG does not set the charter or operations for Projects, but ensures Projects operate in line with the [Mission, Vision, Values, Strategy, and Roadmap (MVVSR)](https://openssf.org/about/).
 
 <!-- TOC -->
 
@@ -39,13 +39,13 @@ The OpenSSF Sandbox is the entry point for early stage Projects and has four goa
 
 #### Project Responsibilities
 * Provides bi-annual updates to the TAC on technical vision and progress on vision.
-* Maintains a diversified contributor base (i.e. not a single-vendor project).
-* For code development, follows security best practices (as recommended by the OpenSSF and others), including passing the [OpenSSF Best Practices criteria](https://bestpractices.coreinfrastructure.org/en/criteria/0).
+* Actively works to grow and diversify the maintainer and contributor base. Single-maintainer projects entering Sandbox are expected to grow their community over time; multi-organizational representation (a minimum of three maintainers from two or more organizations) is required for Incubating entry. The sponsoring WG monitors project activity and may initiate an archival review for Sandbox projects that are dormant for 6 or more months.
+* For code development, follows security best practices (as recommended by the OpenSSF and others), including passing the [OpenSSF Best Practices criteria](https://bestpractices.coreinfrastructure.org/en/criteria/0). Note: badge requirements will be revisited once OSPS Baseline conformance integration in the badge program is finalized.
 * Provides project updates to OpenSSF Marketing Committee as requested.
 * Meet the "[Security Baseline - Once Sandbox](https://github.com/ossf/tac/blob/308c777124a05f1903301400653f1a7a944bd7be/process/security_baseline.md#baseline---once-sandbox)" requirements.
 
 #### Project Support
-* Receives a TAC or WG sponsor for guidance on technical direction. The sponsor also ensures the Project operates within the scope of the OpenSSF, adheres to the OpenSSF code of conduct, legal and IP policies, and reserves the right to consult with the TAC to raise any related concerns. Projects can reach out to the TAC if concerns about sponsor involvement arise.
+* Receives a sponsor from the sponsoring WG for guidance on technical direction. The sponsor also ensures the Project operates within the scope of the OpenSSF, adheres to the OpenSSF code of conduct, legal and IP policies, and reserves the right to consult with the TAC to raise any related concerns. Projects can reach out to the TAC if concerns about sponsor involvement arise.
 * Receives consideration as in-scope for any submission to an OpenSSF-managed conference or event.
 * Receives OpenSSF Code of Conduct Committee support.
 * Reserved space for project updates in OpenSSF newsletters.
@@ -54,12 +54,14 @@ The OpenSSF Sandbox is the entry point for early stage Projects and has four goa
 
 #### Sandbox Entry Requirements and Considerations
 
-* Projects must have a minimum of three maintainers with a minimum of two different organization affiliations.
+* Projects must have a minimum of one maintainer; two or more maintainers is strongly encouraged. See [Building an Open Source Community](building-an-open-source-community.md) for guidance on growing a maintainer base.
 * Projects must be aligned with the OpenSSF mission _and_ either be a novel approach for existing areas or address an unfulfilled need. It is expected that the initial code or specification developed by an OpenSSF WG be kept within their repository and will not function as a Project in its own right. Should the initial WG code or specification grow and mature that it warrants its own Project status, then it is subject to Sandbox entry requirements. It is preferred that extensions of an existing OpenSSF project collaborate with the existing project rather than seek a new project.
-* Projects must seek one TAC sponsor or one WG sponsor (if reporting to a WG)
-    * TAC or WG sponsor agrees to attend Project meetings regularly
-    * TAC or WG sponsor does not need to have a formal role in Project, e.g., maintainer
-    * TAC or WG sponsor requests TAC approval
+* Projects must seek a sponsoring WG. Projects that cannot identify a suitable WG should submit their proposal and request that the TAC help identify an appropriate WG home.
+    * The sponsor must be a member or lead of the sponsoring WG
+    * The sponsor governs the project as a Technical Initiative within the WG and ensures regular readouts of project progress to the overseeing group
+    * The sponsor does not need to have a formal role in the Project, e.g., maintainer
+    * The project's maintainer(s) submit the proposal and request TAC approval
+* Projects must host their repository under the [OpenSSF GitHub Enterprise Cloud instance](https://github.com/enterprises/openssf/organizations). Projects are not required to use the `ossf` GitHub organization specifically; existing organizations may be moved under the OpenSSF Enterprise account.
 * If contributing an existing project to the OpenSSF, the contribution must undergo license and IP due diligence by the Linux Foundation (LF).
 
 See [Submission Process](#submission-process) below and [Sandbox application](templates/PROJECT_NAME_sandbox_stage.md).
@@ -79,7 +81,7 @@ Incubating projects represent maturing but not fully realized projects. Incubati
 * Meets the "[Security Baseline - Once Incubating](https://github.com/ossf/tac/blob/main/process/security_baseline.md#security-baseline---once-incubating)" requirements.
 
 #### Project Support
-* Receives guidance on technical direction from TAC and/or WG. The sponsor continues to ensure the Project operates within the scope of the OpenSSF, adheres to the OpenSSF code of conduct, legal and IP policies, and reserves the right to consult with the TAC to raise any related concerns. Projects can reach out to the TAC if concerns about sponsor involvement arise.
+* Receives guidance on technical direction from the sponsoring WG. The sponsor continues to ensure the Project operates within the scope of the OpenSSF, adheres to the OpenSSF code of conduct, legal and IP policies, and reserves the right to consult with the TAC to raise any related concerns. Projects can reach out to the TAC if concerns about sponsor involvement arise.
 * Receives consideration as in-scope for any submission to an OpenSSF-managed conference or event.
 * Receives OpenSSF Code of Conduct Committee support.
 * Receives infrastructure support (details determined by project leads and OpenSSF Budget Committee).
@@ -92,19 +94,17 @@ Incubating projects represent maturing but not fully realized projects. Incubati
 #### Incubation Entry Requirements and Considerations
 
 All requirements of Sandbox must be fulfilled, plus:
-* Projects must have a minimum of three maintainers with a minimum of two different organization affiliations, and document the current list of maintainers.
+* Projects must have a minimum of three maintainers with a minimum of two different organization affiliations, and document the current list of maintainers. This is where multi-organizational community health is validated; projects that entered Sandbox with fewer maintainers are expected to have grown their base to meet this requirement.
 * Projects must have met at least 5 times within the last calendar quarter since becoming `Sandbox`.
 * Projects must have defined a contributor guide, which makes it clear how and when contributors should be given increasing responsibilities towards maintainership of the project. (Example guides: [Sigstore](https://github.com/sigstore/community/blob/main/MEMBERSHIP.md), [AllStar](https://github.com/ossf/allstar/blob/main/contributor-ladder.md))
 * Projects should be able to show adoption by multiple parties and adoption's value to the open source community and/or end users (may include adoption of beta/early versions) with the intent to showcase wide adoption by the project's consumers.
 * Projects must have documented, initial project governance.
-* If reporting directly to the TAC, the TAC sponsor and Project should decide on continued TAC sponsor engagement going forward. Continued engagement may include, but is not limited to:
-    * Project may consult about Project direction with TAC sponsor as needed throughout Incubating stage.
-    * TAC sponsor should continue to monitor Project activities, though regular meeting attendance is optional.
+* **Transitional provision:** Projects that were accepted under prior rules with TAC-direct reporting should work with the TAC to identify a sponsoring WG. Until a sponsoring WG is identified, the TAC continues in the oversight role.
 * Meet the "[Security Baseline - To Become Incubating](https://github.com/ossf/tac/blob/308c777124a05f1903301400653f1a7a944bd7be/process/security_baseline.md#baseline---to-become-incubating)" requirements.
 
 #### Project Process: Sandbox to Incubation and direct entry to Incubation
 
-Projects are required to undergo technical due diligence as a part of the process of entering Incubation, whether as a move from Sandbox to Incubation or entering Incubation directly. Technical Due Diligence is driven by a TAC or parent WG sponsor with close collaboration of the project. Once the diligence is complete and the proposal made, the Due Diligence document is made available to the community for two weeks to solicit public comment before a TAC vote is called.
+Projects are required to undergo technical due diligence as a part of the process of entering Incubation, whether as a move from Sandbox to Incubation or entering Incubation directly. Technical Due Diligence is driven by the sponsor from the sponsoring WG with close collaboration of the project. Once the diligence is complete and the proposal made, the Due Diligence document is made available to the community for two weeks to solicit public comment before a TAC vote is called.
 
 See [Submission Process](#submission-process) below and [Incubation application](templates/PROJECT_NAME_incubation_stage.md).
 
@@ -123,7 +123,7 @@ Graduated projects signal the highest level of maturity for an OpenSSF project. 
 * Meets the "[Security Baseline - Once Graduated](https://github.com/ossf/tac/blob/main/process/security_baseline.md#security-baseline---once-graduated)" requirements.
 
 #### Project Support
-* Receives guidance on technical direction from TAC and/or WG.
+* Receives guidance on technical direction from the sponsoring WG.
 * Receives consideration as in-scope for any submission to an OpenSSF-managed conference or event.
 * Receives OpenSSF Code of Conduct Committee support.
 * Receives infrastructure support (details determined by project leads and OpenSSF Budget Committee).
@@ -144,17 +144,17 @@ All requirements of Incubating must be fulfilled, plus:
 * Projects must have documented project governance and be able to demonstrate that governance in action.
 * When applicable, projects must have completed a security audit through a third party and addressed audit findings and recommendations.
 * Projects meet the "[Security Baseline - To Become Graduated](https://github.com/ossf/tac/blob/main/process/security_baseline.md#security-baseline---to-become-graduated)" requirements.
-* If reporting directly to the TAC, TAC sponsor monitoring and consultation become optional.
+* **Transitional provision:** Projects that were accepted under prior rules with TAC-direct reporting should work with the TAC to identify a sponsoring WG. Until a sponsoring WG is identified, the TAC continues in the oversight role.
 
 #### Project Graduation Process: Incubating to Graduation
 
-Graduation requires undergoing due diligence as a part of the process to move from Incubation to Graduation. Due diligence is driven by a TAC or parent WG sponsor. For projects seeking Graduation, this may be a light refresh of the existing due diligence to cover the additional criteria, or a more in depth due diligence depending on the level of change the project has incurred since the original due diligence of Incubation was performed. Once the diligence is confirmed by the Sponsor to be complete and the proposal made, the Due Diligence document is made available to the community for two weeks to solicit public comment before a TAC vote is called.
+Graduation requires undergoing due diligence as a part of the process to move from Incubation to Graduation. Due diligence is driven by the sponsor from the sponsoring WG. For projects seeking Graduation, this may be a light refresh of the existing due diligence to cover the additional criteria, or a more in depth due diligence depending on the level of change the project has incurred since the original due diligence of Incubation was performed. Once the diligence is confirmed by the Sponsor to be complete and the proposal made, the Due Diligence document is made available to the community for two weeks to solicit public comment before a TAC vote is called.
 
 See [Submission Process](#submission-process) below and [Graduation application](templates/PROJECT_NAME_graduation_stage.md).
 
 ### Archived
 
-Open source projects have a lifecycle and there are times when projects become inactive due to a variety of reasons. There are also cases where a project may no longer want to be supported by the OpenSSF, the given effort no longer has broad community interest and participation, or the OpenSSF TAC may no longer wish to recommend the use of a project. Archiving happens through a vote of the TAC, and can be requested by the corresponding project's lead(s) or a TAC member.  TI's that are dormant, with no activity for 9 months (meetings, mailing lists, or other publicly viewable channels) in a row should be considered good candidates for Archiving.
+Open source projects have a lifecycle and there are times when projects become inactive due to a variety of reasons. There are also cases where a project may no longer want to be supported by the OpenSSF, the given effort no longer has broad community interest and participation, or the OpenSSF TAC may no longer wish to recommend the use of a project. Archiving happens through a vote of the TAC, and can be requested by the corresponding project's lead(s) or a TAC member. Sandbox projects that are dormant with no activity for 6 months (meetings, mailing lists, or other publicly viewable channels) in a row should be considered good candidates for Archiving. Projects at Incubating or Graduated stages that are dormant for 9 months should be considered good candidates for Archiving.
 
 #### Archiving Considerations
 
