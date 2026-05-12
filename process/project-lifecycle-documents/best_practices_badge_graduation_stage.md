@@ -33,13 +33,15 @@ This list represents 6 contributors from 5 distinct organizational affiliations,
 
 *The project must be able to show adoption by multiple parties, which could be production deployments or substantial use by established open source communities, and demonstrate the value of that adoption to either the end users or the open source community.*
 
-  * [Over 10,000 projects participate in the OpenSSF Best Practices Badge](https://www.bestpractices.dev/en/project_stats). These include many high-profile projects such as the Linux kernel, Node.js, Kubernetes, and Curl. It serves as the industry standard for projects to demonstrate their commitment to security best practices. Approximately 10% of projects pursuing the badge reach the "passing" level, establishing it as a meaningful and rigorous benchmark for the open source community.
+  * [Over 10,000 projects participate in the OpenSSF Best Practices Badge](https://www.bestpractices.dev/en/project_stats). These include many high-profile projects such as the Linux kernel, Node.js, Kubernetes, and Curl. It serves as the industry standard for projects to demonstrate their commitment to security best practices. Approximately 20% of projects pursuing the badge reach the "passing" level, establishing it as a meaningful and rigorous benchmark for the open source community.
 
 ### Release cadence
 
 *The project must be able to show a consistent release cadence.*
 
-  * The project follows a continuous delivery (CD) model for the live application at [bestpractices.dev](https://www.bestpractices.dev). For this project a release is a commit to the production branch. The main, staging, and production branches are protected, and commits go through in that order. A commit to the production branch automatically triggers deployment to the production site. Specific releases and notable changes are documented in the [CHANGELOG.md](https://github.com/coreinfrastructure/best-practices-badge/blob/main/CHANGELOG.md). The project adheres to semantic versioning for its components and dependencies.
+  * The project follows a continuous delivery (CD) model for the live application at [bestpractices.dev](https://www.bestpractices.dev).
+  * For this project a release is a commit to the production branch. Commits are made to the protected main, staging, and production branches in that order, and each time the CI/CD verification is run. A commit to the production branch that passes all CI/CD tests automatically triggers deployment to the production site.
+  * The product demonstrates a consistent and mature release cadence that shows it is active. This is demonstrated through CircleCI history; there were 14 production releases recorded between mid-February and mid-May 2026 (a 3-month window). This is an average of 4.6 releases per month. This includes updates for dependencies; we generally immediately update dependencies with known vulnerabilities, and occasionally update dependencies so that they are not too obsolete.
 
 ### Governance
 
@@ -57,7 +59,8 @@ This list represents 6 contributors from 5 distinct organizational affiliations,
 
 *Implements, practices, and refines mature software development and release practices, such as adherence to semantic versioning, and having a declared policy for stable releases and backported fixes.*
 
-  * The project uses semantic versioning and enforces strict code quality through its automated test suite and linting tools. These practices are detailed in [CONTRIBUTING.md](https://github.com/coreinfrastructure/best-practices-badge/blob/main/CONTRIBUTING.md) and [docs/testing.md](https://github.com/coreinfrastructure/best-practices-badge/blob/main/docs/testing.md).
+  * The best practices badge project implements mature software development processes. It has earned the [OpenSSF best practices gold badge](https://www.bestpractices.dev/en/projects/1/gold) and the [OpenSSF baseline-3 badge](https://www.bestpractices.dev/en/projects/1/baseline-3).
+  * The project enforces strict code quality through its automated test suite and linting tools. These practices are detailed in [CONTRIBUTING.md](https://github.com/coreinfrastructure/best-practices-badge/blob/main/CONTRIBUTING.md) and [docs/testing.md](https://github.com/coreinfrastructure/best-practices-badge/blob/main/docs/testing.md). Its CI/CD pipeline includes many tools to detect problems. The project identifies specific releases using git commit IDs. At one time the project used semantic versioning, but since it's software intended for deployment to a single site that we also maintain, this specific practice was dropped as irrelevant; we now use git commit IDs (cryptographic hashes) to unique identify each release. All releases are stable releases (by definition) and there are never backported fixes (as that makes no sense for this context). We *do* perform all database changes through migrations; this prevents data loss when changing database schema structures. SBOMs are automatically generated for releases to the staging and production branches.
 
 *Projects should harden their build systems in accordance with the SLSA Framework*
 
