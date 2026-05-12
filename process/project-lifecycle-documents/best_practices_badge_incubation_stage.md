@@ -3,7 +3,7 @@
 ### Project has met all Sandbox requirements
 
   * The project was an existing project (CII Best Practices Badge) that pre-existed OpenSSF and was transferred to OpenSSF upon its formation. It has since operated as an OpenSSF project under the Best Practices Working Group, effectively meeting and exceeding Sandbox-level operational requirements.
-    
+
 ### List of project maintainers
 
 *The project must have a minimum of three maintainers with a minimum of two different organizational affiliations.*
@@ -42,7 +42,7 @@ Pillars: *i) Programs & Projects, ii) Education, iii) Public Policy, iv) Communi
 
 *The project should be able to show adoption by multiple parties and the adoption's value to the open source community and/or end users (may include adoption of beta/early versions).*
 
-  * [Over 10,000 projects participate in the OpenSSF Best Practices Badge](https://www.bestpractices.dev/en/project_stats). These include many high-profile projects such as the Linux kernel, Node.js, Kubernetes, and Curl. It serves as a standard way for projects to demonstrate their commitment to security best practices. Approximately 10% of projects pursuing the badge reach the "passing" level, showing it is a meaningful and rigorous standard.
+  * [Over 10,000 projects participate in the OpenSSF Best Practices Badge](https://www.bestpractices.dev/en/project_stats). These include many high-profile projects such as the Linux kernel, Node.js, Kubernetes, and Curl. It serves as a standard way for projects to demonstrate their commitment to security best practices. Over 20% of projects pursuing the badge reach the "passing" level as of 2026-05-12, showing it is a meaningful and rigorous standard.
 
 ### Governance
 
