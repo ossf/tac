@@ -35,7 +35,7 @@ These five principles govern how the OpenSSF approaches AI usage in its Technica
 
 1. **Be transparent.** Disclose AI usage. Don't obscure how contributions were produced. Transparency builds trust with maintainers and the broader community.
 
-2. **Take responsibility.** The human contributor owns the contribution. AI development tools don't reduce accountability for correctness, security, or licensing. "The AI wrote it" is not a defense.
+2. **Take responsibility.** The human contributor is responsible for the contribution. AI development tools don't reduce accountability for correctness, security, or licensing. "The AI wrote it" is not a defense.
 
 3. **Demonstrate understanding.** Contributors must be able to explain what they submit. If you cannot walk through the change and justify its design, it is not ready for review.
 
