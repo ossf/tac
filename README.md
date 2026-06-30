@@ -82,6 +82,7 @@ The following Technical Initiatives have been approved by the TAC. You may learn
 | Model signing          | [GitHub](https://github.com/sigstore/model-transparency/blob/main/README.model_signing.md) |  | AI/ML Security WG | [Sandbox](process/project-lifecycle-documents/model_signing_sandbox_stage.md) |
 | SAFE-Framework         | [GitHub](https://github.com/SAFE-MCP/safe-mcp) |  | AI/ML Security WG | [Sandbox](process/project-lifecycle-documents/safe_framework_sandbox_stage.md) |
 | Package Analysis       | [GitHub](https://github.com/ossf/package-analysis)         |  | Securing Software Repositories WG   | TBD        |
+| Privateer | [GitHub](https://github.com/privateerproj/privateer) | https://privateerproj.com | ORBIT WG | [Sandbox](process/project-lifecycle-documents/Privateer_sandbox_stage.md) |
 | Protobom | [GitHub](https://github.com/protobom/protobom) |  | Security Tooling WG | [Sandbox](process/project-lifecycle-documents/protobom_sandbox_stage.md) |
 | Repository Service for TUF | [GitHub](https://github.com/repository-service-tuf/repository-service-tuf) | https://repository-service-tuf.readthedocs.io/ | Securing Software Repositories WG | [Incubating](process/project-lifecycle-documents/repository_service_for_tuf_incubation_stage.md) |
 | S2C2F                  | [GitHub](https://github.com/ossf/s2c2f)                    |  | Supply Chain Integrity WG  | [Incubating](process/project-lifecycle-documents/s2c2f_incubation_stage.md)      |
