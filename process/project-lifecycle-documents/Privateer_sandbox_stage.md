@@ -22,7 +22,7 @@ Privateer is a plugin-based framework for security and compliance validation of 
 
 Privateer orchestrates plugin-based tests and provides consistent, machine-readable output according to the [Gemara](https://gemara.openssf.org) specification. This structure allows any number of resources to be subject to any number of assessment requirements, enabling community-driven and organization-specific compliance validation at scale.
 
-The project addresses an unfulfilled need in the open source security ecosystem: a neutral, extensible validation framework that can execute security and compliance checks against deployed software or configurations using community-maintained plugin catalogs. Existing users include the FINOS Common Cloud Controls project, the OpenSSF ORBIT initiative (via the [GitHub repo scanner plugin](https://github.com/ossf/pvtr-github-repo-scanner)), and LFX Insights for scanning CNCF projects against the OpenSSF Baseline.
+The project provides a novel approach to accelerate the development of security and compliance evaluators. It provides a neutral, extensible validation framework that can execute security and compliance checks against deployed software or configurations using community-maintained plugin catalogs. Existing users include the FINOS Common Cloud Controls project, the OpenSSF ORBIT initiative (via the [GitHub repo scanner plugin](https://github.com/ossf/pvtr-github-repo-scanner)), and LFX Insights for scanning CNCF projects against the OpenSSF Baseline.
 
 ### Alignment with the OpenSSF MVSSR
 
