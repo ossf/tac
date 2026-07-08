@@ -134,7 +134,7 @@ About 10 months after the previous cycle, a committee of Election Officials will
 | November 29 | The voting period ends at 11:59 PM PST.
 | December 1 | The GB-appointed TAC representatives announced.
 
- **New members seated: January 1, 2026**
+ **New members seated: January 1, 2027**
 
 
 ## Voter Registration form
