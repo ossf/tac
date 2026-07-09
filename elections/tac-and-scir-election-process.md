@@ -105,7 +105,7 @@ About 10 months after the previous cycle, a committee of Election Officials will
 - Announcement of results - Day after the conclusion of the Appointment Period
 - Election of the Chair and Vice Chair - 2 weeks
 
-### 2025 Election Timeline
+### 2026 Election Timeline
 
 **Term starts January 1, 2026.**
 
