@@ -107,7 +107,7 @@ About 10 months after the previous cycle, a committee of Election Officials will
 
 ### 2026 Election Timeline
 
-**Term starts January 1, 2026.**
+**Term starts January 1, 2027.**
 
 **Community Self-Nomination & Security Community Individual Representative (SCIR) Election Timeline**
 
