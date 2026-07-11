@@ -52,7 +52,7 @@ The project should provide a list of existing resources with links to the reposi
 |-----------|-----|
 | Repo | https://github.com/privateerproj/privateer |
 | Website | https://privateerproj.com |
-| Contributing guide | https://github.com/privateerproj/privateer/blob/main/.github/CONTRIBUTING.md |
+| Contributing guide | https://github.com/privateerproj/privateer/blob/main/CONTRIBUTING.md |
 | Security.md | https://github.com/privateerproj/.github/blob/main/.github/SECURITY.md |
 | SDK | https://github.com/privateerproj/privateer-sdk |
 | Plugin Example | https://github.com/privateerproj/plugin-example |
