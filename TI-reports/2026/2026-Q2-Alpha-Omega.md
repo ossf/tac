@@ -24,7 +24,7 @@ We have two updates:
 
 ### Media Roundup
 
-We continue to publish blogs multiple times as week (usually written by our grant recipients), available at [alpha-omega.dev/resources/blog/](https://alpha-omega.dev/resources/blog/) and started publishing case studies, available at [alpha-omega.dev/case-studies/](https://alpha-omega.dev/case-studies/).
+We continue to publish blogs multiple times a week (usually written by our grant recipients), available at [alpha-omega.dev/resources/blog/](https://alpha-omega.dev/resources/blog/) and started publishing case studies, available at [alpha-omega.dev/case-studies/](https://alpha-omega.dev/case-studies/).
 
 Andrew Nesbitt continues to [blog regularly](https://nesbitt.io/posts/) on topics we care deeply about.
 
