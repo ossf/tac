@@ -18,7 +18,7 @@ As part of Glasswing, we worked closely with Anthropic and key open source proje
 Alpha-Omega continues to partner with open source registries to help them investigate and ultimately build sustainable business models
 We have two updates:
 
-* Alpha-Omega signed the recently signed the [Open Infrastructure Is Not Free, Part II: The Hidden Cost of Running Package Registries](https://openssf.org/blog/2026/05/06/open-infrastructure-is-not-free-part-ii-the-hidden-cost-of-running-package-registries/) joint letter on sustainability.
+* Alpha-Omega recently signed the [Open Infrastructure Is Not Free, Part II: The Hidden Cost of Running Package Registries](https://openssf.org/blog/2026/05/06/open-infrastructure-is-not-free-part-ii-the-hidden-cost-of-running-package-registries/) joint letter on sustainability.
 * The Eclipse Foundation recently announced availability of the [Managed Open VSX Registry](https://managed.open-vsx.org/) service.
 * Paul Brown has started working more directly with a few package registries to help them accelerate progress in this area.
 
