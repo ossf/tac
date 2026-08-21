@@ -24,7 +24,7 @@ Reports are due at the end of every quarter for the duration of the funded work.
 3. Fill out the template
 4. Submit a Pull Request
 
-The TAC will perform a review and merge your PR.
+The OpenSSF Staff will perform a review and merge your PR.
 
 All reporting happens publicly in GitHub to ensure transparency and a consistent record of progress.
 
