@@ -10,7 +10,7 @@ This process is intentionally designed to be minimally time-consuming for both a
 
 Each award has its own dedicated folder. Each folder contains:
 
-- A reusable `report-template.md`
+- A reusable [`report-template.md`]([url](https://github.com/ossf/tac/blob/kj-powell-patch-2/TI-funding-reports/report-template.md))
 - A series of quarterly reports submitted via PRs
 
 ## Reporting Schedule
@@ -19,7 +19,7 @@ Reports are due at the end of every quarter for the duration of the funded work.
 
 ## How to Submit Your Report
 
-1. Copy the `report-template.md`
+1. Copy the [`report-template.md`]([url](https://github.com/ossf/tac/blob/kj-powell-patch-2/TI-funding-reports/report-template.md))
 2. Create a new file named: `YYYY-MM-report.md` (Example: `2025-02-report.md`)
 3. Fill out the template
 4. Submit a Pull Request
