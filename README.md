@@ -66,28 +66,35 @@ The following Technical Initiatives have been approved by the TAC. You may learn
 
 | Name                       | Repository | Website | Sponsoring Org | Status     |
 | ---------------------- | ---------------------------------------- | ----------------------------------------------------------------------------------------------------- | -------------- |---------- |
+| AMPEL   |  |  | Supply Chain Integrity WG   | [Sandbox](https://github.com/ossf/tac/blob/main/process/project-lifecycle-documents/AMPEL_sandbox_stage.md)        |
 | Best Practices Badge   | [GitHub](https://github.com/coreinfrastructure/best-practices-badge) | https://www.bestpractices.dev/ | Best Practices WG   | TBD        |
 | Bomctl   | [GitHub](https://github.com/bomctl/bomctl) |  | TBD   | [Sandbox](process/project-lifecycle-documents/bomctl_sandbox_stage.md)        |
+| Best Practices Badge   | [GitHub](https://github.com/coreinfrastructure/best-practices-badge) | https://www.bestpractices.dev/ | Best Practices WG   | [Graduated](https://github.com/ossf/tac/blob/main/process/project-lifecycle-documents/best_practices_badge_graduation_stage.md)        |
+| Bomctl   | [GitHub](https://github.com/bomctl/bomctl) |  | Security Tooling WG   | [Sandbox](process/project-lifecycle-documents/bomctl_sandbox_stage.md)        |
 | BOMHort                 | [GitHub](https://github.com/seebom-labs/BOMHort) | https://docs.bomhort.dev/ | WG Supply Chain Integrity | [Sandbox](process/project-lifecycle-documents/BOMHort_sandbox_stage.md) |
 | Criticality Score      | [GitHub](https://github.com/ossf/criticality_score)        |  | Vulnerability Disclosures WG   | TBD        |
+| CVE-BIN-TOOL                 | [GitHub](https://github.com/ossf/cve-bin-tool)             |  | TBD | [Sandbox](process/project-lifecycle-documents/cve-bin-tool_sandbox_stage.md) |
 | darnit                 | [GitHub](https://github.com/kusari-oss/darnit)             |  | Supply Chain Integrity WG | [Sandbox](process/project-lifecycle-documents/darnit_sandbox_stage.md) |
 | Fuzz Introspector      | [GitHub](https://github.com/ossf/fuzz-introspector)        |  | TBD            | TBD        |
+| Gemara                   | [GitHub](https://github.com/gemaraproj)                  | https://gemara.openssf.org/ | ORBIT WG | [Sandbox](process/project-lifecycle-documents/gemara_sandbox_stage.md) |
 | GUAC                   | [GitHub](https://github.com/guacsec/guac)                  | https://guac.sh | Supply Chain Integrity WG | [Incubating](process/project-lifecycle-documents/guac_incubating.md) |
 | gittuf | [GitHub](https://github.com/gittuf/gittuf) | https://gittuf.dev/ | Supply Chain Integrity WG | [Incubating](process/project-lifecycle-documents/gittuf_incubating_stage.md) |
-| OpenSSF Scorecard | [GitHub](https://github.com/ossf/scorecard)                | https://securityscorecards.dev/ | Best Practices WG | [Incubating](process/project-lifecycle-documents/openssf_scorecard_incubating_stage.md) |
-| OpenVEX | [GitHub](https://github.com/openvex) |  | Vulnerability Disclosures WG | [Sandbox](process/project-lifecycle-documents/openvex_for_sandbox_stage.md) |
-| OSV Schema             | [GitHub](https://github.com/ossf/osv-schema)               | https://ossf.github.io/osv-schema/ | Vulnerability Disclosures WG   | TBD        |
 | Malicious Packages     | [GitHub](https://github.com/ossf/malicious-packages)       |  | Securing Software Repositories WG             | [Sandbox](process/project-lifecycle-documents/maliciouspackages_sandbox_stage.md) |
 | Minder                 | [GitHub](https://github.com/mindersec/minder)         | https://mindersec.dev/ | ORBIT WG            | [Sandbox](process/project-lifecycle-documents/minder_sandbox_stage.md) |
 | Model signing          | [GitHub](https://github.com/sigstore/model-transparency/blob/main/README.model_signing.md) |  | AI/ML Security WG | [Sandbox](process/project-lifecycle-documents/model_signing_sandbox_stage.md) |
-| SAFE-Framework         | [GitHub](https://github.com/SAFE-MCP/safe-mcp) |  | AI/ML Security WG | [Sandbox](process/project-lifecycle-documents/safe_framework_sandbox_stage.md) |
+| OpenBao | [GitHub](https://github.com/openbao)                | https://openbao.org/ | TBD | [Sandbox](process/project-lifecycle-documents/openbao_sandbox_stage.md) |
+| OpenSSF Scorecard | [GitHub](https://github.com/ossf/scorecard)                | https://securityscorecards.dev/ | Best Practices WG | [Incubating](process/project-lifecycle-documents/openssf_scorecard_incubating_stage.md) |
+| OpenVEX | [GitHub](https://github.com/openvex) |  | Vulnerability Disclosures WG | [Sandbox](process/project-lifecycle-documents/openvex_for_sandbox_stage.md) |
+| OSS-CRS             | [GitHub](https://github.com/ossf/oss-crs)               | https://oss-crs.openssf.org/ | AI/ML Security WG   | [Sandbox](process/project-lifecycle-documents/oss-crs_sandbox_stage.md)        |
+| OSV Schema             | [GitHub](https://github.com/ossf/osv-schema)               | https://ossf.github.io/osv-schema/ | Vulnerability Disclosures WG   | TBD        |
 | Package Analysis       | [GitHub](https://github.com/ossf/package-analysis)         |  | Securing Software Repositories WG   | TBD        |
 | Privateer | [GitHub](https://github.com/privateerproj/privateer) | https://privateerproj.com | ORBIT WG | [Sandbox](process/project-lifecycle-documents/Privateer_sandbox_stage.md) |
 | Protobom | [GitHub](https://github.com/protobom/protobom) |  | TBD | [Sandbox](process/project-lifecycle-documents/protobom_sandbox_stage.md) |
 | Repository Service for TUF | [GitHub](https://github.com/repository-service-tuf/repository-service-tuf) | https://repository-service-tuf.readthedocs.io/ | Securing Software Repositories WG | [Incubating](process/project-lifecycle-documents/repository_service_for_tuf_incubation_stage.md) |
-| S2C2F                  | [GitHub](https://github.com/ossf/s2c2f)                    |  | Supply Chain Integrity WG  | [Incubating](process/project-lifecycle-documents/s2c2f_incubation_stage.md)      |
 | SBOMit                 | [GitHub](https://github.com/sbomit)                |  | TBD             | [Sandbox](process/project-lifecycle-documents/SBOMit_sandbox_stage.md)    |
 | Security Insights Spec | [GitHub](https://github.com/ossf/security-insights-spec)   |  | ORBIT WG     | TBD        |
+| Secure Agentic Framework         | [GitHub](https://github.com/secure-agentic-framework) |  | AI/ML Security WG | [Sandbox](process/project-lifecycle-documents/safe_framework_sandbox_stage.md) |
+| Security Insights Spec | [GitHub](https://github.com/ossf/security-insights-spec)   | https://security-insights.openssf.org/ | ORBIT WG     | [Sandbox](https://github.com/ossf/tac/blob/main/process/project-lifecycle-documents/security-insights_sandbox_stage.md)        |
 | Sigstore               | [GitHub](https://github.com/sigstore)                      | https://www.sigstore.dev/ | OpenSSF TAC    | [Graduated](process/project-lifecycle-documents/sigstore_graduated_stage.md)        |
 | SLSA                   | [GitHub](https://github.com/slsa-framework/slsa) | https://slsa.dev/ | Supply Chain Integrity WG   | [Graduated](process/project-lifecycle-documents/SLSA_graduation_stage.md)        |
 | Zarf          | [GitHub](https://github.com/zarf-dev/zarf) | https://zarf.dev/ | Supply Chain Integrity WG   | [Sandbox](process/project-lifecycle-documents/zarf_sandbox_stage.md)       |
@@ -113,10 +120,13 @@ SIGs can be created and managed without formal approval from the TAC. The follow
 | Python Hardening       | https://github.com/ossf/wg-best-practices-os-developers/tree/main/docs/Secure-Coding-Guide-for-Python | Best Practices WG |
 | Security Baseline      | https://github.com/ossf/security-baseline              | ORBIT WG                     |
 | SBOM Everywhere        | https://github.com/ossf/sbom-everywhere                | TBD          |
+| ORBIT Launchpad        | https://github.com/ossf/orbit-launchpad                | ORBIT WG          |
+| Cyber Reasoning Systems        | [Meeting Notes](https://docs.google.com/document/d/14ibgD9qqRZa9INzJz8EsvO-q4An2CziU2mbLGVuDIgE/edit?tab=t.0#heading=h.9m0zi4b0wnne) | AI/ML Security WG          |
+| E2E Model Provenance        | [Meeting Notes](https://docs.google.com/document/d/146N_FQqrMf6TkrniF8LmqEVzp-LmdSV5z-JfKgevp48/edit?tab=t.0#heading=h.9m0zi4b0wnne) | AI/ML Security WG          |
 
 ### Overview Diagrams
 
-Diagrams with an overview of the OpenSSF, including its projects and SIGs, are available in the presentation [OpenSSF Introduction (including Diagrammers’ Society diagrams)](https://docs.google.com/presentation/d/1DpB-WPz4yimdF7DDH4waR_zdi7X5WumgoptcqwkMg-s/edit?usp=sharing) as created and maintained by the [OpenSSF Diagrammer's Society](https://github.com/ossf/Diagrammers-Society).
+Diagrams with an overview of the OpenSSF, including its projects and SIGs, are available in the [OpenSSF Main Deck](https://docs.google.com/presentation/d/1L9C5HhuV4aGb1unTB5Oou_0lqbwuBuxVDBnWlXA6hUU/edit?slide=id.g35a7279d237_0_1532#slide=id.g35a7279d237_0_1532).
 
 
 ## Antitrust Policy
