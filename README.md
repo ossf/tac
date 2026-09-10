@@ -29,7 +29,6 @@ Meetings are also recorded and posted to the [OpenSSF YouTube channel](https://w
 | Bob Callaway     | Vice Chair | bcallaway@google.com           | Google       | January 2026 - December 2026 |
 | Michael Lieberman|  | mike@kusari.dev                | Kusari       | January 2025 - December 2026 |
 | Zach Steindler   | Chair | steiza@github.com         | GitHub       | January 2026 - December 2026 |
-| Marcela Melara   |  | marcela.melara@intel.com       | Intel        | January 2026 - December 2027 |
 | Michael Scovetta | | michael.scovetta@microsoft.com | Microsoft | January 2026 - December 2027|
 | Stephen Augustus | | openssf@auggie.dev | Bloomberg L.P. | January 2026 - December 2026\* |
 | Georg Kunz | | georg.kunz@ericsson.com | Ericsson | January 2026 - December 2026\* |
