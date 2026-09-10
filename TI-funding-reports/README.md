@@ -1,6 +1,6 @@
 # GitHub Repo
 
-Welcome! This repository is used to track progress updates for all technical initiative proposals approved by the OpenSSF Technical Advisory Board (TAC).
+Welcome! This repository is used to track progress updates for all technical initiative funding proposals approved by the OpenSSF Technical Advisory Board (TAC).
 
 To keep things simple and transparent, reporting happens directly in GitHub using a lightweight Markdown template and a pull request workflow.
 
