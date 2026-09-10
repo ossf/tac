@@ -57,7 +57,6 @@ The following Technical Initiatives have been approved by the TAC. You may learn
 | ORBIT (Open Resources for Baselines, Interoperability, and Tooling) | [GitHub](https://github.com/ossf/wg-orbit) | [Meeting Notes](https://docs.google.com/document/d/1Hf-SsjYaAvY2Nk_jJ2-aHMqgBi1qg7oIj3PJWsCEe0U/edit?tab=t.0#heading=h.omyjy2x7t74i) | Jeff Diecks | [Sandbox](process/wg-lifecycle-documents/ORBIT_WG_sandbox_stage.md) |
 | Securing Critical Projects     | [GitHub](https://github.com/ossf/wg-securing-critical-projects) | [Meeting Notes](https://docs.google.com/document/d/1YkxOFs9x9YCtUfYeOG7Gy3OBX0cTDbZTEgOdvmEo6FE/edit) | Kris Borchers | [Archived](process/wg-lifecycle-documents/archive/securing_critical_projects_archived_stage.md) |
 | Securing Software Repositories | [GitHub](https://github.com/ossf/wg-securing-software-repos)    | [Meeting Notes](https://docs.google.com/document/d/18Y8HxntL2RkcgqoFdhdLpj17e4MOSCdskP1IoDiuP1s/edit)  | Kris Borchers | [Graduated](process/wg-lifecycle-documents/securing_software_repositories_graduation_stage.md) |
-| Security Tooling               | [GitHub](https://github.com/ossf/wg-security-tooling) | [Meeting Notes](https://docs.google.com/document/d/190urQjwvE6DsjZ3Z1vBbNEXsJ--ccC8xHmbe_fYKRHA/edit) | Jeff Diecks | [Graduated](process/wg-lifecycle-documents/security_tooling_wg_graduation_stage.md) |
 | Supply Chain Integrity         | [GitHub](https://github.com/ossf/wg-supply-chain-integrity)  | [Meeting Notes](https://docs.google.com/document/d/1moVFPn5pLi-uGs840_YBCrwdpHajU0ptFmlL4F9GryQ/edit)  | Kris Borchers | Incubating |
 | Vulnerability Disclosures      | [GitHub](https://github.com/ossf/wg-vulnerability-disclosures)  | [Meeting Notes](https://docs.google.com/document/d/1TdxiFofLOfpHUEQILlKq7qkjSsRXVab0uApSDJ8c5rI/edit)  | Jeff Diecks | [Graduated](process/wg-lifecycle-documents/Vuln_Disc_wg_graduation_stage.md) |
 
@@ -66,14 +65,16 @@ The following Technical Initiatives have been approved by the TAC. You may learn
 
 | Name                       | Repository | Website | Sponsoring Org | Status     |
 | ---------------------- | ---------------------------------------- | ----------------------------------------------------------------------------------------------------- | -------------- |---------- |
-| AMPEL   |  | https://www.bestpractices.dev/ | Best Practices WG   | [Sandbox](https://github.com/ossf/tac/blob/main/process/project-lifecycle-documents/AMPEL_sandbox_stage.md)        |
+| AMPEL   |  |  | Supply Chain Integrity WG   | [Sandbox](https://github.com/ossf/tac/blob/main/process/project-lifecycle-documents/AMPEL_sandbox_stage.md)        |
+| Best Practices Badge   | [GitHub](https://github.com/coreinfrastructure/best-practices-badge) | https://www.bestpractices.dev/ | Best Practices WG   | TBD        |
+| Bomctl   | [GitHub](https://github.com/bomctl/bomctl) |  | TBD   | [Sandbox](process/project-lifecycle-documents/bomctl_sandbox_stage.md)        |
 | Best Practices Badge   | [GitHub](https://github.com/coreinfrastructure/best-practices-badge) | https://www.bestpractices.dev/ | Best Practices WG   | [Graduated](https://github.com/ossf/tac/blob/main/process/project-lifecycle-documents/best_practices_badge_graduation_stage.md)        |
 | Bomctl   | [GitHub](https://github.com/bomctl/bomctl) |  | Security Tooling WG   | [Sandbox](process/project-lifecycle-documents/bomctl_sandbox_stage.md)        |
 | BOMHort                 | [GitHub](https://github.com/seebom-labs/BOMHort) | https://docs.bomhort.dev/ | WG Supply Chain Integrity | [Sandbox](process/project-lifecycle-documents/BOMHort_sandbox_stage.md) |
 | Criticality Score      | [GitHub](https://github.com/ossf/criticality_score)        |  | Vulnerability Disclosures WG   | TBD        |
 | CVE-BIN-TOOL                 | [GitHub](https://github.com/ossf/cve-bin-tool)             |  | TBD | [Sandbox](process/project-lifecycle-documents/cve-bin-tool_sandbox_stage.md) |
 | darnit                 | [GitHub](https://github.com/kusari-oss/darnit)             |  | Supply Chain Integrity WG | [Sandbox](process/project-lifecycle-documents/darnit_sandbox_stage.md) |
-| Fuzz Introspector      | [GitHub](https://github.com/ossf/fuzz-introspector)        |  | Security Tooling WG            | TBD        |
+| Fuzz Introspector      | [GitHub](https://github.com/ossf/fuzz-introspector)        |  | TBD            | TBD        |
 | Gemara                   | [GitHub](https://github.com/gemaraproj)                  | https://gemara.openssf.org/ | ORBIT WG | [Sandbox](process/project-lifecycle-documents/gemara_sandbox_stage.md) |
 | GUAC                   | [GitHub](https://github.com/guacsec/guac)                  | https://guac.sh | Supply Chain Integrity WG | [Incubating](process/project-lifecycle-documents/guac_incubating.md) |
 | gittuf | [GitHub](https://github.com/gittuf/gittuf) | https://gittuf.dev/ | Supply Chain Integrity WG | [Incubating](process/project-lifecycle-documents/gittuf_incubating_stage.md) |
@@ -87,9 +88,10 @@ The following Technical Initiatives have been approved by the TAC. You may learn
 | OSV Schema             | [GitHub](https://github.com/ossf/osv-schema)               | https://ossf.github.io/osv-schema/ | Vulnerability Disclosures WG   | TBD        |
 | Package Analysis       | [GitHub](https://github.com/ossf/package-analysis)         |  | Securing Software Repositories WG   | TBD        |
 | Privateer | [GitHub](https://github.com/privateerproj/privateer) | https://privateerproj.com | ORBIT WG | [Sandbox](process/project-lifecycle-documents/Privateer_sandbox_stage.md) |
-| Protobom | [GitHub](https://github.com/protobom/protobom) |  | Security Tooling WG | [Sandbox](process/project-lifecycle-documents/protobom_sandbox_stage.md) |
+| Protobom | [GitHub](https://github.com/protobom/protobom) |  | TBD | [Sandbox](process/project-lifecycle-documents/protobom_sandbox_stage.md) |
 | Repository Service for TUF | [GitHub](https://github.com/repository-service-tuf/repository-service-tuf) | https://repository-service-tuf.readthedocs.io/ | Securing Software Repositories WG | [Incubating](process/project-lifecycle-documents/repository_service_for_tuf_incubation_stage.md) |
-| SBOMit                 | [GitHub](https://github.com/sbomit)                |  | Security Tooling WG             | [Sandbox](process/project-lifecycle-documents/SBOMit_sandbox_stage.md)    |
+| SBOMit                 | [GitHub](https://github.com/sbomit)                |  | TBD             | [Sandbox](process/project-lifecycle-documents/SBOMit_sandbox_stage.md)    |
+| Security Insights Spec | [GitHub](https://github.com/ossf/security-insights-spec)   |  | ORBIT WG     | TBD        |
 | Secure Agentic Framework         | [GitHub](https://github.com/secure-agentic-framework) |  | AI/ML Security WG | [Sandbox](process/project-lifecycle-documents/safe_framework_sandbox_stage.md) |
 | Security Insights Spec | [GitHub](https://github.com/ossf/security-insights-spec)   | https://security-insights.openssf.org/ | ORBIT WG     | [Sandbox](https://github.com/ossf/tac/blob/main/process/project-lifecycle-documents/security-insights_sandbox_stage.md)        |
 | Sigstore               | [GitHub](https://github.com/sigstore)                      | https://www.sigstore.dev/ | OpenSSF TAC    | [Graduated](process/project-lifecycle-documents/sigstore_graduated_stage.md)        |
@@ -116,7 +118,7 @@ SIGs can be created and managed without formal approval from the TAC. The follow
 | C/C++ Compiler Options | https://github.com/ossf/wg-best-practices-os-developers/tree/main/docs/Compiler-Hardening-Guides | Best Practices WG |
 | Python Hardening       | https://github.com/ossf/wg-best-practices-os-developers/tree/main/docs/Secure-Coding-Guide-for-Python | Best Practices WG |
 | Security Baseline      | https://github.com/ossf/security-baseline              | ORBIT WG                     |
-| SBOM Everywhere        | https://github.com/ossf/sbom-everywhere                | Security Tooling WG          |
+| SBOM Everywhere        | https://github.com/ossf/sbom-everywhere                | TBD          |
 | ORBIT Launchpad        | https://github.com/ossf/orbit-launchpad                | ORBIT WG          |
 | Cyber Reasoning Systems        | [Meeting Notes](https://docs.google.com/document/d/14ibgD9qqRZa9INzJz8EsvO-q4An2CziU2mbLGVuDIgE/edit?tab=t.0#heading=h.9m0zi4b0wnne) | AI/ML Security WG          |
 | E2E Model Provenance        | [Meeting Notes](https://docs.google.com/document/d/146N_FQqrMf6TkrniF8LmqEVzp-LmdSV5z-JfKgevp48/edit?tab=t.0#heading=h.9m0zi4b0wnne) | AI/ML Security WG          |
