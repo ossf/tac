@@ -67,7 +67,7 @@ The following Technical Initiatives have been approved by the TAC. You may learn
 | ---------------------- | ---------------------------------------- | ----------------------------------------------------------------------------------------------------- | -------------- |---------- |
 | AMPEL   |  |  | Supply Chain Integrity WG   | [Sandbox](https://github.com/ossf/tac/blob/main/process/project-lifecycle-documents/AMPEL_sandbox_stage.md)        |
 | Best Practices Badge   | [GitHub](https://github.com/coreinfrastructure/best-practices-badge) | https://www.bestpractices.dev/ | Best Practices WG   | [Graduated](https://github.com/ossf/tac/blob/main/process/project-lifecycle-documents/best_practices_badge_graduation_stage.md)        |
-| Bomctl   | [GitHub](https://github.com/bomctl/bomctl) |  | Security Tooling WG   | [Sandbox](process/project-lifecycle-documents/bomctl_sandbox_stage.md)        |
+| Bomctl   | [GitHub](https://github.com/bomctl/bomctl) |  | TBD  | [Sandbox](process/project-lifecycle-documents/bomctl_sandbox_stage.md)        |
 | BOMHort                 | [GitHub](https://github.com/seebom-labs/BOMHort) | https://docs.bomhort.dev/ | WG Supply Chain Integrity | [Sandbox](process/project-lifecycle-documents/BOMHort_sandbox_stage.md) |
 | Criticality Score      | [GitHub](https://github.com/ossf/criticality_score)        |  | Vulnerability Disclosures WG   | TBD        |
 | CVE-BIN-TOOL                 | [GitHub](https://github.com/ossf/cve-bin-tool)             |  | TBD | [Sandbox](process/project-lifecycle-documents/cve-bin-tool_sandbox_stage.md) |
