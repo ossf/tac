@@ -89,7 +89,6 @@ The following Technical Initiatives have been approved by the TAC. You may learn
 | Protobom | [GitHub](https://github.com/protobom/protobom) |  | TBD | [Sandbox](process/project-lifecycle-documents/protobom_sandbox_stage.md) |
 | Repository Service for TUF | [GitHub](https://github.com/repository-service-tuf/repository-service-tuf) | https://repository-service-tuf.readthedocs.io/ | Securing Software Repositories WG | [Incubating](process/project-lifecycle-documents/repository_service_for_tuf_incubation_stage.md) |
 | SBOMit                 | [GitHub](https://github.com/sbomit)                |  | TBD             | [Sandbox](process/project-lifecycle-documents/SBOMit_sandbox_stage.md)    |
-| Security Insights Spec | [GitHub](https://github.com/ossf/security-insights-spec)   |  | ORBIT WG     | TBD        |
 | Secure Agentic Framework         | [GitHub](https://github.com/secure-agentic-framework) |  | AI/ML Security WG | [Sandbox](process/project-lifecycle-documents/safe_framework_sandbox_stage.md) |
 | Security Insights Spec | [GitHub](https://github.com/ossf/security-insights-spec)   | https://security-insights.openssf.org/ | ORBIT WG     | [Sandbox](https://github.com/ossf/tac/blob/main/process/project-lifecycle-documents/security-insights_sandbox_stage.md)        |
 | Sigstore               | [GitHub](https://github.com/sigstore)                      | https://www.sigstore.dev/ | OpenSSF TAC    | [Graduated](process/project-lifecycle-documents/sigstore_graduated_stage.md)        |
