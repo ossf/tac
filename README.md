@@ -67,7 +67,7 @@ The following Technical Initiatives have been approved by the TAC. You may learn
 | ---------------------- | ---------------------------------------- | ----------------------------------------------------------------------------------------------------- | -------------- |---------- |
 | AMPEL   |  |  | Supply Chain Integrity WG   | [Sandbox](https://github.com/ossf/tac/blob/main/process/project-lifecycle-documents/AMPEL_sandbox_stage.md)        |
 | Best Practices Badge   | [GitHub](https://github.com/coreinfrastructure/best-practices-badge) | https://www.bestpractices.dev/ | Best Practices WG   | [Graduated](https://github.com/ossf/tac/blob/main/process/project-lifecycle-documents/best_practices_badge_graduation_stage.md)        |
-| Bomctl   | [GitHub](https://github.com/bomctl/bomctl) |  | Security Tooling WG   | [Sandbox](process/project-lifecycle-documents/bomctl_sandbox_stage.md)        |
+| Bomctl   | [GitHub](https://github.com/bomctl/bomctl) |  | TBD  | [Sandbox](process/project-lifecycle-documents/bomctl_sandbox_stage.md)        |
 | BOMHort                 | [GitHub](https://github.com/seebom-labs/BOMHort) | https://docs.bomhort.dev/ | WG Supply Chain Integrity | [Sandbox](process/project-lifecycle-documents/BOMHort_sandbox_stage.md) |
 | Criticality Score      | [GitHub](https://github.com/ossf/criticality_score)        |  | Vulnerability Disclosures WG   | TBD        |
 | CVE-BIN-TOOL                 | [GitHub](https://github.com/ossf/cve-bin-tool)             |  | TBD | [Sandbox](process/project-lifecycle-documents/cve-bin-tool_sandbox_stage.md) |
@@ -82,6 +82,7 @@ The following Technical Initiatives have been approved by the TAC. You may learn
 | OpenBao | [GitHub](https://github.com/openbao)                | https://openbao.org/ | TBD | [Sandbox](process/project-lifecycle-documents/openbao_sandbox_stage.md) |
 | OpenSSF Scorecard | [GitHub](https://github.com/ossf/scorecard)                | https://securityscorecards.dev/ | Best Practices WG | [Incubating](process/project-lifecycle-documents/openssf_scorecard_incubating_stage.md) |
 | OpenVEX | [GitHub](https://github.com/openvex) |  | Vulnerability Disclosures WG | [Sandbox](process/project-lifecycle-documents/openvex_for_sandbox_stage.md) |
+| OSPS Baseline             | [GitHub](https://github.com/ossf/security-baseline)               | https://baseline.openssf.org/ | ORBIT WG   | [Sandbox](process/sig-lifecycle-documents/security_baseline_sandbox_stage.md)        |
 | OSS-CRS             | [GitHub](https://github.com/ossf/oss-crs)               | https://oss-crs.openssf.org/ | AI/ML Security WG   | [Sandbox](process/project-lifecycle-documents/oss-crs_sandbox_stage.md)        |
 | OSV Schema             | [GitHub](https://github.com/ossf/osv-schema)               | https://ossf.github.io/osv-schema/ | Vulnerability Disclosures WG   | TBD        |
 | Package Analysis       | [GitHub](https://github.com/ossf/package-analysis)         |  | Securing Software Repositories WG   | TBD        |
@@ -89,7 +90,6 @@ The following Technical Initiatives have been approved by the TAC. You may learn
 | Protobom | [GitHub](https://github.com/protobom/protobom) |  | TBD | [Sandbox](process/project-lifecycle-documents/protobom_sandbox_stage.md) |
 | Repository Service for TUF | [GitHub](https://github.com/repository-service-tuf/repository-service-tuf) | https://repository-service-tuf.readthedocs.io/ | Securing Software Repositories WG | [Incubating](process/project-lifecycle-documents/repository_service_for_tuf_incubation_stage.md) |
 | SBOMit                 | [GitHub](https://github.com/sbomit)                |  | TBD             | [Sandbox](process/project-lifecycle-documents/SBOMit_sandbox_stage.md)    |
-| Security Insights Spec | [GitHub](https://github.com/ossf/security-insights-spec)   |  | ORBIT WG     | TBD        |
 | Secure Agentic Framework         | [GitHub](https://github.com/secure-agentic-framework) |  | AI/ML Security WG | [Sandbox](process/project-lifecycle-documents/safe_framework_sandbox_stage.md) |
 | Security Insights Spec | [GitHub](https://github.com/ossf/security-insights-spec)   | https://security-insights.openssf.org/ | ORBIT WG     | [Sandbox](https://github.com/ossf/tac/blob/main/process/project-lifecycle-documents/security-insights_sandbox_stage.md)        |
 | Sigstore               | [GitHub](https://github.com/sigstore)                      | https://www.sigstore.dev/ | OpenSSF TAC    | [Graduated](process/project-lifecycle-documents/sigstore_graduated_stage.md)        |
