@@ -82,6 +82,7 @@ The following Technical Initiatives have been approved by the TAC. You may learn
 | OpenBao | [GitHub](https://github.com/openbao)                | https://openbao.org/ | TBD | [Sandbox](process/project-lifecycle-documents/openbao_sandbox_stage.md) |
 | OpenSSF Scorecard | [GitHub](https://github.com/ossf/scorecard)                | https://securityscorecards.dev/ | Best Practices WG | [Incubating](process/project-lifecycle-documents/openssf_scorecard_incubating_stage.md) |
 | OpenVEX | [GitHub](https://github.com/openvex) |  | Vulnerability Disclosures WG | [Sandbox](process/project-lifecycle-documents/openvex_for_sandbox_stage.md) |
+| Ortelius            | [GitHub](https://github.com/ortelius/ortelius)               | https://ortelius.io/ | Vulnerability Disclosures WG   | [Sandbox](process/sig-lifecycle-documents/Ortelius_sandbox_stage.md)        |
 | OSPS Baseline             | [GitHub](https://github.com/ossf/security-baseline)               | https://baseline.openssf.org/ | ORBIT WG   | [Sandbox](process/sig-lifecycle-documents/security_baseline_sandbox_stage.md)        |
 | OSS-CRS             | [GitHub](https://github.com/ossf/oss-crs)               | https://oss-crs.openssf.org/ | AI/ML Security WG   | [Sandbox](process/project-lifecycle-documents/oss-crs_sandbox_stage.md)        |
 | OSV Schema             | [GitHub](https://github.com/ossf/osv-schema)               | https://ossf.github.io/osv-schema/ | Vulnerability Disclosures WG   | TBD        |
