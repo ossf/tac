@@ -30,6 +30,7 @@ Meetings are also recorded and posted to the [OpenSSF YouTube channel](https://w
 | Michael Lieberman|  | mike@kusari.dev                | Kusari       | January 2025 - December 2026 |
 | Zach Steindler   | Chair | steiza@github.com         | GitHub       | January 2026 - December 2026 |
 | Michael Scovetta | | michael.scovetta@microsoft.com | Microsoft | January 2026 - December 2027|
+| Carlos Tadeu Panato Junior | | ctadeu@gmail.com | Chainguard | September 2026 - December 2026 |
 | Stephen Augustus | | openssf@auggie.dev | Bloomberg L.P. | January 2026 - December 2026\* |
 | Georg Kunz | | georg.kunz@ericsson.com | Ericsson | January 2026 - December 2026\* |
 | Tracy Ragan| | tracy@deployhub.com | DeployHub | January 2026 - December 2026\* |
