@@ -94,7 +94,8 @@ The SIG remains inactive. OpenSSF staff have flagged that *LFEL1005: Security Se
 The WG is currently working on the following:
 
 - Coordinating a content review with CNCF TAG Security
-- Standing up a GitHub Pages website for the self-assessment content as a prerequisite to the course update
+- Updated the content for publishing via GitHub Pages: https://ossf.github.io/security-assessments/
+- Updating the LFEL1005 course to align with the newly-published content
 
 The SIG has identified a need for the following, but work is not yet underway:
 
@@ -180,21 +181,23 @@ Minder is a policy engine for software supply chain security that lets users def
 ### Current Status of Minder
 
 - Minder was recognized as an ORBIT Technical Initiative in July
-- Client releases v0.2.2, v0.3.0, and v0.3.1; the last fixes several reported security vulnerabilities (GHSA-9c2x-rm59-4335)
-- 18 new contributors since v0.1.0, and two new maintainers onboarded via the mentorship program
-- Mentorship project on rule testing reached rollout: `mindev test` for integration testing, Starlark-based tests, and coverage tracking; existing rules are being migrated
-- Initial GitLab support, including OSPS Baseline rules for GitLab repositories, and a Quay.io provider for OCI repository policies
-- Rego-formatted rules, Rego v1 dialect enforcement, interactive profile editing, generic entity commands, and an "issue" remediation type to tie into LLM-driven remediation flows
-- Most community rules now declare their required provider
-- Published and updated GitHub Actions (`minder-client-installer`, `minder-action`, `minder-action/test`), removing the need for Go toolchain setup in workflows
+- Client releases v0.2.2, v0.3.0, v0.3.1, and v0.3.2; the last two releases fix several reported security vulnerabilities (GHSA-9c2x-rm59-4335, GHSA-g4mg-79m6-hrmm)
+- **Community Growth**: 18 new contributors since v0.1.0, and three new maintainers onboarded via the mentorship program
+- **Rule quality**: Mentorship project on rule testing reached rollout: Starlark-based `mindev test` for rule integration testing and coverage tracking, GitHub Action for running in CI; existing rules have been migrated
+- **Rule authoring**: Rego-formatted rule definitions, Rego v1 dialect enforcement, interactive profile editing, constraining rules to specific providers, and an "issue" remediation type to tie into LLM-driven remediation flows
+- **Broader supply chain support**: Initial GitLab support, including OSPS Baseline rules for GitLab repositories, and a Quay.io provider for OCI repository policies
+- **Management improvements**: generic entity commands, 
+- **Simplified installation**: Published and updated GitHub Actions (`minder-client-installer`, `minder-action`, `minder-action/test`), removing the need for Go toolchain setup in workflows
 
 ### Up Next for Minder
 
 The project is currently working on the following:
 
 - A proposal for adoption of Minder across the OpenSSF GitHub org, supporting the "Practicing What We Preach" initiative
-- An exceptions API
-- Specifying entity lifecycle remediation
+- An exceptions API to enable time-bounded exclusions of policies on specific repos
+- Managed derived entity lifecycles (e.g. active releases based on repos) using Minder rules and remediations
+- Improve rule support for baseline and other security standards
+- Improve onboarding / quickstart flow
 - Additional Minder features to smoothly support repositories that span both GitHub and GitLab APIs
 
 The project has identified a need for the following, but work is not yet underway:
