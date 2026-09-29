@@ -205,17 +205,32 @@ The project has identified a need for the following, but work is not yet underwa
 
 None at this time.
 
-## Baseline Scanner (Privateer)
+## Privateer
 
-https://github.com/ossf/tac/pull/630
+https://github.com/privateerproj/pvtr
+
+### Purpose of Privateer
+
+Privateer is a plugin-based evaluation framework that runs assessments against a target and produces Gemara-formatted evaluation results. Assessment logic lives in plugins, so the same runner can evaluate different targets against different catalogs.
+
+### Current Status of Privateer
+
+- The TAC approved Privateer's sandbox application ([ossf/tac#630](https://github.com/ossf/tac/pull/630)); the required signatures have been completed and integration into OpenSSF is ongoing
+
+### Funding requests
+
+None at this time.
+
+## Baseline Scanner
+
+https://github.com/privateerproj/pvtr-github-repo-scanner
 
 ### Purpose of Baseline Scanner
 
-Privateer is the evaluation tool that scans repositories against OSPS Baseline controls, producing Gemara-formatted evaluation results.
+The Baseline Scanner is a Privateer plugin that evaluates repositories against OSPS Baseline controls. It is the evaluation tool adopted by LFX Insights and consumes Security Insights data via `si-tooling`.
 
 ### Current Status of Baseline Scanner
 
-- The TAC approved Privateer's sandbox application; donation paperwork is in progress
 - Test quality and precision have been substantially improved through a series of small fixes
 - Some contributions were paused pending the go-gemara evidence collection merge, which has since landed
 
