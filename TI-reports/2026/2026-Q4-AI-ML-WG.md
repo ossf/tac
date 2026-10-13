@@ -105,7 +105,7 @@ building a control plane for AI. There is a potential for alignment with
 Compliance Automation Revolution (CAR WG) from Cloud Security Alliance.
 
 Jay proposed a [skill] (https://github.com/camaleon2016/SAFE-MCP-skill/tree/main)
-which takes a JSON description a tool, server, or agent architecture, and it
+which takes a JSON description of a tool, server, or agent architecture, and it
 runs an engine that checks 32 different rules looking at potential prompt
 injections, credential theft attacks, data exfiltration possibilities, etc.
 The user gets a report with risk ratings and cross-references to STRIDE, MITRE
