@@ -1,3 +1,11 @@
+## Application for archiving of a Working Group
+
+### Reasons for archiving
+
+The work has stopped because it has completed its chartered deliverables or is no longer progressing on its deliverables as determined by the TAC.
+
+* The Security Tooling WG lead stepped down and the group has not met in 6+ months. There has been no interest from the community for anyone taking over as lead or restoring the WG meetings during this time. The group's projects are without representation for quarterly TAC updates.
+
 ## Working Group graduation application
 
 ### WG has met all Incubating requirements

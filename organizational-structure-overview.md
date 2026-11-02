@@ -70,7 +70,6 @@ flowchart LR
         MM[Metrics & Metadata]
         REP[Securing Software Repos]
         SCI[Supply Chain Integrity]
-        ST[Security Tooling]
         VD[Vulnerability Disclosures]
     end
 
@@ -109,9 +108,6 @@ flowchart LR
     SCI --> GUAC
     SCI --> S2C2F
     SCI --> SLSA
-    ST --> FI
-    ST --> Protobom
-    ST --> Sbomit
     VD --> CS
     VD --> OpenVEX
     VD --> OSV
