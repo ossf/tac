@@ -3,18 +3,18 @@
 ### List of project maintainers
 Ortelius maintains active contributor participation across multiple repositories with regular pull request activity, public issue discussions, and ongoing community meetings. Ortelius currently maintains contributors and maintainers from more than six organizations. Core Contributors include:
 
-Steve Taylor (DeployHub): Project Chair, original creator of the Ortelius core platform, governance leadership, Architecture, and DevSecOps strategy
-Tracy Ragan (DeployHub): Governance leadership, project management, outreach, documentation, community operations, and technical contributor
-Tony Carrato (IBM/Retired): Project management, governance participation, outreach contributor, and board advisor
-Ann Marie Fred (Red Hat): Governance Board, outreach, contributor enablement, and governance participation
-Sergio Canales (Red Hat): Governance Board, release coordination, security, and project management support
-Vincent Danen (Red Hat) : Technology Oversight Board
-Brian Fox (Sonatype):Technology Oversight Board
-Sacha Wharton (Pollinate, South Africa):Governing Board, Platform Engineering / Developer Experience
-Utkarsh Sharma (Acutro, United Kingdom):Governing Board, AI/ML lead contributor
-Jing Chen (BLNB, United Kingdom): Digital Twin Core, MCP Architecture
-Arvind Singharpuria (Fountane Inc, India): Front End, Digital Twin
-Siddarth Pareek (NatWest, India): Governing Board Chairperson, Strategic Advisor
+* Steve Taylor (DeployHub): Project Chair, original creator of the Ortelius core platform, governance leadership, Architecture, and DevSecOps strategy
+* Tracy Ragan (DeployHub): Governance leadership, project management, outreach, documentation, community operations, and technical contributor
+* Tony Carrato (IBM/Retired): Project management, governance participation, outreach contributor, and board advisor
+* Ann Marie Fred (Red Hat): Governance Board, outreach, contributor enablement, and governance participation
+* Sergio Canales (Red Hat): Governance Board, release coordination, security, and project management support
+* Vincent Danen (Red Hat) : Technology Oversight Board
+* Brian Fox (Sonatype):Technology Oversight Board
+* Sacha Wharton (Pollinate, South Africa):Governing Board, Platform Engineering / Developer Experience
+* Utkarsh Sharma (Acutro, United Kingdom):Governing Board, AI/ML lead contributor
+* Jing Chen (BLNB, United Kingdom): Digital Twin Core, MCP Architecture
+* Arvind Singharpuria (Fountane Inc, India): Front End, Digital Twin
+* Siddarth Pareek (NatWest, India): Governing Board Chairperson, Strategic Advisor
 
 ### Community growth plan
 Ortelius already has a strong and diverse community, supported by an active Outreach Committee focused on the continued growth and engagement of contributors. The committee works to expand participation across the project, with particular attention to creating opportunities for women and underrepresented minorities to contribute, grow into leadership roles, and become long-term members of the community. Consistent with OpenSSF community-building guidance, Ortelius will continue engaging with adjacent open source communities, technical initiatives, industry practitioners, and organizations that can bring new perspectives and strengthen project resilience. The project also maintains a robust contributor badging program that recognizes participation and provides visible milestones as contributors deepen their involvement. Ortelius is now extending that model with an Adopter Badging Program designed to identify, recognize, and engage organizations and individuals actively using Ortelius. By growing both the contributor and end-user communities, Ortelius can strengthen the feedback loop between those building the project and those deploying it in real-world environments,helping guide priorities, develop new maintainers, document adoption, and demonstrate a broad and active open source ecosystem
