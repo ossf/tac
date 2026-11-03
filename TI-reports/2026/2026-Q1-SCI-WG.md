@@ -10,7 +10,7 @@
 * [GitHub](https://github.com/ossf/wg-supply-chain-integrity); 
 * [Mailing List](https://lists.openssf.org/g/openssf-supply-chain-integrity)
 * [Slack](https://app.slack.com/client/T019QHUBYQ3/C01A1MA7A1K)
-* [Meeting Notes](http://ssci.io/sci-notes)-  attendees average since last TAC briefing - 8
+* [Meeting Notes](https://docs.google.com/document/d/1moVFPn5pLi-uGs840_YBCrwdpHajU0ptFmlL4F9GryQ/edit)-  attendees average since last TAC briefing - 8
 
 **tl;dr**: <!-- TODO: 1-2 sentence summary of the quarter's highlights -->
 

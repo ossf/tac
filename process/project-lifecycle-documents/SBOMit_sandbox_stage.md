@@ -11,7 +11,7 @@
 ### Mission of the project
 
 SBOMit's goal is to provide SBOMs to end users with minimal effort that provide cryptographic validation of the steps performed in the software 
-supply chain.  This differs from other SBOM efforts in that the data in the SBOM is validated cryptographically using [in-toto](in-toto.io) 
+supply chain.  This differs from other SBOM efforts in that the data in the SBOM is validated cryptographically using [in-toto](https://in-toto.io) 
 link metadata and layouts, which provides a strong threat model while providing a robust set of guarantees about the SBOM's accuracy.  
 
 Specific goals include:

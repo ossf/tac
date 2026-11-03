@@ -9,7 +9,7 @@
 * [GitHub](https://github.com/ossf/wg-supply-chain-integrity); 23 contributors (▼**1**)
 * [Mailing List](https://lists.openssf.org/g/openssf-supply-chain-integrity); 183 members (**▲2**)
 * [Slack](https://app.slack.com/client/T019QHUBYQ3/C01A1MA7A1K); 890 members (**▲51**)
-* [Meeting Notes](ssci.io/sci-notes); 10 attendees average since last TAC briefing (▼**5**)
+* [Meeting Notes](https://docs.google.com/document/d/1moVFPn5pLi-uGs840_YBCrwdpHajU0ptFmlL4F9GryQ/edit); 10 attendees average since last TAC briefing (▼**5**)
 
 **tl;dr:** Strong membership and engagement continues, despite a slight softening of core WG attendance over the holiday period. Notable ✨internal synergies✨ include s2c2f powering the upcoming SLSA Dependencies track, and gittuf powering a proof-of-concept for SLSA Source attestations.
 

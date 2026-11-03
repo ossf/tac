@@ -10,7 +10,7 @@
 * [GitHub](https://github.com/ossf/wg-supply-chain-integrity)
 * [Mailing List](https://lists.openssf.org/g/openssf-supply-chain-integrity)
 * [Slack](https://app.slack.com/client/T019QHUBYQ3/C01A1MA7A1K)
-* [Meeting Notes](http://ssci.io/sci-notes)
+* [Meeting Notes](https://docs.google.com/document/d/1moVFPn5pLi-uGs840_YBCrwdpHajU0ptFmlL4F9GryQ/edit)
 
 **tl;dr**: AMPEL, Darnit, and BOMHort landed as sandbox projects. The WG's central initiative of driving adoption of OpenSSF architecture and tooling by open source projects outside the OpenSSF has produced almost no engagement, and the corresponding ask to the GB/GC has not gained traction. Michael Lieberman is stepping down as co-chair.
 

@@ -12,7 +12,7 @@
 *   [GitHub](https://github.com/ossf/wg-supply-chain-integrity); 24 contributors (=)
 *   [Mailing List](https://lists.openssf.org/g/openssf-supply-chain-integrity); 181 members (**⇧3**)
 *   [Slack](https://app.slack.com/client/T019QHUBYQ3/C01A1MA7A1K); 839 members (**⇧94**)
-*   [Meeting Notes](ssci.io/sci-notes); 15 attendees average since last TAC briefing (**⇧4**)
+*   [Meeting Notes](https://docs.google.com/document/d/1moVFPn5pLi-uGs840_YBCrwdpHajU0ptFmlL4F9GryQ/edit); 15 attendees average since last TAC briefing (**⇧4**)
 
 **tl;dr:** Strong membership and attendance trends, and the formal addition of Zarf and Security Insights to SCI WG. With the retirement of FRSCA we now have SLSA, S2C2F, GUAC, gittuf, Zarf, and Security Insights; with interest expressed from the Trusted Repository Security Initiative (TRSI) and Clean Dependency Project in addition.
 

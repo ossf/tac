@@ -10,7 +10,7 @@
 * [GitHub](https://github.com/ossf/wg-supply-chain-integrity); 23 contributors (**–**)
 * [Mailing List](https://lists.openssf.org/g/openssf-supply-chain-integrity); 182 members (**–**)
 * [Slack](https://app.slack.com/client/T019QHUBYQ3/C01A1MA7A1K); 980 members (**–**)
-* [Meeting Notes](http://ssci.io/sci-notes); approx. 5–10 attendees per meeting (**▼**)
+* [Meeting Notes](https://docs.google.com/document/d/1moVFPn5pLi-uGs840_YBCrwdpHajU0ptFmlL4F9GryQ/edit); approx. 5–10 attendees per meeting (**▼**)
 
 **tl;dr**: Meeting attendance has continued to decline. The new co-chairs are raising a question to the TAC about whether the SCI WG's current scope is still the right shape, or whether the WG should refocus (e.g., on adoption of SCI projects by maintainers) or wind down. The sub-projects (SLSA, GUAC, Zarf, gittuf) continue to make independent progress.
 

@@ -10,7 +10,7 @@
 * [GitHub](https://github.com/ossf/wg-supply-chain-integrity); 23 contributors (**–**)  
 * [Mailing List](https://lists.openssf.org/g/openssf-supply-chain-integrity); 182 members (**–**)  
 * [Slack](https://app.slack.com/client/T019QHUBYQ3/C01A1MA7A1K); 980 members (**▲53**)  
-* [Meeting Notes](http://ssci.io/sci-notes); 9 attendees average since last TAC briefing (**–**)
+* [Meeting Notes](https://docs.google.com/document/d/1moVFPn5pLi-uGs840_YBCrwdpHajU0ptFmlL4F9GryQ/edit); 9 attendees average since last TAC briefing (**–**)
 
 **tl;dr**: SLSA v1.2 Release Candidate 1 features the new Source track. GUAC is incorporating Red Hat's Trustify project to create a unified effort around managing supply chain metadata at scale.
 
