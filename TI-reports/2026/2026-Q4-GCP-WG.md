@@ -36,6 +36,7 @@ Since our last report:
 - we worked with Open Chain on [a joint white paper](https://openssf.org/wp-content/uploads/2026/10/openssf_openchain_supplychainsecurity_100526a.pdf)
 - Group chairs attended a Todo group Ospo meet-up to answer questions about the CRA
 - [Manufacturer guidelines](https://policy.openssf.org/CRA/checklists/Manufacturers_September_Checklist.html)
+- We developed and submitted a FOSDEM 2027 dev room proposal - and it was accepted!
 
 - our members were guests at the 3 recent [What's in the SOSS Podcast](https://openssf.org/podcast/) **[i don't think we did any more since then?]**
 - GCP WG and ORBIT Launchpad SIG members were invited to the OpenSSF Tech Talk Webinar [CRA Readiness: A Practitioner’s Guide to Compliance](https://openssf.org/resources/tech-talks/cra-readiness-a-practitioners-guide-to-compliance/) **[any more work with ORBIT Launchpad?]**
