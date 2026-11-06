@@ -28,11 +28,11 @@ The group continues to be active and is working on several simultaneous projects
   * Users now get random session IDs, and the database stores only a hash of each ID linked to the user.
   * Even an attacker who has both the server secret and database access can't spoof a user or take over a session.
   * The key is rotated daily.
-  * Write-up: LinkedIn post "Harden your software".
+  * Write-up: LinkedIn post [Harden your software]([https\://www\.linkedin.com/pulse/harden-your-software-david-a-wheeler-3w4le/?trackingId=Y6e0MzgI%2BeqkhE2TRClfGw%3D%3D).
 
 ### Up Next
 
-* TODO: TBD
+* Continued maintenance and improvements.
 
 ## EDU.SIG
 
@@ -42,26 +42,25 @@ The group continues to be active and is working on several simultaneous projects
 
 ### Current Status
 
-* Release the new [Finding and Fixing Vulnerabilities Using AI](https://github.com/ossf/wg-best-practices-os-developers/tree/main/docs/Finding-and-Fixing-Vulnerabilities-Using-AI) guide
-  * Yannick Moy has since contributed improvements, and France's cybersecurity agency ANSSI is expected to use it.
+* Released the new [Finding and Fixing Vulnerabilities Using AI](https://github.com/ossf/wg-best-practices-os-developers/tree/main/docs/Finding-and-Fixing-Vulnerabilities-Using-AI) guide
 * SCORED 2026 (October 6, Prague, co-located with OpenSSF Community Day):
-  * 15 papers accepted out of 74 submissions; the event drew strong attendance and good industry–academia interaction.
+  * 15 papers accepted out of 74 submissions. The event drew strong attendance and good industry–academia interaction.
   * Best paper: "Software Dark Matter" (Purdue/Bloomberg), which found three confirmed high-severity CVEs.
-  * Open issue: sponsorship was hard to find
+  * Issue: sponsorship was hard to find
 
 ### Up Next
 
-* The guide becomes a course with quizzes and a final exam. LF Education is speeding this up and has asked for the final exam as soon as possible.
+* The Finding and Fixing Vulnerabilities Using AI guide will be reworked into an LF training course with quizzes and a final exam.
 
 ## Concise Guides
 
 ### Purpose
 
-* Artifacts that consolidate BEST practices in OSS software development and management techniques
+* Artifacts that consolidate BEST practices in OSS software development and management techniques.
 
 ### Status Update
 
-* Released the new [Concise Guide for Collaborating with Open Source Projects](https://best.openssf.org/Concise-Guide-for-Collaborating-with-Open-Source-Projects)
+* Released the new [Concise Guide for Collaborating with Open Source Projects](https://best.openssf.org/Concise-Guide-for-Collaborating-with-Open-Source-Projects).
 
 Overview of guides:
 
@@ -90,11 +89,11 @@ Overview of guides:
 ### Status Update
 
 * Continued maintenance of the compiler options and compiler annotations guides.
-* MSVC compiler options guide was released under Creative Commons on GitHub.
+
 
 ### Up next
 
-* Adding Microsoft MSVC compiler options guide to the overall corpus as a separate document.
+* Based on previous conversation, the [MSVC compiler guide](https://github.com/microsoft/msvc-compiler-hardening-guide) was released under Creative Commons on GitHub. The group aims to add this guide to the overall corpus, likely as a separate document.
 
 ## Python Secure Coding Guide
 
@@ -107,12 +106,11 @@ Overview of guides:
 
 * Moved to new dedicated [repository](https://github.com/ossf/python-secure-coding-guide). Open issues and PRs have been migrated.
 * Talk accepted at PyCon Ireland 2026 (November 21).
-* Building out the cryptography section (09), checking each candidate rule against CVE, EPSS and CWE data.
-* Discussing versioning so new content can be added step by step.
 
 ### Up Next
 
-* TODO
+* Building out the cryptography section, checking each candidate rule against CVE, EPSS and CWE data.
+* Ongoing discussions about versioning of the guide so new content can be added step by step.
 
 ## Memory Safety SIG
 
@@ -126,7 +124,7 @@ Overview of guides:
 
 ### Up Next
 
-* Roadmap for 2027
+* Roadmap planning for 2027.
 
 ## OpenSSF Scorecard
 
@@ -156,8 +154,8 @@ TBD
 
 ### Up Next
 
-* The guideline will receive a dedicated URL shortly
-* The guideline will be placed in maintenace
+* The guideline will receive a dedicated URL shortly.
+* The guideline will be placed in maintenance.
 
 ## Funding requests and updates
 
