@@ -9,7 +9,6 @@ The group continues to be active and is working on several simultaneous projects
 * [OpenSSF Best Practices Badge](https://www.bestpractices.dev/)
 * [EDU.SIG](https://github.com/ossf/education/) and [Academic Connections SIG](https://github.com/ossf/education/)
 * [Educational Guides](https://github.com/ossf/wg-best-practices-os-developers/tree/main/docs)
-* [Memory Safety SIG](https://github.com/ossf/Memory-Safety)  
 * [OpenSSF Scorecard](https://github.com/ossf/scorecard) and [OpenSSF Allstar](https://github.com/ossf/allstar)
 * [Web Developer Security Guide (in collaboration with W3C)](https://github.com/w3c-cg/swag/)
 
@@ -79,6 +78,9 @@ Overview of guides:
   * [Simplifying Software Component Updates](https://best.openssf.org/Simplifying-Software-Component-Updates)  
   * [The Memory Safety Continuum](https://memorysafety.openssf.org/memory-safety-continuum)  
   * [Cyber Resilience Act (CRA) Brief Guide for Open Source Software (OSS) Developers](https://best.openssf.org/CRA-Brief-Guide-for-OSS-Developers)
+ ### Up Next
+ 
+* Revisit existing guides and review and update with AI-related changes in mind
 
 ## C/C++ Compiler Guides
 
@@ -111,20 +113,6 @@ Overview of guides:
 
 * Building out the cryptography section, checking each candidate rule against CVE, EPSS and CWE data.
 * Ongoing discussions about versioning of the guide so new content can be added step by step.
-
-## Memory Safety SIG
-
-### Purpose
-
-* The Memory Safety SIG is a group working within the OpenSSF's Best Practices Working Group formed to understand and reduce memory safety vulnerabilities in OSS.
-
-### Status Update
-
-* No updates.
-
-### Up Next
-
-* Roadmap planning for 2027.
 
 ## OpenSSF Scorecard
 
