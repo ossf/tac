@@ -14,7 +14,7 @@ At Open Source Summit Europe, the group [ran a workshop](https://osselceu2026.sc
 
 We also delivered a talk at OpenSSF Community Day Europe and we spread more awareness of our efforts at Open Source Summit Europe via outreach from the OpenSSF booth, including leveraging the awesome CRAfish mascot plushie (and locally made ginger cookies!). Members of GCP WG also gave talks throughout entire week.
 
-We have also continued to engage with members from our Japanese chapter have become more active in the group, highlighting the global nature of this effort. This group of Japanese organizations produced a list of questions concerning the distinction between stewards and manufacturers under the CRA, which have helped to guide our work in the last quarter.
+We have also continued to engage with members from our Japanese and Korean chapters, who have become more active in the group, highlighting the global nature of this effort. This group of Japanese organizations produced a list of questions concerning the distinction between stewards and manufacturers under the CRA, which have helped to guide our work in the last quarter. We are holding a call with Korean chapter members this week.
 
 We have two working group co-leads: [Daniel Appelquist | Samsung](https://github.com/torgo) and [Roman Zhukov | Red Hat](https://github.com/rozhukov). [Megan Knight | Arm](https://github.com/businesscasualkesha) chairs the Awareness SIG and [Madalin Neag](https://github.com/madalinnneag) from OpenSSF staff has been chairing the Standards SIG. In addition, we have support from [Jeff Diecks](https://github.com/GeauxJD), [Crob](https://github.com/SecurityCRob) and [David A. Wheeler](https://github.com/david-a-wheeler). 
 
