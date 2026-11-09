@@ -16,11 +16,25 @@ We also delivered a talk at OpenSSF Community Day Europe and we spread more awar
 
 We have also continued to engage with members from our Japanese chapter have become more active in the group, highlighting the global nature of this effort. This group of Japanese organizations produced a list of questions concerning the distinction between stewards and manufacturers under the CRA, which have helped to guide our work in the last quarter.
 
-We have two working group co-leads: [Daniel Appelquist | Samsung](https://github.com/torgo) and [Roman Zhukov | Red Hat](https://github.com/rozhukov). [Megan Knight | Arm](https://github.com/businesscasualkesha) chairs the Awareness SIG and [Madalin Neag](https://github.com/madalinnneag) from OpenSSF staff chairs the Standards SIG. In addition, we have support from [Jeff Diecks](https://github.com/GeauxJD), [Crob](https://github.com/SecurityCRob) and [David A. Wheeler](https://github.com/david-a-wheeler). We are in the process of re-thinking our SIG structure with the idea of a dedicated "CRA" set of calls being part of the proposed plan.
+We have two working group co-leads: [Daniel Appelquist | Samsung](https://github.com/torgo) and [Roman Zhukov | Red Hat](https://github.com/rozhukov). [Megan Knight | Arm](https://github.com/businesscasualkesha) chairs the Awareness SIG and [Madalin Neag](https://github.com/madalinnneag) from OpenSSF staff has been chairing the Standards SIG. In addition, we have support from [Jeff Diecks](https://github.com/GeauxJD), [Crob](https://github.com/SecurityCRob) and [David A. Wheeler](https://github.com/david-a-wheeler). 
 
 We have a regular schedule of calls for our main working group as well as for our Awareness and Standards SIGs and take minutes in the following minutes docs:
 * Main WG/Awareness SIG: https://docs.google.com/document/d/1iAplSQheMgemdMnEw74uPj3oi_6rLLbFFXhg4svqIDo/edit?tab=t.0
 * Standards SIG: https://docs.google.com/document/d/1XjE5VYdyIdH32T94ZQIj0Hf5btRiKG58z3jSInY77wA/edit?tab=t.0
+
+## New Working Group Structure
+
+After some work between the above leadership team members, we have announced a new working group structure to the group:
+
+* **Full Working Group** stays the same, keeping CRA as a standing topic, but dedicate more time for other global regulation / policy and SIGs report o to full working group
+* **Awareness SIG** continues and expands scope beyond CRA
+* **Standards SIG** will be deprecated CRA standards are almost in the done phase – we will preserve the value by adding updates as a standing agenda point to main WG
+* New **CRA community Forum SIG** - starting in Standards SIG times-slot (and we may adjust time). This will focus more on open discussions and cross-support regarding CRA implementation issues. We are looking for a new chair to help with this SIG.
+* New **GCP APAC SIG** - time tbd, and looking for facilitators ← looking for help to chair
+
+The group would like to thank Madalin for his stellar work in chairing the Standards SIG calls.
+
+## Main Working Group
 
 Our general working group call, besides being a place where SIGs report, also serves as a venue to work on general deliverables and to drive awareness with group members of related activities. 
 
@@ -50,7 +64,7 @@ The main objective of the SIG is continue to be around increasing our collaborat
 
 ## Standards SIG
 
-The Standards SIG is led by [Madalin Neag](https://github.com/madalinnneag).
+The Standards SIG has been led by [Madalin Neag](https://github.com/madalinnneag). As noted we have decided to deprecate as of this week.
 
 The mission of the Standardization SIG has been to coordinate stakeholder engagement on cybersecurity standards related to policy, with a focus on raising awareness of standards development activities connected to the CRA. The SIG has also monitored complementary standards initiatives and policy developments to ensure members maintain visibility into the evolving regulatory and standardization landscape.
 
@@ -58,28 +72,16 @@ The group has supported the involvement of OpenSSF members and staff in standard
 
 Here we store the Standardization SIG presentations: https://github.com/ossf/wg-globalcyberpolicy/tree/main/docs/CRA/presentations/standardization-sig/
 
-As an OpenSSF community, we responded to the following public consultations: 
-
-**[anything since last report?]**
-
-A core component of the SIG’s work has been facilitating community’s participation in public consultations related to cybersecurity standards and policy. The group has raised awareness of consultation opportunities, shared relevant information, and coordinated the consolidation of feedback so that responses reflect the collective expertise of the OpenSSF community.
-
-The SIG has also acted as an information-sharing platform on related policy developments, standards initiatives, funding opportunities, and key steps for CRA implementation, including updates on delegated and implementing acts, guidance materials, roadmaps, and developments from relevant European institutions and authorities.
-
-The SIG's mission has been to coordinate between stakeholders regarding engagement in Standards work related to cybersecurity policy. This is complicated by the fact that many of these standards organizations have a different approach to confidentiality than the OpenSSF. The discussions of this group have helped to guide the engagement of OpenSSF staff within some of these efforts.
-
-The SIG's main work this year has been on raising awareness of relevant standards efforts, disseminating information to members about these efforts, and highligting when public consultations are open / helping members participate in these consultations.
-
 ## Questions/Issues for the TAC
 
-**[do we have any questions for the TAC?]**
+Does the TAC see any issues in re-organizing our SIGs as we have indicated?
 
 ## Additional Information
 
 Upcoming deliverables include:
 
 * Blog post on Prague workshop
-* **[additional upcoming deliverables**
+* Tech talk on November 16th focusing on "wearing multiple hats" (e.g. Manufacturer and Steward).
 
 And more listed [here](https://docs.google.com/document/d/1dPIUfGTzzS0IQ1BYrlQSDUX0fMu-shREIFI-wMLgQ4Q/edit?tab=t.0).
 
