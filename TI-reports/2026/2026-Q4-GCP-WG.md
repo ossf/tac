@@ -42,7 +42,12 @@ This quarter, we have continued to work with the [ORBIT Launchpad](https://githu
 
 Since our last report:
 
-- we held xx CRA Tech Talks, [detail needed]
+We organized 3 Tech Talks:
+- [ORBIT Launchpad](https://openssf.org/policy/cra/2026/08/14/cra-monthly-tech-talk-orbit-launchpad-sig-updates/)
+- [CRA Reporting Obligations](https://openssf.org/policy/cra/2026/09/29/cra-tech-talk-09-07-2026/)
+- [A Practitioner's Guide to Compliance](https://openssf.org/blog/2026/08/11/cra-readiness-a-practitioners-guide-to-compliance/)
+
+Also:
 - talk at OpenSSF Day Europe and workshop at Open Source Summit Europe (as detailed above)
 - The new 2026 CRA Awareness and Readiness Report is out highlighting unfamiliarity (still) with the CRA with only 41% of manufacturers expect to be fully compliant by December 2027 as well as the $250k cost of maintaining private forks.
 - we do comprehensive bi-weekly update on CRA standards, policy developments, collect and submit community feedback for open consultations (https://openssf.org/category/policy/cra/), thanks to Madalin
