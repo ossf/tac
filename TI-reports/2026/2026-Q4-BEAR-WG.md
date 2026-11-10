@@ -69,8 +69,8 @@ The SIG is dedicated to fostering collaboration, education, and innovation in op
 ### Current Status
 
   * Harmony Elendu represented the SIG with a talk and booth at PyCon Togo Aug 28-30 ([photos](https://drive.google.com/drive/folders/1di17MugI2BXKj13yD5otpqu3yBmgGK7k?usp=sharing)); blog post covering the event is planned
-  * Put together resources to coordinate and track OpenSSF outreach with universities across Africa ([link](https://docs.google.com/document/d/1N-z_cHTw5E5ui2THsM242AVWhqT7DJq7eRrZ1oEJ5_E/edit?usp=sharing))
-  * Documented possible OpenSSF Africa event collaborations for 2027 ([link](https://docs.google.com/document/d/1y2FjKJLxhTqQ3o0cTH9tRrSD0myKpsb3eD2JlCh8YZM/edit?usp=sharing))
+  * Put together resources to coordinate and track [OpenSSF outreach with universities across Africa](https://docs.google.com/document/d/1N-z_cHTw5E5ui2THsM242AVWhqT7DJq7eRrZ1oEJ5_E/edit?usp=sharing)
+  * Documented possible [OpenSSF Africa event collaborations for 2027](https://docs.google.com/document/d/1y2FjKJLxhTqQ3o0cTH9tRrSD0myKpsb3eD2JlCh8YZM/edit?usp=sharing)
 
 ### Up Next
 
