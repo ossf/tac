@@ -32,7 +32,6 @@ After some work between the above leadership team members, we have announced a n
 * New **CRA community Forum SIG** - starting in Standards SIG times-slot (and we may adjust time). This will focus more on open discussions and cross-support regarding CRA implementation issues. We are looking for a new chair to help with this SIG.
 * New **GCP APAC SIG** - time tbd, and looking for facilitators ← looking for help to chair
 
-The group would like to thank Madalin for his stellar work in chairing the Standards SIG calls.
 
 ## Main Working Group
 
