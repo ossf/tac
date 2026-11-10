@@ -44,7 +44,7 @@ Since our last report:
 We organized 3 Tech Talks:
 - [ORBIT Launchpad](https://openssf.org/policy/cra/2026/08/14/cra-monthly-tech-talk-orbit-launchpad-sig-updates/)
 - [CRA Reporting Obligations](https://openssf.org/policy/cra/2026/09/29/cra-tech-talk-09-07-2026/)
-- [A Practitioner's Guide to Compliance](https://openssf.org/blog/2026/08/11/cra-readiness-a-practitioners-guide-to-compliance/)
+- We contributed towards [A Practitioner's Guide to Compliance (OpenSSF Tech Talk)](https://openssf.org/blog/2026/08/11/cra-readiness-a-practitioners-guide-to-compliance/)
 
 Also:
 - [Grow CRA Readiness: Find Your Path Through the European Union Cyber Resilience Act](https://openssf.org/blog/2026/09/15/grow-cra-readiness-find-your-path-through-the-european-union-cyber-resilience-act/)
