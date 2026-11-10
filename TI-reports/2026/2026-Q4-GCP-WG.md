@@ -60,7 +60,9 @@ Also:
 - We published a member case study related to the CRA from [Ericsson](https://openssf.org/blog/2026/08/26/case-study-conquering-the-eu-cyber-resilience-act-cra-with-1400-upstream-security-fixes/), a community authored [e-book on understanding the CRA](https://openssf.org/resources/built-to-last-understanding-the-european-cyber-resilience-act-cra/) and a few other blogs relevant for CRA
 
 - GCP WG and ORBIT Launchpad SIG members were invited to the OpenSSF Tech Talk Webinar [CRA Readiness: A Practitioner’s Guide to Compliance](https://openssf.org/resources/tech-talks/cra-readiness-a-practitioners-guide-to-compliance/) **[any more work with ORBIT Launchpad?]**
-- **[any blogs to promote?]**
+- Our WG discussions has already expanded beyond CRA. In Q3 we've seen updates from the UK, US and growing interest to explore intersection and alignments between Cyber and AI policies worldwide.
+- [Blog: Grow CRA Readiness: Find Your Path Through the European Union Cyber Resilience Act](https://openssf.org/blog/2026/09/15/grow-cra-readiness-find-your-path-through-the-european-union-cyber-resilience-act/)
+- [Blog: Who Checked It? Attestations, Gemara, and CRA Due Diligence](https://openssf.org/blog/2026/10/22/who-checked-it-attestations-gemara-and-cra-due-diligence/)
 
 ## Awareness SIG
 
