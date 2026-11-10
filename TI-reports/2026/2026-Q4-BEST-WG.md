@@ -118,16 +118,24 @@ Overview of guides:
 
 ### Purpose
 
-* Automate analysis and trust decisions on the security posture of open source projects.  
-* Use this data to proactively improve the security posture of the critical projects the world depends on.
+* Give maintainers and consumers automated, evidence-based signals about open source security practices.
 
 ### Status Update
 
-TBD
+* Released [Scorecard v5.6.0](https://github.com/ossf/scorecard/releases/tag/v5.6.0): workflow checks now read YAML aliases, Azure DevOps support improved, and container images moved to ghcr.io.
+* Released [Scorecard Action v2.5.0](https://github.com/ossf/scorecard-action/releases/tag/v2.5.0), which can publish results as an in-toto attestation.
+* Merged for v5.7.0 (not yet released):
+  * Added `scorecard mcp`, the Scorecard MCP server ([scorecard#5402](https://github.com/ossf/scorecard/pull/5402)).
+  * Added an experimental OSPS Baseline conformance mode that emits Gemara evaluation logs ([scorecard#5449](https://github.com/ossf/scorecard/pull/5449)).
+  * Simplified the codebase: every check now runs from one typed definition table, and contributors get an `AGENTS.md` ([scorecard#5425](https://github.com/ossf/scorecard/pull/5425) through [scorecard#5441](https://github.com/ossf/scorecard/pull/5441)).
+  * Fixed check accuracy, with fixes from community contributors: merge queues ([scorecard#5281](https://github.com/ossf/scorecard/pull/5281)), immutable releases ([scorecard#5248](https://github.com/ossf/scorecard/pull/5248), [scorecard#5002](https://github.com/ossf/scorecard/pull/5002)), Azure DevOps ([scorecard#5340](https://github.com/ossf/scorecard/pull/5340), [scorecard#5325](https://github.com/ossf/scorecard/pull/5325)), and Dangerous-Workflow ([scorecard#5177](https://github.com/ossf/scorecard/pull/5177)).
+* Pruned the issue backlog: closed and locked 165 pre-2024 issues (open issues 416 → 251) and replaced the issue templates with forms ([announcement](https://github.com/ossf/scorecard/discussions/5415)).
+* Earned all six Security Slam 2026 badges ([results](https://securityslam.com/outcomes/fall-2026)), one of 11 of 30 projects to do so. The work added a threat model and the LF CRA stewardship statement, and publishes Scorecard's own OSPS Baseline results to grc.store.
 
 ### Up Next
 
-TBD
+* Release Scorecard v5.7.0 ([scorecard#5408](https://github.com/ossf/scorecard/issues/5408)), with `scorecard mcp` fixes and GitLab score corrections.
+* Evaluate AMPEL as Allstar's policy engine, fed by Scorecard probe findings.
 
 ## Web Developer Security Guide
 
