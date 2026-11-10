@@ -49,7 +49,7 @@ We organized 3 Tech Talks:
 
 Also:
 - talk at OpenSSF Day Europe and workshop at Open Source Summit Europe (as detailed above)
-- we do comprehensive bi-weekly update on CRA standards, policy developments, collect and submit community feedback for open consultations (https://openssf.org/category/policy/cra/), thanks to Madalin
+- we do comprehensive bi-weekly update on CRA standards, policy developments, collect and submit community feedback for open consultations (https://openssf.org/category/policy/cra/), and we hope we will keep receiving amazing presentations from Madalin.
 - we maintain and constantly update our pages: https://openssf.org/public-policy/eu-cyber-resilience-act/ & https://policy.openssf.org/CRA/ as a one-stop-shop to learn what's hapenning around the CRA
 - we worked with Open Chain on [a joint white paper](https://openssf.org/wp-content/uploads/2026/10/openssf_openchain_supplychainsecurity_100526a.pdf)
 - Group chairs attended a Todo group Ospo meet-up to answer questions about the CRA
