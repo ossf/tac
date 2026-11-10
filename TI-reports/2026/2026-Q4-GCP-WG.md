@@ -47,6 +47,7 @@ We organized 3 Tech Talks:
 - [A Practitioner's Guide to Compliance](https://openssf.org/blog/2026/08/11/cra-readiness-a-practitioners-guide-to-compliance/)
 
 Also:
+- [Grow CRA Readiness: Find Your Path Through the European Union Cyber Resilience Act](https://openssf.org/blog/2026/09/15/grow-cra-readiness-find-your-path-through-the-european-union-cyber-resilience-act/)
 - talk at OpenSSF Day Europe and workshop at Open Source Summit Europe (as detailed above)
 - we do comprehensive bi-weekly update on CRA standards, policy developments, collect and submit community feedback for open consultations (https://openssf.org/category/policy/cra/), and we hope we will keep receiving amazing presentations from Madalin.
 - we maintain and constantly update our pages: https://openssf.org/public-policy/eu-cyber-resilience-act/ & https://policy.openssf.org/CRA/ as a one-stop-shop to learn what's hapenning around the CRA
