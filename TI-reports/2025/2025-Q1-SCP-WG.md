@@ -6,7 +6,7 @@ Sub projects continue to run and make progress. Little to no progress on main
 initiative of enhancing Critical Project Set with more information. Attendance
 is low.
 
-[2024-Q3 Update](../2024-Q3-SCP-WG.md)
+[2024-Q3 Update](../2024/2024-Q3-SCP-WG.md)
 
 ## Identifying Critical Projects
 

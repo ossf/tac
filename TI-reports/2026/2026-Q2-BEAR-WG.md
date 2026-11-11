@@ -116,7 +116,7 @@ EDIT 5/14 post-TAC meeting: After internal discussions among the SIG and BEAR WG
 
 ## Funding requests and updates
 
-The [LFX Mentorship (summer cycle ‘26)\]([https://github.com/ossf/tac/issues/573](https://github.com/ossf/tac/issues/573)) request has been closed upon the acceptance of 8 summer mentees. Mentees will be paid in two installments following successful 6-week and final 12-week reviews.
+The [LFX Mentorship (summer cycle ‘26)](https://github.com/ossf/tac/issues/573) request has been closed upon the acceptance of 8 summer mentees. Mentees will be paid in two installments following successful 6-week and final 12-week reviews.
 
 No new requests at this time.
 
